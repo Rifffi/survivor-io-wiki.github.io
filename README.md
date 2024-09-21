@@ -50,9 +50,9 @@ Für ss items benötigt ihr ein Equipment auf rot. Danach braucht ihr Kerne die 
 
 # Charakter
 ## King
-ist die wahl nach dem start Charakter
+ist die Wahl nach dem start Charakter
 ## Panda
-darf liegt danach der Fokus bis man eine kritrate größer 80-90% hat danach
+darauf liegt danach der Fokus bis ihr eine kritrate größer 80-90% hat danach
 ## Metallica
 
 # Echo des Endes
