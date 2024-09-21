@@ -40,8 +40,8 @@ Hält einem die Monster vom Leib wegen Pushback.
 # Equipment
 Wichtig atk geht immer vor HP. Sprich Hauptwaffe, Kette und Handschuhe gehen vor Rüstung, Gürtel und Schuhe. Was vor geht immer bevorzugt upgraden.
 
-An Anfang nutzt ihr das Standequipment.
-Baseball für Mobs. Kunai gegen Bossmonster.
+Am Anfang nutzt ihr das Standardequipment.
+Baseballschläger für Mobs. Kunai gegen Bossmonster.
 ## S items.
 Danach Leermacht oder Lichtjäger gegen Mobs und Schwert der Unordnung gegen Bossmonster.
 
