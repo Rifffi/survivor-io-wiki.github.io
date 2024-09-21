@@ -45,10 +45,10 @@ Baseballschläger für Mobs. Kunai gegen Bossmonster.
 ## S items.
 Danach Leermacht oder Lichtjäger gegen Mobs und Schwert der Unordnung gegen Bossmonster.
 
-## ss items
+## SS items
 Für ss items benötigt ihr ein Equipment auf rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S items erlangt  Genauso müssen normale Items zerlegt werden für Kubes.
 
-#Charakter
+# Charakter
 ## King
 ist die wahl nach dem start Charakter
 ## Panda
