@@ -7,7 +7,8 @@ Durch Patrouillen erhaltet ihr Geld, Exp und Items. Dahr ist es wichtig diese t�
 # Im Spiel
 ## Fleisch 
 Mit dem braunen Fleisch könnt ihr eure HP wieder auffüllen. Wenn ihr volle HP habt solltet ihr das Fleisch für später einfach liegen lassen.
-## Magnet. Dieser sammelt die Exp ein damit ihr euer Lvl erhöht. Am Bestens lasst ihr den Magnet liegen bis kurz vor einem Bosskampf. Dann geht ihr mit maximaler Kraft in den Kampf. Hinterher gibt es Equipment wodurch auch durch ein Level Up HP geheilt wird. Dann gibt es noch die Truhen. Hier erhaltet ihr 1-5 Waffen oder passive Fertigkeiten. Wenn ihr eine Waffe auf 5 gelben Sterne habt und dann eine Truhe einsammelt bekommt ihr garantiert diese als Superwaffe.
+## Magnet.
+Dieser sammelt die Exp ein damit ihr euer Lvl erhöht. Am Bestens lasst ihr den Magnet liegen bis kurz vor einem Bosskampf. Dann geht ihr mit maximaler Kraft in den Kampf. Hinterher gibt es Equipment wodurch auch durch ein Level Up HP geheilt wird. Dann gibt es noch die Truhen. Hier erhaltet ihr 1-5 Waffen oder passive Fertigkeiten. Wenn ihr eine Waffe auf 5 gelben Sterne habt und dann eine Truhe einsammelt bekommt ihr garantiert diese als Superwaffe.
 ## Superwaffe
 Superwaffen bekommt ihr wenn die entsprechend passive Fertigkeit vorher ausgewählt wurde. z.B. Fussball + Schuhe = Quantenverschränkung
 Bei den passiven Fertigkeiten wird auch angezeigt welche Waffe dazu passt.
