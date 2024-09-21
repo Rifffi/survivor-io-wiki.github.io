@@ -20,7 +20,22 @@ Jede Woche gibt es ein Event über mehrer Tage. Dort gibt es immer gute Items zu
 
 # Waffen   
 Welche Waffen sind gut:
-Die beiden Drohen werden als Superwaffe zum Zerstörer (Destoryer). Dieser ist gegen Bossmonster super da er viel Damage macht.
+## Drohnen
+Die beiden Drohnen (weiß und schwarz) werden als Superwaffe zum Zerstörer (Destoryer). Dieser ist gegen Bossmonster super da er viel Damage macht.
+## Hauptwaffe
+Die Hauptwaffe sollte auch immer zur Superwaffe gebracht werden.
+## Blitz
+Gut gegen Bossmonster da immer trifft. Macht auch Flächenschaden.
+## Bohrer
+Gut gegen Mobs. Vielleicht auch nicht immer ratsam als Superwafft
+## Fussball
+macht gut Schaden auch an Bossmonster.
+## Steine
+mit tech Teil ganz gut
+## Bummerang 
+naja nicht so beliebt 
+## Verteidiger
+Hält einem die Monster vom Leib wegen Pushback.
 
 # Equipment
 Wichtig atk geht immer vor HP. Sprich Hauptwaffe, Kette und Handschuhe gehen vor Rüstung, Gürtel und Schuhe. Was vor geht immer bevorzugt upgraden.
@@ -39,5 +54,8 @@ ist die wahl nach dem start Charakter
 ## Panda
 darf liegt danach der Fokus bis man eine kritrate größer 80-90% hat danach
 ## Metallica
+
+# Echo des Endes
+Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char upzugraden.
 
 ... die Tage gehts weiter.
