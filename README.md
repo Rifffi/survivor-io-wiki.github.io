@@ -1,2 +1,3 @@
 # survivor-io-wiki
-Wiki for the game survior.io
+Wiki für das Spiel survior.io
+
