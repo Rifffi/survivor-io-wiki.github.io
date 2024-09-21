@@ -49,6 +49,7 @@ Danach Leermacht oder Lichtjäger gegen Mobs und Schwert der Unordnung gegen Bos
 Für ss items benötigt ihr ein Equipment auf rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S items erlangt  Genauso müssen normale Items zerlegt werden für Kubes.
 
 # Charakter
+Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP und ATK. Bei Lvl 20, 40, 60 usw  gibt es ab und zu für alle Überlebende einen Bonus  Ihr solltet euch aber nur auf ATK oder krit konzentrieren und euch lieber auf einen Char fokussieren. Die anderen nicht mit den gelebn Tropfen höher als Level 40.
 ## King
 ist die Wahl nach dem start Charakter
 ## Panda
