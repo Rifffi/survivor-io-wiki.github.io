@@ -1,5 +1,5 @@
 # Clan Regeln
-Wir spielen zusammen und es ist wunderbar wenn wir uns gegenseitig unterstützen und jeder seine Beitrag leistet. Daher:
+Wir spielen zusammen und es ist wunderbar wenn wir uns gegenseitig unterstützen und jeder seinen Beitrag leistet. Daher:
 - Spielt täglich den Clan Eventcenter
   - Clan-Erkundung
     täglich 3 Schlüssel erspielen oder wenn freigeschaltet gegen den Boss kämpfen
