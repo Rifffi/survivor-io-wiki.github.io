@@ -15,11 +15,29 @@ Bei den passiven Fertigkeiten wird auch angezeigt welche Waffe dazu passt.
 ## Gold
 Wenn ihr wisst das ihr ein Level ohne Probleme schafft solltet ihr die passive Fähigkeit mehr Gold erlernen.
 
-#Events
-Jede Woche gibt es ein Event über mehrer Tage. Dort gibt es immer gute Items zu holen. Dies ist mit Aufwand verbunden der aber zwingend notwendig ist um vorwärts zu kommmen. Es müssen Millionen von Monstern getötet werden. Am Besten dazu Hauptherausforderung Lvl 4 wiederholt spielen. Als Equipment den glänzenden Handgelenkschutz nutzen und Kunai. Long Range Waffen wie Bohrer  und Fussball wählen. Wenn euer Charakter ein höheres Lvl hat könnt ihr 30Sek. spielen afk gehen nach 5 Minuten eine Magnet einsammeln und af gehen bis die 15Minuten um sind. Die 30Hauptkaptiel erledigt ihr durch nur starten und direkt wieder beenden. Die 10 Spezialeinsätze sind jeden Tag Pflichtprogramm. 300 Truhen öffnen ist meistens nicht notwendig. Meistens reichen 100. Dafür müsst ihr fleißig Schlüssel samneln und dafür aufbewahren. Das Ziel sollte sein eine S Truhe zu bekommen.
+# Events
+Jede Woche gibt es ein Event über mehrer Tage. Dort gibt es immer gute Items zu holen. Dies ist mit Aufwand verbunden der aber zwingend notwendig ist um vorwärts zu kommmen. Es müssen Millionen von Monstern getötet werden. Am Besten dazu Hauptherausforderung Lvl 4 wiederholt spielen. Als Equipment den glänzenden Handgelenkschutz nutzen und Kunai. Long Range Waffen wie Bohrer  und Fussball wählen. Wenn euer Charakter ein höheres Lvl hat könnt ihr 30Sek. spielen afk gehen nach 5 Minuten eine Magnet einsammeln und af gehen bis die 15Minuten um sind. Die 30Hauptkaptiel erledigt ihr durch nur starten und direkt wieder beenden. Die 10 Spezialeinsätze sind jeden Tag Pflichtprogramm. 300 Truhen öffnen ist meistens nicht notwendig. Meistens reichen 100. Dafür müsst ihr fleißig Schlüssel samneln und dafür aufbewahren. Das Ziel sollte sein eine S Truhe zu bekommen. Kann aber auch variieren.
 
-    
+# Waffen   
 Welche Waffen sind gut:
 Die beiden Drohen werden als Superwaffe zum Zerstörer (Destoryer). Dieser ist gegen Bossmonster super da er viel Damage macht.
+
+# Equipment
+Wichtig atk geht immer vor HP. Sprich Hauptwaffe, Kette und Handschuhe gehen vor Rüstung, Gürtel und Schuhe. Was vor geht immer bevorzugt upgraden.
+
+An Anfang nutzt ihr das Standequipment.
+Baseball für Mobs. Kunai gegen Bossmonster.
+## S items.
+Danach Leermacht oder Lichtjäger gegen Mobs und Schwert der Unordnung gegen Bossmonster.
+
+## ss items
+Für ss items benötigt ihr ein Equipment auf rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S items erlangt  Genauso müssen normale Items zerlegt werden für Kubes.
+
+#Charakter
+## King
+ist die wahl nach dem start Charakter
+## Panda
+darf liegt danach der Fokus bis man eine kritrate größer 80-90% hat danach
+## Metallica
 
 ... die Tage gehts weiter.
