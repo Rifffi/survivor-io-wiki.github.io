@@ -59,3 +59,6 @@ darf liegt danach der Fokus bis man eine kritrate größer 80-90% hat danach
 Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char upzugraden.
 
 ... die Tage gehts weiter.
+
+# YouTube 
+Es gibt zwei Youtuber Playme und Phasecast die unzählige Video erstellt haben.
