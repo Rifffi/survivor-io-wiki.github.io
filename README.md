@@ -31,7 +31,7 @@ Gut gegen Mobs. Vielleicht auch nicht immer ratsam als Superwaffe
 ## Fussball
 macht gut Schaden auch an Bossmonster.
 ## Ziegelsteine
-mit tech Teil ganz gut
+mit tech. Teile ganz gut, da sie die Gegner durchdringt.
 ## Bummerang 
 naja nicht so beliebt 
 ## Wächter
@@ -39,13 +39,13 @@ Hält einem die Monster vom Leib wegen Pushback.
 ## Brandflasche (Mollotov)
 Guter Flächenschaden
 ## Durain
-Langsam und ohne techteile bewegt sie sich auf dem ganzen Bildschirm.
+Langsam und ohne tech. Teile bewegt sie sich auf dem ganzen Bildschirm. Ist Geschmacksache.
 ## Kraftfeld
-Okay für die Verteidigung.
+Okay für die Verteidigung, aber macht nicht viel Schaden.
 ## Mine
 eher umbeliegt, minen könnne so schlecht gesteuert werden wo sie auftauchen.
 ## Laserstrahler
-Macht flächenschaden.
+Macht Flächenschaden um den Gegener hilft bei der Verteidigung.
 ## Rakete
 Gute single traget Waffe, hilft gut gegen Bossmonster.
 
@@ -100,9 +100,9 @@ Für ss items benötigt ihr ein Equipment auf rot. Danach braucht ihr Kerne die 
 # Charakter
 Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Ihr solltet euch aber nur auf ATK oder krit. konzentrieren und euch lieber auf einen Char fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40.
 ## King
-ist die Wahl nach dem Startcharakter
+ist die Wahl nach dem Startcharakter. Seine zusätzliche Fähigkeit mehr kritisch Treffer helfen um viel mehr Schaden zu machen.
 ## Panda
-darauf liegt der Fokus bis ihr eine Kritrate größer 80-90% hat danach
+darauf liegt der Fokus bis ihr eine Kritrate größer 80-90% hat danach nehmt ihr Metallica. Panda hat eine aktive Fähigkeit. Ying und Yang. Dieser ermöglicht euch diese Fähigkeit zur Verteidung oder zum Angriff einzusetzen. Auch diese Fähigkeit kann zur zur Superwaffe werden. Die KI Kugeln können als Superwaffe ein Debuff auf die Monsterverteidung erwirken. Dies hilft um mehr Schaden an Bossmonster zu erlangen. Nachdem ihr den Debuff an einem Bossmonster durchgeführt habt wechselt ihr auf die Feuerhand. Der Debuff wird auch in der violetten Leiste vom Boss angezeigt.
 ## Metallica
 ist aktuell der wohl Beste Charakter. Jedoch dauert es auch bis hier ihr angekommen seit.
 
