@@ -75,8 +75,8 @@ Um Maximalen Schaden zu erlangen eignen sich daher: ATK, Abklingzeit, Fluggeschw
 Wichtig ATK geht immer vor HP. Sprich Hauptwaffe, Kette und Handschuhe gehen vor Rüstung, Gürtel und Schuhe. Was vor geht immer bevorzugt upgraden. Am meisten konzentiert ihr euch auf Bossequipment. Aber auch Mobequipment wird hier und da benötigt, aber vielleicht nicht ganz so stark upgegradet. Ihr müsst viel Gedult mitbringen damit euer Equipment richtig gut wird.
 
 Am Anfang nutzt ihr das Standardequipment.
-Baseballschläger für Mobs. Kunai gegen Bossmonster.
-## S items.
+Baseballschläger für Mobs. Kunai gegen Bossmonster. Seht zu das ihr S items bekommt.
+## S items
 ### Hauptwaffen
 Danach Leermacht oder Lichtjäger gegen Mobs und Schwert der Unordnung gegen Bossmonster.
 #### Leermacht
@@ -100,23 +100,23 @@ Für ss items benötigt ihr ein Equipment auf rot. Danach braucht ihr Kerne die 
 # Charakter
 Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Ihr solltet euch aber nur auf ATK oder krit. konzentrieren und euch lieber auf einen Char fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40.
 ## King
-ist die Wahl nach dem start Charakter
+ist die Wahl nach dem Startcharakter
 ## Panda
-darauf liegt der Fokus bis ihr eine kritrate größer 80-90% hat danach
+darauf liegt der Fokus bis ihr eine Kritrate größer 80-90% hat danach
 ## Metallica
-ist aktuell der wohl der Beste Charakter. Jedoch dauert es auch bis hier ihr angekommen seit.
+ist aktuell der wohl Beste Charakter. Jedoch dauert es auch bis hier ihr angekommen seit.
 
 # Echo des Endes
 Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char upzugraden.
 
 # Pfad der Prüfungen
-Sollte man einmal die Woche spielen und mindestens 1 Level vorankommen damit ihr einmal die Rewards einsammelt.
+Sollte ihr einmal die Woche spielen und mindestens 1 Level vorankommen damit ihr einmal die Rewards einsammelt. Spielt nicht zuviele Level sonst kommt ihr nächste Woche dann garnicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben.
 
 # Megaherausforderung
-Nicht so wichtig, könnt ihr zwischendurch irgendwann mal spielen
+Nicht so wichtig, könnt ihr zwischendurch irgendwann mal spielen, wenn ihr noch Lust und Zeit habt.
 
 # Zonenoperation
-Aufwendig zu spielen, nicht ganz so wichtig. Benötigt auch ein gewisses Level und Equipemnt um es durchgespielt zu bekommen. Hier könnt aber hier S items erlangen. Für Menschen die eine Herrausforderung mögen genau das richtige.
+Aufwendig zu spielen, nicht ganz so wichtig. Benötigt auch ein gewisses Level und Equipment um es durchgespielt zu bekommen. Hier könnt aber hier S items erlangen. Für Menschen die eine Herrausforderung mögen genau das richtige. Hier braucht ihr die Leerenmacht Waffe und die Rüstung bon Quietus auf rot. Zumindestens ist das meine Erfahrung.
 
 # Entwickelung
 Zurerst müßt ihr ein Hauptkapitel druchspielen damit ihr die 3 Hauptherausforderungen zu einem Level spielen könnt. Bei den zweiten und dritten schwierigkeitsgrad bekommt ihr Gold-DNA. Dadurch könnt ihr euere passiven Fähigkeiten erhöhen und mehr Equipment durch Monsterdrops bekommen. Wichtig das ihr hier nach und nach auch vorran kommt.
