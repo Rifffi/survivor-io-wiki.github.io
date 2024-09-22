@@ -140,7 +140,7 @@ Zurerst müßt ihr ein Hauptkapitel druchspielen damit ihr die 3 Hauptherausford
 Ihr könnten oben links unter dem M - Kartensymbol euch für 9000 Diamanten die Dauerhafte Privilegienkarte holen. Diese rentiert sich auf Dauer. Ihr bekommt jeden Tag einen Schlüssel und 50 Diamanten.
 
 # Allgemeines
-Dieses Wiki basiert auf F2P. Free to play. Ihr könnt in dem Spiel euch zusätzliche Diamante gegen richtiges Geld kaufen. Dies verändert ggf. einige Sichtweisen und wurde hier nicht berücksichtigt.
+Dieses Wiki basiert auf F2P. Free to play. Ihr könnt in dem Spiel euch zusätzliche Diamante gegen richtiges Geld kaufen. Ebenfalls könnt ihr Werbung schauen um zusätzliche Rewards zu bekommen. Dies verändert ggf. einige Sichtweisen und wurde hier nicht berücksichtigt.
 
 ... die Tage gehts weiter.
 
