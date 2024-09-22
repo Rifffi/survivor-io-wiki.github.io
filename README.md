@@ -106,6 +106,16 @@ darauf liegt der Fokus bis ihr eine Kritrate größer 80-90% hat danach
 ## Metallica
 ist aktuell der wohl Beste Charakter. Jedoch dauert es auch bis hier ihr angekommen seit.
 
+# Tiere
+## Quak
+Flächenschaden gut gegen Mobs. Könnt euch gut mit eurem Char dort reinstellen.
+## Merika
+Wenn erwacht, ist dieser gut gegen Bossmonster, da single traget.
+## Rex
+Macht wohl aber 200.000 ATK mehr Schaden als Merika. Dies dauert aber bis ihr mal dort seit.
+
+Ihr könnt zwei unterstützer Tier positionieren. Jedes Tier hat eine Unterstützenfähigkeit. Das ist die im oberen rechten Feld beschrieben. Hier macht 10% mehr ATK auf jeden Fall sinn. Das Fähgikeit durchdringen Gegner ist auch gut. z.B. in kompination mit Merika. Bei Quak macht dies natürlich keine Sinn. Dort ist mehr Reichweite sinniger.
+
 # Echo des Endes
 Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char upzugraden.
 
