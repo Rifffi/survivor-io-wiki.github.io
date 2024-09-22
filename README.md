@@ -1,6 +1,11 @@
 # survivor-io-wiki
 Wiki für das Spiel survior.io
 
+Werbung für unseren Clan:<br>
+Clan-ID: 32055<br>
+Clan Name: Survive these Nuts<br>
+[Clan Regeln](https://github.com/Rifffi/survivor-io-wiki/blob/main/Clan.md)<br>
+
 # Patrouille
 Durch Patrouillen erhaltet ihr Geld, Exp und Items. Dahr ist es wichtig diese täglich auszureitzen. Am besten Morgens nach dem Aufstehen 1-2 Schnelle Gewinne mitnehmen. 2-3 dann Abends. Um 18Uhr Sommerzeit bzw. 17Uhr Winterzeit startet ein neuer Tag in Survior.io. Es ist wichtig das hier Hauptkaptiel abschließt um durch die Patrouillen mehr Geld, Exp und Items zu erhalten.
 
