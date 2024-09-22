@@ -131,6 +131,9 @@ Aufwendig zu spielen, nicht ganz so wichtig. Benötigt auch ein gewisses Level u
 # Entwickelung
 Zurerst müßt ihr ein Hauptkapitel druchspielen damit ihr die 3 Hauptherausforderungen zu einem Level spielen könnt. Bei den zweiten und dritten schwierigkeitsgrad bekommt ihr Gold-DNA. Dadurch könnt ihr euere passiven Fähigkeiten erhöhen und mehr Equipment durch Monsterdrops bekommen. Wichtig das ihr hier nach und nach auch vorran kommt.
 
+# Karten
+Ihr könnten oben links unter dem M - Kartensymbol euch für 9000 Diamanten die Dauerhafte Privilegienkarte holen. Diese Rentiert sich auf Dauer. Ihr bekommt jeden Tag einen Schlüssel und 50 Diamanten.
+
 ... die Tage gehts weiter.
 
 # YouTube 
