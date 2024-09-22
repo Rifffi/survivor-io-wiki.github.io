@@ -7,11 +7,11 @@ Durch Patrouillen erhaltet ihr Geld, Exp und Items. Dahr ist es wichtig diese t�
 # Im Spiel
 ## Fleisch 
 Mit dem braunen Fleisch könnt ihr eure HP wieder auffüllen. Wenn ihr volle HP habt solltet ihr das Fleisch für später einfach liegen lassen.
-## Magnet.
-Dieser sammelt die Exp ein damit ihr euer Lvl erhöht. Am Bestens lasst ihr den Magnet liegen bis kurz vor einem Bosskampf. Dann geht ihr mit maximaler Kraft in den Kampf. Hinterher gibt es Equipment wodurch auch durch ein Level Up HP geheilt wird. Dann gibt es noch die Truhen. Hier erhaltet ihr 1-5 Waffen oder passive Fertigkeiten. Wenn ihr eine Waffe auf 5 gelben Sterne habt und dann eine Truhe einsammelt bekommt ihr garantiert diese als Superwaffe.
+## Magnet
+Dieser sammelt die Exp ein damit ihr euer Lvl erhöht. Am Bestens lasst ihr den Magnet liegen bis kurz vor einem Bosskampf. Dann geht ihr mit maximaler Kraft in den Kampf. Hinterher gibt es Equipment wodurch auch ein Level Up HP geheilt wird. Dann gibt es noch die Truhen. Hier erhaltet ihr 1-5 Waffen oder passive Fertigkeiten. Wenn ihr eine Waffe auf 5 gelben Sterne habt und dann eine Truhe einsammelt bekommt ihr garantiert diese als Superwaffe.
 ## Superwaffe
 Superwaffen bekommt ihr wenn die entsprechend passive Fertigkeit vorher ausgewählt wurde. z.B. Fussball + Schuhe = Quantenverschränkung
-Bei den passiven Fertigkeiten wird auch angezeigt welche Waffe dazu passt.
+Bei den passiven Fertigkeiten wird auch angezeigt welche Waffe dazu passt. Die passive Fertigkeit benötigt ihr nur auf einem gelben Stern.
 ## Gold
 Wenn ihr wisst das ihr ein Level ohne Probleme schafft solltet ihr die passive Fähigkeit mehr Gold erlernen.
 
@@ -27,23 +27,46 @@ Die Hauptwaffe sollte auch immer zur Superwaffe gebracht werden.
 ## Blitz
 Gut gegen Bossmonster da immer trifft. Macht auch Flächenschaden.
 ## Bohrer
-Gut gegen Mobs. Vielleicht auch nicht immer ratsam als Superwafft
+Gut gegen Mobs. Vielleicht auch nicht immer ratsam als Superwaffe
 ## Fussball
 macht gut Schaden auch an Bossmonster.
-## Steine
+## Ziegelsteine
 mit tech Teil ganz gut
 ## Bummerang 
 naja nicht so beliebt 
-## Verteidiger
+## Wächter
 Hält einem die Monster vom Leib wegen Pushback.
+## Brandflasche (Mollotov)
+Guter Flächenschaden
+## Durain
+Langsam und ohne techteile bewegt sie sich auf dem ganzen Bildschirm.
+## Kraftfeld
+Okay für die Verteidigung.
+## Mine
+eher umbeliegt, minen könnne so schlecht gesteuert werden wo sie auftauchen.
+## Laserstrahler
+Macht flächenschaden.
+## Rakete
+Gute single traget Waffe, hilft gut gegen Bossmonster.
+
 
 # Equipment
-Wichtig atk geht immer vor HP. Sprich Hauptwaffe, Kette und Handschuhe gehen vor Rüstung, Gürtel und Schuhe. Was vor geht immer bevorzugt upgraden.
+Wichtig ATK geht immer vor HP. Sprich Hauptwaffe, Kette und Handschuhe gehen vor Rüstung, Gürtel und Schuhe. Was vor geht immer bevorzugt upgraden.
 
 Am Anfang nutzt ihr das Standardequipment.
 Baseballschläger für Mobs. Kunai gegen Bossmonster.
 ## S items.
+### Hauptwaffen
 Danach Leermacht oder Lichtjäger gegen Mobs und Schwert der Unordnung gegen Bossmonster.
+#### Leermacht
+Erzeugt schwarze Löchere in diese kann man sich gut reinstellen dadurch erreichen die Monster einen schlechter.
+#### Lichtjäger
+In jede Richtung werden Wellen geworfen die Monster treffen. Als Superwaffe reicht dies in alle Richtung, also rundum.
+#### Schwert der Unordnung
+Eine punktuelle Waffe, daher gut gehen Bossmonster. Hat aber als Superwaffe auch eine Flächenschaden funktion.
+### Handschuhe
+
+
 
 ## SS items
 Für ss items benötigt ihr ein Equipment auf rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S items erlangt  Genauso müssen normale Items zerlegt werden für Kubes.
