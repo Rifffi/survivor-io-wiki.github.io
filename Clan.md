@@ -22,4 +22,4 @@ Wir spielen zusammen und es ist wunderbar wenn wir uns gegenseitig unterstützen
   - 1 * Energie kaufen, oben auf den gelben Blitz
   - Ausrüstung -> Tier -> kostenlose Truhe öffnen
 
-Weitere Tips <https://github.com/Rifffi/survivor-io-wiki/blob/main/README.md>
+[Weitere Tips](https://github.com/Rifffi/survivor-io-wiki/blob/main/README.md)
