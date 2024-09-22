@@ -85,18 +85,18 @@ Baseballschläger für Mobs. Kunai gegen Bossmonster. Seht zu das ihr S items be
 ### Hauptwaffen
 Danach Leermacht oder Lichtjäger gegen Mobs und Schwert der Unordnung gegen Bossmonster.
 #### Leermacht
-Erzeugt schwarze Löchere in diese kann man sich gut reinstellen dadurch erreichen die Monster einen schlechter.
+Erzeugt schwarze Löchere in diese kann man sich gut reinstellen, dadurch erreichen die Monster einen schlechter.
 #### Lichtjäger
-In jede Richtung werden Wellen geworfen die Monster treffen. Als Superwaffe reicht dies in alle Richtung, also rundum.
+In jede Richtung werden Wellen geworfen die Monster treffen. Als Superwaffe reichen die Angriffe in alle Richtung, also rundherum.
 #### Schwert der Unordnung
-Eine punktuelle Waffe, daher gut gehen Bossmonster. Hat aber als Superwaffe auch eine Flächenschaden funktion.
+Eine punktuelle Waffe, daher gut gehen Bossmonster. Hat aber als Superwaffe auch eine Flächenschadenfunktion.
 ### Handschuhe
 #### Immerw. Handschuhe
 bietet einiges für krit. Treffer. Kritische Treffer machen guten Schaden viel besser als normale Treffer.
 Auf dem ersten gelben Schmiedeeffekt stellt der Handschuhe 1% HP bei einem krititischen Treffer her. Dies ist super gegen Mobs.
 #### Leerenwandler Handschutz
 Dies ist eine super Handschutz für den Kampf gegen Bossmonster
-Auf dem ersten gelben SChmiedeeffekt macht dieser eine doppelten Treffer an Monstern.
+Auf dem ersten gelben Schmiedeeffekt macht dieser einen doppelten Treffer an normalen Monstern und Bossen.
 
 
 ## SS items
@@ -105,7 +105,7 @@ Für ss items benötigt ihr ein Equipment auf rot. Danach braucht ihr Kerne die 
 # Charakter
 Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Ihr solltet euch aber nur auf ATK oder krit. konzentrieren und euch lieber auf einen Char fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40.
 ## King
-ist die Wahl nach dem Startcharakter. Seine zusätzliche Fähigkeit mehr kritisch Treffer helfen um viel mehr Schaden zu machen.
+ist die Wahl nach dem Startcharakter. Seine zusätzliche Fähigkeit mehr kritische Treffer zu erhalten, helfen um viel mehr Schaden zu machen.
 ## Panda
 darauf liegt der Fokus bis ihr eine Kritrate größer 80-90% hat danach nehmt ihr Metallica. Panda hat eine aktive Fähigkeit. Ying und Yang. Dieser ermöglicht euch diese Fähigkeit zur Verteidung oder zum Angriff einzusetzen. Auch diese Fähigkeit kann zur zur Superwaffe werden. Die KI Kugeln können als Superwaffe ein Debuff auf die Monsterverteidung erwirken. Dies hilft um mehr Schaden an Bossmonster zu erlangen. Nachdem ihr den Debuff an einem Bossmonster durchgeführt habt wechselt ihr auf die Feuerhand. Der Debuff wird auch in der violetten Leiste vom Boss angezeigt.
 ## Metallica
@@ -134,10 +134,13 @@ Nicht so wichtig, könnt ihr zwischendurch irgendwann mal spielen, wenn ihr noch
 Aufwendig zu spielen, nicht ganz so wichtig. Benötigt auch ein gewisses Level und Equipment um es durchgespielt zu bekommen. Hier könnt aber hier S items erlangen. Für Menschen die eine Herrausforderung mögen genau das richtige. Hier braucht ihr die Leerenmacht Waffe und die Rüstung bon Quietus auf rot. Zumindestens ist das meine Erfahrung.
 
 # Entwickelung
-Zurerst müßt ihr ein Hauptkapitel druchspielen damit ihr die 3 Hauptherausforderungen zu einem Level spielen könnt. Bei den zweiten und dritten schwierigkeitsgrad bekommt ihr Gold-DNA. Dadurch könnt ihr euere passiven Fähigkeiten erhöhen und mehr Equipment durch Monsterdrops bekommen. Wichtig das ihr hier nach und nach auch vorran kommt.
+Zurerst müßt ihr ein Hauptkapitel druchspielen damit ihr die 3 Hauptherausforderungen zu einem Level spielen könnt. Bei den zweiten und dritten Schwierigkeitsgrad bekommt ihr Gold-DNA. Dadurch könnt ihr eure passiven Fähigkeiten erhöhen und mehr Equipment durch Monsterdrops bekommen. Wichtig das ihr hier nach und nach auch vorran kommt.
 
 # Karten
-Ihr könnten oben links unter dem M - Kartensymbol euch für 9000 Diamanten die Dauerhafte Privilegienkarte holen. Diese Rentiert sich auf Dauer. Ihr bekommt jeden Tag einen Schlüssel und 50 Diamanten.
+Ihr könnten oben links unter dem M - Kartensymbol euch für 9000 Diamanten die Dauerhafte Privilegienkarte holen. Diese rentiert sich auf Dauer. Ihr bekommt jeden Tag einen Schlüssel und 50 Diamanten.
+
+# Allgemeines
+Dieses Wiki basiert auf F2P. Free to play. Ihr könnt in dem Spiel euch zusätzliche Diamante gegen richtiges Geld kaufen. Dies verändert ggf. einige Sichtweisen und wurde hier nicht berücksichtigt.
 
 ... die Tage gehts weiter.
 
