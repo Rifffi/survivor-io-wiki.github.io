@@ -49,9 +49,30 @@ Macht flächenschaden.
 ## Rakete
 Gute single traget Waffe, hilft gut gegen Bossmonster.
 
+# passive Fähigkeiten
+hängt meistens immer ein wenig davon ab welche Waffen ihr gewählt habt, damit ihr diese zur Superwaffe macht.
+## Abklingzeit
+Alle Waffen werden daurch schneller wieder ausgelöst. Dadurch macht ihr auf Dauer mehr Schaden.
+## Fluggeschwindigkeit
+Alle Projektile vielen dadurch schneller und können schneller mehr Schaden machen.
+## Laufgeschwindigkeit
+Durch die Leerwandlertreter könnte ihr hierdurch auch mehr Schaden machen.
+## Reichweite
+Projektile werden größer und einige Waffen haben dadruch eine größere Reichweite, dadurch kömmen Monster nicht so nah an euch ran.
+## ATK, mehr Schaden
+Mehr ATK immer ein muss, wenn ihr viel Schaden machen wollt.
+## Heilung
+Es gibt genug Heilung durch anderen Items. Daher nicht umgedingt notwendig.
+## mehr Gold
+Gold bekommt ihr eigentlich genug, daher nicht so wichtig.
+## mehr Exp.
+Dadruch bekommt ihr schneller und mehr Exp. um die Waffen und passiven Fähigkeiten zur erhalten. Ihr bekommt aber nicht mehr Exp um eueren Charakter hochzuleveln.
+
+Um Maximalen Schaden zu erlangen eignen sich daher: ATK, Abklingzeit, Fluggeschwindigkeit, Laufgeschwindigkeit, Reichweite
+
 
 # Equipment
-Wichtig ATK geht immer vor HP. Sprich Hauptwaffe, Kette und Handschuhe gehen vor Rüstung, Gürtel und Schuhe. Was vor geht immer bevorzugt upgraden.
+Wichtig ATK geht immer vor HP. Sprich Hauptwaffe, Kette und Handschuhe gehen vor Rüstung, Gürtel und Schuhe. Was vor geht immer bevorzugt upgraden. Am meisten konzentiert ihr euch auf Bossequipment. Aber auch Mobequipment wird hier und da benötigt, aber vielleicht nicht ganz so stark upgegradet. Ihr müsst viel Gedult mitbringen damit euer Equipment richtig gut wird.
 
 Am Anfang nutzt ihr das Standardequipment.
 Baseballschläger für Mobs. Kunai gegen Bossmonster.
@@ -65,22 +86,40 @@ In jede Richtung werden Wellen geworfen die Monster treffen. Als Superwaffe reic
 #### Schwert der Unordnung
 Eine punktuelle Waffe, daher gut gehen Bossmonster. Hat aber als Superwaffe auch eine Flächenschaden funktion.
 ### Handschuhe
-
+#### Immerw. Handschuhe
+bietet einiges für krit. Treffer. Kritische Treffer machen guten Schaden viel besser als normale Treffer.
+Auf dem ersten gelben Schmiedeeffekt stellt der Handschuhe 1% HP bei einem krititischen Treffer her. Dies ist super gegen Mobs.
+#### Leerenwandler Handschutz
+Dies ist eine super Handschutz für den Kampf gegen Bossmonster
+Auf dem ersten gelben SChmiedeeffekt macht dieser eine doppelten Treffer an Monstern.
 
 
 ## SS items
-Für ss items benötigt ihr ein Equipment auf rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S items erlangt  Genauso müssen normale Items zerlegt werden für Kubes.
+Für ss items benötigt ihr ein Equipment auf rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S items erlangt. Genauso müssen normale Items zerlegt werden für Kubes.
 
 # Charakter
 Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Ihr solltet euch aber nur auf ATK oder krit. konzentrieren und euch lieber auf einen Char fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40.
 ## King
 ist die Wahl nach dem start Charakter
 ## Panda
-darauf liegt danach der Fokus bis ihr eine kritrate größer 80-90% hat danach
+darauf liegt der Fokus bis ihr eine kritrate größer 80-90% hat danach
 ## Metallica
+ist aktuell der wohl der Beste Charakter. Jedoch dauert es auch bis hier ihr angekommen seit.
 
 # Echo des Endes
 Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char upzugraden.
+
+# Pfad der Prüfungen
+Sollte man einmal die Woche spielen und mindestens 1 Level vorankommen damit ihr einmal die Rewards einsammelt.
+
+# Megaherausforderung
+Nicht so wichtig, könnt ihr zwischendurch irgendwann mal spielen
+
+# Zonenoperation
+Aufwendig zu spielen, nicht ganz so wichtig. Benötigt auch ein gewisses Level und Equipemnt um es durchgespielt zu bekommen. Hier könnt aber hier S items erlangen. Für Menschen die eine Herrausforderung mögen genau das richtige.
+
+# Entwickelung
+Zurerst müßt ihr ein Hauptkapitel druchspielen damit ihr die 3 Hauptherausforderungen zu einem Level spielen könnt. Bei den zweiten und dritten schwierigkeitsgrad bekommt ihr Gold-DNA. Dadurch könnt ihr euere passiven Fähigkeiten erhöhen und mehr Equipment durch Monsterdrops bekommen. Wichtig das ihr hier nach und nach auch vorran kommt.
 
 ... die Tage gehts weiter.
 
