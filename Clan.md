@@ -30,6 +30,6 @@ Wir spielen zusammen und es ist wunderbar wenn wir uns gegenseitig unterstützen
   Wenn ihr aus Gründen etwas länger (1+ Woche) nicht spielen könnt sagt im Chat bescheid damit wir Bescheid wissen und euch nicht kicken.
 
   ## Kick
-  Ja es ist nur ein Spiel und wir sind nicht bei der Army, aber damit keine Ungerechtigtkeit aufkommt versucht euch bestmöglichst an die Regeln zu halten.
+  Ja es ist nur ein Spiel und wir sind nicht bei der Army, aber damit keine Ungerechtigtkeit aufkommt versucht euch bestmöglichst an die Regeln zu halten. Je länger jemand Clanmitglied ist desto eher drücken wir ein Auge zu. Wenn ihr keine Lust mehr auf das Spiel habt dann verlasst doch einfach selber vorher noch den Clan.
 
 [Weitere Tips](https://github.com/Rifffi/survivor-io-wiki/blob/main/README.md)
