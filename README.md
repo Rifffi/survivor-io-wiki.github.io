@@ -7,21 +7,23 @@ Clan Name: Survive these Nuts<br>
 [Clan Regeln](https://github.com/Rifffi/survivor-io-wiki/blob/main/Clan.md)<br>
 
 # Patrouille
-Durch Patrouillen erhaltet ihr Geld, Exp und Items. Dahr ist es wichtig diese täglich auszureitzen. Am besten Morgens nach dem Aufstehen 1-2 Schnelle Gewinne mitnehmen. 2-3 dann Abends. Um 18Uhr Sommerzeit bzw. 17Uhr Winterzeit startet ein neuer Tag in Survior.io. Es ist wichtig das hier Hauptkaptiel abschließt um durch die Patrouillen mehr Geld, Exp und Items zu erhalten.
+Durch Patrouillen erhaltet ihr Geld, Exp und Items. Daher ist es wichtig diese täglich auszureitzen. Am besten Morgens nach dem Aufstehen 1-2 Schnelle Gewinne mitnehmen. 2-3 dann Abends. Um 18Uhr Sommerzeit bzw. 17Uhr Winterzeit startet ein neuer Tag in Survior.io. Es ist wichtig das hier Hauptkaptiel abschließt um durch die Patrouillen mehr Geld, Exp und Items zu erhalten.
 
 # Im Spiel
 ## Fleisch 
-Mit dem braunen Fleisch könnt ihr eure HP wieder auffüllen. Wenn ihr volle HP habt solltet ihr das Fleisch für später einfach liegen lassen.
+Mit dem braunen Fleisch könnt ihr eure HP wieder auffüllen. Wenn ihr volle HP habt solltet ihr das Fleisch für später einfach liegen lassen, wenn ihr HP verloren habt.
 ## Magnet
-Dieser sammelt die Exp ein damit ihr euer Lvl erhöht. Am Bestens lasst ihr den Magnet liegen bis kurz vor einem Bosskampf. Dann geht ihr mit maximaler Kraft in den Kampf. Hinterher gibt es Equipment wodurch auch ein Level Up HP geheilt wird. Dann gibt es noch die Truhen. Hier erhaltet ihr 1-5 Waffen oder passive Fertigkeiten. Wenn ihr eine Waffe auf 5 gelben Sterne habt und dann eine Truhe einsammelt bekommt ihr garantiert diese als Superwaffe.
+Dieser sammelt die Exp ein damit ihr euer Lvl erhöht. Am Bestens lasst ihr den Magnet liegen bis kurz vor einem Bosskampf. Dann geht ihr mit maximaler Kraft in den Kampf. Hinterher gibt es Equipment wodurch auch ein Level Up, HP heilt. 
+##Truhen
+Dann gibt es noch die Truhen. Hier erhaltet ihr 1-5 Waffen oder passive Fertigkeiten. Wenn ihr eine Waffe auf 5 gelben Sterne habt und dann eine Truhe einsammelt bekommt ihr garantiert diese als Superwaffe.
 ## Superwaffe
 Superwaffen bekommt ihr wenn die entsprechend passive Fertigkeit vorher ausgewählt wurde. z.B. Fussball + Schuhe = Quantenverschränkung
-Bei den passiven Fertigkeiten wird auch angezeigt welche Waffe dazu passt. Die passive Fertigkeit benötigt ihr nur auf einem gelben Stern.
+Bei den passiven Fertigkeiten (Schuhe) wird auch angezeigt welche Waffe dazu passt. Die passive Fertigkeit benötigt ihr nur auf einem gelben Stern.
 ## Gold
-Wenn ihr wisst das ihr ein Level ohne Probleme schafft solltet ihr die passive Fähigkeit mehr Gold erlernen.
+Wenn ihr wisst das ihr ein Level ohne Probleme schafft solltet ihr die passive Fähigkeit mehr Gold erlernen. Gold ist am Anfang des Spiels ein Problem hinterher sollte ihr eigentlich genug Gold anhäufen.
 
 # Events
-Jede Woche gibt es ein Event über mehrer Tage. Dort gibt es immer gute Items zu holen. Dies ist mit Aufwand verbunden der aber zwingend notwendig ist um vorwärts zu kommmen. Es müssen Millionen von Monstern getötet werden. Am Besten dazu Hauptherausforderung Lvl 4 wiederholt spielen. Als Equipment den glänzenden Handgelenkschutz nutzen und Kunai. Long Range Waffen wie Bohrer  und Fussball wählen. Wenn euer Charakter ein höheres Lvl hat könnt ihr 30Sek. spielen afk gehen nach 5 Minuten eine Magnet einsammeln und af gehen bis die 15Minuten um sind. Die 30Hauptkaptiel erledigt ihr durch nur starten und direkt wieder beenden. Die 10 Spezialeinsätze sind jeden Tag Pflichtprogramm. 300 Truhen öffnen ist meistens nicht notwendig. Meistens reichen 100. Dafür müsst ihr fleißig Schlüssel samneln und dafür aufbewahren. Das Ziel sollte sein eine S Truhe zu bekommen. Kann aber auch variieren.
+Jede Woche gibt es ein Event über mehrere Tage. Dort gibt es immer gute Items zu holen. Dies ist mit Aufwand verbunden, der aber zwingend notwendig ist, um vorwärts zu kommmen. Es müssen Millionen von Monstern getötet werden. Am Besten dazu Hauptherausforderung Lvl. 4 wiederholt spielen. Als Equipment den glänzenden Handgelenkschutz nutzen und Kunai. Long Range Waffen wie Bohrer und Fussball wählen. Wenn euer Charakter ein höheres Lvl hat könnt ihr 30Sek. spielen afk gehen nach 5 Minuten einen Magnet einsammeln und afk gehen bis die 15Minuten um sind. Die 30 Hauptkaptiel erledigt ihr durch nur starten und direkt wieder beenden. Die 10 Spezialeinsätze sind jeden Tag Pflichtprogramm, dazu gibt es aber auch gelbe Karten um diese ohne Spielen abzuschließen. 300 Truhen öffnen ist meistens nicht notwendig. Meistens reichen 100. Dafür müsst ihr fleißig Schlüssel samneln und dafür aufbewahren. Das Ziel sollte sein eine S Truhe zu bekommen. Kann aber auch variieren. Truhen sollte ihr also nur während ein Event läuft öffnen. Mit Diamanten die ihr am Besten auch nur für Events aufspaart können noch weitere Reward erlangt werden.
 
 # Waffen   
 Welche Waffen sind gut:
@@ -67,7 +69,7 @@ Projektile werden größer und einige Waffen haben dadruch eine größere Reichw
 ## ATK, mehr Schaden
 Mehr ATK immer ein muss, wenn ihr viel Schaden machen wollt.
 ## Heilung
-Es gibt genug Heilung durch anderen Items. Daher nicht umgedingt notwendig.
+Es gibt genug Heilung durch andere Items. Daher nicht umgedingt notwendig.
 ## mehr Gold
 Gold bekommt ihr eigentlich genug, daher nicht so wichtig.
 ## mehr Exp.
@@ -101,13 +103,15 @@ Auf dem ersten gelben Schmiedeeffekt macht dieser einen doppelten Treffer an nor
 
 ## SS items
 Für ss items benötigt ihr ein Equipment auf rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S items erlangt. Genauso müssen normale Items zerlegt werden für Kubes.
+### Lanze
+Die Lanze ist die finale Waffe die ihr haben wollt und auch das erste sinvolle SS item.
 
 # Charakter
-Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Ihr solltet euch aber nur auf ATK oder krit. konzentrieren und euch lieber auf einen Char fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40.
+Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Ihr solltet euch aber nur auf ATK oder krit. konzentrieren und euch lieber auf einen Char fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40 pushen.
 ## King
 ist die Wahl nach dem Startcharakter. Seine zusätzliche Fähigkeit mehr kritische Treffer zu erhalten, helfen um viel mehr Schaden zu machen.
 ## Panda
-darauf liegt der Fokus bis ihr eine Kritrate größer 80-90% hat danach nehmt ihr Metallica. Panda hat eine aktive Fähigkeit. Ying und Yang. Dieser ermöglicht euch diese Fähigkeit zur Verteidung oder zum Angriff einzusetzen. Auch diese Fähigkeit kann zur zur Superwaffe werden. Die KI Kugeln können als Superwaffe ein Debuff auf die Monsterverteidung erwirken. Dies hilft um mehr Schaden an Bossmonster zu erlangen. Nachdem ihr den Debuff an einem Bossmonster durchgeführt habt wechselt ihr auf die Feuerhand. Der Debuff wird auch in der violetten Leiste vom Boss angezeigt.
+darauf liegt der Fokus bis ihr eine Kritrate größer 80-90% hat danach nehmt ihr Metallica. Panda hat eine aktive Fähigkeit. Ying und Yang. Dieser ermöglicht euch diese Fähigkeit zur Verteidigung oder zum Angriff einzusetzen. Auch diese Fähigkeit kann zur zur Superwaffe werden. Die KI Kugeln können als Superwaffe ein Debuff auf die Monsterverteidung erwirken. Dies hilft um mehr Schaden an Bossmonster zu erlangen. Nachdem ihr den Debuff an einem Bossmonster durchgeführt habt wechselt ihr auf die Feuerhand. Der Debuff wird auch in der violetten Leiste vom Boss angezeigt.
 ## Metallica
 ist aktuell der wohl Beste Charakter. Jedoch dauert es auch bis hier ihr angekommen seit.
 
