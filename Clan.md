@@ -7,6 +7,8 @@ Wir spielen zusammen und es ist wunderbar wenn wir uns gegenseitig unterstützen
 -   Von Freitag Abend bis Montag Abend einmal gegen den Boss kämpfen.
 ## Eventcenter
 -   130 Punkte sind täglich drin. 100 sollten es täglich aber schon sein.
+## Wöchendliche Events
+-   Auch in den wöchentlichen Events gibt es ab und zu Clanbelohungen. Bringt euch bitte auch dort mit ein, die bringen euch aber auch so gute Rewards.
 
 # Genauere Erklärung
 ## Clan-Erkundung
@@ -23,5 +25,11 @@ Wir spielen zusammen und es ist wunderbar wenn wir uns gegenseitig unterstützen
   - 1 * Energie kaufen, oben auf den gelben Blitz
   - Ausrüstung -> Tier -> kostenlose Truhe öffnen
   - 1 tagesspiel Spielen -> Tagesevent -> Goldmine starten und abbrechen geht auch.
+ 
+  ## Abwesendheit
+  Wenn ihr aus Gründen etwas länger (1+ Woche) nicht spielen könnt sagt im Chat bescheid damit wir Bescheid wissen und euch nicht kicken.
+
+  ## Kick
+  Ja es ist nur ein Spiel und wir sind nicht bei der Army, aber damit keine Ungerechtigtkeit aufkommt versucht euch bestmöglichst an die Regeln zu halten.
 
 [Weitere Tips](https://github.com/Rifffi/survivor-io-wiki/blob/main/README.md)
