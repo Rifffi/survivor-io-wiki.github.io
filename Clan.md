@@ -8,7 +8,7 @@ Wir spielen zusammen und es ist wunderbar wenn wir uns gegenseitig unterstützen
 ## Eventcenter
 -   130 Punkte sind täglich drin. 100 sollten es täglich aber schon sein.
 ## Wöchendliche Events
--   Auch in den wöchentlichen Events gibt es ab und zu Clanbelohungen. Bringt euch bitte auch dort mit ein, die bringen euch aber auch so gute Rewards.
+-   Auch in den wöchentlichen Events gibt es ab und zu Clanbelohungen. Bringt euch bitte auch dort mit ein, die bringen euch aber auch so sehr gute Rewards.
 
 # Genauere Erklärung
 ## Clan-Erkundung
