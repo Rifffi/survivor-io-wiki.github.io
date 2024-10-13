@@ -24,7 +24,7 @@ Wir spielen zusammen und es ist wunderbar wenn wir uns gegenseitig unterstützen
   - Regelmäßige Herausforderung. Starten und abbrechen geht auch.
   - 1 * Energie kaufen, oben auf den gelben Blitz
   - Ausrüstung -> Tier -> kostenlose Truhe öffnen
-  - 1 tagesspiel Spielen -> Tagesevent -> Goldmine starten und abbrechen geht auch.
+  - 1 Tagesspiel spielen -> Tagesevent -> Goldmine starten und abbrechen geht auch.
  
   ## Abwesendheit
   Wenn ihr aus Gründen etwas länger (1+ Woche) nicht spielen könnt sagt im Chat bescheid damit wir Bescheid wissen und euch nicht kicken.
