@@ -116,7 +116,7 @@ Wird es richtig gut wenn ihr an die 100 % krit Rate kommt. Daher vielleicht lieb
 ### Sternenstaub Schärpe
 Ist auf Schmiedeeffekt 5 gut. Leider muss damit der Achaden richtig zur Geltung kommt viele Treffer vorher an Monstern hinbekommen und auch fast keinen Schaden einstecken.
 
-### Immerleere Rüstt
+### Immerleere Rüstung 
 eher unbeliebt, sehr viele nutzen lieber weiter die S Rüstungen. Lieber die Ressourcen erstmal in die anderen SS items stecken.
 
 # Charakter
@@ -134,7 +134,7 @@ ist aktuell der wohl Beste Charakter. Jedoch dauert es auch bis hier ihr angekom
 # Kritische Treffer
 Es gibt viele Möglichkeiten um eure krit Rate zu verbessern. Über Equipment, Sammelobjkte, Chars (Panda 20%), Fertigkeiten, Tiere und 
 Entwicklung der (8%).
-Mit den ss gloves ist eine Rate über 100% sogar sher gut.
+Mit den ss gloves ist eine Rate über 100% sogar sehr gut. Über 100% gibt es eine Boni auf den krit. Schaden.
 
 # Tiere
 ## Quak
