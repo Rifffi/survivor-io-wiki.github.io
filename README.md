@@ -102,23 +102,32 @@ Auf dem ersten gelben Schmiedeeffekt macht dieser einen doppelten Treffer an nor
 
 
 ## SS items
-Für ss items benötigt ihr ein Equipment auf rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S items erlangt. Genauso müssen normale Items zerlegt werden für Kubes.
+Für ss items benötigt ihr ein Equipment auf rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S items erlangt. Genauso müssen normale Items zerlegt werden für Kubes. Durch Schmiedeeffekt kann das Equipment zusätzliche Eigenschaften erfahren. Dafür werden Reliktkerne, Cubes und Kerne benötigt. Die Eigenschaften gibt es beim 1. 3. 5. und 7. Schmiedeffekt. Beim 2. 4. 6. und 8. gibt es HP oder ATK Boni.
+
 ### Lanze
 Die Lanze ist die finale Waffe die ihr haben wollt und auch das erste sinvolle SS item. Wichtig sich den 1. Schmiedeeffekt zu holen damit die Waffe auf 3 gelben Sternen startet.
 
 ### Urteillshalskette
-Hiermit bekommt ihr ein zusätzliches Defensives Feature ein Energieschuls. Boni für krit. und Fertigkeitsschaden sind auch mit dabei. Aktuellw finale Halskette. Wichtig hier schnell den 1. und 3. Schmiedeeffekt sich zu holen.
+Hiermit bekommt ihr ein zusätzliches Defensives Feature ein Energieschild. Boni für krit. und Fertigkeitsschaden sind auch mit dabei. Aktuellw finale Halskette. Passive Fertigkeiten könnt ihr 6 mal im Spiel aufleveln. Also ATK auf 60%. Wichtig hier schnell den 1. und 3. Schmiedeeffekt sich zu holen.
 
 ### Mondnarbe Armschutz
 Wird es richtig gut wenn ihr an die 100 % krit Rate kommt. Daher vielleicht lieber länger die S Gloves verwenden.
 
+### Sternenstaub Schärpe
+Ist auf Schmiedeeffekt 5 gut. Leider muss damit der Achaden richtig zur Geltung kommt viele Treffer vorher an Monstern hinbekommen und auch fast keinen Schaden einstecken.
+
+### Immerleere Rüstt
+eher unbeliebt, sehr viele nutzen lieber weiter die S Rüstungen. Lieber die Ressourcen erstmal in die anderen SS items stecken.
+
 # Charakter
 Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Ihr solltet euch aber nur auf ATK oder krit. konzentrieren und euch lieber auf einen Char fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40 pushen.
-Ihr müsst den Char auf Lvl 20 haben damit ihr diesen mit den jeweiligen Scherben updaten könnt.
+Ihr müsst den Char auf Lvl 20 haben damit ihr diesen mit den jeweiligen Scherben updaten könnt. Es gibt ein Fläschchen damit könnt ihr alles Ressourcen die ihr in eine Char gesteckt haben wieder zurück erlangen. Kann man durch kaufen oder durch Events irgendwann bekommen.
+Jeder Char kann 6 gelbe Sterne bekommen durch Scherben. Danach kann dieser Erwachen und mit weiteren Scherben und Quantensternscherdben auf 6 rote Sterne bebracht werden. Hier können andere Chars als Unterstützung in Slots gesetzt werden.
+
 ## King
 ist die Wahl nach dem Startcharakter. Seine zusätzliche Fähigkeit mehr kritische Treffer zu erhalten, helfen um viel mehr Schaden zu machen.
 ## Panda
-darauf liegt der Fokus bis ihr eine Kritrate größer 80-90% hat danach nehmt ihr Metallica. Panda hat eine aktive Fähigkeit. Ying und Yang. Dieser ermöglicht euch diese Fähigkeit zur Verteidigung oder zum Angriff einzusetzen. Auch diese Fähigkeit kann zur zur Superwaffe werden. Die KI Kugeln können als Superwaffe ein Debuff auf die Monsterverteidung erwirken. Dies hilft um mehr Schaden an Bossmonster zu erlangen. Nachdem ihr den Debuff an einem Bossmonster durchgeführt habt wechselt ihr auf die Feuerhand. Der Debuff wird auch in der violetten Leiste vom Boss angezeigt.
+darauf liegt der Fokus bis ihr eine Kritrate größer 80-90% hat danach nehmt ihr Metallica. Panda hat eine aktive Fähigkeit. Ying und Yang. Dieser ermöglicht euch diese Fähigkeit zur Verteidigung oder zum Angriff (+20 krit. Rate) einzusetzen. Auch diese Fähigkeit kann zur Superwaffe werden. Die KI Kugeln können als Superwaffe ein Debuff (-50%) auf die Monsterverteidung erwirken. Dies hilft um mehr Schaden an Bossmonster zu erlangen. Nachdem ihr den Debuff an einem Bossmonster durchgeführt habt wechselt ihr auf die Feuerhand. Der Debuff wird auch in der violetten Leiste vom Boss angezeigt.
 ## Metallica
 ist aktuell der wohl Beste Charakter. Jedoch dauert es auch bis hier ihr angekommen seit.
 
