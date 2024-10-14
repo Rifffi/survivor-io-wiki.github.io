@@ -104,16 +104,28 @@ Auf dem ersten gelben Schmiedeeffekt macht dieser einen doppelten Treffer an nor
 ## SS items
 Für ss items benötigt ihr ein Equipment auf rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S items erlangt. Genauso müssen normale Items zerlegt werden für Kubes.
 ### Lanze
-Die Lanze ist die finale Waffe die ihr haben wollt und auch das erste sinvolle SS item.
+Die Lanze ist die finale Waffe die ihr haben wollt und auch das erste sinvolle SS item. Wichtig sich den 1. Schmiedeeffekt zu holen damit die Waffe auf 3 gelben Sternen startet.
+
+### Urteillshalskette
+Hiermit bekommt ihr ein zusätzliches Defensives Feature ein Energieschuls. Boni für krit. und Fertigkeitsschaden sind auch mit dabei. Aktuellw finale Halskette. Wichtig hier schnell den 1. und 3. Schmiedeeffekt sich zu holen.
+
+### Mondnarbe Armschutz
+Wird es richtig gut wenn ihr an die 100 % krit Rate kommt. Daher vielleicht lieber länger die S Gloves verwenden.
 
 # Charakter
 Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Ihr solltet euch aber nur auf ATK oder krit. konzentrieren und euch lieber auf einen Char fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40 pushen.
+Ihr müsst den Char auf Lvl 20 haben damit ihr diesen mit den jeweiligen Scherben updaten könnt.
 ## King
 ist die Wahl nach dem Startcharakter. Seine zusätzliche Fähigkeit mehr kritische Treffer zu erhalten, helfen um viel mehr Schaden zu machen.
 ## Panda
 darauf liegt der Fokus bis ihr eine Kritrate größer 80-90% hat danach nehmt ihr Metallica. Panda hat eine aktive Fähigkeit. Ying und Yang. Dieser ermöglicht euch diese Fähigkeit zur Verteidigung oder zum Angriff einzusetzen. Auch diese Fähigkeit kann zur zur Superwaffe werden. Die KI Kugeln können als Superwaffe ein Debuff auf die Monsterverteidung erwirken. Dies hilft um mehr Schaden an Bossmonster zu erlangen. Nachdem ihr den Debuff an einem Bossmonster durchgeführt habt wechselt ihr auf die Feuerhand. Der Debuff wird auch in der violetten Leiste vom Boss angezeigt.
 ## Metallica
 ist aktuell der wohl Beste Charakter. Jedoch dauert es auch bis hier ihr angekommen seit.
+
+# Kritische Treffer
+Es gibt viele Möglichkeiten um eure krit Rate zu verbessern. Über Equipment, Sammelobjkte, Chars (Panda 20%), Fertigkeiten, Tiere und 
+Entwicklung der (8%).
+Mit den ss gloves ist eine Rate über 100% sogar sher gut.
 
 # Tiere
 ## Quak
@@ -123,7 +135,7 @@ Wenn erwacht, ist dieser gut gegen Bossmonster, da single traget.
 ## Rex
 Macht wohl aber 200.000 ATK mehr Schaden als Merika. Dies dauert aber bis ihr mal dort seit.
 
-Ihr könnt zwei unterstützer Tier positionieren. Jedes Tier hat eine Unterstützenfähigkeit. Das ist die im oberen rechten Feld beschrieben. Hier macht 10% mehr ATK auf jeden Fall sinn. Das Fähgikeit durchdringen Gegner ist auch gut. z.B. in kompination mit Merika. Bei Quak macht dies natürlich keine Sinn. Dort ist mehr Reichweite sinniger.
+Ihr könnt zwei unterstützer Tiere positionieren. Jedes Tier hat eine Unterstützenfähigkeit. Das ist die im oberen rechten Feld beschrieben. Hier macht 10% mehr ATK auf jeden Fall sinn. Das Fähgikeit durchdringen Gegner ist auch gut. z.B. in kompination mit Merika. Bei Quak macht dies natürlich keine Sinn. Dort ist mehr Reichweite sinniger.
 
 # Echo des Endes
 Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char upzugraden.
