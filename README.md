@@ -194,6 +194,18 @@ Ihr könnten oben links unter dem M - Kartensymbol euch für 9000 Diamanten die 
 # Allgemeines
 Dieses Wiki basiert auf F2P. Free to play. Ihr könnt in dem Spiel euch zusätzliche Diamante gegen richtiges Geld kaufen oder auch Items. Ebenfalls könnt ihr Werbung schauen um zusätzliche Rewards zu bekommen. Dies verändert ggf. einige Sichtweisen und wurde hier nicht berücksichtigt.
 
+# optimal spielen
+Die ersten 4 sind Pflichtprogramm und eigentlich auch in einer dreiviertel Stunde zu schaffen. Die weiteren Punkte sind tagesabhängig und auch flexibeler in der Absolvierung.
+1. jeden Tag Enders Echo zweimal
+2. Alle drei Tage einmal Regelmäßige Herausforderung (direkt am Besten Alptraum)
+3. Jeden Tag 10 Spezialeinsätze (lieber nicht Alle Bosse)
+4. 100 Punkte im Missionscenter
+5.Einmal die Woche Pfad der Prüfung spielen
+6. während Event zweimal täglich Hauptkapitel 4 spielen.
+7. Dienstag und Mittwoch die 5 Clanexpedition Missionen spielen
+8. Wochenende einmal Clanexpedition Bosskampf
+9. täglich einmal Clanerkundung 
+
 ... die Tage gehts weiter.
 
 # YouTube 
