@@ -165,10 +165,10 @@ Aufwendig zu spielen, nicht ganz so wichtig. Benötigt auch ein gewisses Level u
 Zurerst müßt ihr ein Hauptkapitel druchspielen damit ihr die 3 Hauptherausforderungen zu einem Level spielen könnt. Bei den zweiten und dritten Schwierigkeitsgrad bekommt ihr Gold-DNA. Dadurch könnt ihr eure passiven Fähigkeiten erhöhen und mehr Equipment durch Monsterdrops bekommen. Wichtig das ihr hier nach und nach auch vorran kommt. Wichtig ist das ihr am Anfang mehr Drops durch Items bekommt. So könnt ihr schneller euer Equipment upgraden.
 
 # Karten
-Ihr könnten oben links unter dem M - Kartensymbol euch für 9000 Diamanten die Dauerhafte Privilegienkarte holen. Diese rentiert sich auf Dauer. Ihr bekommt jeden Tag einen Schlüssel und 50 Diamanten.
+Ihr könnten oben links unter dem M - Kartensymbol euch für 9000 Diamanten die Dauerhafte Privilegienkarte holen. Diese rentiert sich auf Dauer. Ihr bekommt jeden Tag einen Schlüssel und 50 Diamanten. Nach einem halben Jahr seit ihr dann mit den Diamanten im Plus. Aber durch den Schlüssel rentiert sich das sicher noch eher.
 
 # Allgemeines
-Dieses Wiki basiert auf F2P. Free to play. Ihr könnt in dem Spiel euch zusätzliche Diamante gegen richtiges Geld kaufen. Ebenfalls könnt ihr Werbung schauen um zusätzliche Rewards zu bekommen. Dies verändert ggf. einige Sichtweisen und wurde hier nicht berücksichtigt.
+Dieses Wiki basiert auf F2P. Free to play. Ihr könnt in dem Spiel euch zusätzliche Diamante gegen richtiges Geld kaufen oder auch Items. Ebenfalls könnt ihr Werbung schauen um zusätzliche Rewards zu bekommen. Dies verändert ggf. einige Sichtweisen und wurde hier nicht berücksichtigt.
 
 ... die Tage gehts weiter.
 
