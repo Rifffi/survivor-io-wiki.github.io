@@ -151,6 +151,28 @@ Ihr könnt zwei unterstützer Tiere positionieren. Jedes Tier hat eine Unterstü
 
 # Echo des Endes
 Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char upzugraden.
+## Tips für viel Schaden
+In folgender Reihenfolge Waffen und Fertigkeiten auswählen wenn sie kommen.
+1. Beide Drohnen bis zum Zerstörer 
+2. Hauptwaffe
+3. Panda Ying Yang
+4. ATK
+5. Magnet (aber nur einmal)
+6. Mehr Exp
+7. Fußballschuhe (wenn Leerwandlertreter)
+8. Abklingzeit
+9. Schussgeschwindigkeit
+10. Fussball
+
+Sehen das alle 6 Slots mit Waffen belegt werden sonst ist es schwieriger den Zerstörer oder die Hauptwaffe zur Superwaffe zu bekommen.
+
+Je mehr Exp man erhält, desto besser werden einige Eigenschaften von Waffen und das Tier.
+
+Immerwährende Rüstung. So früh wie möglich einmal Sterben wegen 15% mehr Schaden nach Wiederbelebung und weitere Fertigkeitsauswahl.
+
+Ying und Yang den debuff auf die Verteidigung auslösen sonst nur die Handflächen nutzen.
+
+Den Boss so laufen lassen das Exp eingesammelt wird aber selber noch Schaden mit den Drohnen erzeugt. Am Anfang kann auch eine Runde gelaufen werden um Exp einzusammeln. Besonders am Ende wird der meiste Schaden erzeugt da alles Waffe gut ausgebildet sind.
 
 # Pfad der Prüfungen
 Sollte ihr einmal die Woche spielen und mindestens 1 Level vorankommen damit ihr einmal die Rewards einsammelt. Spielt nicht zuviele Level sonst kommt ihr nächste Woche dann garnicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben.
