@@ -172,7 +172,9 @@ Immerwährende Rüstung. So früh wie möglich einmal Sterben wegen 15% mehr Sch
 
 Ying und Yang den debuff auf die Verteidigung auslösen sonst nur die Handflächen nutzen.
 
-Den Boss so laufen lassen das Exp eingesammelt wird aber selber noch Schaden mit den Drohnen erzeugt. Am Anfang kann auch eine Runde gelaufen werden um Exp einzusammeln. Besonders am Ende wird der meiste Schaden erzeugt da alles Waffe gut ausgebildet sind.
+Den Boss so laufen lassen das Exp eingesammelt werden aber noch Schaden mit den Drohnen erzeugt wird. Am Anfang kann auch eine Runde gelaufen werden um Exp einzusammeln. Besonders am Ende wird der meiste Schaden erzeugt da alle Waffe gut ausgebildet sind.
+
+Einige Boss rennen wie bekloppt über den Bildschirm. Dort so rumprobieren damit er in einer Ecke bleibt oder nir hoch und runter läuft.
 
 # Pfad der Prüfungen
 Sollte ihr einmal die Woche spielen und mindestens 1 Level vorankommen damit ihr einmal die Rewards einsammelt. Spielt nicht zuviele Level sonst kommt ihr nächste Woche dann garnicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben.
