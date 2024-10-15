@@ -200,11 +200,14 @@ Die ersten 4 sind Pflichtprogramm und eigentlich auch in einer dreiviertel Stund
 2. Alle drei Tage einmal Regelmäßige Herausforderung (direkt am Besten Alptraum)
 3. Jeden Tag 10 Spezialeinsätze (lieber nicht Alle Bosse)
 4. 100 Punkte im Missionscenter
-5.Einmal die Woche Pfad der Prüfung spielen
+5. Einmal die Woche Pfad der Prüfung spielen
 6. während Event zweimal täglich Hauptkapitel 4 spielen.
 7. Dienstag und Mittwoch die 5 Clanexpedition Missionen spielen
 8. Wochenende einmal Clanexpedition Bosskampf
-9. täglich einmal Clanerkundung 
+9. täglich einmal Clanerkundung
+10. wöchentlich 1 Hauptkapitel
+11. wöchentlich die 3 Hauptkapitel Herausforderungen
+12. 
 
 ... die Tage gehts weiter.
 
