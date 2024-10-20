@@ -231,7 +231,6 @@ Die ersten 4 sind Pflichtprogramm und eigentlich auch in einer dreiviertel Stund
 9. täglich einmal Clanerkundung
 10. wöchentlich 1 Hauptkapitel
 11. wöchentlich die 3 Hauptkapitel Herausforderungen
-12. 
 
 ... die Tage gehts weiter.
 
@@ -240,5 +239,5 @@ Es gibt zwei Youtuber Playme und Phasecast die unzählige Video erstellt haben.
 
 # Kalkulator
 externer Link die Kalulatoren und Inhalte haben nichts mit diesem Wiki zu tun:
-[[https://danke007.com/]]
+https://danke007.com/
 Es ist ratsam den Googletranslator zu verwenden.
