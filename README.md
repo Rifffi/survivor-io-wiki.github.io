@@ -172,20 +172,23 @@ Die Raketen werden schneller wieder abgeschossen. Auch gut für mehr Schaden an 
 
 # Echo des Endes
 Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char upzugraden.
+
 ## Tips für viel Schaden
 In folgender Reihenfolge Waffen und Fertigkeiten auswählen wenn sie kommen.
 1. Beide Drohnen bis zum Zerstörer 
 2. Hauptwaffe
 3. Panda Ying Yang
-4. ATK
+4. ATK / ANG
 5. Magnet (aber nur einmal)
 6. Mehr Exp
-7. Fußballschuhe (wenn Leerwandlertreter)
-8. Abklingzeit
-9. Schussgeschwindigkeit
-10. Fussball
+7. Abklingzeit
+8. Fußballschuhe (wenn Leerwandlertreter)
+10. Schussgeschwindigkeit
+11. Fussball
+12. Blitz
+13. Rakete 
 
-Sehen das alle 6 Slots mit Waffen belegt werden sonst ist es schwieriger den Zerstörer oder die Hauptwaffe zur Superwaffe zu bekommen.
+Zusätzlich schaut das alle 6 Slots mit Waffen belegt werden, sonst ist es schwieriger den Zerstörer oder die Hauptwaffe zur Superwaffe zu bekommen. Sonst kommen immer wieder andere Vorschläge für andere Waffen. Manchmal dauert es auch eichtig lange bis ihr beide Drohnen bekommt. Ab 1 Minute Restzeit solltet ihr vielleicht auch davon abrücken wenn ihr nur eine Drohne habt. Dann lieber die Hauptwaffe zu Superwaffe bringen. Am Ende vom Kampf könnt ihr auch eine Statistik anschauen welche Waffe wieviel Schaden gemacht habt. Schaut dort rein und optimiert euch selber.
 
 Je mehr Exp man erhält, desto besser werden einige Eigenschaften von Waffen und das Tier.
 
