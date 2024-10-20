@@ -66,7 +66,7 @@ Alle Projektile fliegen dadurch schneller und können schneller mehr Schaden mac
 Durch die Leerwandlertreter könnte ihr hierdurch auch mehr Schaden machen.
 ## Reichweite
 Projektile werden größer und einige Waffen haben dadruch eine größere Reichweite Monster kommen nicht so nah an euch ran.
-## ATK, mehr Schaden
+## ANG / ATK, mehr Schaden
 Mehr ATK immer ein muss, wenn ihr viel Schaden machen wollt.
 ## Heilung
 Es gibt genug Heilung durch andere Items. Daher nicht umgedingt notwendig.
@@ -130,6 +130,8 @@ Jeder Char kann 6 gelbe Sterne bekommen durch Scherben. Danach kann dieser Erwac
 ist die Wahl nach dem Startcharakter. Seine zusätzliche Fähigkeit mehr kritische Treffer zu erhalten, helfen um viel mehr Schaden zu machen.
 ## Panda
 darauf liegt der Fokus bis ihr eine Kritrate größer 80-90% hat danach nehmt ihr Metallica. Ist aber vielleicht auch Geschmacksache. Panda hat eine aktive Fähigkeit. Ying und Yang. Dieser ermöglicht euch diese Fähigkeit zur Verteidigung oder zum Angriff (+20 krit. Rate mit den Handflächen) einzusetzen. Auch diese Fähigkeit kann zur Superwaffe werden. Die KI Kugeln (Bollwerk) können als Superwaffe ein Debuff (-50%) auf die Monsterverteidung erwirken. Dies hilft um mehr Schaden an Bossmonster zu erlangen. Nachdem ihr den Debuff an einem Bossmonster durchgeführt habt wechselt ihr auf die Feuerhand. Der Debuff wird auch in der violetten Leiste vom Boss angezeigt.
+Für die letzten gelben Stern benötigt ihr 400 Scherben. Für die erwachen Sterne (Rot), werden auch Scherben, Erwachenkerne und blau Scherben benötigt.
+
 ## Metallica
 ist aktuell der wohl Beste Charakter. Jedoch dauert es auch bis hier ihr angekommen seit.
 
@@ -148,6 +150,25 @@ Wenn erwacht, ist dieser gut gegen Bossmonster, da single traget. Federschüsse.
 Macht wohl aber 200.000 ATK mehr Schaden als Merika. Dies dauert aber bis ihr mal dort seit.
 
 Ihr könnt zwei unterstützer Tiere positionieren. Jedes Tier hat eine Unterstützenfähigkeit. Das ist die im oberen rechten Feld beschrieben. Hier macht 10% mehr ATK auf jeden Fall sinn. Das Fähgikeit durchdringen Gegner ist auch gut. z.B. in kompination mit Merika. Bei Quak macht dies natürlich keine Sinn. Dort ist mehr Reichweite sinniger.
+
+# tech. Teile
+## Präzisionsgerät
+Ist für die beiden Drohne. Immer bevorzugt upgraden. Solltet ihr als erstes auf rot bekommen. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech Teile wied dies nochmal erhöht.
+
+##  Quantum Polisator
+Ist für den Fußball. 30% Schaden das gibt nochmal mehr Schaden auch bei Bossmonstern.
+
+## Phasenumwandler
+2 Blitzschläger mehr. Auch gut gegen Bossmonster
+
+## Expo-Skelett 
+Hällt euch durch den Pushback die Monster vom Hals
+
+## Schwerkraftregler
+Die Steine gehen durch alle Gegner
+
+## Effizientes Wartungsgerät
+Die Raketen werden schneller wieder abgeschossen. Auch gut für mehr Schaden an Bossmonstern
 
 # Echo des Endes
 Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char upzugraden.
