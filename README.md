@@ -1,9 +1,6 @@
 # survivor-io-wiki
 Wiki für das Spiel survior.io
 
-Werbung für unseren Clan:<br>
-Clan-ID: 32055<br>
-Clan Name: Survive these Nuts<br>
 [Clan Regeln](https://github.com/Rifffi/survivor-io-wiki/blob/main/Clan.md)<br>
 
 # Patrouille
