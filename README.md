@@ -4,7 +4,7 @@ Wiki für das Spiel survior.io
 [Clan Regeln](https://github.com/Rifffi/survivor-io-wiki/blob/main/Clan.md)<br>
 
 # Patrouille
-Durch Patrouillen erhaltet ihr Geld, Exp und Items. Daher ist es wichtig diese täglich auszureizen. Am besten Morgens nach dem Aufstehen 1-2 Schnelle Gewinne (blauer Button) mitnehmen. 4-5 dann Abends. Um 18Uhr Sommerzeit bzw. 17Uhr Winterzeit startet ein neuer Tag in Survior.io. Es ist wichtig das hier Hauptkaptiel abschließt um durch die Patrouillen mehr Geld, Exp und Items zu erhalten.
+Durch Patrouillen erhaltet ihr Geld, Exp und Items. Daher ist es wichtig diese täglich auszureizen. Am besten Morgens nach dem Aufstehen 1-2 Schnelle Gewinne (blauer Button) mitnehmen. 4-5 dann Abends. Um 18Uhr Sommerzeit bzw. 17Uhr Winterzeit startet ein neuer Tag in Survior.io. Es ist wichtig das ihr Hauptkapitel abschließt, um durch die Patrouillen mehr Geld, Exp und Items zu erhalten.
 
 # Im Spiel
 ## Fleisch 
@@ -20,18 +20,18 @@ Bei den passiven Fertigkeiten (Schuhe) wird auch angezeigt welche Waffe dazu pas
 Wenn ihr wisst das ihr ein Level ohne Probleme schafft solltet ihr die passive Fähigkeit mehr Gold erlernen. Gold ist am Anfang des Spiels ein Problem hinterher sollte ihr eigentlich genug Gold anhäufen.
 
 # Events
-Jede Woche gibt es ein Event über mehrere Tage. Dort gibt es immer gute Items zu holen. Dies ist mit Aufwand verbunden, der aber zwingend notwendig ist, um vorwärts zu kommmen. Es müssen Millionen von Monstern getötet werden. Am Besten dazu Hauptherausforderung Lvl. 4 wiederholt spielen. (130.000 - 150.000 Kills) Als Equipment den glänzenden Handgelenkschutz nutzen und Kunai oder Leermacht. Long Range Waffen wie Bohrer und Fussball wählen. Wenn euer Charakter ein höheres Lvl hat könnt ihr 1 Minute spielen afk gehen nach 3 Minuten einen Magnet einsammeln und afk gehen, bis die 8 Minuten um sind. Die 30 Hauptkaptiel erledigt ihr durch nur starten und direkt wieder beenden/abbrechen. Die 10 Spezialeinsätze sind jeden Tag Pflichtprogramm, dazu gibt es aber auch gelbe Karten um diese ohne spielen abzuschließen. 300 Truhen öffnen ist meistens nicht notwendig. Meistens reichen 100. Dafür müsst ihr fleißig Schlüssel samneln und dafür aufbewahren. Das Ziel sollte sein eine S Truhe zu bekommen. Kann aber auch variieren. Truhen sollte ihr also nur während eines Event öffnen. Mit Diamanten die ihr am Besten auch nur für Events aufspaart, können noch weitere gute zusätzliche Rewards erlangen. Durch öffnen von 300 Truhen und investern von Diamante könnt ihr zusäzlich Relic Cores, rote Sammelobjekttruhe oder Resonanzchips oder ähnliches gute Rewards zusätzlich zu S-Truhe erlangen. Wenn ihr hinterher die Punkte gegen Rewards eintauscht holt ihr euch weitere Schlüssel, um für das nächste Event wieder 300 Truhen öffnen zu können. Evtl. müsst ihr ein Event auch mal mit Schlüssen und Diamenten mal aussetzen um zu sparen.
+Jede Woche gibt es ein Event über mehrere Tage. Dort gibt es immer gute Items/Rewards zu holen. Dies ist mit Aufwand verbunden, der aber zwingend notwendig ist, um vorwärts zu kommmen. Es müssen Millionen von Monstern getötet werden. Am Besten dazu Hauptherausforderung Lvl. 4 wiederholt spielen. (130.000 - 150.000 Kills) Als Equipment den glänzenden Handgelenkschutz nutzen und Kunai oder Leermacht. Long Range Waffen wie Bohrer und Fussball wählen. Wenn euer Charakter ein höheres Lvl hat könnt ihr 1 Minute spielen afk gehen nach 3 Minuten einen Magnet einsammeln und afk gehen, bis die 8 Minuten um sind. Die 30-40 Hauptkaptiel erledigt ihr  nur durch starten und direkt wieder beenden/abbrechen. Die 10 Spezialeinsätze sind jeden Tag Pflichtprogramm, dazu gibt es aber auch gelbe Karten um diese ohne spielen abzuschließen. 300 Truhen öffnen ist meistens nicht notwendig. Meistens reichen 100. Dafür müsst ihr fleißig Schlüssel samneln und dafür aufbewahren. Das Ziel sollte sein eine S Truhe zu bekommen. Kann aber auch variieren. Truhen sollte ihr also nur während eines Event öffnen. Mit Diamanten die ihr am Besten auch nur für Events aufspaart, können noch weitere gute zusätzliche Rewards erlangt werden. Durch öffnen von 300 Truhen und investiern von Diamanten könnt ihr zusäzlich Relic Cores, rote Sammelobjekttruhe, Resonanzchips oder ähnliches gute Rewards zusätzlich zur S Truhe erlangen. Wenn ihr hinterher die Punkte gegen Rewards eintauscht holt ihr euch weitere Schlüssel, um für das nächste Event wieder mehr Truhen öffnen zu können. Evtl. müsst ihr ein Event auch mal mit dem Verbrauch von Schlüssen und Diamenten aussetzen um zu sparen.
 
 # Waffen   
 Welche Waffen sind gut:
 ## Drohnen
-Die beiden Drohnen (weiß und schwarz) werden als Superwaffe zum Zerstörer (Destoryer). Dieser ist gegen Bossmonster super da er viel Damage macht. Aber auch eine Allrounder.
+Die beiden Drohnen (weiß und schwarz) werden als Superwaffe zum Zerstörer (Destoryer). Dieser ist gegen Bossmonster super da er viel Schaden macht. Aber auch eine gute Allroundwaffe.
 ## Hauptwaffe
 Die Hauptwaffe sollte auch immer zur Superwaffe gebracht werden.
 ## Blitz
-Gut gegen Bossmonster da immer trifft. Macht auch kleinen Flächenschaden.
+Gut gegen Bossmonster da sie immer trifft. Macht auch einen kleinen Flächenschaden.
 ## Bohrer
-Gut gegen Mobs. Vielleicht auch nicht immer ratsam als Superwaffe
+Gut gegen Mobs. Vielleicht auch nicht immer ratsam als Superwaffe da keine Streuung mehr existiert.
 ## Fussball
 macht gut Schaden auch an Bossmonster.
 ## Ziegelsteine
@@ -41,48 +41,48 @@ naja nicht so beliebt
 ## Wächter
 Hält einem die Monster vom Leib wegen Pushback.
 ## Brandflasche (Mollotov)
-Guter Flächenschaden
+Guter Flächenschaden. Durch tech. Teil auf rot +10% mehr Schaden.
 ## Durain
 Langsam und ohne tech. Teile bewegt sie sich auf dem ganzen Bildschirm. Ist Geschmacksache.
 ## Kraftfeld
 Okay für die Verteidigung, aber macht nicht viel Schaden.
 ## Mine
-eher umbeliegt, Minen können so schlecht gesteuert werden wo sie auftauchen.
+eher unbeliegt, Minen können so schlecht gesteuert werden wo sie auftauchen und ob sie dann auch treffen.
 ## Laserstrahler
-Macht Flächenschaden um den Gegener hilft bei der Verteidigung.
+Macht Flächenschaden um den Charakter herrum und hilft bei der Verteidigung.
 ## Rakete
-Gute single traget Waffe, hilft gut gegen Bossmonster. Kleiner Flächenschaden.
+Gute single traget Waffe, hilft gut gegen Bossmonster mit Flächenschaden.
 
 # passive Fähigkeiten
 hängt meistens immer ein wenig davon ab welche Waffen ihr gewählt habt, damit ihr diese zur Superwaffe macht.
 ## Abklingzeit
 Alle Waffen werden dadurch schneller wieder ausgelöst. Dadurch macht ihr auf Dauer mehr Schaden.
 ## Fluggeschwindigkeit
-Alle Projektile fliegen dadurch schneller und können schneller mehr Schaden machen.
+Alle Projektile fliegen dadurch schneller und können schneller mehr Schaden machen und fliegen nicht an Gegener vorbei.
 ## Laufgeschwindigkeit
 Durch die Leerwandlertreter könnte ihr hierdurch auch mehr Schaden machen.
 ## Reichweite
-Projektile werden größer und einige Waffen haben dadruch eine größere Reichweite Monster kommen nicht so nah an euch ran.
+Projektile werden größer und einige Waffen haben dadruch eine größere Reichweite. Monster kommen nicht so nah an euch ran und treffen besser.
 ## ANG / ATK, mehr Schaden
 Mehr ATK immer ein muss, wenn ihr viel Schaden machen wollt.
 ## Heilung
 Es gibt genug Heilung durch andere Items. Daher nicht umgedingt notwendig.
 ## mehr Gold
-Gold bekommt ihr eigentlich genug, Daher nicht so wichtig.
+Gold bekommt ihr eigentlich genug, Daher meistens nicht so wichtig.
 ## mehr Exp.
 Dadruch bekommt ihr schneller und mehr Exp. um die Waffen und passiven Fähigkeiten zur erhalten. Ihr bekommt aber nicht mehr Exp um eueren Charakter hochzuleveln.
 ## Exoskelett
 Einige Waffeneffekte bleiben länger aktiv. Bei der Superwaffe Lanze bleiben die gelben Kreise länger stehen, so das nicht zwei sondern auch drei Parallel existieren können.
 
 Um maximalen Schaden zu erlangen eignen sich daher: ATK, Abklingzeit, Fluggeschwindigkeit, 
-Laufgeschwindigkeit, Reichweite , Exposkelett 
+Laufgeschwindigkeit, Reichweite, Exposkelett, (Gold für die +10% durch rotes tech. Teil und Brandflasche) 
 
 # Equipment
 Wichtig ATK geht immer vor HP. Sprich Hauptwaffe, Kette und Handschuhe gehen vor Rüstung, Gürtel und Schuhe. Was vor geht immer bevorzugt upgraden. Am meisten konzentiert ihr euch auf Bossequipment. Aber auch Mobequipment wird hier und da benötigt, aber vielleicht nicht ganz so stark upgegradet. Ihr müsst viel Gedult mitbringen damit euer Equipment richtig gut wird.
 
 Am Anfang nutzt ihr das Standardequipment.
-Baseballschläger für Mobs. Kunai gegen Bossmonster. Seht zu das ihr S items bekommt.
-## S items
+Baseballschläger für Mobs. Kunai gegen Bossmonster. Seht zu das ihr S Equipment bekommt und danach SS Equipment
+## S Equipment
 ### Hauptwaffen
 Danach Leermacht oder Lichtjäger gegen Mobs und Schwert der Unordnung gegen Bossmonster.
 #### Leermacht
@@ -90,7 +90,7 @@ Erzeugt schwarze Löcher in diese kann man sich gut reinstellen, dadurch erreich
 #### Lichtjäger
 In jede Richtung werden Wellen geworfen die Monster treffen. Als Superwaffe reichen die Angriffe in alle Richtung, also rundherum.
 #### Schwert der Unordnung
-Eine punktuelle Waffe, daher gut gehen Bossmonster. Hat aber als Superwaffe auch eine Flächenschadenfunktion.
+Eine punktuelle Waffe, daher gut gehen Bossmonster. Hat als Superwaffe auch eine Flächenschadenfunktion.
 ### Handschuhe
 #### Immerw. Handschuhe
 bietet einiges für krit. Treffer. Kritische Treffer machen guten Schaden viel besser als normale Treffer.
@@ -103,7 +103,6 @@ Auf dem ersten gelben Schmiedeeffekt macht dieser einen doppelten Treffer an nor
 Wenn ihr sterbt werden ihr zusätzlich 1-2 Wiederbelegt. Wenn ihr Wiederbelegt werdet habt ihr 15% mehr ATK.
 #### Rüstung von Quietus
 Wenn ihr einmal gestorben seit könnt ihr weiterspielen für eine gewisse Sekundenanzahl. Wenn die Rüsten die Qualität rot erreicht seit ihr sozusagen Unsterblich, solange es genügend Monstermobs gibt und ihr innerhalb der Sekundenanzahl den Boss töten könnt. (auch genannt death walker build)
-
 
 ## SS items
 Für ss items benötigt ihr ein Equipment auf rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S items erlangt. Genauso müssen normale Items zerlegt werden für Cubes. Durch Schmiedeeffekt kann das Equipment zusätzliche Eigenschaften erfahren. Dafür werden Reliktkerne, Cubes und Kerne benötigt. Die Eigenschaften gibt es beim 1. 3. 5. und 7. Schmiedeffekt. Beim 2. 4. 6. und 8. gibt es HP oder ATK Boni.
@@ -158,13 +157,13 @@ Ihr könnt zwei unterstützer Tiere positionieren. Jedes Tier hat eine Unterstü
 
 # tech. Teile
 ## Präzisionsgerät
-Ist für die beiden Drohne. Immer bevorzugt upgraden. Solltet ihr als erstes auf rot bekommen. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech Teile wied dies nochmal erhöht.
+Ist für die beiden Drohne. Immer bevorzugt upgraden. Solltet ihr als erstes auf rot bekommen. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
 
 ##  Quantum Polisator
 Ist für den Fußball. 30% Schaden das gibt nochmal mehr Schaden auch bei Bossmonstern.
 
 ## Phasenumwandler
-2 Blitzschläger mehr. Auch gut gegen Bossmonster
+2 Blitzschläge mehr. Auch gut gegen Bossmonster
 
 ## Expo-Skelett 
 Hällt euch durch den Pushback die Monster vom Hals
@@ -174,6 +173,9 @@ Die Steine gehen durch alle Gegner
 
 ## Effizientes Wartungsgerät
 Die Raketen werden schneller wieder abgeschossen. Auch gut für mehr Schaden an Bossmonstern
+
+# Sammelobjekte
+Hier könnte ihr durch die Objekte allemein nochmal mehr ATK und HP b.ekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment eine Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden. Es lohnt sich ggf. darauf zu konzentieren. Auch das Präzionsgeräte ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen. Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen.
 
 # Echo des Endes
 Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char upzugraden.
@@ -193,7 +195,7 @@ In folgender Reihenfolge Waffen und Fertigkeiten auswählen wenn sie kommen.
 12. Blitz
 13. Rakete 
 
-Zusätzlich schaut das alle 6 Slots mit Waffen belegt werden, sonst ist es schwieriger den Zerstörer oder die Hauptwaffe zur Superwaffe zu bekommen. Sonst kommen immer wieder andere Vorschläge für andere Waffen. Manchmal dauert es auch eichtig lange bis ihr beide Drohnen bekommt. Ab 1 Minute Restzeit solltet ihr vielleicht auch davon abrücken wenn ihr nur eine Drohne habt. Dann lieber die Hauptwaffe zu Superwaffe bringen. Am Ende vom Kampf könnt ihr auch eine Statistik anschauen welche Waffe wieviel Schaden gemacht habt. Schaut dort rein und optimiert euch selber.
+Zusätzlich schaut das alle 6 Slots mit Waffen belegt werden, sonst ist es schwieriger den Zerstörer oder die Hauptwaffe zur Superwaffe zu bekommen. Sonst kommen immer wieder andere Vorschläge für andere Waffen. Manchmal dauert es auch richtig lange bis ihr beide Drohnen bekommt. Ab 1 Minute Restzeit solltet ihr vielleicht auch davon abrücken wenn ihr nur eine Drohne habt. Dann lieber die Hauptwaffe zu Superwaffe bringen. Am Ende vom Kampf könnt ihr auch eine Statistik anschauen welche Waffe wieviel Schaden gemacht habt. Schaut dort rein und optimiert euch selber.
 
 Je mehr Exp man erhält, desto besser werden einige Eigenschaften von Waffen und das Tier.
 
