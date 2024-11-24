@@ -248,5 +248,4 @@ https://danke007.com/
 Es ist ratsam den Googletranslator zu verwenden.
 
 # Codes
-Alle paar Wochen gibt es Codes diese können hier eingelöst werden. Eure ID findet ihr in den Einstellunge
-https://gift.survivorio.com/
+Alle paar Wochen gibt es Codes diese können hier: https://gift.survivorio.com/ eingelöst werden. Eure ID findet ihr in den Einstellungen
