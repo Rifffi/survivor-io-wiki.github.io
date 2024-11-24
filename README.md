@@ -20,7 +20,7 @@ Bei den passiven Fertigkeiten (Schuhe) wird auch angezeigt welche Waffe dazu pas
 Wenn ihr wisst das ihr ein Level ohne Probleme schafft solltet ihr die passive Fähigkeit mehr Gold erlernen. Gold ist am Anfang des Spiels ein Problem hinterher sollte ihr eigentlich genug Gold anhäufen.
 
 # Events
-Jede Woche gibt es ein Event über mehrere Tage. Dort gibt es immer gute Items zu holen. Dies ist mit Aufwand verbunden, der aber zwingend notwendig ist, um vorwärts zu kommmen. Es müssen Millionen von Monstern getötet werden. Am Besten dazu Hauptherausforderung Lvl. 4 wiederholt spielen. (130.000 - 150.000 Kills) Als Equipment den glänzenden Handgelenkschutz nutzen und Kunai. Long Range Waffen wie Bohrer und Fussball wählen. Wenn euer Charakter ein höheres Lvl hat könnt ihr 1nMinute spielen afk gehen nach 3 Minuten einen Magnet einsammeln und afk gehen, bis die 8 Minuten um sind. Die 30 Hauptkaptiel erledigt ihr durch nur starten und direkt wieder beenden/abbrechen. Die 10 Spezialeinsätze sind jeden Tag Pflichtprogramm, dazu gibt es aber auch gelbe Karten um diese ohne Spielen abzuschließen. 300 Truhen öffnen ist meistens nicht notwendig. Meistens reichen 100. Dafür müsst ihr fleißig Schlüssel samneln und dafür aufbewahren. Das Ziel sollte sein eine S Truhe zu bekommen. Kann aber auch variieren. Truhen sollte ihr also nur während eines Event öffnen. Mit Diamanten die ihr am Besten auch nur für Events aufspaart, können noch weitere gute zusätzliche Rewards erlangern.
+Jede Woche gibt es ein Event über mehrere Tage. Dort gibt es immer gute Items zu holen. Dies ist mit Aufwand verbunden, der aber zwingend notwendig ist, um vorwärts zu kommmen. Es müssen Millionen von Monstern getötet werden. Am Besten dazu Hauptherausforderung Lvl. 4 wiederholt spielen. (130.000 - 150.000 Kills) Als Equipment den glänzenden Handgelenkschutz nutzen und Kunai oder Leermacht. Long Range Waffen wie Bohrer und Fussball wählen. Wenn euer Charakter ein höheres Lvl hat könnt ihr 1 Minute spielen afk gehen nach 3 Minuten einen Magnet einsammeln und afk gehen, bis die 8 Minuten um sind. Die 30 Hauptkaptiel erledigt ihr durch nur starten und direkt wieder beenden/abbrechen. Die 10 Spezialeinsätze sind jeden Tag Pflichtprogramm, dazu gibt es aber auch gelbe Karten um diese ohne spielen abzuschließen. 300 Truhen öffnen ist meistens nicht notwendig. Meistens reichen 100. Dafür müsst ihr fleißig Schlüssel samneln und dafür aufbewahren. Das Ziel sollte sein eine S Truhe zu bekommen. Kann aber auch variieren. Truhen sollte ihr also nur während eines Event öffnen. Mit Diamanten die ihr am Besten auch nur für Events aufspaart, können noch weitere gute zusätzliche Rewards erlangen. Durch öffnen von 300 Truhen und investern von Diamante könnt ihr zusäzlich Relic Cores, rote Sammelobjekttruhe oder Resonanzchips oder ähnliches gute Rewards zusätzlich zu S-Truhe erlangen. Wenn ihr hinterher die Punkte gegen Rewards eintauscht holt ihr euch weitere Schlüssel, um für das nächste Event wieder 300 Truhen öffnen zu können. Evtl. müsst ihr ein Event auch mal mit Schlüssen und Diamenten mal aussetzen um zu sparen.
 
 # Waffen   
 Welche Waffen sind gut:
@@ -98,6 +98,11 @@ Auf dem ersten gelben Schmiedeeffekt stellt der Handschuhe 1% HP bei einem kriti
 #### Leerenwandler Handschutz
 Dies ist ein super Handschutz für den Kampf gegen Bossmonster.
 Auf dem ersten gelben Schmiedeeffekt macht dieser einen doppelten Treffer an normalen Monstern und Bossen.
+### Rüstung
+#### Immerwähr. Panzer
+Wenn ihr sterbt werden ihr zusätzlich 1-2 Wiederbelegt. Wenn ihr Wiederbelegt werdet habt ihr 15% mehr ATK.
+#### Rüstung von Quietus
+Wenn ihr einmal gestorben seit könnt ihr weiterspielen für eine gewisse Sekundenanzahl. Wenn die Rüsten die Qualität rot erreicht seit ihr sozusagen Unsterblich, solange es genügend Monstermobs gibt und ihr innerhalb der Sekundenanzahl den Boss töten könnt. (auch genannt death walker build)
 
 
 ## SS items
@@ -110,13 +115,16 @@ Die Lanze ist die finale Waffe die ihr haben wollt und auch das erste sinvolle S
 Hiermit bekommt ihr ein zusätzliches Defensives Feature, einen Energieschild, Boni für krit. und Fertigkeitsschaden, sind auch mit dabei. Passive Fertigkeiten könnt ihr 6 mal im Spiel aufleveln. Also ATK auf 60%. Wichtig hier schnell den 1. und 3. Schmiedeeffekt sich zu holen. Aktuelle finale Halskette.
 
 ### Mondnarbe Armschutz
-Wird erst richtig gut wenn ihr über die 100 % krit Rate kommt. Daher vielleicht lieber länger die S Gloves verwenden. Feuert sonst einen Laser auf ein Bossmonster und gute Angriffsboni.
+Wird erst richtig gut wenn ihr über die 100 % krit Rate kommt. Daher vielleicht lieber länger die S Gloves verwenden. Feuert sonst einen Laser auf ein Bossmonster und gute Angriffsboni. Während der 10 Sekunden solltet ihr natürlich die ganze Zeit den Boss angreifen.
 
 ### Sternenstaub Schärpe
 Ist auf Schmiedeeffekt 5 gut. Leider muss damit der Schaden richtig zur Geltung kommt viele Treffer vorher an Monstern hinbekommen und auch fast keinen Schaden einstecken.
 
 ### Immerleere Rüstung 
 eher unbeliebt, sehr viele nutzen lieber weiter die S Rüstungen. Lieber die Ressourcen erstmal in die anderen SS items stecken.
+
+### Gletscher-Kriegsstifel
+sind wohl besser als die Leerenwandler-Treter vorallem wenn ihr den 1. und 3. Schmiedeeffekt habt.
 
 # Charakter
 Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Ihr solltet euch aber nur auf ATK oder krit. konzentrieren und euch lieber auf einen Char fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40 pushen.
@@ -176,7 +184,7 @@ In folgender Reihenfolge Waffen und Fertigkeiten auswählen wenn sie kommen.
 2. Hauptwaffe
 3. Panda Ying Yang
 4. ATK / ANG
-5. Magnet (aber nur einmal)
+5. Magnet (aber nur einmal, außer ihr habt die Omni-Schwerkraft aus der Entwicklung)
 6. Mehr Exp
 7. Abklingzeit
 8. Fußballschuhe (wenn Leerwandlertreter)
@@ -206,8 +214,8 @@ Nicht so wichtig, könnt ihr zwischendurch irgendwann mal spielen, wenn ihr noch
 # Zonenoperation
 Aufwendig zu spielen, nicht ganz so wichtig. Benötigt auch ein gewisses Level und Equipment um es durchgespielt zu bekommen. Hier könnt aber hier S items erlangen. Für Menschen die eine Herrausforderung mögen genau das Richtige. Hier braucht ihr die Leerenmacht Waffe und die Rüstung von Quietus auf rot. Zumindestens ist das meine Erfahrung.
 
-# Entwickelung
-Zurerst müßt ihr ein Hauptkapitel druchspielen damit ihr die 3 Hauptherausforderungen zu einem Level spielen könnt. Bei den zweiten und dritten Schwierigkeitsgrad bekommt ihr Gold-DNA. Dadurch könnt ihr eure passiven Fähigkeiten erhöhen und mehr Equipment durch Monsterdrops bekommen. Wichtig das ihr hier nach und nach auch vorran kommt. Wichtig ist das ihr am Anfang mehr Drops durch Items bekommt. So könnt ihr schneller euer Equipment upgraden.
+# Entwicklung
+Zurerst müßt ihr ein Hauptkapitel druchspielen damit ihr die 3 Hauptherausforderungen zu einem Level spielen könnt. Bei den zweiten und dritten Schwierigkeitsgrad bekommt ihr Gold-DNA. Dadurch könnt ihr eure passiven Fähigkeiten erhöhen und mehr Equipment durch Monsterdrops bekommen. Wichtig das ihr hier nach und nach auch vorran kommt. Wichtig ist das ihr am Anfang mehr Drops durch Items bekommt. So könnt ihr schneller euer Equipment upgraden. Spiel am Besten direkt die schwierigste Hauptherausforderung, dann sind die ersten beiden Schwierigkeitsgrade direkt miterledigt und ihr bekommt alle 3 Truhen auf einmal.
 
 # Karten
 Ihr könnten oben links unter dem M - Kartensymbol euch für 9000 Diamanten die Dauerhafte Privilegienkarte holen. Diese rentiert sich auf Dauer. Ihr bekommt jeden Tag einen Schlüssel und 50 Diamanten. Nach einem halben Jahr seit ihr dann mit den Diamanten im Plus. Aber durch den Schlüssel rentiert sich das sicher noch eher.
@@ -227,7 +235,7 @@ Die ersten 4 sind Pflichtprogramm und eigentlich auch in einer dreiviertel Stund
 8. Wochenende einmal Clanexpedition Bosskampf
 9. täglich einmal Clanerkundung
 10. wöchentlich 1 Hauptkapitel
-11. wöchentlich die 3 Hauptkapitel Herausforderungen
+11. wöchentlich schwierigste Hauptkapitel Herausforderungen
 
 ... die Tage gehts weiter.
 
@@ -238,3 +246,7 @@ Es gibt zwei Youtuber Playme und Phasecast die unzählige Video erstellt haben.
 externer Link die Kalulatoren und Inhalte haben nichts mit diesem Wiki zu tun:
 https://danke007.com/
 Es ist ratsam den Googletranslator zu verwenden.
+
+# Codes
+Alle paar Wochen gibt es Codes diese können hier eingelöst werden. Eure ID findet ihr in den Einstellunge
+https://gift.survivorio.com/
