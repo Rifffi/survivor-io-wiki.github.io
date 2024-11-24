@@ -206,7 +206,7 @@ Ying und Yang den debuff auf die Verteidigung auslösen sonst nur die Handfläch
 
 Den Boss so laufen lassen das Exp eingesammelt werden aber noch Schaden mit den Drohnen erzeugt wird. Am Anfang kann auch eine Runde gelaufen werden um Exp einzusammeln. Besonders am Ende wird der meiste Schaden erzeugt da alle Waffe gut ausgebildet sind.
 
-Einige Boss rennen wie bekloppt über den Bildschirm. Dort so rumprobieren damit er in einer Ecke bleibt oder nir hoch und runter läuft.
+Einige Boss rennen wie bekloppt über den Bildschirm. Dort so rumprobieren damit er in einer Ecke bleibt oder nur hoch und runter läuft.
 
 # Pfad der Prüfungen
 Sollte ihr einmal die Woche spielen und mindestens 1 Level vorankommen damit ihr einmal die Rewards einsammelt. Spielt nicht zuviele Level sonst kommt ihr nächste Woche dann garnicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben.
@@ -224,10 +224,10 @@ Zurerst müßt ihr ein Hauptkapitel druchspielen damit ihr die 3 Hauptherausford
 Ihr könnten oben links unter dem M - Kartensymbol euch für 9000 Diamanten die Dauerhafte Privilegienkarte holen. Diese rentiert sich auf Dauer. Ihr bekommt jeden Tag einen Schlüssel und 50 Diamanten. Nach einem halben Jahr seit ihr dann mit den Diamanten im Plus. Aber durch den Schlüssel rentiert sich das sicher noch eher.
 
 # Clan Shop
-Hier könnte ihr eure im Clan verdientn Münzen gegeben Rewards eintauchen. Am besten die Yang Scherben und rotes Sammelobjekt Truhe holen. Die Qualität der Belohungen für alle gleich zu sein.
+Hier könnte ihr eure im Clan verdientn Münzen gegeben Rewards eintauchen. Am besten die Yang Scherben und rotes Sammelobjekt Truhe holen. Die Qualität der Belohungen scheinen für alle gleich zu sein egal wie gut der Clan ist.
 
 # Allgemeines
-Dieses Wiki basiert auf F2P. Free to play. Ihr könnt in dem Spiel euch zusätzliche Diamante gegen richtiges Geld kaufen oder auch Items. Ebenfalls könnt ihr Werbung schauen um zusätzliche Rewards zu bekommen. Dies verändert ggf. einige Sichtweisen und wurde hier nicht berücksichtigt.
+Dieses Wiki basiert auf F2P. Free to play. Ihr könnt in dem Spiel euch zusätzliche Diamanten gegen richtiges Geld kaufen oder auch Items. Ebenfalls könnt ihr Werbung schauen um zusätzliche Rewards zu bekommen. Dies verändert ggf. einige Sichtweisen und wurde hier nicht berücksichtigt. Auch wichtig die Equipmentbeschreibung genau durchzulesen und zu verstehen.
 
 # optimal spielen
 Die ersten 4 sind Pflichtprogramm und eigentlich auch in einer dreiviertel Stunde zu schaffen. Die weiteren Punkte sind tagesabhängig und auch zeitlich flexibeler in der Absolvierung.
@@ -254,4 +254,4 @@ https://danke007.com/
 Es ist ratsam den Googletranslator zu verwenden.
 
 # Codes
-Alle paar Wochen gibt es Codes diese können hier: https://gift.survivorio.com/ eingelöst werden. Eure ID findet ihr in den Einstellungen
+Alle paar Wochen gibt es Codes diese können hier: https://gift.survivorio.com/ eingelöst werden. Eure ID findet ihr in den Einstellungen im Spiel.
