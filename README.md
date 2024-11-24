@@ -1,4 +1,4 @@
-Translate to [english](https://github-com.translate.goog/Rifffi/survivor-io-wiki.github.io/blob/main/README.md?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+Translate to [english](https://github-com.translate.goog/Rifffi/survivor-io-wiki.github.io/blob/main/README.md?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp). :-D
 # survivor-io-wiki
 Wiki für das Spiel survior.io
 
