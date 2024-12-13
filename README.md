@@ -179,7 +179,7 @@ Die Raketen werden schneller wieder abgeschossen. Auch gut für mehr Schaden an 
 Hier könnte ihr durch die Objekte allemein nochmal mehr ATK und HP b.ekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment eine Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden. Es lohnt sich ggf. darauf zu konzentieren. Auch das Präzionsgeräte ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen. Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen.
 
 # Echo des Endes
-Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char upzugraden.
+Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char upzugraden. Hier könnt ihr starten und sofort wieder beenden bekommt aber nicht alle Belohnungen wie die tech. Teile.
 
 ## Tips für viel Schaden
 In folgender Reihenfolge Waffen und Fertigkeiten auswählen wenn sie kommen.
