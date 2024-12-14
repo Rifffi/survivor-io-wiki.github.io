@@ -140,6 +140,9 @@ Für die letzten gelben Stern benötigt ihr 400 Scherben. Für die erwachen Ster
 ## Metallica
 ist aktuell der wohl Beste Charakter. Jedoch dauert es auch bis hier ihr angekommen seit.
 
+## Teamarbeit passiv
+Wenn euer Charakter erwacht ist und dieser 3 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 10% Atk auf Drohnenschaden.
+
 # Kritische Treffer
 Es gibt viele Möglichkeiten um eure krit. Rate zu verbessern. Über Equipment, Sammelobjkte, Chars (Panda 20%), Fertigkeiten, Tiere und 
 Entwicklung (8%).
