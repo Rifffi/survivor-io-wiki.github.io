@@ -262,5 +262,7 @@ Es ist ratsam den Googletranslator zu verwenden.
 Mit dieser Seite könnt ihr die optimale Zusammenstellung für Bosskämpfe in den verschiedenen Modi errechnen lassen. Dort gebt ihr die Anzahl eurer Relikt Kerne ein und Dinge die ihr sonst so habt. Der Calculator errechnet euch die perfekte Zuteilung der Kerne. Dies könnt ihr vor jedem Kampf durch Abwerten und Aufwerten der Ausrüstung justieren. Dafür die Ausrüstung anklicken und oben rechts den rozen Recycling Button drücken. Der Kalkulator hat nichts mit diesem Wiki zu tun:
 https://danke007.com/calc/damage-increase
 
+Damit ihr eure Zusammenstellung einfach wechseln könnt gibt es in der Astrahlschmiede die Speicherung eurer Relikt Kern Zusammenstellung.
+
 # Codes
 Alle paar Wochen gibt es Codes diese können hier: https://gift.survivorio.com/ eingelöst werden. Eure ID findet ihr in den Einstellungen im Spiel.
