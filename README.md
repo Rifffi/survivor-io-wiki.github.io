@@ -124,7 +124,7 @@ Ist auf Schmiedeeffekt 5 gut. Leider muss damit der Schaden richtig zur Geltung 
 eher unbeliebt, sehr viele nutzen lieber weiter die S Rüstungen. Lieber die Ressourcen erstmal in die anderen SS items stecken.
 
 ### Gletscher-Kriegsstifel
-sind wohl besser als die Leerenwandler-Treter vorallem wenn ihr den 1. und 3. Schmiedeeffekt habt.
+sind wohl besser als die Leerenwandler-Treter vorallem wenn ihr den 1. und 3. Schmiedeeffekt habt. Die Monster müssen dazu aber auch eingefrohren werden.
 
 # Charakter
 Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Ihr solltet euch aber nur auf ATK oder krit. konzentrieren und euch lieber auf einen Char fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40 pushen.
@@ -133,6 +133,7 @@ Jeder Char kann 6 gelbe Sterne bekommen durch Scherben. Danach kann dieser Erwac
 
 ## King
 ist die Wahl nach dem Startcharakter. Seine zusätzliche Fähigkeit mehr kritische Treffer zu erhalten, helfen um viel mehr Schaden zu machen.
+
 ## Panda
 darauf liegt der Fokus bis ihr eine Kritrate größer 80-90% hat danach nehmt ihr Metallica. Ist aber vielleicht auch Geschmacksache. Panda hat eine aktive Fähigkeit. Ying und Yang. Dieser ermöglicht euch diese Fähigkeit zur Verteidigung oder zum Angriff (+20 krit. Rate mit den Handflächen) einzusetzen. Auch diese Fähigkeit kann zur Superwaffe werden. Die KI Kugeln (Bollwerk) können als Superwaffe ein Debuff (-50%) auf die Monsterverteidung erwirken. Dies hilft um mehr Schaden an Bossmonster zu erlangen. Nachdem ihr den Debuff an einem Bossmonster durchgeführt habt wechselt ihr auf die Feuerhand. Der Debuff wird auch in der violetten Leiste vom Boss angezeigt.
 Für die letzten gelben Stern benötigt ihr 400 Scherben. Für die erwachen Sterne (Rot), werden auch Scherben, Erwachenkerne und blaue Scherben benötigt.
@@ -155,13 +156,13 @@ Flächenschaden gut gegen Mobs. Könnt euch gut mit eurem Char dort reinstellen.
 ## Merika
 Wenn erwacht, ist dieser gut gegen Bossmonster, da single traget. Federschüsse.
 ## Rex
-Macht wohl aber 200.000 ATK mehr Schaden als Merika. Dies dauert aber bis ihr mal dort seit.
+Macht wohl ab 200.000 ATK mehr Schaden als Merika. Dies dauert aber bis ihr mal dort seit. Aktuell das finale Pet.
 
-Ihr könnt zwei unterstützer Tiere positionieren. Jedes Tier hat eine Unterstützenfähigkeit. Das ist die im oberen rechten Feld beschrieben. Hier macht 10% mehr ATK auf jeden Fall sinn. Das Fähgikeit durchdringen Gegner ist auch gut. z.B. in kompination mit Merika. Bei Quak macht dies natürlich keine Sinn. Dort ist mehr Reichweite sinniger.
+Ihr könnt zwei unterstützer Tiere positionieren. Jedes Tier hat eine Unterstützenfähigkeit. Das ist die im oberen rechten Feld beschrieben. Hier macht 10% mehr ATK auf jeden Fall sinn. Das Fähgikeit durchdringen Gegner ist auch gut. z.B. in kompination mit Merika. Bei Quak macht dies natürlich keinen Sinn. Dort ist mehr Reichweite sinniger.
 
 # tech. Teile
 ## Präzisionsgerät
-Ist für die beiden Drohne. Immer bevorzugt upgraden. Solltet ihr als erstes auf rot bekommen. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
+Ist für die beiden Drohne. Immer bevorzugt upgraden. Solltet ihr als erstes auf rot bekommen später dann auf pink/lila/leuchtend. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
 
 ##  Quantum Polisator
 Ist für den Fußball. 30% Schaden das gibt nochmal mehr Schaden auch bei Bossmonstern.
@@ -262,7 +263,9 @@ Es ist ratsam den Googletranslator zu verwenden.
 Mit dieser Seite könnt ihr die optimale Zusammenstellung für Bosskämpfe in den verschiedenen Modi errechnen lassen. Dort gebt ihr die Anzahl eurer Relikt Kerne ein und Dinge die ihr sonst so habt. Der Calculator errechnet euch die perfekte Zuteilung der Kerne. Dies könnt ihr vor jedem Kampf durch Abwerten und Aufwerten der Ausrüstung justieren. Dafür die Ausrüstung anklicken und oben rechts den rozen Recycling Button drücken. Der Kalkulator hat nichts mit diesem Wiki zu tun:
 https://danke007.com/calc/damage-increase
 
-Damit ihr eure Zusammenstellung einfach wechseln könnt gibt es in der Astrahlschmiede die Speicherung eurer Relikt Kern Zusammenstellung.
+Damit ihr eure Zusammenstellung einfach wechseln könnt gibt es in der Astrahlschmiede die Speicherung eurer Relikt Kern Zusammenstellung (SS speichern wiederherstellen). 
+
+Der Vorteil der Lanze bei Echo des Endes auf einem Stern auf Lvl 3 zu starten geht in dem Kalkulator etwas unter. Genauso kommt es auch auf das können jedes einzelnen an mit der Zusammenstellung umzugehen und sie entsprechend für sich zu nutzen.
 
 # Codes
 Alle paar Wochen gibt es Codes diese können hier: https://gift.survivorio.com/ eingelöst werden. Eure ID findet ihr in den Einstellungen im Spiel.
