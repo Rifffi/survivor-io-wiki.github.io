@@ -211,6 +211,8 @@ Den Boss so laufen lassen das Exp eingesammelt werden aber noch Schaden mit den 
 
 Einige Boss rennen wie bekloppt über den Bildschirm. Dort so rumprobieren damit er in einer Ecke bleibt oder nur hoch und runter läuft.
 
+Für die perfekte Equipment Zusammenstellung siehe Abschnitt Equipment optimieren.
+
 # Pfad der Prüfungen
 Sollte ihr einmal die Woche spielen und mindestens 1 Level vorankommen damit ihr einmal die Rewards einsammelt. Spielt nicht zuviele Level sonst kommt ihr nächste Woche dann garnicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben.
 
@@ -255,6 +257,10 @@ Es gibt zwei Youtuber Playme und Phasecast die unzählige Video erstellt haben.
 externer Link die Kalulatoren und Inhalte haben nichts mit diesem Wiki zu tun:
 https://danke007.com/
 Es ist ratsam den Googletranslator zu verwenden.
+
+## Equipment optimieren
+Mit dieser Seite könnt ihr die optimale Zusammenstellung für Bosskämpfe in den verschiedenen Modi errechnen lassen. Dort gebt ihr die Anzahl eurer Relikt Kerne ein und Dinge die ihr sonst so habt. Der Calculator errechnet euch die perfekte Zuteilung der Kerne. Dies könnt ihr vor jedem Kampf durch Abwerten und Aufwerten der Ausrüstung justieren. Dafür die Ausrüstung anklicken und oben rechts den rozen Recycling Button drücken. Der Kalkulator hat nichts mit diesem Wiki zu tun:
+https://danke007.com/calc/damage-increase
 
 # Codes
 Alle paar Wochen gibt es Codes diese können hier: https://gift.survivorio.com/ eingelöst werden. Eure ID findet ihr in den Einstellungen im Spiel.
