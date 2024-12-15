@@ -211,7 +211,7 @@ Den Boss so laufen lassen das Exp eingesammelt werden aber noch Schaden mit den 
 
 Einige Boss rennen wie bekloppt über den Bildschirm. Dort so rumprobieren damit er in einer Ecke bleibt oder nur hoch und runter läuft.
 
-Für die perfekte Equipment Zusammenstellung siehe Abschnitt Equipment optimieren.
+Für die perfekte Equipment Zusammenstellung siehe Abschnitt: Equipment optimieren. Für den Expedition Bosskampf gilt eine andere Zusammenstellung als für Echo des Endes.
 
 # Pfad der Prüfungen
 Sollte ihr einmal die Woche spielen und mindestens 1 Level vorankommen damit ihr einmal die Rewards einsammelt. Spielt nicht zuviele Level sonst kommt ihr nächste Woche dann garnicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben.
