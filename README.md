@@ -141,8 +141,11 @@ Für die letzten gelben Stern benötigt ihr 400 Scherben. Für die erwachen Ster
 ## Metallica
 ist aktuell der wohl Beste Charakter. Jedoch dauert es auch bis hier ihr angekommen seit.
 
+## Joey
+Wenn ihr genügend krit. Rate habt ist das wahrscheinlich der beste Charakter aktuell.
+
 ## Teamarbeit passiv
-Wenn euer Charakter erwacht ist und dieser 3 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 10% Atk auf Drohnenschaden.
+Wenn euer Charakter erwacht ist und dieser 3 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden wenn zum Zerstörer entwickelt wird. Wurm gibt 10% Krit. Schaden wenn weniger als 3 Monster sichtbar sind.
 
 # Kritische Treffer
 Es gibt viele Möglichkeiten um eure krit. Rate zu verbessern. Über Equipment, Sammelobjkte, Chars (Panda 20%), Fertigkeiten, Tiere und 
@@ -189,7 +192,7 @@ Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char
 In folgender Reihenfolge Waffen und Fertigkeiten auswählen wenn sie kommen.
 1. Beide Drohnen bis zum Zerstörer 
 2. Hauptwaffe
-3. Panda Ying Yang
+3. Char Fertigkeit z.B.: Panda Ying Yang
 4. ATK / ANG
 5. Magnet (aber nur einmal, außer ihr habt die Omni-Schwerkraft aus der Entwicklung)
 6. Mehr Exp
@@ -204,7 +207,7 @@ Zusätzlich schaut das alle 6 Slots mit Waffen belegt werden, sonst ist es schwi
 
 Je mehr Exp man erhält, desto besser werden einige Eigenschaften von Waffen und das Tier.
 
-Immerwährende Rüstung. So früh wie möglich einmal Sterben wegen 15% mehr Schaden nach Wiederbelebung und weitere Fertigkeitsauswahl.
+Immerwährende Rüstung. So früh wie möglich einmal Sterben wegen 15% (20%) mehr Schaden nach Wiederbelebung und weitere Fertigkeitsauswahl.
 
 Ying und Yang den debuff auf die Verteidigung auslösen sonst nur die Handflächen nutzen.
 
@@ -221,7 +224,7 @@ Sollte ihr einmal die Woche spielen und mindestens 1 Level vorankommen damit ihr
 Nicht so wichtig, könnt ihr zwischendurch irgendwann mal spielen, wenn ihr noch Lust und Zeit habt.
 
 # Zonenoperation
-Aufwendig zu spielen, nicht ganz so wichtig. Benötigt auch ein gewisses Level und Equipment um es durchgespielt zu bekommen. Hier könnt aber hier S items erlangen. Für Menschen die eine Herrausforderung mögen genau das Richtige. Hier braucht ihr die Leerenmacht Waffe und die Rüstung von Quietus auf rot. Zumindestens ist das meine Erfahrung. Wenn ihr alle 20 Stufen durchgespielt habt und die Season vorbei ist braucht ihr hinterher in der nächsten Season nicht jedes Level doppelt zu spielen. Ihr erhaltet auch direkt die Rewards von ersten ersten durchspielen ausbezahlt.
+Aufwendig zu spielen, nicht ganz so wichtig. Benötigt auch ein gewisses Level und Equipment um es durchgespielt zu bekommen. Hier könnt aber hier S items erlangen. Für Menschen die eine Herrausforderung mögen genau das Richtige. Hier braucht ihr die Leerenmacht Waffe und die Rüstung von Quietus auf rot. Zumindestens ist das meine Erfahrung. Wenn ihr alle 20 Stufen durchgespielt habt und die Season vorbei ist braucht ihr hinterher in der nächsten Season nicht jedes Level doppelt zu spielen. Ihr erhaltet auch direkt die Rewards von ersten ersten durchspielen ausbezahlt. Gelbe Tropfen gibt es hier ebenfalls.
 
 # Entwicklung
 Zurerst müßt ihr ein Hauptkapitel druchspielen damit ihr die 3 Hauptherausforderungen zu einem Level spielen könnt. Bei den zweiten und dritten Schwierigkeitsgrad bekommt ihr Gold-DNA. Dadurch könnt ihr eure passiven Fähigkeiten erhöhen und mehr Equipment durch Monsterdrops bekommen. Wichtig das ihr hier nach und nach auch vorran kommt. Wichtig ist das ihr am Anfang mehr Drops durch Items bekommt. So könnt ihr schneller euer Equipment upgraden. Spiel am Besten direkt die schwierigste Hauptherausforderung, dann sind die ersten beiden Schwierigkeitsgrade direkt miterledigt und ihr bekommt alle 3 Truhen auf einmal.
@@ -239,7 +242,7 @@ Dieses Wiki basiert auf F2P. Free to play. Ihr könnt in dem Spiel euch zusätzl
 Die ersten 4 sind Pflichtprogramm und eigentlich auch in einer dreiviertel Stunde zu schaffen. Die weiteren Punkte sind tagesabhängig und auch zeitlich flexibeler in der Absolvierung.
 1. jeden Tag Enders Echo zweimal
 2. Alle drei Tage einmal Regelmäßige Herausforderung (direkt am Besten Alptraum)
-3. Jeden Tag 10 Spezialeinsätze (lieber nicht Alle Bosse)
+3. Jeden Tag 10 Spezialeinsätze (lieber nicht alle Bosse)
 4. 100 Punkte im Missionscenter
 5. Einmal die Woche Pfad der Prüfung spielen
 6. während Event zweimal täglich Hauptkapitel 4 spielen.
