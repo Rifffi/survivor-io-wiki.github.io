@@ -74,6 +74,8 @@ Gold bekommt ihr eigentlich genug, Daher meistens nicht so wichtig.
 Dadruch bekommt ihr schneller und mehr Exp. um die Waffen und passiven Fähigkeiten zur erhalten. Ihr bekommt aber nicht mehr Exp um eueren Charakter hochzuleveln.
 ## Exoskelett
 Einige Waffeneffekte bleiben länger aktiv. Bei der Superwaffe Lanze bleiben die gelben Kreise länger stehen, so das nicht zwei sondern auch drei Parallel existieren können.
+## Waldläufer Panzer
+Reduziert den Schaden den ihr bekommt. Ist sinnvoller auszuwählen wenn ihr ein Lvl oder Bods nicht schafft als den Heilungsfertigkeit.
 
 Um maximalen Schaden zu erlangen eignen sich daher: ATK, Abklingzeit, Fluggeschwindigkeit, 
 Laufgeschwindigkeit, Reichweite, Exposkelett, (Gold für die +10% durch rotes tech. Teil und Brandflasche) 
