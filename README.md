@@ -141,7 +141,7 @@ darauf liegt der Fokus bis ihr eine Kritrate größer 80-90% hat danach nehmt ih
 Für die letzten gelben Stern benötigt ihr 400 Scherben. Für die erwachen Sterne (Rot), werden auch Scherben, Erwachenkerne und blaue Scherben benötigt.
 
 ## Metallica
-ist aktuell der wohl Beste Charakter. Jedoch dauert es auch bis hier ihr angekommen seit.
+ist aktuell wohl etwas besser als Yang. Aber nur wenn ihr eine hohe krit Rate habt. Jedoch dauert es auch bis hier ihr angekommen seit.
 
 ## Joey
 Wenn ihr genügend krit. Rate habt ist das wahrscheinlich der beste Charakter aktuell.
@@ -273,4 +273,4 @@ Damit ihr eure Zusammenstellung einfach wechseln könnt gibt es in der Astrahlsc
 Der Vorteil der Lanze bei Echo des Endes auf einem Stern auf Lvl 3 zu starten geht in dem Kalkulator etwas unter. Genauso kommt es auch auf das können jedes einzelnen an mit der Zusammenstellung umzugehen und sie entsprechend für sich zu nutzen.
 
 # Codes
-Alle paar Wochen gibt es Codes diese können hier: https://gift.survivorio.com/ eingelöst werden. Eure ID findet ihr in den Einstellungen im Spiel.
+Alle paar Wochen gibt es Codes diese können hier: https://gift.survivorio.com/ eingelöst werden. Eure ID findet ihr in den Einstellungen im Spiel. Diese sind von der Hauptseite über die drei Striche zu erreichen.
