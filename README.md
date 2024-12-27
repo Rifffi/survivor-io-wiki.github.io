@@ -219,6 +219,13 @@ Einige Boss rennen wie bekloppt über den Bildschirm. Dort so rumprobieren damit
 
 Für die perfekte Equipment Zusammenstellung siehe Abschnitt: Equipment optimieren. Für den Expedition Bosskampf gilt eine andere Zusammenstellung als für Echo des Endes.
 
+### Expedition
+Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellung zu erreichen. Wenn ihr eine Drone mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden wenn ihr weitere Diamanten ausgebt.
+
+Für fast optimalen Schaden:
+Zerstörer, Charakter Fähigkeit, ATK, Schuhe, Geschwindigkeit, Abklingzeit, Reichweite
+Waldläufer-Panzer wenn ihr immer vorher sterbt.
+
 # Pfad der Prüfungen
 Sollte ihr einmal die Woche spielen und mindestens 1 Level vorankommen damit ihr einmal die Rewards einsammelt. Spielt nicht zuviele Level sonst kommt ihr nächste Woche dann garnicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben.
 
