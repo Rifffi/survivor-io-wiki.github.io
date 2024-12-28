@@ -76,12 +76,12 @@ Dadruch bekommt ihr schneller und mehr Exp. um die Waffen und passiven Fähigkei
 Einige Waffeneffekte bleiben länger aktiv. Bei der Superwaffe Lanze bleiben die gelben Kreise länger stehen, so das nicht zwei sondern auch drei Parallel existieren können.
 ## Waldläufer Panzer
 Reduziert den Schaden den ihr bekommt. Ist sinnvoller auszuwählen wenn ihr ein Lvl oder Bods nicht schafft als den Heilungsfertigkeit.
-
+## optimale Zusammenstellung
 Um maximalen Schaden zu erlangen eignen sich daher: ATK, Abklingzeit, Fluggeschwindigkeit, 
-Laufgeschwindigkeit, Reichweite, Exposkelett, (Gold für die +10% durch rotes tech. Teil und Brandflasche) 
+Laufgeschwindigkeit, Reichweite, Exoskelett, (Gold für die +10% durch rotes tech. Teil und Brandflasche) 
 
 # Equipment
-Wichtig ATK geht immer vor HP. Sprich Hauptwaffe, Kette und Handschuhe gehen vor Rüstung, Gürtel und Schuhe. Was vor geht immer bevorzugt upgraden. Am meisten konzentiert ihr euch auf Bossequipment. Aber auch Mobequipment wird hier und da benötigt, aber vielleicht nicht ganz so stark upgegradet. Ihr müsst viel Gedult mitbringen damit euer Equipment richtig gut wird.
+Wichtig ATK geht immer vor HP. Sprich Hauptwaffe, Kette und Handschuhe gehen vor Rüstung, Gürtel und Schuhe. Was vor geht immer bevorzugt upgraden. Mit dem SS-Equipment ändert sich dies unter gewissen Umständen etwas. Am meisten konzentiert ihr euch auf Bossequipment. Aber auch Mobequipment wird hier und da benötigt, aber vielleicht nicht ganz so stark upgegradet. Ihr müsst viel Gedult mitbringen damit euer Equipment richtig gut wird. 
 
 Am Anfang nutzt ihr das Standardequipment.
 Baseballschläger für Mobs. Kunai gegen Bossmonster. Seht zu das ihr S Equipment bekommt und danach SS Equipment
@@ -137,7 +137,7 @@ Jeder Char kann 6 gelbe Sterne bekommen durch Scherben. Danach kann dieser Erwac
 ist die Wahl nach dem Startcharakter. Seine zusätzliche Fähigkeit mehr kritische Treffer zu erhalten, helfen um viel mehr Schaden zu machen.
 
 ## Panda
-darauf liegt der Fokus bis ihr eine Kritrate größer 80-90% hat danach nehmt ihr Metallica. Ist aber vielleicht auch Geschmacksache. Panda hat eine aktive Fähigkeit. Ying und Yang. Dieser ermöglicht euch diese Fähigkeit zur Verteidigung oder zum Angriff (+20 krit. Rate mit den Handflächen) einzusetzen. Auch diese Fähigkeit kann zur Superwaffe werden. Die KI Kugeln (Bollwerk) können als Superwaffe ein Debuff (-50%) auf die Monsterverteidung erwirken. Dies hilft um mehr Schaden an Bossmonster zu erlangen. Nachdem ihr den Debuff an einem Bossmonster durchgeführt habt wechselt ihr auf die Feuerhand. Der Debuff wird auch in der violetten Leiste vom Boss angezeigt.
+darauf liegt der Fokus bis ihr eine Kritrate größer 80-90% hat danach nehmt ihr Joey. Ist aber vielleicht auch Geschmacksache. Panda hat eine aktive Fähigkeit. Ying und Yang. Dieser ermöglicht euch diese Fähigkeit zur Verteidigung oder zum Angriff (+20 krit. Rate mit den Handflächen) einzusetzen. Auch diese Fähigkeit kann zur Superwaffe werden. Die KI Kugeln (Bollwerk) können als Superwaffe ein Debuff (-50%) auf die Monsterverteidung erwirken. Dies hilft um mehr Schaden an Bossmonster zu erlangen. Nachdem ihr den Debuff an einem Bossmonster durchgeführt habt wechselt ihr auf die Feuerhand. Der Debuff wird auch in der violetten Leiste vom Boss angezeigt.
 Für die letzten gelben Stern benötigt ihr 400 Scherben. Für die erwachen Sterne (Rot), werden auch Scherben, Erwachenkerne und blaue Scherben benötigt.
 
 ## Metallica
@@ -150,9 +150,10 @@ Wenn ihr genügend krit. Rate habt ist das wahrscheinlich der beste Charakter ak
 Wenn euer Charakter erwacht ist und dieser 3 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden wenn zum Zerstörer entwickelt wird. Wurm gibt 10% Krit. Schaden wenn weniger als 3 Monster sichtbar sind.
 
 # Kritische Treffer
-Es gibt viele Möglichkeiten um eure krit. Rate zu verbessern. Über Equipment, Sammelobjkte, Chars (Panda 20%), Fertigkeiten, Tiere und 
+Es gibt viele Möglichkeiten um eure krit. Rate zu verbessern. Über Equipment, Sammelobjekte , Chars (Panda 20%), Fertigkeiten, Tiere und 
 Entwicklung (8%).
 Mit den ss gloves ist eine Rate über 100% sogar sehr gut. Über 100% gibt es einen Boni auf den krit. Schaden.
+Auf der Seite mit den Sammelobjekten gibt es oben rechts einen Button wo alle Werte die ihr erlangt habe zusammengefasst sind.
 
 # Tiere
 Kauft euch jeden Tag einmal die Tiermünzen. Mit jedem Mal kaufen steigt der Preis. Nach einem Tag wird der Preis zurückgesetzt. Je höher das Hauptkapitel desto mehr Münzen und teurer wird es. 3000 Stück ist aber Maximum.
@@ -185,7 +186,7 @@ Die Steine gehen durch alle Gegner
 Die Raketen werden schneller wieder abgeschossen. Auch gut für mehr Schaden an Bossmonstern
 
 # Sammelobjekte
-Hier könnte ihr durch die Objekte allemein nochmal mehr ATK und HP b.ekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment eine Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden. Es lohnt sich ggf. darauf zu konzentieren. Auch das Präzionsgeräte ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen. Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen.
+Hier könnte ihr durch die Objekte allgemein nochmal mehr ATK und HP bekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment einen Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden. Es lohnt sich ggf. darauf zu konzentieren. Auch das Präzionsgeräte ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen (lila). Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen.
 
 # Echo des Endes
 Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char upzugraden. Hier könnt ihr starten und sofort wieder beenden bekommt aber nicht alle Belohnungen wie die tech. Teile.
@@ -199,7 +200,7 @@ In folgender Reihenfolge Waffen und Fertigkeiten auswählen wenn sie kommen.
 5. Magnet (aber nur einmal, außer ihr habt die Omni-Schwerkraft aus der Entwicklung)
 6. Mehr Exp
 7. Abklingzeit
-8. Fußballschuhe (wenn Leerwandlertreter)
+8. Fußballschuhe (wenn Leerwandlertreter oder ss Schuhe)
 10. Schussgeschwindigkeit
 11. Fussball
 12. Blitz
@@ -224,7 +225,7 @@ Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellu
 
 Für fast optimalen Schaden:
 Zerstörer, Charakter Fähigkeit, ATK, Schuhe, Geschwindigkeit, Abklingzeit, Reichweite
-Waldläufer-Panzer wenn ihr immer vorher sterbt.
+Waldläufer-Panzer wenn nicht die ganze Zeit durchhaltet.
 
 # Pfad der Prüfungen
 Sollte ihr einmal die Woche spielen und mindestens 1 Level vorankommen damit ihr einmal die Rewards einsammelt. Spielt nicht zuviele Level sonst kommt ihr nächste Woche dann garnicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben.
@@ -272,12 +273,12 @@ https://danke007.com/
 Es ist ratsam den Googletranslator zu verwenden.
 
 ## Equipment optimieren
-Mit dieser Seite könnt ihr die optimale Zusammenstellung für Bosskämpfe in den verschiedenen Modi errechnen lassen. Dort gebt ihr die Anzahl eurer Relikt Kerne ein und Dinge die ihr sonst so habt. Der Calculator errechnet euch die perfekte Zuteilung der Kerne. Dies könnt ihr vor jedem Kampf durch Abwerten und Aufwerten der Ausrüstung justieren. Dafür die Ausrüstung anklicken und oben rechts den rozen Recycling Button drücken. Der Kalkulator hat nichts mit diesem Wiki zu tun:
+Mit dieser Seite könnt ihr die optimale Zusammenstellung für Bosskämpfe in den verschiedenen Modi errechnen lassen. Dort gebt ihr die Anzahl eurer Relikt Kerne ein und Dinge die ihr sonst so habt. Der Kalkulator errechnet euch die perfekte Zuteilung der Kerne. Dies könnt ihr vor jedem Kampf durch Abwerten und Aufwerten der Ausrüstung justieren. Dafür die Ausrüstung anklicken und oben rechts den roten Recycling Button drücken. Der Kalkulator hat nichts mit diesem Wiki zu tun:
 https://danke007.com/calc/damage-increase
 
 Damit ihr eure Zusammenstellung einfach wechseln könnt gibt es in der Astrahlschmiede die Speicherung eurer Relikt Kern Zusammenstellung (SS speichern wiederherstellen). 
 
-Der Vorteil der Lanze bei Echo des Endes auf einem Stern auf Lvl 3 zu starten geht in dem Kalkulator etwas unter. Genauso kommt es auch auf das können jedes einzelnen an mit der Zusammenstellung umzugehen und sie entsprechend für sich zu nutzen.
+Der Vorteil der Lanze bei Echo des Endes auf einem Stern, auf Lvl 3 zu starten, geht in dem Kalkulator etwas unter. Genauso kommt es auch auf das können jedes einzelnen an mit der Zusammenstellung umzugehen und sie entsprechend für sich zu nutzen.
 
 # Codes
 Alle paar Wochen gibt es Codes diese können hier: https://gift.survivorio.com/ eingelöst werden. Eure ID findet ihr in den Einstellungen im Spiel. Diese sind von der Hauptseite über die drei Striche zu erreichen.
