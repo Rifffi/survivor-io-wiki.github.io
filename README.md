@@ -103,9 +103,16 @@ Dies ist ein super Handschutz für den Kampf gegen Bossmonster.
 Auf dem ersten gelben Schmiedeeffekt macht dieser einen doppelten Treffer an normalen Monstern und Bossen.
 ### Rüstung
 #### Immerwähr. Panzer
-Wenn ihr sterbt werden ihr zusätzlich 1-2 Wiederbelegt. Wenn ihr Wiederbelegt werdet habt ihr 15% mehr ATK.
+Wenn ihr sterbt werden ihr zusätzlich 1-2 Wiederbelegt. Wenn ihr Wiederbelegt werdet habt ihr 15% (20%) mehr ATK.
 #### Rüstung von Quietus
 Wenn ihr einmal gestorben seit könnt ihr weiterspielen für eine gewisse Sekundenanzahl. Wenn die Rüsten die Qualität rot erreicht seit ihr sozusagen Unsterblich, solange es genügend Monstermobs gibt und ihr innerhalb der Sekundenanzahl den Boss töten könnt. (auch genannt death walker build)
+
+### Ketten
+#### immerwährende Kette
+gute Kette für Mobs da ihr beim ersten Schlag sehr viel mehr Schaden macht.
+
+#### leerenwandler Emblem
+Super Kette gegen Bossmonster. Steigert den Schaden und die krit. Rate ordentlich. Allerdings muss dafür der Charakter wenig HP haben damit der Effekt funktioniert. Mit der Rüstung von Quietus oder auch dem Energieschild lasst sich dies ganz gut Bewerkstelligen.
 
 ## SS items
 Für ss items benötigt ihr ein Equipment auf rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S items erlangt. Genauso müssen normale Items zerlegt werden für Cubes. Durch Schmiedeeffekt kann das Equipment zusätzliche Eigenschaften erfahren. Dafür werden Reliktkerne, Cubes und Kerne benötigt. Die Eigenschaften gibt es beim 1. 3. 5. und 7. Schmiedeffekt. Beim 2. 4. 6. und 8. gibt es HP oder ATK Boni.
