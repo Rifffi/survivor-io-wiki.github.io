@@ -163,15 +163,13 @@ Mit den ss gloves ist eine Rate über 100% sogar sehr gut. Über 100% gibt es ei
 Auf der Seite mit den Sammelobjekten gibt es oben rechts einen Button wo alle Werte die ihr erlangt habe zusammengefasst sind.
 
 # Tiere
-Kauft euch jeden Tag einmal die Tiermünzen. Mit jedem Mal kaufen steigt der Preis. Nach einem Tag wird der Preis zurückgesetzt. Je höher das Hauptkapitel desto mehr Münzen und teurer wird es. 3000 Stück ist aber Maximum.
+Kauft euch jeden Tag einmal die Tiermünzen. Mit jedem Mal kaufen steigt der Preis. Nach einem Tag wird der Preis zurückgesetzt. Je höher das Hauptkapitel desto mehr Münzen und teurer wird es. 3000 Stück ist aber Maximum. Ihr könnt zwei unterstützer Tiere positionieren. Jedes Tier hat eine Unterstützenfähigkeit. Das ist im oberen rechten Feld beschrieben. Hier macht 10% mehr ATK auf jeden Fall sinn. Das Fähgikeit durchdringen Gegner ist auch gut. z.B. in Kombination mit Merika. Bei Quak macht dies natürlich keinen Sinn. Dort ist mehr Reichweite sinniger. Genauso wie bei Rex.
 ## Quak
 Flächenschaden gut gegen Mobs. Könnt euch gut mit eurem Char dort reinstellen.
 ## Merika
 Wenn erwacht, ist dieser gut gegen Bossmonster, da single traget. Federschüsse.
 ## Rex
 Macht wohl ab 200.000 ATK mehr Schaden als Merika. Dies dauert aber bis ihr mal dort seit. Aktuell das finale Pet.
-
-Ihr könnt zwei unterstützer Tiere positionieren. Jedes Tier hat eine Unterstützenfähigkeit. Das ist die im oberen rechten Feld beschrieben. Hier macht 10% mehr ATK auf jeden Fall sinn. Das Fähgikeit durchdringen Gegner ist auch gut. z.B. in kompination mit Merika. Bei Quak macht dies natürlich keinen Sinn. Dort ist mehr Reichweite sinniger.
 
 # tech. Teile
 ## Präzisionsgerät
