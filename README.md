@@ -48,7 +48,7 @@ Langsam und ohne tech. Teile bewegt sie sich auf dem ganzen Bildschirm. Ist Gesc
 ## Kraftfeld
 Okay für die Verteidigung, aber macht nicht viel Schaden.
 ## Mine
-eher unbeliegt, Minen können so schlecht gesteuert werden wo sie auftauchen und ob sie dann auch treffen.
+eher unbeliebt, Minen können so schlecht gesteuert werden wo sie auftauchen und ob sie dann auch treffen.
 ## Laserstrahler
 Macht Flächenschaden um den Charakter herrum und hilft bei der Verteidigung.
 ## Rakete
@@ -221,7 +221,7 @@ Einige Boss rennen wie bekloppt über den Bildschirm. Dort so rumprobieren damit
 Für die perfekte Equipment Zusammenstellung siehe Abschnitt: Equipment optimieren. Für den Expedition Bosskampf gilt eine andere Zusammenstellung als für Echo des Endes.
 
 ### Expedition
-Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellung zu erreichen. Wenn ihr eine Drone mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden wenn ihr weitere Diamanten ausgebt.
+Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellung zu erreichen. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden wenn ihr weitere Diamanten ausgebt.
 
 Für fast optimalen Schaden:
 Zerstörer, Charakter Fähigkeit, ATK, Schuhe, Geschwindigkeit, Abklingzeit, Reichweite
@@ -234,10 +234,10 @@ Sollte ihr einmal die Woche spielen und mindestens 1 Level vorankommen damit ihr
 Nicht so wichtig, könnt ihr zwischendurch irgendwann mal spielen, wenn ihr noch Lust und Zeit habt.
 
 # Zonenoperation
-Aufwendig zu spielen, nicht ganz so wichtig. Benötigt auch ein gewisses Level und Equipment um es durchgespielt zu bekommen. Hier könnt aber hier S items erlangen. Für Menschen die eine Herrausforderung mögen genau das Richtige. Hier braucht ihr die Leerenmacht Waffe und die Rüstung von Quietus auf rot. Zumindestens ist das meine Erfahrung. Wenn ihr alle 20 Stufen durchgespielt habt und die Season vorbei ist braucht ihr hinterher in der nächsten Season nicht jedes Level doppelt zu spielen. Ihr erhaltet auch direkt die Rewards von ersten ersten durchspielen ausbezahlt. Gelbe Tropfen gibt es hier ebenfalls.
+Aufwendig zu spielen, nicht ganz so wichtig. Benötigt auch ein gewisses Level und Equipment um es durchgespielt zu bekommen. Hier könnt aber hier 2 S items erlangen. Für Menschen die eine Herrausforderung mögen genau das Richtige. Hier braucht ihr die Leerenmacht Waffe / SS Lanze und die Rüstung von Quietus auf rot. Zumindestens ist das meine Erfahrung. Ab Ebene 15 solltet ihr die Rüstung von Quietus nutzen. Wenn ihr alle 20 Stufen durchgespielt habt und die Season vorbei ist braucht ihr hinterher in der nächsten Season nicht jedes Level doppelt zu spielen. Ihr erhaltet auch direkt die Rewards von ersten ersten durchspielen ausbezahlt. Gelbe Tropfen gibt es hier ebenfalls. Maximal 800 Tropfen.
 
 # Entwicklung
-Zurerst müßt ihr ein Hauptkapitel druchspielen damit ihr die 3 Hauptherausforderungen zu einem Level spielen könnt. Bei den zweiten und dritten Schwierigkeitsgrad bekommt ihr Gold-DNA. Dadurch könnt ihr eure passiven Fähigkeiten erhöhen und mehr Equipment durch Monsterdrops bekommen. Wichtig das ihr hier nach und nach auch vorran kommt. Wichtig ist das ihr am Anfang mehr Drops durch Items bekommt. So könnt ihr schneller euer Equipment upgraden. Spiel am Besten direkt die schwierigste Hauptherausforderung, dann sind die ersten beiden Schwierigkeitsgrade direkt miterledigt und ihr bekommt alle 3 Truhen auf einmal.
+Zurerst müßt ihr ein Hauptkapitel durchspielen damit ihr die 3 Hauptherausforderungen zu einem Level spielen könnt. Bei den zweiten und dritten Schwierigkeitsgrad bekommt ihr Gold-DNA. Dadurch könnt ihr eure passiven Fähigkeiten erhöhen und mehr Equipment durch Monsterdrops bekommen. Wichtig das ihr hier nach und nach auch vorran kommt. Wichtig ist das ihr am Anfang mehr Drops durch Items bekommt. So könnt ihr schneller euer Equipment upgraden. Spiel am Besten direkt die schwierigste Hauptherausforderung, dann sind die ersten beiden Schwierigkeitsgrade direkt miterledigt und ihr bekommt alle 3 Truhen auf einmal.
 
 # Karten
 Ihr könnten oben links unter dem M - Kartensymbol euch für 9000 Diamanten die Dauerhafte Privilegienkarte holen. Diese rentiert sich auf Dauer. Ihr bekommt jeden Tag einen Schlüssel und 50 Diamanten. Nach einem halben Jahr seit ihr dann mit den Diamanten im Plus. Aber durch den Schlüssel rentiert sich das sicher noch eher.
@@ -253,8 +253,8 @@ Die ersten 4 sind Pflichtprogramm und eigentlich auch in einer dreiviertel Stund
 1. jeden Tag Enders Echo zweimal
 2. Alle drei Tage einmal Regelmäßige Herausforderung (direkt am Besten Alptraum)
 3. Jeden Tag 10 Spezialeinsätze (lieber nicht alle Bosse)
-4. 100 Punkte im Missionscenter
-5. Einmal die Woche Pfad der Prüfung spielen
+4. 100+ Punkte im Missionscenter
+5. Einmal die Woche, Pfad der Prüfung spielen
 6. während Event zweimal täglich Hauptkapitel 4 spielen.
 7. Dienstag und Mittwoch die 5 Clanexpedition Missionen spielen
 8. Wochenende einmal Clanexpedition Bosskampf
@@ -262,13 +262,11 @@ Die ersten 4 sind Pflichtprogramm und eigentlich auch in einer dreiviertel Stund
 10. wöchentlich 1 Hauptkapitel
 11. wöchentlich schwierigste Hauptkapitel Herausforderungen
 
-... die Tage gehts weiter.
-
 # YouTube 
 Es gibt zwei Youtuber Playme und Phasecast die unzählige Video erstellt haben.
 
 # Kalkulator
-externer Link die Kalulatoren und Inhalte haben nichts mit diesem Wiki zu tun:
+externer Link, die Kalulatoren und Inhalte haben nichts mit diesem Wiki zu tun:
 https://danke007.com/
 Es ist ratsam den Googletranslator zu verwenden.
 
