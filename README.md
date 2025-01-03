@@ -252,6 +252,13 @@ Ihr könnten oben links unter dem M - Kartensymbol euch für 9000 Diamanten die 
 # Clan Shop
 Hier könnte ihr eure im Clan verdientn Münzen gegeben Rewards eintauchen. Am besten die Yang Scherben und rotes Sammelobjekt Truhe holen. Die Qualität der Belohungen scheinen für alle gleich zu sein egal wie gut der Clan ist.
 
+# Synergie
+Wenn ihr insgesamt 3 Mio. gelbe Tropfen gesammelt habt könnt ihr das Synergie System freischalten. Dies bedeutet das alle Charaktere auf das maximale Level 120+, welches ihr habt freigeschaltet wird. Somit werden auch alle Boni die mit gelben Tropfen erlangt werden können von allen Charakteren freigeschaltet. Ob auch alle Charaktere die ihr nicht habt freigeschaltet werden???
+Die Eigenschaften die per Scherben freigeschaltet werden werden sehr wahrscheinlich nicht freigeschaltet.
+
+## Harmonie 
+Zum Hauptcharakter können zwei Begleitcharakter bestimmt werden. Aktuell geht hier Common, King und alle S Charaktere.
+
 # Allgemeines
 Dieses Wiki basiert auf F2P. Free to play. Ihr könnt in dem Spiel euch zusätzliche Diamanten gegen richtiges Geld kaufen oder auch Items. Ebenfalls könnt ihr Werbung schauen um zusätzliche Rewards zu bekommen. Dies verändert ggf. einige Sichtweisen und wurde hier nicht berücksichtigt. Auch wichtig die Equipmentbeschreibung genau durchzulesen und zu verstehen.
 
