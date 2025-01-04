@@ -5,7 +5,7 @@ Wiki für das Spiel survior.io
 [Clan Regeln](https://github.com/Rifffi/survivor-io-wiki/blob/main/Clan.md)<br>
 
 # Patrouille
-Durch Patrouillen erhaltet ihr Geld, Exp. und Items. Daher ist es wichtig diese täglich auszureizen. Am besten morgens nach dem Aufstehen 1-2 Schnelle Gewinne (blauer Button) mitnehmen. 4-5 dann abends. Um 1 8Uhr Sommerzeit bzw. 17 Uhr Winterzeit startet ein neuer Tag in Survior.io. Es ist wichtig das ihr Hauptkapitel abschließt, um durch die Patrouillen mehr Geld, Exp. und Items zu erhalten.
+Durch Patrouillen erhaltet ihr Geld, Exp. und Items. Daher ist es wichtig diese täglich auszureizen. Am besten morgens nach dem Aufstehen 1-2 Schnelle Gewinne (blauer Button) mitnehmen. 4-5 dann abends. Um 18 Uhr Sommerzeit bzw. 17 Uhr Winterzeit startet ein neuer Tag in Survior.io. Es ist wichtig das ihr Hauptkapitel abschließt, um durch die Patrouillen mehr Geld, Exp. und Items zu erhalten.
 
 # Im Spiel
 ## Fleisch 
