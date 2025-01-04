@@ -5,7 +5,7 @@ Wiki für das Spiel survior.io
 [Clan Regeln](https://github.com/Rifffi/survivor-io-wiki/blob/main/Clan.md)<br>
 
 # Patrouille
-Durch Patrouillen erhaltet ihr Geld, Exp und Items. Daher ist es wichtig diese täglich auszureizen. Am besten Morgens nach dem Aufstehen 1-2 Schnelle Gewinne (blauer Button) mitnehmen. 4-5 dann Abends. Um 18Uhr Sommerzeit bzw. 17Uhr Winterzeit startet ein neuer Tag in Survior.io. Es ist wichtig das ihr Hauptkapitel abschließt, um durch die Patrouillen mehr Geld, Exp und Items zu erhalten.
+Durch Patrouillen erhaltet ihr Geld, Exp. und Items. Daher ist es wichtig diese täglich auszureizen. Am besten Morgens nach dem Aufstehen 1-2 Schnelle Gewinne (blauer Button) mitnehmen. 4-5 dann Abends. Um 18Uhr Sommerzeit bzw. 17Uhr Winterzeit startet ein neuer Tag in Survior.io. Es ist wichtig das ihr Hauptkapitel abschließt, um durch die Patrouillen mehr Geld, Exp. und Items zu erhalten.
 
 # Im Spiel
 ## Fleisch 
@@ -15,67 +15,67 @@ Dieser sammelt die Exp ein damit ihr euer Lvl erhöht. Am Bestens lasst ihr den 
 ## Truhen
 Dann gibt es noch die Truhen. Hier erhaltet ihr 1-5 Waffen oder passive Fertigkeiten. Wenn ihr eine Waffe auf 5 gelben Sterne habt und dann eine Truhe einsammelt bekommt ihr garantiert diese als Superwaffe.
 ## Superwaffe
-Superwaffen bekommt ihr wenn die entsprechend passive Fertigkeit vorher ausgewählt wurde. z.B. Fussball + Schuhe = Quantenverschränkung
+Superwaffen bekommt ihr, wenn die entsprechende passive Fertigkeit vorher ausgewählt wurde. z.B. Fußball + Schuhe = Quantenverschränkung
 Bei den passiven Fertigkeiten (Schuhe) wird auch angezeigt welche Waffe dazu passt. Die passive Fertigkeit benötigt ihr nur auf einem gelben Stern.
 ## Gold
 Wenn ihr wisst das ihr ein Level ohne Probleme schafft solltet ihr die passive Fähigkeit mehr Gold erlernen. Gold ist am Anfang des Spiels ein Problem hinterher sollte ihr eigentlich genug Gold anhäufen.
 
 # Events
-Jede Woche gibt es ein Event über mehrere Tage. Dort gibt es immer gute Items/Rewards zu holen. Dies ist mit Aufwand verbunden, der aber zwingend notwendig ist, um vorwärts zu kommmen. Es müssen Millionen von Monstern getötet werden. Am Besten dazu Hauptherausforderung Lvl. 4 wiederholt spielen. (130.000 - 150.000 Kills) Als Equipment den glänzenden Handgelenkschutz nutzen und Kunai oder Leermacht. Long Range Waffen wie Bohrer und Fussball wählen. Wenn euer Charakter ein höheres Lvl hat könnt ihr 1 Minute spielen afk gehen nach 3 Minuten einen Magnet einsammeln und afk gehen, bis die 8 Minuten um sind. Die 30-40 Hauptkaptiel erledigt ihr  nur durch starten und direkt wieder beenden/abbrechen. Die 10 Spezialeinsätze sind jeden Tag Pflichtprogramm, dazu gibt es aber auch gelbe Karten um diese ohne spielen abzuschließen. 300 Truhen öffnen ist meistens nicht notwendig. Meistens reichen 100. Dafür müsst ihr fleißig Schlüssel samneln und dafür aufbewahren. Das Ziel sollte sein eine S Truhe zu bekommen. Kann aber auch variieren. Truhen sollte ihr also nur während eines Event öffnen. Mit Diamanten die ihr am Besten auch nur für Events aufspaart, können noch weitere gute zusätzliche Rewards erlangt werden. Durch öffnen von 300 Truhen und investiern von Diamanten könnt ihr zusäzlich Relic Cores, rote Sammelobjekttruhe, Resonanzchips oder ähnliches gute Rewards zusätzlich zur S Truhe erlangen. Wenn ihr hinterher die Punkte gegen Rewards eintauscht holt ihr euch weitere Schlüssel, um für das nächste Event wieder mehr Truhen öffnen zu können. Evtl. müsst ihr ein Event auch mal mit dem Verbrauch von Schlüssen und Diamenten aussetzen um zu sparen.
+Jede Woche gibt es ein Event über mehrere Tage. Dort gibt es immer gute Items/Rewards zu holen. Dies ist mit Aufwand verbunden, der aber zwingend notwendig ist, um vorwärts zu kommen. Es müssen Millionen von Monstern getötet werden. Am besten dazu Hauptherausforderung Lvl. 4 wiederholt spielen. (130.000 - 150.000 Kills) Als Equipment den glänzenden Handgelenkschutz nutzen und Kunai oder Leermacht. Long Range Waffen wie Bohrer und Fußball wählen. Wenn euer Charakter ein höheres Lvl hat könnt ihr 1 Minute spielen afk gehen nach 3 Minuten einen Magnet einsammeln und afk gehen, bis die 8 Minuten um sind. Die 30-40 Hauptkapitel erledigt ihr  nur durch starten und direkt wieder beenden/abbrechen. Die 10 Spezialeinsätze sind jeden Tag Pflichtprogramm, dazu gibt es aber auch gelbe Karten um diese ohne spielen abzuschließen. 300 Truhen öffnen ist meistens nicht notwendig. Meistens reichen 100. Dafür müsst ihr fleißig Schlüssel sammeln und dafür aufbewahren. Das Ziel sollte sein mindestens eine S Truhe zu bekommen. Kann aber auch variieren. Truhen solltet ihr also nur während eines Events öffnen. Mit Diamanten die ihr am besten auch nur für Events aufspart, können noch weitere gute zusätzliche Rewards erlangt werden. Durch öffnen von 300 Truhen und investieren von ein paar Diamanten könnt ihr zusäzlich Relikt Kerne, rote Sammelobjekttruhen, Resonanzchips oder ähnliches gute Rewards zusätzlich zur S Truhe erlangen. Wenn ihr hinterher die Punkte gegen Rewards eintauscht holt ihr euch weitere Schlüssel, um für das nächste Event wieder mehr Truhen öffnen zu können. Evtl. müsst ihr ein Event auch mal mit dem Verbrauch von Schlüssen und Diamanten aussetzen um zu sparen.
 
 # Waffen   
 Welche Waffen sind gut:
 ## Drohnen
-Die beiden Drohnen (weiß und schwarz) werden als Superwaffe zum Zerstörer (Destoryer). Dieser ist gegen Bossmonster super da er viel Schaden macht. Aber auch eine gute Allroundwaffe.
+Die beiden Drohnen (weiß und schwarz) werden als Superwaffe zum Zerstörer (Destroyer). Dieser ist gegen Bossmonster super da er viel Schaden macht. Aber auch eine gute Allroundwaffe.
 ## Hauptwaffe
 Die Hauptwaffe sollte auch immer zur Superwaffe gebracht werden.
 ## Blitz
 Gut gegen Bossmonster da sie immer trifft. Macht auch einen kleinen Flächenschaden.
 ## Bohrer
 Gut gegen Mobs. Vielleicht auch nicht immer ratsam als Superwaffe da keine Streuung mehr existiert.
-## Fussball
+## Fußball
 macht gut Schaden auch an Bossmonster.
 ## Ziegelsteine
 mit tech. Teile ganz gut, da sie die Gegner durchdringt.
-## Bummerang 
+## Bumerang 
 naja nicht so beliebt 
 ## Wächter
 Hält einem die Monster vom Leib wegen Pushback.
-## Brandflasche (Mollotov)
-Guter Flächenschaden. Durch tech. Teil auf rot +10% mehr Schaden.
+## Brandflasche (Molotov)
+Guter Flächenschaden. Durch tech. Teil auf Rot +10% mehr Schaden.
 ## Durain
-Langsam und ohne tech. Teile bewegt sie sich auf dem ganzen Bildschirm. Ist Geschmacksache.
+Langsam und ohne tech. Teile bewegt sie sich auf dem ganzen Bildschirm. Ist Geschmackssache.
 ## Kraftfeld
 Okay für die Verteidigung, aber macht nicht viel Schaden.
 ## Mine
 eher unbeliebt, Minen können so schlecht gesteuert werden wo sie auftauchen und ob sie dann auch treffen.
 ## Laserstrahler
-Macht Flächenschaden um den Charakter herrum und hilft bei der Verteidigung.
+Macht Flächenschaden um den Charakter herum und hilft bei der Verteidigung.
 ## Rakete
-Gute single traget Waffe, hilft gut gegen Bossmonster mit Flächenschaden.
+Gute Single traget Waffe, hilft gut gegen Bossmonster mit Flächenschaden.
 
 # passive Fähigkeiten
 hängt meistens immer ein wenig davon ab welche Waffen ihr gewählt habt, damit ihr diese zur Superwaffe macht.
 ## Abklingzeit
 Alle Waffen werden dadurch schneller wieder ausgelöst. Dadurch macht ihr auf Dauer mehr Schaden.
 ## Fluggeschwindigkeit
-Alle Projektile fliegen dadurch schneller und können schneller mehr Schaden machen und fliegen nicht an Gegener vorbei.
+Alle Projektile fliegen dadurch schneller und können schneller mehr Schaden machen und fliegen nicht an Gegner vorbei.
 ## Laufgeschwindigkeit
 Durch die Leerwandlertreter könnte ihr hierdurch auch mehr Schaden machen.
 ## Reichweite
-Projektile werden größer und einige Waffen haben dadruch eine größere Reichweite. Monster kommen nicht so nah an euch ran und treffen besser.
+Projektile werden größer und einige Waffen haben dadurch eine größere Reichweite. Monster kommen nicht so nah an euch ran und treffen besser.
 ## ANG / ATK, mehr Schaden
-Mehr ATK immer ein muss, wenn ihr viel Schaden machen wollt.
+Mehr ATK immer ein Muss, wenn ihr viel Schaden machen wollt.
 ## Heilung
-Es gibt genug Heilung durch andere Items. Daher nicht umgedingt notwendig.
+Es gibt genug Heilung durch andere Items. Daher nicht umbedingt notwendig.
 ## mehr Gold
 Gold bekommt ihr eigentlich genug, Daher meistens nicht so wichtig.
 ## mehr Exp.
-Dadruch bekommt ihr schneller und mehr Exp. um die Waffen und passiven Fähigkeiten zur erhalten. Ihr bekommt aber nicht mehr Exp um eueren Charakter hochzuleveln.
+Dadurch bekommt ihr schneller und mehr Exp. um die Waffen und passiven Fähigkeiten zur erhalten. Ihr bekommt aber nicht mehr Exp um eueren Charakter hochzuleveln.
 ## Exoskelett
-Einige Waffeneffekte bleiben länger aktiv. Bei der Superwaffe Lanze bleiben die gelben Kreise länger stehen, so das nicht zwei sondern auch drei Parallel existieren können.
+Einige Waffeneffekte bleiben länger aktiv. Bei der Superwaffe Lanze bleiben die gelben Kreise länger stehen, so dass nicht zwei, sondern auch drei Parallel existieren können.
 ## Waldläufer Panzer
-Reduziert den Schaden den ihr bekommt. Ist sinnvoller auszuwählen wenn ihr ein Lvl oder Bods nicht schafft als den Heilungsfertigkeit.
+Reduziert den Schaden den ihr bekommt. Ist sinnvoller auszuwählen, wenn ihr ein Lvl oder Bossmonster nicht schafft als den Heilungsfertigkeit.
 ## optimale Zusammenstellung
 Um maximalen Schaden zu erlangen eignen sich daher: ATK, Abklingzeit, Fluggeschwindigkeit, 
 Laufgeschwindigkeit, Reichweite, Exoskelett, (Gold für die +10% durch rotes tech. Teil und Brandflasche) 
