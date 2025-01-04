@@ -253,16 +253,16 @@ Ihr könnten oben links unter dem M - Kartensymbol euch für 9000 Diamanten die 
 Hier könnte ihr eure im Clan verdientn Münzen gegeben Rewards eintauchen. Am besten die Yang Scherben und rotes Sammelobjekt Truhe holen. Die Qualität der Belohungen scheinen für alle gleich zu sein egal wie gut der Clan ist.
 
 # Synergie
-Wenn ihr insgesamt 3 Mio. gelbe Tropfen gesammelt habt könnt ihr das Synergie System freischalten. Dies bedeutet das alle Charaktere auf das maximale Level 120+, welches ihr habt freigeschaltet wird. Somit werden auch alle Boni die mit gelben Tropfen erlangt werden können von allen Charakteren freigeschaltet. Ob auch alle Charaktere die ihr nicht habt freigeschaltet werden? 
-Die Eigenschaften die per Scherben freigeschaltet werden werden sehr wahrscheinlich nicht freigeschaltet.
-Die Synergie lasst sich durch Erwachenkerne und S Scherben hochleveln. Dadurch werden die verschiedenen Schadenwerte erhöht.
+Wenn ihr insgesamt 3 Mio. gelbe Tropfen gesammelt habt könnt ihr das Synergie System freischalten. Dies bedeutet das alle freigeschalten Charaktere auf das Level 120 angehoben werden. Somit werden auch alle Boni die mit gelben Tropfen erlangt werden können von allen Charakteren freigeschaltet werden. Es werden keine Charaktere freigeschaltet wie z. B. Sandy die ohr beim Event nicht erhalten habt.
+Die Eigenschaften die per Scherben freigeschaltet werden, werden nicht freigeschaltet.
+Die Synergie lasst sich durch Erwachenkerne und S Scherben hochleveln. Dadurch werden die verschiedenen Schadenwerte erhöht. Alle Charaktere werden dann um +1 Level angehoben. 120 + Synergie Level.
 
 ## Harmonie 
-Zum Hauptcharakter können zwei Begleitcharakter bestimmt werden. Aktuell geht hier Common, King und alle S Charaktere. Anhand der Anzahl der Sterne der Begleitvhatakter könnt ihr hierdurch die krit. Rate weiter erhöhen. gelbe Sterne 1 Stern 2%, 3 3%, 6 5%, 9 5%, 12 5%, 15 5%, 18 5%.
-Rote Sterne schaltet Skills frei die z.B. King ausführt, wie Kunai werfen.
+Zum Hauptcharakter können zwei Begleitcharakter bestimmt werden. Aktuell geht hier Common, King und alle S Charaktere. Anhand der Anzahl der Sterne der Begleitcharaktere könnt ihr hierdurch die krit. Rate weiter erhöhen. gelbe Sterne 1 Stern 2%, 3 3%, 6 5%, 9 5%, 12 5%, 15 5%, 18 5%.
+Rote Sterne schaltet Skills frei die z.B. Common ausführt, wie Kunai werfen. Dafür benötigt ihr aber alle gelben Sterne von allen drei aktiven Charakteren.
 
 # Allgemeines
-Dieses Wiki basiert auf F2P. Free to play. Ihr könnt in dem Spiel euch zusätzliche Diamanten gegen richtiges Geld kaufen oder auch Items. Ebenfalls könnt ihr Werbung schauen um zusätzliche Rewards zu bekommen. Dies verändert ggf. einige Sichtweisen und wurde hier nicht berücksichtigt. Auch wichtig die Equipmentbeschreibung genau durchzulesen und zu verstehen.
+Dieses Wiki basiert auf F2P. Free to play. Ihr könnt in dem Spiel euch zusätzliche Diamanten gegen richtiges Geld kaufen oder auch Items. Ebenfalls könnt ihr Werbung schauen um zusätzliche Rewards zu bekommen. Dies verändert ggf. einige Sichtweisen und wurde hier nicht berücksichtigt. Auch wichtig die Equipmentbeschreibung genau durchzulesen und zu verstehen. Der Hersteller verändert auch sein Spiel wodurch diese Wiki nicht immer aktuell ist.
 
 # optimal spielen
 Die ersten 4 sind Pflichtprogramm und eigentlich auch in einer dreiviertel Stunde zu schaffen. Die weiteren Punkte sind tagesabhängig und auch zeitlich flexibeler in der Absolvierung.
