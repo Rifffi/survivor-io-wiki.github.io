@@ -1,4 +1,4 @@
-Translate to [english](https://rifffi-github-io.translate.goog/survivor-io-wiki.github.io/markdownviewer.html?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=wapp). :-D
+Translate to [english](https://rifffi-github-io.translate.goog/survivor-io-wiki.github.io/markdownviewer.html?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp). :-D
 # survivor-io-wiki
 Wiki für das Spiel survior.io
 
