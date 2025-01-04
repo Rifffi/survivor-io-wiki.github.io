@@ -81,7 +81,7 @@ Um maximalen Schaden zu erlangen eignen sich daher: ATK, Abklingzeit, Fluggeschw
 Laufgeschwindigkeit, Reichweite, Exoskelett, (Gold für die +10% durch rotes tech. Teil und Brandflasche) 
 
 # Equipment
-Wichtig ATK geht immer vor HP. Sprich Hauptwaffe, Kette und Handschuhe gehen vor Rüstung, Gürtel und Schuhe. Was vor geht immer bevorzugt upgraden. Mit dem SS-Equipment ändert sich dies unter gewissen Umständen etwas. Am meisten konzentiert ihr euch auf Bossequipment. Aber auch Mobequipment wird hier und da benötigt, aber vielleicht nicht ganz so stark upgegradet. Ihr müsst viel Gedult mitbringen damit euer Equipment richtig gut wird. 
+Wichtig ATK geht immer vor HP. Sprich Hauptwaffe, Kette und Handschuhe gehen vor Rüstung, Gürtel und Schuhe. Was vor geht immer bevorzugt upgraden. Mit dem SS-Equipment ändert sich dies unter gewissen Umständen etwas. Am meisten konzentiert ihr euch auf Bossequipment. Aber auch Mobequipment wird hier und da benötigt, aber vielleicht nicht ganz so stark upgegradet. Ihr müsst viel Geduld mitbringen damit euer Equipment richtig gut wird. 
 
 Am Anfang nutzt ihr das Standardequipment.
 Baseballschläger für Mobs. Kunai gegen Bossmonster. Seht zu das ihr S Equipment bekommt und danach SS Equipment
@@ -97,7 +97,7 @@ Eine punktuelle Waffe, daher gut gehen Bossmonster. Hat als Superwaffe auch eine
 ### Handschuhe
 #### Immerw. Handschuhe
 bietet einiges für krit. Treffer. Kritische Treffer machen guten Schaden viel besser als normale Treffer.
-Auf dem ersten gelben Schmiedeeffekt stellt der Handschuhe 1% HP bei einem krititischen Treffer her. Dies ist super gegen Mobs.
+Auf dem ersten gelben Schmiedeeffekt stellt der Handschuhe 1% HP bei einem kritischen Treffer her. Dies ist super gegen Mobs.
 #### Leerenwandler Handschutz
 Dies ist ein super Handschutz für den Kampf gegen Bossmonster.
 Auf dem ersten gelben Schmiedeeffekt macht dieser einen doppelten Treffer an normalen Monstern und Bossen.
@@ -105,20 +105,20 @@ Auf dem ersten gelben Schmiedeeffekt macht dieser einen doppelten Treffer an nor
 #### Immerwähr. Panzer
 Wenn ihr sterbt werden ihr zusätzlich 1-2 Wiederbelegt. Wenn ihr Wiederbelegt werdet habt ihr 15% (20%) mehr ATK.
 #### Rüstung von Quietus
-Wenn ihr einmal gestorben seit könnt ihr weiterspielen für eine gewisse Sekundenanzahl. Wenn die Rüsten die Qualität rot erreicht seit ihr sozusagen Unsterblich, solange es genügend Monstermobs gibt und ihr innerhalb der Sekundenanzahl den Boss töten könnt. (auch genannt death walker build)
+Wenn ihr einmal gestorben seid könnt ihr weiterspielen für eine gewisse Sekundenanzahl. Wenn die Rüsten die Qualität rot erreicht seit ihr sozusagen Unsterblich, solange es genügend Monstermobs gibt und ihr innerhalb der Sekundenanzahl den Boss töten könnt. (auch genannt death walker build)
 
 ### Ketten
 #### immerwährende Kette
 gute Kette für Mobs da ihr beim ersten Schlag sehr viel mehr Schaden macht.
 
 #### leerenwandler Emblem
-Super Kette gegen Bossmonster. Steigert den Schaden und die krit. Rate ordentlich. Allerdings muss dafür der Charakter wenig HP haben damit der Effekt funktioniert. Mit der Rüstung von Quietus oder auch dem Energieschild lasst sich dies ganz gut Bewerkstelligen.
+Super Kette gegen Bossmonster. Steigert den Schaden und die krit. Rate ordentlich. Allerdings muss dafür der Charakter wenig HP haben damit der Effekt funktioniert. Mit der Rüstung von Quietus oder auch dem Energieschild lasst sich dies ganz gut bewerkstelligen.
 
-## SS items
-Für ss items benötigt ihr ein Equipment auf rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S items erlangt. Genauso müssen normale Items zerlegt werden für Cubes. Durch Schmiedeeffekt kann das Equipment zusätzliche Eigenschaften erfahren. Dafür werden Reliktkerne, Cubes und Kerne benötigt. Die Eigenschaften gibt es beim 1. 3. 5. und 7. Schmiedeffekt. Beim 2. 4. 6. und 8. gibt es HP oder ATK Boni.
+## SS Items
+Für SS Items benötigt ihr ein Equipment auf Rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S Items erlangt. Genauso müssen normale Items zerlegt werden für Cubes. Durch Schmiedeeffekt kann das Equipment zusätzliche Eigenschaften erfahren. Dafür werden Reliktkerne, Cubes und Kerne benötigt. Die Eigenschaften gibt es beim 1. 3. 5. und 7. Schmiedeeffekt. Beim 2. 4. 6. und 8. gibt es HP oder ATK Boni.
 
 ### Lanze
-Die Lanze ist die finale Waffe die ihr haben wollt und auch das erste sinvolle SS Item. Wichtig sich den 1. Schmiedeeffekt zu holen damit die Waffe auf 3 gelben Sternen startet.
+Die Lanze ist die finale Waffe die ihr haben wollt und auch das erste sinnvolle SS Item. Wichtig sich den 1. Schmiedeeffekt zu holen damit die Waffe auf 3 gelben Sternen startet.
 
 ### Urteilshalskette
 Hiermit bekommt ihr ein zusätzliches Defensives Feature, einen Energieschild, Boni für krit. und Fertigkeitsschaden, sind auch mit dabei. Passive Fertigkeiten könnt ihr 6 mal im Spiel aufleveln. Also ATK auf 60%. Wichtig hier schnell den 1. und 3. Schmiedeeffekt sich zu holen. Aktuelle finale Halskette.
@@ -130,52 +130,52 @@ Wird erst richtig gut wenn ihr über die 100 % krit Rate kommt. Daher vielleicht
 Ist auf Schmiedeeffekt 5 gut. Leider muss damit der Schaden richtig zur Geltung kommt viele Treffer vorher an Monstern hinbekommen und auch fast keinen Schaden einstecken.
 
 ### Immerleere Rüstung 
-eher unbeliebt, sehr viele nutzen lieber weiter die S Rüstungen. Lieber die Ressourcen erstmal in die anderen SS items stecken.
+eher unbeliebt, sehr viele nutzen lieber weiter die S Rüstungen. Lieber die Ressourcen erstmal in die anderen SS Items stecken.
 
-### Gletscher-Kriegsstifel
-sind wohl besser als die Leerenwandler-Treter vorallem wenn ihr den 1. und 3. Schmiedeeffekt habt. Die Monster müssen dazu aber auch eingefrohren werden.
+### Gletscher-Kriegsstiefel
+sind wohl besser als die Leerenwandler-Treter vor allem wenn ihr den 1. und 3. Schmiedeeffekt habt. Die Monster müssen dazu aber auch eingefroren werden.
 
 # Charakter
 Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Ihr solltet euch aber nur auf ATK oder krit. konzentrieren und euch lieber auf einen Char fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40 pushen.
-Ihr müsst den Char auf Lvl 20 haben damit ihr diesen mit den jeweiligen Scherben updaten könnt. Es gibt ein Fläschchen damit könnt ihr alles Ressourcen die ihr in eine Char gesteckt haben wieder zurück erlangen. Kann man durch kaufen oder durch Events irgendwann bekommen.
-Jeder Char kann 6 gelbe Sterne bekommen durch Scherben. Danach kann dieser Erwachen und mit weiteren Scherben und Quantensternscherben auf 6 rote Sterne bebracht werden. Hier können andere Chars als Unterstützung in Slots gesetzt werden plus zusätzliche Boni.
+Ihr müsst den Char auf Lvl 20 haben damit ihr diesen mit den jeweiligen Scherben updaten könnt. Es gibt ein Fläschchen damit könnt ihr alle Ressourcen die ihr in einen Char gesteckt haben wieder zurückerlangen. Kann man durch kaufen oder durch Events irgendwann bekommen.
+Jeder Char kann 6 gelbe Sterne bekommen durch Scherben. Danach kann dieser Erwachen und mit weiteren Scherben und Quantensternscherben auf 6 rote Sterne gebracht werden. Hier können andere Chars als Unterstützung in Slots gesetzt werden plus zusätzliche Boni.
 
 ## King
-ist die Wahl nach dem Startcharakter. Seine zusätzliche Fähigkeit mehr kritische Treffer zu erhalten, helfen um viel mehr Schaden zu machen.
+ist die Wahl nach dem Startcharakter. Seine zusätzliche Fähigkeit mehr kritische Treffer zu erhalten, hilft um viel mehr Schaden zu machen.
 
 ## Panda
-darauf liegt der Fokus bis ihr eine Kritrate größer 80-90% hat danach nehmt ihr Joey. Ist aber vielleicht auch Geschmacksache. Panda hat eine aktive Fähigkeit. Ying und Yang. Dieser ermöglicht euch diese Fähigkeit zur Verteidigung oder zum Angriff (+20 krit. Rate mit den Handflächen) einzusetzen. Auch diese Fähigkeit kann zur Superwaffe werden. Die KI Kugeln (Bollwerk) können als Superwaffe ein Debuff (-50%) auf die Monsterverteidung erwirken. Dies hilft um mehr Schaden an Bossmonster zu erlangen. Nachdem ihr den Debuff an einem Bossmonster durchgeführt habt wechselt ihr auf die Feuerhand. Der Debuff wird auch in der violetten Leiste vom Boss angezeigt.
+darauf liegt der Fokus bis ihr eine krit. Rate größer 80-90% habt, danach nehmt ihr Joey. Ist aber vielleicht auch Geschmacksache. Panda hat eine aktive Fähigkeit. Ying und Yang. Dieser ermöglicht euch diese Fähigkeit zur Verteidigung oder zum Angriff (+20 krit. Rate mit den Handflächen) einzusetzen. Auch diese Fähigkeit kann zur Superwaffe werden. Die KI Kugeln (Bollwerk) können als Superwaffe ein Debuff (-50%) auf die Monsterverteidigung erwirken. Dies hilft um mehr Schaden an Bossmonster zu erlangen. Nachdem ihr den Debuff an einem Bossmonster durchgeführt habt wechselt ihr auf die Feuerhand. Der Debuff wird auch in der violetten Leiste vom Boss angezeigt.
 Für die letzten gelben Stern benötigt ihr 400 Scherben. Für die erwachen Sterne (Rot), werden auch Scherben, Erwachenkerne und blaue Scherben benötigt.
 
 ## Metallica
-ist aktuell wohl etwas besser als Yang. Aber nur wenn ihr eine hohe krit Rate habt. Jedoch dauert es auch bis hier ihr angekommen seit.
+ist aktuell wohl etwas besser als Yang. Aber nur wenn ihr eine hohe krit. Rate habt. Jedoch dauert es auch bis hier ihr angekommen seid.
 
 ## Joey
 Wenn ihr genügend krit. Rate habt ist das wahrscheinlich der beste Charakter aktuell.
 
 ## Teamarbeit passiv
-Wenn euer Charakter erwacht ist und dieser 3 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden wenn zum Zerstörer entwickelt wird. Wurm gibt 10% Krit. Schaden wenn weniger als 3 Monster sichtbar sind.
+Wenn euer Charakter erwacht ist und dieser 3 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind.
 
 # Kritische Treffer
-Es gibt viele Möglichkeiten um eure krit. Rate zu verbessern. Über Equipment, Sammelobjekte , Chars (Panda 20%), Fertigkeiten, Tiere und 
+Es gibt viele Möglichkeiten um eure krit. Rate zu verbessern. Über Equipment, Sammelobjekte, Chars (Panda 20%), Fertigkeiten, Tiere und 
 Entwicklung (8%).
-Mit den ss gloves ist eine Rate über 100% sogar sehr gut. Über 100% gibt es einen Boni auf den krit. Schaden.
+Mit den SS Gloves ist eine krit. Rate über 100% sogar sehr gut. Über 100% gibt es einen Boni auf den krit. Schaden.
 Auf der Seite mit den Sammelobjekten gibt es oben rechts einen Button wo alle Werte die ihr erlangt habe zusammengefasst sind.
 
 # Tiere
-Kauft euch jeden Tag einmal die Tiermünzen. Mit jedem Mal kaufen steigt der Preis. Nach einem Tag wird der Preis zurückgesetzt. Je höher das Hauptkapitel desto mehr Münzen und teurer wird es. 3000 Stück ist aber Maximum. Ihr könnt zwei unterstützer Tiere positionieren. Jedes Tier hat eine Unterstützenfähigkeit. Das ist im oberen rechten Feld beschrieben. Hier macht 10% mehr ATK auf jeden Fall sinn. 2 mal das selbe geht nicht. Das Fähgikeit durchdringen Gegner ist auch gut. z.B. in Kombination mit Merika. Bei Quak macht dies natürlich keinen Sinn. Dort ist mehr Reichweite sinniger. Genauso wie bei Rex.
+Kauft euch jeden Tag einmal die Tiermünzen. Mit jedem Mal kaufen steigt der Preis. Nach einem Tag wird der Preis zurückgesetzt. Je höher das Hauptkapitel desto mehr Münzen und teurer wird es. 3000 Stück ist aber Maximum. Ihr könnt zwei Unterstützer Tiere positionieren. Jedes Tier hat eine Unterstützenfähigkeit. Das ist im oberen rechten Feld beschrieben. Hier macht 10% mehr ATK auf jeden Fall Sinn. 2 mal dasselbe geht nicht. Die Fähigkeit durchdringen Gegner ist auch gut. z.B. in Kombination mit Merika. Bei Quak macht dies natürlich keinen Sinn. Dort ist mehr Reichweite sinniger. Genauso wie bei Rex.
 ## Quak
 Flächenschaden gut gegen Mobs. Könnt euch gut mit eurem Char dort reinstellen.
 ## Merika
 Wenn erwacht, ist dieser gut gegen Bossmonster, da single traget. Federschüsse.
 ## Rex
-Macht wohl ab 200.000 ATK mehr Schaden als Merika. Dies dauert aber bis ihr mal dort seit. Aktuell das finale Pet.
+Macht wohl ab 200.000 ATK mehr Schaden als Merika. Dies dauert aber bis ihr mal dort seid. Aktuell das finale Tier.
 ## Schnecke
 Bestes Tier was ihr in den Unterstützungs Slot packen solltet.
 
 # tech. Teile
 ## Präzisionsgerät
-Ist für die beiden Drohne. Immer bevorzugt upgraden. Solltet ihr als erstes auf rot bekommen später dann auf pink/lila/leuchtend. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
+Ist für die beiden Drohne. Immer bevorzugt upgraden. Solltet ihr als erstes auf Rot bekommen später dann auf pink/lila/leuchtend. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
 
 ##  Quantum Polisator
 Ist für den Fußball. 30% Schaden das gibt nochmal mehr Schaden auch bei Bossmonstern.
@@ -183,7 +183,7 @@ Ist für den Fußball. 30% Schaden das gibt nochmal mehr Schaden auch bei Bossmo
 ## Phasenumwandler
 2 Blitzschläge mehr. Auch gut gegen Bossmonster
 
-## Expo-Skelett 
+## Exo-Skelett 
 Hällt euch durch den Pushback die Monster vom Hals
 
 ## Schwerkraftregler
@@ -193,13 +193,13 @@ Die Steine gehen durch alle Gegner
 Die Raketen werden schneller wieder abgeschossen. Auch gut für mehr Schaden an Bossmonstern
 
 # Sammelobjekte
-Hier könnte ihr durch die Objekte allgemein nochmal mehr ATK und HP bekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment einen Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden. Es lohnt sich ggf. darauf zu konzentieren. Auch das Präzionsgeräte ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen (lila). Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen.
+Hier könnte ihr durch die Objekte allgemein nochmal mehr ATK und HP bekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment einen Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden. Es lohnt sich ggf. darauf zu konzentrieren. Auch das Präzisionsgeräte ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen (lila). Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen.
 
 # Echo des Endes
 Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char upzugraden. Hier könnt ihr starten und sofort wieder beenden bekommt aber nicht alle Belohnungen wie die tech. Teile.
 
-## Tips für viel Schaden
-In folgender Reihenfolge Waffen und Fertigkeiten auswählen wenn sie kommen.
+## Tipps für viel Schaden
+In folgender Reihenfolge Waffen und Fertigkeiten auswählen, wenn sie kommen.
 1. Beide Drohnen bis zum Zerstörer 
 2. Hauptwaffe
 3. Char Fertigkeit z.B.: Panda Ying Yang
@@ -207,13 +207,13 @@ In folgender Reihenfolge Waffen und Fertigkeiten auswählen wenn sie kommen.
 5. Magnet (aber nur einmal, außer ihr habt die Omni-Schwerkraft aus der Entwicklung)
 6. Mehr Exp
 7. Abklingzeit
-8. Fußballschuhe (wenn Leerwandlertreter oder ss Schuhe)
+8. Fußballschuhe (wenn Leerwandlertreter oder SS Schuhe)
 10. Schussgeschwindigkeit
-11. Fussball
+11. Fußball
 12. Blitz
 13. Rakete 
 
-Zusätzlich schaut das alle 6 Slots mit Waffen belegt werden, sonst ist es schwieriger den Zerstörer oder die Hauptwaffe zur Superwaffe zu bekommen. Sonst kommen immer wieder andere Vorschläge für andere Waffen. Manchmal dauert es auch richtig lange bis ihr beide Drohnen bekommt. Ab 1 Minute Restzeit solltet ihr vielleicht auch davon abrücken wenn ihr nur eine Drohne habt. Dann lieber die Hauptwaffe zu Superwaffe bringen. Am Ende vom Kampf könnt ihr auch eine Statistik anschauen welche Waffe wieviel Schaden gemacht habt. Schaut dort rein und optimiert euch selber.
+Zusätzlich schaut das alle 6 Slots mit Waffen belegt werden, sonst ist es schwieriger den Zerstörer oder die Hauptwaffe zur Superwaffe zu bekommen. Sonst kommen immer wieder andere Vorschläge für andere Waffen. Manchmal dauert es auch richtig lange bis ihr beide Drohnen bekommt. Ab 1 Minute Restzeit solltet ihr vielleicht auch davon abrücken, wenn ihr nur eine Drohne habt. Dann lieber die Hauptwaffe zu Superwaffe bringen. Am Ende vom Kampf könnt ihr auch eine Statistik anschauen welche Waffe wieviel Schaden gemacht habt. Schaut dort rein und optimiert euch selber.
 
 Je mehr Exp man erhält, desto besser werden einige Eigenschaften von Waffen und das Tier.
 
@@ -228,46 +228,46 @@ Einige Boss rennen wie bekloppt über den Bildschirm. Dort so rumprobieren damit
 Für die perfekte Equipment Zusammenstellung siehe Abschnitt: Equipment optimieren. Für den Expedition Bosskampf gilt eine andere Zusammenstellung als für Echo des Endes.
 
 ### Expedition
-Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellung zu erreichen. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden wenn ihr weitere Diamanten ausgebt.
+Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellung zu erreichen. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden, wenn ihr weitere Diamanten ausgebt.
 
 Für fast optimalen Schaden:
 Zerstörer, Charakter Fähigkeit, ATK, Schuhe, Geschwindigkeit, Abklingzeit, Reichweite
-Waldläufer-Panzer wenn nicht die ganze Zeit durchhaltet.
+Waldläufer-Panzer, wenn nicht die ganze Zeit durchhaltet.
 
 # Pfad der Prüfungen
-Sollte ihr einmal die Woche spielen und mindestens 1 Level vorankommen damit ihr einmal die Rewards einsammelt. Spielt nicht zuviele Level sonst kommt ihr nächste Woche dann garnicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben. Solltet ihr auch mal zurückliegen. könnt ihr auch Prüfung wiederholen wählen. Ungefähr 75.000 ATK = 1000 Ebenen.
+Sollte ihr einmal die Woche spielen und mindestens 1 Level vorankommen damit ihr einmal die Rewards einsammelt. Spielt nicht zu viele Level sonst kommt ihr nächste Woche dann gar nicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben. Solltet ihr auch mal zurückliegen. könnt ihr auch Prüfung wiederholen wählen. Ungefähr 75.000 ATK = 1000 Ebenen.
 
 # Megaherausforderung
 Nicht so wichtig, könnt ihr zwischendurch irgendwann mal spielen, wenn ihr noch Lust und Zeit habt.
 
 # Zonenoperation
-Aufwendig zu spielen, nicht ganz so wichtig. Benötigt auch ein gewisses Level und Equipment um es durchgespielt zu bekommen. Hier könnt aber hier 2 S items erlangen. Für Menschen die eine Herrausforderung mögen genau das Richtige. Hier braucht ihr die Leerenmacht Waffe / SS Lanze und die Rüstung von Quietus auf rot. Zumindestens ist das meine Erfahrung. Ab Ebene 15 solltet ihr die Rüstung von Quietus nutzen. Wenn ihr alle 20 Stufen durchgespielt habt und die Season vorbei ist braucht ihr hinterher in der nächsten Season nicht jedes Level doppelt zu spielen. Ihr erhaltet auch direkt die Rewards von ersten ersten durchspielen ausbezahlt. Gelbe Tropfen gibt es hier ebenfalls. Maximal 800 Tropfen.
+Aufwendig zu spielen, nicht ganz so wichtig. Benötigt auch ein gewisses Level und Equipment um es durchgespielt zu bekommen. Hier könnt aber hier 2 S Items erlangen. Für Menschen die eine Herausforderung mögen genau das Richtige. Hier braucht ihr die Leerenmacht Waffe / SS Lanze und die Rüstung von Quietus auf Rot. Zu mindestens ist das meine Erfahrung. Ab Ebene 15 solltet ihr die Rüstung von Quietus nutzen. Wenn ihr alle 20 Stufen durchgespielt habt und die Season vorbei ist braucht ihr hinterher in der nächsten Season nicht jedes Level doppelt zu spielen. Ihr erhaltet auch direkt die Rewards von ersten durchspielen ausbezahlt. Gelbe Tropfen gibt es hier ebenfalls. Maximal 800 Tropfen.
 
 # Entwicklung
-Zurerst müßt ihr ein Hauptkapitel durchspielen damit ihr die 3 Hauptherausforderungen zu einem Level spielen könnt. Bei den zweiten und dritten Schwierigkeitsgrad bekommt ihr Gold-DNA. Dadurch könnt ihr eure passiven Fähigkeiten erhöhen und mehr Equipment durch Monsterdrops bekommen. Wichtig das ihr hier nach und nach auch vorran kommt. Wichtig ist das ihr am Anfang mehr Drops durch Items bekommt. So könnt ihr schneller euer Equipment upgraden. Spiel am Besten direkt die schwierigste Hauptherausforderung, dann sind die ersten beiden Schwierigkeitsgrade direkt miterledigt und ihr bekommt alle 3 Truhen auf einmal.
+Zuerst müsst ihr ein Hauptkapitel durchspielen damit ihr die 3 Hauptherausforderungen zu einem Level spielen könnt. Bei dem zweiten und dritten Schwierigkeitsgrad bekommt ihr Gold-DNA. Dadurch könnt ihr eure passiven Fähigkeiten erhöhen und mehr Equipment durch Monsterdrops bekommen. Wichtig das ihr hier nach und nach auch voran kommt. Wichtig ist das ihr am Anfang mehr Drops durch Items bekommt. So könnt ihr schneller euer Equipment upgraden. Spiel am besten direkt die schwierigste Hauptherausforderung, dann sind die ersten beiden Schwierigkeitsgrade direkt miterledigt und ihr bekommt alle 3 Truhen auf einmal.
 
 # Karten
-Ihr könnten oben links unter dem M - Kartensymbol euch für 9000 Diamanten die Dauerhafte Privilegienkarte holen. Diese rentiert sich auf Dauer. Ihr bekommt jeden Tag einen Schlüssel und 50 Diamanten. Nach einem halben Jahr seit ihr dann mit den Diamanten im Plus. Aber durch den Schlüssel rentiert sich das sicher noch eher.
+Ihr könnten oben links unter dem M - Kartensymbol euch für 9000 Diamanten die Dauerhafte Privilegienkarte holen. Diese rentiert sich auf Dauer. Ihr bekommt jeden Tag einen Schlüssel und 50 Diamanten. Nach einem halben Jahr seid ihr dann mit den Diamanten im Plus. Aber durch den Schlüssel rentiert sich das sicher noch eher.
 
 # Clan Shop
-Hier könnte ihr eure im Clan verdientn Münzen gegeben Rewards eintauchen. Am besten die Yang Scherben und rotes Sammelobjekt Truhe holen. Die Qualität der Belohungen scheinen für alle gleich zu sein egal wie gut der Clan ist.
+Hier könnte ihr eure im Clan verdient Münzen gegeben Rewards eintauchen. Am besten die Yang Scherben und rotes Sammelobjekt Truhe holen. Die Qualität der Belohnungen scheinen für alle gleich zu sein egal wie gut der Clan ist. Vielleicht ist dies bei den ersten paar Clanleveln anders.
 
 # Synergie
-Wenn ihr insgesamt 3 Mio. gelbe Tropfen gesammelt habt könnt ihr das Synergie System freischalten. Dies bedeutet das alle freigeschalten Charaktere auf das Level 120 angehoben werden. Somit werden auch alle Boni die mit gelben Tropfen erlangt werden können von allen Charakteren freigeschaltet werden. Es werden keine Charaktere freigeschaltet wie z. B. Sandy die ohr beim Event nicht erhalten habt.
+Wenn ihr insgesamt 3 Mio. gelbe Tropfen gesammelt habt könnt ihr das Synergie System freischalten. Dies bedeutet das alle freigeschalten Charaktere auf das Level 120 angehoben werden. Somit werden auch alle Boni die mit gelben Tropfen erlangt werden können von allen Charakteren freigeschaltet werden. Es werden keine Charaktere freigeschaltet wie z. B. Sandy die ihr beim Event nicht erhalten habt.
 Die Eigenschaften die per Scherben freigeschaltet werden, werden nicht freigeschaltet.
-Die Synergie lasst sich durch, blaue Scherben, gelbe Tropfen und Geld hochleveln. Alle 5 Level benötigt ihr Erwachenkerne und S Scherben. Dadurch werden die verschiedenen Schadenwerte erhöht. Alle Charaktere werden dann um +1 Level angehoben. 120 + Synergie Level.
+Die Synergie lässt sich durch, blaue Scherben, gelbe Tropfen und Geld hochleveln. Alle 5 Level benötigt ihr Erwachenkerne und S Scherben. Dadurch werden die verschiedenen Schadenwerte erhöht. Alle Charaktere werden dann um +1 Level angehoben. 120 + Synergie Level.
 
 ## Harmonie 
 Zum Hauptcharakter können zwei Begleitcharakter bestimmt werden. Aktuell geht hier Common, King und alle S Charaktere. Anhand der Anzahl der Sterne der Begleitcharaktere könnt ihr hierdurch die krit. Rate weiter erhöhen. gelbe Sterne 1 Stern 2%, 3 3%, 6 5%, 9 5%, 12 5%, 15 5%, 18 5%.
 Rote Sterne schaltet Skills frei die z.B. Common ausführt, wie Kunai werfen. Dafür benötigt ihr aber alle gelben Sterne von allen drei aktiven Charakteren.
 
 # Allgemeines
-Dieses Wiki basiert auf F2P. Free to play. Ihr könnt in dem Spiel euch zusätzliche Diamanten gegen richtiges Geld kaufen oder auch Items. Ebenfalls könnt ihr Werbung schauen um zusätzliche Rewards zu bekommen. Dies verändert ggf. einige Sichtweisen und wurde hier nicht berücksichtigt. Auch wichtig die Equipmentbeschreibung genau durchzulesen und zu verstehen. Der Hersteller verändert auch sein Spiel wodurch diese Wiki nicht immer aktuell ist.
+Dieses Wiki basiert auf F2P. Free to play. Ihr könnt in dem Spiel euch zusätzliche Diamanten gegen richtiges Geld kaufen oder auch Items. Ebenfalls könnt ihr Werbung schauen um zusätzliche Rewards zu bekommen. Dies verändert ggf. einige Sichtweisen und wurde hier nicht berücksichtigt. Auch wichtig die Equipmentbeschreibung genau durchzulesen und zu verstehen. Der Hersteller verändert natürlich sein Spiel wodurch dieses Wiki nicht immer aktuell sein kann.
 
 # optimal spielen
-Die ersten 4 sind Pflichtprogramm und eigentlich auch in einer dreiviertel Stunde zu schaffen. Die weiteren Punkte sind tagesabhängig und auch zeitlich flexibeler in der Absolvierung.
+Die ersten 4 sind Pflichtprogramm und eigentlich auch in einer dreiviertel Stunde zu schaffen. Die weiteren Punkte sind tagesabhängig und auch zeitlich flexibler in der Absolvierung.
 1. jeden Tag Enders Echo zweimal
-2. Alle drei Tage einmal Regelmäßige Herausforderung (direkt am Besten Alptraum)
+2. Alle drei Tage einmal Regelmäßige Herausforderung (direkt am besten Alptraum)
 3. Jeden Tag 10 Spezialeinsätze (lieber nicht alle Bosse)
 4. 100+ Punkte im Missionscenter
 5. Einmal die Woche, Pfad der Prüfung spielen
@@ -279,10 +279,10 @@ Die ersten 4 sind Pflichtprogramm und eigentlich auch in einer dreiviertel Stund
 11. wöchentlich schwierigste Hauptkapitel Herausforderungen
 
 # YouTube 
-Es gibt zwei Youtuber Playme und Phasecast die unzählige Video erstellt haben.
+Es gibt zwei Youtuber Playme (https://www.youtube.com/c/PlayMe-GameChannel) und Phasecast (https://www.youtube.com/@Phasecast) die unzählige Videos erstellt haben.
 
 # Kalkulator
-externer Link, die Kalulatoren und Inhalte haben nichts mit diesem Wiki zu tun:
+externer Link, die Kalkulatoren und Inhalte haben nichts mit diesem Wiki zu tun:
 https://danke007.com/
 Es ist ratsam den Googletranslator zu verwenden.
 
