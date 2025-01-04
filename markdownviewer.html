@@ -1,31 +1,30 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>GitHub README Viewer</title>
+  <meta name="google-site-verification" content="nM-7Px9WrkqTETXTd2xqpFJobZGHyQTgEr2GpfNZcpY" />
+  <meta name="description" content="Das ultimative Wiki für survivor.io: Entdecke detaillierte Guides, Strategien und Lösungsansätze für alle Spielstufen. Ob Anfänger oder Profi – hier findest du alles, um zum Überlebenskünstler zu werden.">
+  <title>survivor.io Wiki</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@latest/dist/css/bootstrap.min.css">
   <script src="https://cdn.jsdelivr.net/npm/showdown@latest/dist/showdown.min.js"></script>
 </head>
 <body>
   <div class="container">
-    <h1 class="text-center">GitHub README Viewer</h1>
+    <h1 class="text-center">survivor.io Wiki</h1>
     <div id="readme-container"></div>
   </div>
-
   <script>
     const readmeUrl = 'https://raw.githubusercontent.com/Rifffi/survivor-io-wiki.github.io/refs/heads/main/README.md';
-
     fetch(readmeUrl)
       .then(response => response.text())
       .then(markdown => {
         const converter = new showdown.Converter();
         const html = converter.makeHtml(markdown);
-
         const readmeContainer = document.getElementById('readme-container');
         readmeContainer.innerHTML = html;
       })
       .catch(error => {
         console.error('Fehler beim Laden der README:', error);
-        readmeContainer.innerHTML = 'Es ist ein Fehler beim Laden der README aufgetreten.';
+        readmeContainer.innerHTML = '<a href="https://github.com/Rifffi/survivor-io-wiki.github.io#survivor-io-wiki">Hier geht es zum Survivor.io Wiki</a>';
       });
   </script>
 </body>
