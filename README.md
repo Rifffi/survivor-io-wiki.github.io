@@ -1,8 +1,6 @@
 Translate to [english](https://rifffi-github-io.translate.goog/survivor-io-wiki.github.io/markdownviewer.html?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp). :-D
 # survivor-io-wiki
-Wiki für das Spiel survior.io
-
-[Clan Regeln](https://github.com/Rifffi/survivor-io-wiki/blob/main/Clan.md)<br>
+Wiki für das Spiel survior.io [Google Play](https://play.google.com/store/apps/details?id=com.dxx.firenow&pcampaignid=web_share) & [App Store](https://apps.apple.com/de/app/survivor-io/id1528941310)
 
 # Patrouille
 Durch Patrouillen erhaltet ihr Geld, Exp. und Items. Daher ist es wichtig diese täglich auszureizen. Am besten morgens nach dem Aufstehen 1-2 Schnelle Gewinne (blauer Button) mitnehmen. 4-5 dann abends. Um 18 Uhr Sommerzeit bzw. 17 Uhr Winterzeit startet ein neuer Tag in Survior.io. Es ist wichtig das ihr Hauptkapitel abschließt, um durch die Patrouillen mehr Geld, Exp. und Items zu erhalten.
@@ -249,7 +247,11 @@ Zuerst müsst ihr ein Hauptkapitel durchspielen damit ihr die 3 Hauptherausforde
 # Karten
 Ihr könnten oben links unter dem M - Kartensymbol euch für 9000 Diamanten die Dauerhafte Privilegienkarte holen. Diese rentiert sich auf Dauer. Ihr bekommt jeden Tag einen Schlüssel und 50 Diamanten. Nach einem halben Jahr seid ihr dann mit den Diamanten im Plus. Aber durch den Schlüssel rentiert sich das sicher noch eher.
 
-# Clan Shop
+# Clan
+Ein guter aktiver Clan bringt euch schneller weiter. Ihr erhaltet so viel mehr Belohungen. 
+[Clan Regeln](https://github.com/Rifffi/survivor-io-wiki/blob/main/Clan.md)<br>
+
+## Clan Shop
 Hier könnte ihr eure im Clan verdient Münzen gegeben Rewards eintauchen. Am besten die Yang Scherben und rotes Sammelobjekt Truhe holen. Die Qualität der Belohnungen scheinen für alle gleich zu sein egal wie gut der Clan ist. Vielleicht ist dies bei den ersten paar Clanleveln anders.
 
 # Synergie
