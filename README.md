@@ -136,7 +136,7 @@ sind wohl besser als die Leerenwandler-Treter vor allem wenn ihr den 1. und 3. S
 # Charakter
 Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Ihr solltet euch aber nur auf ATK oder krit. konzentrieren und euch lieber auf einen Char fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40 pushen.
 Ihr müsst den Char auf Lvl 20 haben damit ihr diesen mit den jeweiligen Scherben updaten könnt. Es gibt ein Fläschchen damit könnt ihr alle Ressourcen die ihr in einen Char gesteckt haben wieder zurückerlangen. Kann man durch kaufen oder durch Events irgendwann bekommen.
-Jeder Char kann 6 gelbe Sterne bekommen durch Scherben. Danach kann dieser Erwachen und mit weiteren Scherben und Quantensternscherben auf 6 rote Sterne gebracht werden. Hier können andere Chars als Unterstützung in Slots gesetzt werden plus zusätzliche Boni.
+Jeder Char kann 6 gelbe Sterne bekommen durch Scherben. Danach kann dieser Erwachen und mit weiteren Scherben und Quantensternscherben auf 6 rote Sterne gebracht werden. Hier können andere Chars als Unterstützung in Slots gesetzt werden plus zusätzliche Boni. Später kommt noch das Synergie System hinzu.
 
 ## King
 ist die Wahl nach dem Startcharakter. Seine zusätzliche Fähigkeit mehr kritische Treffer zu erhalten, hilft um viel mehr Schaden zu machen.
@@ -153,6 +153,24 @@ Wenn ihr genügend krit. Rate habt ist das wahrscheinlich der beste Charakter ak
 
 ## Teamarbeit passiv
 Wenn euer Charakter erwacht ist und dieser 3 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind.
+### Common
+Wenn Schild aktiv 20% mehr Exp.
+### Tsukiyomi
+Wenn Schwert ausgerüstet ATK +5%
+### Catnip
+Zerstörer ATK +5%
+### King
+Alle 500 krit. Treffer brennder Kreis
+### Wurm
++10 ATK, wenn weniger als 3 Monster
+### Yelena
+Wenn 10s kein HP Verlust Laser, Blitz, EFeld +5%
+### Wesson
+Für 3 mal Fleisch, Magnet oder Bomben gibt es +2% ATK. Max +10%
+### Yang
++5% krit. Rate und +5% krit. Schaden
+### Metallica
++10% Schildschaden
 
 # Kritische Treffer
 Es gibt viele Möglichkeiten um eure krit. Rate zu verbessern. Über Equipment, Sammelobjekte, Chars (Panda 20%), Fertigkeiten, Tiere und 
