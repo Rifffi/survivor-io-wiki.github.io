@@ -170,6 +170,8 @@ Wenn erwacht, ist dieser gut gegen Bossmonster, da single traget. Federschüsse.
 Macht wohl ab 200.000 ATK mehr Schaden als Merika. Dies dauert aber bis ihr mal dort seid. Aktuell das finale Tier.
 ## Schnecke
 Bestes Tier was ihr in den Unterstützungs Slot packen solltet.
+## Tier Fertigkeiten
+Bei jedem Tier könnt ihr Fertigkeiten einsetzen. Hier rät es sich auf ATK Erhöhungen zu setzen vom Tier. Auch die Erhöhung der krit. Rate oder Angriff vom Besitzer ist gut. Damit euer Tier nicht so häufig stirbt kann hier die Fertigkeit absorbiert LP gewählt werden.
 
 # tech. Teile
 ## Präzisionsgerät
