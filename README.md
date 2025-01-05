@@ -164,7 +164,7 @@ Alle 500 krit. Treffer brennder Kreis
 ### Wurm
 +10 ATK, wenn weniger als 3 Monster
 ### Yelena
-Wenn 10s kein HP Verlust Laser, Blitz, EFeld +5%
+Wenn 10s kein HP Verlust Laser, Blitz und Kraftfeld jeweils +5% ATK
 ### Wesson
 Für 3 mal Fleisch, Magnet oder Bomben gibt es +2% ATK. Max +10%
 ### Yang
