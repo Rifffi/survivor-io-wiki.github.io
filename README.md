@@ -24,7 +24,7 @@ Jede Woche gibt es ein Event über mehrere Tage. Dort gibt es immer gute Items/R
 # Waffen   
 Welche Waffen sind gut:
 ## Drohnen
-Die beiden Drohnen (weiß und schwarz) werden als Superwaffe zum Zerstörer (Destroyer). Dieser ist gegen Bossmonster super da er viel Schaden macht. Aber auch eine gute Allroundwaffe.
+Die beiden Drohnen (weiß und schwarz) werden als Superwaffe zum Zerstörer (Destroyer). Dieser ist gegen Bossmonster super da er viel Schaden macht. Aber auch eine gute Allroundwaffe. Effekten die auf Anzahl von Treffer basieren werden durch die hohe Feuerrate schneller ausgelöst.
 ## Hauptwaffe
 Die Hauptwaffe sollte auch immer zur Superwaffe gebracht werden.
 ## Blitz
@@ -189,7 +189,7 @@ Macht wohl ab 200.000 ATK mehr Schaden als Merika. Dies dauert aber bis ihr mal 
 ## Schnecke
 Bestes Tier was ihr in den Unterstützungs Slot packen solltet.
 ## Tier Fertigkeiten
-Bei jedem Tier könnt ihr Fertigkeiten einsetzen. Hier rät es sich auf ATK Erhöhungen zu setzen vom Tier. Auch die Erhöhung der krit. Rate oder Angriff vom Besitzer ist gut. Damit euer Tier nicht so häufig stirbt kann hier die Fertigkeit absorbiert LP gewählt werden.
+Bei jedem Tier könnt ihr Fertigkeiten einsetzen. Hier rät es sich auf ATK Erhöhungen zu setzen vom Tier. Auch die Erhöhung der krit. Rate oder Angriff vom Besitzer ist gut. Damit euer Tier nicht so häufig stirbt kann hier die Fertigkeit absorbiert LP gewählt werden. Ein Tier kann auch gut als Schild oder Block bei Beschuss eingesetzt werden. Auch wenn dies gestorben ist.
 
 # tech. Teile
 ## Präzisionsgerät
@@ -244,6 +244,8 @@ Den Boss so laufen lassen das Exp eingesammelt werden aber noch Schaden mit den 
 Einige Boss rennen wie bekloppt über den Bildschirm. Dort so rumprobieren damit er in einer Ecke bleibt oder nur hoch und runter läuft.
 
 Für die perfekte Equipment Zusammenstellung siehe Abschnitt: Equipment optimieren. Für den Expedition Bosskampf gilt eine andere Zusammenstellung als für Echo des Endes.
+
+Jeder Charakter hat auch individuelle Fähigkeiten. Wie diese zu Handhaben sind steht beim der Charakter Beschreibung.
 
 ### Expedition
 Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellung zu erreichen. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden, wenn ihr weitere Diamanten ausgebt.
