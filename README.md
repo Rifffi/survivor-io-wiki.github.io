@@ -309,7 +309,7 @@ https://danke007.com/
 Es ist ratsam den Googletranslator zu verwenden.
 
 ## Equipment optimieren
-Mit dieser Seite könnt ihr die optimale Zusammenstellung für Bosskämpfe in den verschiedenen Modi errechnen lassen. Dort gebt ihr die Anzahl eurer Relikt Kerne ein und Dinge die ihr sonst so habt. Der Kalkulator errechnet euch die perfekte Zuteilung der Kerne. Dies könnt ihr vor jedem Kampf durch Abwerten und Aufwerten der Ausrüstung justieren. Dafür die Ausrüstung anklicken und oben rechts den roten Recycling Button drücken. Der Kalkulator hat nichts mit diesem Wiki zu tun:
+Mit dieser Seite könnt ihr die optimale Zusammenstellung für Bosskämpfe in den verschiedenen Modi errechnen lassen. Dort gebt ihr die Anzahl eurer Relikt Kerne ein und Dinge die ihr sonst so habt. Dort gibt es auch einen Button um Teile die ihr nicht habt auszuschließen. Der Kalkulator errechnet euch die perfekte Zuteilung der Kerne. Dies könnt ihr vor jedem Kampf durch Abwerten und Aufwerten der Ausrüstung justieren. Dafür die Ausrüstung anklicken und oben rechts den roten Recycling Button drücken. Der Kalkulator hat nichts mit diesem Wiki zu tun:
 https://danke007.com/calc/damage-increase
 
 Damit ihr eure Zusammenstellung einfach wechseln könnt gibt es in der Astrahlschmiede die Speicherung eurer Relikt Kern Zusammenstellung (SS speichern wiederherstellen). 
