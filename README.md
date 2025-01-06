@@ -82,7 +82,7 @@ Laufgeschwindigkeit, Reichweite, Exoskelett, (Gold für die +10% durch rotes tec
 Wichtig ATK geht immer vor HP. Sprich Hauptwaffe, Kette und Handschuhe gehen vor Rüstung, Gürtel und Schuhe. Was vor geht immer bevorzugt upgraden. Mit dem SS-Equipment ändert sich dies unter gewissen Umständen etwas. Am meisten konzentiert ihr euch auf Bossequipment. Aber auch Mobequipment wird hier und da benötigt, aber vielleicht nicht ganz so stark upgegradet. Ihr müsst viel Geduld mitbringen damit euer Equipment richtig gut wird. 
 
 Am Anfang nutzt ihr das Standardequipment.
-Baseballschläger für Mobs. Kunai gegen Bossmonster. Seht zu das ihr S Equipment bekommt und danach SS Equipment
+Baseballschläger für Mobs. Kunai gegen Bossmonster. Seht zu das ihr S Equipment bekommt und danach SS Equipment.
 ## S Equipment
 ### Hauptwaffen
 Danach Leermacht oder Lichtjäger gegen Mobs und Schwert der Unordnung gegen Bossmonster.
@@ -113,7 +113,7 @@ gute Kette für Mobs da ihr beim ersten Schlag sehr viel mehr Schaden macht.
 Super Kette gegen Bossmonster. Steigert den Schaden und die krit. Rate ordentlich. Allerdings muss dafür der Charakter wenig HP haben damit der Effekt funktioniert. Mit der Rüstung von Quietus oder auch dem Energieschild lasst sich dies ganz gut bewerkstelligen.
 
 ## SS Items
-Für SS Items benötigt ihr ein Equipment auf Rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S Items erlangt. Genauso müssen normale Items zerlegt werden für Cubes. Durch Schmiedeeffekt kann das Equipment zusätzliche Eigenschaften erfahren. Dafür werden Reliktkerne, Cubes und Kerne benötigt. Die Eigenschaften gibt es beim 1. 3. 5. und 7. Schmiedeeffekt. Beim 2. 4. 6. und 8. gibt es HP oder ATK Boni.
+Für SS Items benötigt ihr ein Equipment auf Rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S Items erlangt. Genauso müssen normale Items zerlegt werden für Cubes. Durch Schmiedeeffekt kann das Equipment zusätzliche Eigenschaften erfahren. Dafür werden Reliktkerne, Cubes und Kerne benötigt. Die Eigenschaften gibt es beim 1. 3. 5. und 7. Schmiedeeffekt. Beim 2. 4. 6. und 8. gibt es HP oder ATK Boni. Reihenfolge der Anschaffung kann am besten durch den Kalkulator bestimmt werden. Dies ergibt sich aber meistens: Lanze, Schuhe, Gürtel oder Handschuhe, Kette und Rüstung.
 
 ### Lanze
 Die Lanze ist die finale Waffe die ihr haben wollt und auch das erste sinnvolle SS Item. Wichtig sich den 1. Schmiedeeffekt zu holen damit die Waffe auf 3 gelben Sternen startet.
