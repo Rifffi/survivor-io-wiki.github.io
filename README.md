@@ -189,7 +189,7 @@ Macht wohl ab 200.000 ATK mehr Schaden als Merika. Dies dauert aber bis ihr mal 
 ## Schnecke
 Bestes Tier was ihr in den Unterstützungs Slot packen solltet.
 ## Tier Fertigkeiten
-Bei jedem Tier könnt ihr Fertigkeiten einsetzen. Hier rät es sich auf ATK Erhöhungen zu setzen vom Tier. Auch die Erhöhung der krit. Rate oder Angriff vom Besitzer ist gut. Damit euer Tier nicht so häufig stirbt kann hier die Fertigkeit absorbiert LP gewählt werden. Ein Tier kann auch gut als Schild oder Block bei Beschuss eingesetzt werden. Auch wenn dies gestorben ist.
+Bei jedem Tier könnt ihr Fertigkeiten einsetzen. Hier rät es sich auf ATK Erhöhungen zu setzen vom Tier. Auch die Erhöhung der krit. Rate oder Angriff vom Besitzer ist gut. Damit euer Tier nicht so häufig stirbt kann hier die Fertigkeit absorbiert LP gewählt werden. Ein Tier kann auch gut als Schild oder Block bei Beschuss eingesetzt werden. Auch wenn dies gestorben ist. Je mehr rote Tiere ihr habt desto mehr Fertigkeiten könnt ihr auswählen. Es ist also ratsam jede Art einmal in Rot zu haben. Die ersten vier Slots können durch das Erwachen des Tieres auf Rot hochgestuft werden.
 
 # tech. Teile
 ## Präzisionsgerät
