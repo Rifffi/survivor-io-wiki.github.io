@@ -269,6 +269,9 @@ Zuerst müsst ihr ein Hauptkapitel durchspielen damit ihr die 3 Hauptherausforde
 # Karten
 Ihr könnten oben links unter dem M - Kartensymbol euch für 9000 Diamanten die Dauerhafte Privilegienkarte holen. Diese rentiert sich auf Dauer. Ihr bekommt jeden Tag einen Schlüssel und 50 Diamanten. Nach einem halben Jahr seid ihr dann mit den Diamanten im Plus. Aber durch den Schlüssel rentiert sich das sicher noch eher.
 
+# Pass Exp.
+Es gibt drei Kategorien wo ihr Exp. draufladen könnt. Bis 2000 Exp bekommt ihr aus den Kategorien die Belohnungen. Von 2000-3000 Exp. gibt es Schlüssel. Achtet darauf das ihr nach 3000 Exp. die Kategorie oben rechts über den Button wechselt. Wenn ihr normal spiel schafft ihr in einer Season alle Belohnungen zu erhalten.
+
 # Clan
 Ein guter aktiver Clan bringt euch schneller weiter. Ihr erhaltet so viel mehr Belohungen. 
 [Clan Regeln](https://github.com/Rifffi/survivor-io-wiki/blob/main/Clan.md)<br>
