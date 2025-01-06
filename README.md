@@ -179,17 +179,17 @@ Mit den SS Gloves ist eine krit. Rate über 100% sogar sehr gut. Über 100% gibt
 Auf der Seite mit den Sammelobjekten gibt es oben rechts einen Button wo alle Werte die ihr erlangt habe zusammengefasst sind.
 
 # Tiere
-Kauft euch jeden Tag einmal die Tiermünzen. Mit jedem Mal kaufen steigt der Preis. Nach einem Tag wird der Preis zurückgesetzt. Je höher das Hauptkapitel desto mehr Münzen und teurer wird es. 3000 Stück ist aber Maximum. Ihr könnt zwei Unterstützer Tiere positionieren. Jedes Tier hat eine Unterstützenfähigkeit. Das ist im oberen rechten Feld beschrieben. Hier macht 10% mehr ATK auf jeden Fall Sinn. 2 mal dasselbe geht nicht. Die Fähigkeit durchdringen Gegner ist auch gut. z.B. in Kombination mit Merika. Bei Quak macht dies natürlich keinen Sinn. Dort ist mehr Reichweite sinniger. Genauso wie bei Rex.
+Kauft euch jeden Tag einmal die Tiermünzen. Mit jedem Mal kaufen steigt der Preis. Nach einem Tag wird der Preis zurückgesetzt. Je höher das Hauptkapitel desto mehr Münzen und teurer wird es. 3000 Stück ist aber Maximum. Ihr könnt zwei Unterstützer Tiere positionieren. Jedes Tier hat eine Unterstützenfähigkeit. Das ist im oberen rechten Feld beschrieben. Hier macht 10% mehr ATK auf jeden Fall Sinn. 2 mal dasselbe geht nicht. Die Prozentzahl hängt von der Qualität des Unterstützungstier ab. Die Fähigkeit durchdringen Gegner ist auch gut. z.B. in Kombination mit Merika. Bei Quak macht dies natürlich keinen Sinn. Dort ist mehr Reichweite sinniger. Genauso wie bei Rex. Ein Tier kann auch gut als Schild oder Block bei Beschuss eingesetzt werden. Um Gary (Schnecke) auf Rot zu bekommen benötigt ihr mindestens 6 von ihm. Achtet bei Hochstufen auf die richtige Unterstützungsfähigkeit.
 ## Quak
 Flächenschaden gut gegen Mobs. Könnt euch gut mit eurem Char dort reinstellen.
 ## Merika
 Wenn erwacht, ist dieser gut gegen Bossmonster, da single traget. Federschüsse.
 ## Rex
 Macht wohl ab 200.000 ATK mehr Schaden als Merika. Dies dauert aber bis ihr mal dort seid. Aktuell das finale Tier.
-## Schnecke
+## Schnecke (Gary)
 Bestes Tier was ihr in den Unterstützungs Slot packen solltet.
 ## Tier Fertigkeiten
-Bei jedem Tier könnt ihr Fertigkeiten einsetzen. Hier rät es sich auf ATK Erhöhungen zu setzen vom Tier. Auch die Erhöhung der krit. Rate oder Angriff vom Besitzer ist gut. Damit euer Tier nicht so häufig stirbt kann hier die Fertigkeit absorbiert LP gewählt werden. Ein Tier kann auch gut als Schild oder Block bei Beschuss eingesetzt werden. Auch wenn dies gestorben ist. Je mehr rote Tiere ihr habt desto mehr Fertigkeiten könnt ihr auswählen. Es ist also ratsam jede Art einmal in Rot zu haben. Die ersten vier Slots können durch das Erwachen des Tieres auf Rot hochgestuft werden.
+Bei jedem Tier könnt ihr Fertigkeiten einsetzen. Hier rät es sich auf ATK Erhöhungen zu setzen vom Tier. Auch die Erhöhung der krit. Rate oder Angriff vom Besitzer ist gut. Damit euer Tier nicht so häufig stirbt kann hier die Fertigkeit absorbiert LP gewählt werden. Auch wenn dies gestorben ist. Je mehr rote Tiere ihr habt desto mehr Fertigkeiten (max. 12 Rote) könnt ihr auswählen. Es ist also ratsam jede Art einmal in Rot zu haben. Die ersten vier Slots können durch das Erwachen des Tieres auf Rot hochgestuft werden.
 
 # tech. Teile
 ## Präzisionsgerät
