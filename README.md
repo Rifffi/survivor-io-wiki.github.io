@@ -149,7 +149,7 @@ Für die letzten gelben Stern benötigt ihr 400 Scherben. Für die erwachen Ster
 ist aktuell wohl etwas besser als Yang. Aber nur wenn ihr eine hohe krit. Rate habt. Jedoch dauert es auch bis hier ihr angekommen seid.
 
 ## Joey
-Wenn ihr genügend krit. Rate habt ist das wahrscheinlich der beste Charakter aktuell.
+Wenn ihr genügend krit. Rate habt ist das wahrscheinlich der beste Charakter aktuell. Bei Bossmonster erscheint ein gelber Balken am Monster, von dieser Seite müsst ihr stehen und Schaden hinzufügen. Wenn ihr Joeys Fähigkeit einsetzt könnt ihr dem Bossmonster von überall mehr Schaden hinzufügen. Dies solltet ihr einsetzen wenn ihr nicht auf die Seite des gelben Balken kommt weil dort die Wand ist und den Boss dann von der Wand wieder weg locken.
 
 ## Teamarbeit passiv
 Wenn euer Charakter erwacht ist und dieser 3 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind.
