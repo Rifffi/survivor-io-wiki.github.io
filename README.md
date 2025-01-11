@@ -101,7 +101,7 @@ Dies ist ein super Handschutz für den Kampf gegen Bossmonster.
 Auf dem ersten gelben Schmiedeeffekt macht dieser einen doppelten Treffer an normalen Monstern und Bossen.
 ### Rüstung
 #### Immerwähr. Panzer
-Wenn ihr sterbt werden ihr zusätzlich 1-2 Wiederbelegt. Wenn ihr Wiederbelegt werdet habt ihr 15% (20%) mehr ATK.
+Wenn ihr sterbt werden ihr zusätzlich 1-2 Wiederbelebt. Wenn ihr Wiederbelebt werdet habt ihr 15% (20%) mehr ATK.
 #### Rüstung von Quietus
 Wenn ihr einmal gestorben seid könnt ihr weiterspielen für eine gewisse Sekundenanzahl. Wenn die Rüsten die Qualität rot erreicht seit ihr sozusagen Unsterblich, solange es genügend Monstermobs gibt und ihr innerhalb der Sekundenanzahl den Boss töten könnt. (auch genannt death walker build)
 
@@ -122,16 +122,16 @@ Die Lanze ist die finale Waffe die ihr haben wollt und auch das erste sinnvolle 
 Hiermit bekommt ihr ein zusätzliches Defensives Feature, einen Energieschild, Boni für krit. und Fertigkeitsschaden, sind auch mit dabei. Passive Fertigkeiten könnt ihr 6 mal im Spiel aufleveln. Also ATK auf 60%. Wichtig hier schnell den 1. und 3. Schmiedeeffekt sich zu holen. Aktuelle finale Halskette.
 
 ### Mondnarbe Armschutz
-Wird erst richtig gut wenn ihr über die 100 % krit Rate kommt. Daher vielleicht lieber länger die S Gloves verwenden. Feuert sonst einen Laser auf ein Bossmonster und gute Angriffsboni. Während der 10 Sekunden solltet ihr natürlich die ganze Zeit den Boss angreifen.
+Wird erst richtig gut wenn ihr über die 100 % krit Rate kommt. Daher vielleicht lieber länger die S Gloves verwenden. Feuert sonst einen Laser auf ein Bossmonster und gute Angriffsboni. Während der 10 Sekunden Aufladung solltet ihr natürlich die ganze Zeit den Boss angreifen.
 
 ### Sternenstaub Schärpe
 Ist auf Schmiedeeffekt 5 gut. Leider muss damit der Schaden richtig zur Geltung kommt viele Treffer vorher an Monstern hinbekommen und auch fast keinen Schaden einstecken.
 
 ### Immerleere Rüstung 
-eher unbeliebt, sehr viele nutzen lieber weiter die S Rüstungen. Lieber die Ressourcen erstmal in die anderen SS Items stecken.
+eher unbeliebt, sehr viele nutzen lieber weiter die S Rüstungen. Lieber die Ressourcen erstmal in die anderen SS Items stecken. Wenn ihr sterbt geht ein Effekt verloren. Auf dem 5. Schmiedeeffekt habt ihr durch den Schildschaden dann +20% ATK.
 
 ### Gletscher-Kriegsstiefel
-sind wohl besser als die Leerenwandler-Treter vor allem wenn ihr den 1. und 3. Schmiedeeffekt habt. Die Monster müssen dazu aber auch eingefroren werden.
+sind wohl besser als die Leerenwandler-Treter vor allem wenn ihr den 1. und 3. Schmiedeeffekt habt. Die Monster müssen dazu aber auch eingefroren werden. Seht auch zu das ihr viel rumlauft damit diese Aufgeladen werden. Dies funktioniert schneller wenn ihr die Fertigkeit Schuhe auswahlt.
 
 # Charakter
 Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Ihr solltet euch aber nur auf ATK oder krit. konzentrieren und euch lieber auf einen Char fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40 pushen.
@@ -225,13 +225,13 @@ In folgender Reihenfolge Waffen und Fertigkeiten auswählen, wenn sie kommen.
 5. Magnet (aber nur einmal, außer ihr habt die Omni-Schwerkraft aus der Entwicklung)
 6. Mehr Exp
 7. Abklingzeit
-8. Fußballschuhe (wenn Leerwandlertreter oder SS Schuhe)
+8. Fußballschuhe (wenn Leerwandlertreter)
 10. Schussgeschwindigkeit
 11. Fußball
 12. Blitz
 13. Rakete 
 
-Zusätzlich schaut das alle 6 Slots mit Waffen belegt werden, sonst ist es schwieriger den Zerstörer oder die Hauptwaffe zur Superwaffe zu bekommen. Sonst kommen immer wieder andere Vorschläge für andere Waffen. Manchmal dauert es auch richtig lange bis ihr beide Drohnen bekommt. Ab 1 Minute Restzeit solltet ihr vielleicht auch davon abrücken, wenn ihr nur eine Drohne habt. Dann lieber die Hauptwaffe zu Superwaffe bringen. Am Ende vom Kampf könnt ihr auch eine Statistik anschauen welche Waffe wieviel Schaden gemacht habt. Schaut dort rein und optimiert euch selber.
+Zusätzlich schaut das alle 6 Slots mit Waffen belegt werden, sonst ist es schwieriger den Zerstörer oder die Hauptwaffe zur Superwaffe zu bekommen. Sonst kommen immer wieder andere Vorschläge für andere Waffen. Manchmal dauert es auch richtig lange bis ihr beide Drohnen bekommt. Ab 1 Minute Restzeit solltet ihr vielleicht auch davon abrücken, wenn ihr nur eine Drohne habt. Dann lieber die Hauptwaffe zu Superwaffe bringen oder ATK. Am Ende vom Kampf könnt ihr auch eine Statistik anschauen welche Waffe wieviel Schaden gemacht habt. Schaut dort rein und optimiert euch selber.
 
 Je mehr Exp man erhält, desto besser werden einige Eigenschaften von Waffen und das Tier.
 
@@ -242,6 +242,8 @@ Ying und Yang den debuff auf die Verteidigung auslösen sonst nur die Handfläch
 Den Boss so laufen lassen das Exp eingesammelt werden aber noch Schaden mit den Drohnen erzeugt wird. Am Anfang kann auch eine Runde gelaufen werden um Exp einzusammeln. Besonders am Ende wird der meiste Schaden erzeugt da alle Waffe gut ausgebildet sind.
 
 Einige Boss rennen wie bekloppt über den Bildschirm. Dort so rumprobieren damit er in einer Ecke bleibt oder nur hoch und runter läuft.
+
+Wenn ihr die SS Schuhe habt sollte ihr dort wo der Boss auftaucht, vorher im Kreis rumlaufen. Erstens um diese aufzuladen und den Boss direkt zu vereisen.
 
 Für die perfekte Equipment Zusammenstellung siehe Abschnitt: Equipment optimieren. Für den Expedition Bosskampf gilt eine andere Zusammenstellung als für Echo des Endes.
 
