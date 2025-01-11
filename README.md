@@ -122,7 +122,7 @@ Die Lanze ist die finale Waffe die ihr haben wollt und auch das erste sinnvolle 
 Hiermit bekommt ihr ein zusätzliches Defensives Feature, einen Energieschild, Boni für krit. und Fertigkeitsschaden, sind auch mit dabei. Passive Fertigkeiten könnt ihr 6 mal im Spiel aufleveln. Also ATK auf 60%. Wichtig hier schnell den 1. und 3. Schmiedeeffekt sich zu holen. Aktuelle finale Halskette.
 
 ### Mondnarbe Armschutz
-Wird erst richtig gut wenn ihr über die 100 % krit Rate kommt. Daher vielleicht lieber länger die S Gloves verwenden. Feuert sonst einen Laser auf ein Bossmonster und gute Angriffsboni. Während der 10 Sekunden Aufladung solltet ihr natürlich die ganze Zeit den Boss angreifen.
+Wird erst richtig gut wenn ihr über die 100 % krit Rate kommt. Daher vielleicht lieber länger die S Gloves verwenden. Feuert sonst einen Laser auf ein Bossmonster und gute Angriffsboni. Während der 10 Sekunden Aufladung solltet ihr natürlich die ganze Zeit den Boss angreifen. Daa kronenartige Symbol zeigt an, ob ihr über 100% krit. Rate aktuell habt. Dann ist es Gelb hinterlegt. Es zeigt auch den Status der Aufladung an.
 
 ### Sternenstaub Schärpe
 Ist auf Schmiedeeffekt 5 gut. Leider muss damit der Schaden richtig zur Geltung kommt viele Treffer vorher an Monstern hinbekommen und auch fast keinen Schaden einstecken.
@@ -131,7 +131,7 @@ Ist auf Schmiedeeffekt 5 gut. Leider muss damit der Schaden richtig zur Geltung 
 eher unbeliebt, sehr viele nutzen lieber weiter die S Rüstungen. Lieber die Ressourcen erstmal in die anderen SS Items stecken. Wenn ihr sterbt geht ein Effekt verloren. Auf dem 5. Schmiedeeffekt habt ihr durch den Schildschaden dann +20% ATK.
 
 ### Gletscher-Kriegsstiefel
-sind wohl besser als die Leerenwandler-Treter vor allem wenn ihr den 1. und 3. Schmiedeeffekt habt. Die Monster müssen dazu aber auch eingefroren werden. Seht auch zu das ihr viel rumlauft damit diese Aufgeladen werden. Dies funktioniert schneller wenn ihr die Fertigkeit Schuhe auswahlt.
+sind wohl besser als die Leerenwandler-Treter vor allem wenn ihr den 1. und 3. Schmiedeeffekt habt. Die Monster müssen dazu aber auch eingefroren werden. Seht auch zu das ihr viel rumlauft damit diese Aufgeladen werden. Dies funktioniert schneller wenn ihr die Fertigkeit Schuhe auswählt.
 
 # Charakter
 Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Ihr solltet euch aber nur auf ATK oder krit. konzentrieren und euch lieber auf einen Char fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40 pushen.
@@ -175,7 +175,7 @@ Für 3 mal Fleisch, Magnet oder Bomben gibt es +2% ATK. Max +10%
 # Kritische Treffer
 Es gibt viele Möglichkeiten um eure krit. Rate zu verbessern. Über Equipment, Sammelobjekte, Chars (Panda 20%), Fertigkeiten, Tiere und 
 Entwicklung (8%).
-Mit den SS Gloves ist eine krit. Rate über 100% sogar sehr gut. Über 100% gibt es einen Boni auf den krit. Schaden.
+Mit den SS Gloves ist eine krit. Rate über 100% sogar sehr gut. Über 100% gibt es einen Boni auf den krit. Schaden. Das Symbol der Gloves zeigt auch an wenn ihr über 100% krit. Rate habt.
 Auf der Seite mit den Sammelobjekten gibt es oben rechts einen Button wo alle Werte die ihr erlangt habe zusammengefasst sind.
 
 # Tiere
