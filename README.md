@@ -2,6 +2,22 @@ Translate to [english](https://rifffi-github-io.translate.goog/survivor-io-wiki.
 # survivor-io-wiki
 Wiki für das Spiel survior.io [Google Play](https://play.google.com/store/apps/details?id=com.dxx.firenow&pcampaignid=web_share) & [App Store](https://apps.apple.com/de/app/survivor-io/id1528941310)
 
+# wichtigste Punkte:
+* [Charaktere](#charaktere)
+* [Clan](#clan)
+* [Echo des Endes](echo-des-endes)
+* [Equipment](#equipment)
+* [Events](#events)
+* [Kalkulator](#kalkulator)
+* [Kritische Treffer](#kritische-treffer)
+* [Sammelobjekte](#sammelobjekte)
+* [Synergie](#synergie)
+* [tech. Teile](tech-teile)
+* [Teamarbeit passiv](teamarbeit-passiv)
+* [Tiere](tiere)
+* [Waffen](#waffen)
+
+
 # Patrouille
 Durch Patrouillen erhaltet ihr Geld, Exp. und Items. Daher ist es wichtig diese täglich auszureizen. Am besten morgens nach dem Aufstehen 1-2 Schnelle Gewinne (blauer Button) mitnehmen. 4-5 dann abends. Um 18 Uhr Sommerzeit bzw. 17 Uhr Winterzeit startet ein neuer Tag in Survior.io. Es ist wichtig das ihr Hauptkapitel abschließt, um durch die Patrouillen mehr Geld, Exp. und Items zu erhalten.
 
@@ -133,7 +149,7 @@ eher unbeliebt, sehr viele nutzen lieber weiter die S Rüstungen. Lieber die Res
 ### Gletscher-Kriegsstiefel
 sind wohl besser als die Leerenwandler-Treter vor allem wenn ihr den 1. und 3. Schmiedeeffekt habt. Die Monster müssen dazu aber auch eingefroren werden. Seht auch zu das ihr viel rumlauft damit diese Aufgeladen werden. Dies funktioniert schneller wenn ihr die Fertigkeit Schuhe auswählt.
 
-# Charakter
+# Charaktere
 Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Ihr solltet euch aber nur auf ATK oder krit. konzentrieren und euch lieber auf einen Char fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40 pushen.
 Ihr müsst den Char auf Lvl 20 haben damit ihr diesen mit den jeweiligen Scherben updaten könnt. Es gibt ein Fläschchen damit könnt ihr alle Ressourcen die ihr in einen Char gesteckt haben wieder zurückerlangen. Kann man durch kaufen oder durch Events irgendwann bekommen.
 Jeder Char kann 6 gelbe Sterne bekommen durch Scherben. Danach kann dieser Erwachen und mit weiteren Scherben und Quantensternscherben auf 6 rote Sterne gebracht werden. Hier können andere Chars als Unterstützung in Slots gesetzt werden plus zusätzliche Boni. Später kommt noch das Synergie System hinzu.
