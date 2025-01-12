@@ -12,8 +12,8 @@ Wiki für das Spiel survior.io [Google Play](https://play.google.com/store/apps/
 * [Kritische Treffer](#kritische-treffer)
 * [Sammelobjekte](#sammelobjekte)
 * [Synergie](#synergie)
-* [tech Teile](#tech-teile)
 * [Teamarbeit passiv](#teamarbeit-passiv)
+* [tech Teile](#tech-teile)
 * [Tiere](#tiere)
 * [Waffen](#waffen)
 
