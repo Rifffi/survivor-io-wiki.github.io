@@ -158,7 +158,7 @@ Jeder Char kann 6 gelbe Sterne bekommen durch Scherben. Danach kann dieser Erwac
 ist die Wahl nach dem Startcharakter. Seine zusätzliche Fähigkeit mehr kritische Treffer zu erhalten, hilft um viel mehr Schaden zu machen.
 
 ## Panda
-darauf liegt der Fokus bis ihr eine krit. Rate größer 80-90% habt, danach nehmt ihr Joey. Ist aber vielleicht auch Geschmacksache. Panda hat eine aktive Fähigkeit. Ying und Yang. Dieser ermöglicht euch diese Fähigkeit zur Verteidigung oder zum Angriff (+20 krit. Rate mit den Handflächen) einzusetzen. Auch diese Fähigkeit kann zur Superwaffe werden. Die KI Kugeln (Bollwerk) können als Superwaffe ein Debuff (-50%) auf die Monsterverteidigung erwirken. Dies hilft um mehr Schaden an Bossmonster zu erlangen. Nachdem ihr den Debuff an einem Bossmonster durchgeführt habt wechselt ihr auf die Feuerhand. Der Debuff wird auch in der violetten Leiste vom Boss angezeigt.
+darauf liegt der Fokus bis ihr eine krit. Rate größer 80-90% habt, danach nehmt ihr Joey. Ist aber vielleicht auch Geschmacksache. Panda hat eine aktive Fähigkeit. Ying und Yang. Dieser ermöglicht euch diese Fähigkeit zur Verteidigung oder zum Angriff (+20 krit. Rate mit den Handflächen) einzusetzen. Auch diese Fähigkeit kann zur Superwaffe werden. Die KI Kugeln (Bollwerk, golden leuchtend) können als Superwaffe ein Debuff (-50%) auf die Monsterverteidigung erwirken. Dies hilft um mehr Schaden an Bossmonster zu erlangen. Nachdem ihr den Debuff an einem Bossmonster durchgeführt habt wechselt ihr auf die Feuerhand. Der Debuff wird auch in der violetten Leiste (Ying, Yang Symbol) vom Boss angezeigt.
 Für die letzten gelben Stern benötigt ihr 400 Scherben. Für die erwachen Sterne (Rot), werden auch Scherben, Erwachenkerne und blaue Scherben benötigt.
 
 ## Metallica
@@ -176,9 +176,9 @@ Wenn Schwert ausgerüstet ATK +5%
 ### Catnip
 Zerstörer ATK +5%
 ### King
-Alle 500 krit. Treffer brennder Kreis
+Alle 500 krit. Treffer, erzeugt brennden Kreis
 ### Wurm
-+10 ATK, wenn weniger als 3 Monster
++10% ATK, wenn weniger als 3 Monster
 ### Yelena
 Wenn 10s kein HP Verlust Laser, Blitz und Kraftfeld jeweils +5% ATK
 ### Wesson
