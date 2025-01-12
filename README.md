@@ -5,16 +5,16 @@ Wiki für das Spiel survior.io [Google Play](https://play.google.com/store/apps/
 # wichtigste Punkte:
 * [Charaktere](#charaktere)
 * [Clan](#clan)
-* [Echo des Endes](echo-des-endes)
+* [Echo des Endes](#echo-des-endes)
 * [Equipment](#equipment)
 * [Events](#events)
 * [Kalkulator](#kalkulator)
 * [Kritische Treffer](#kritische-treffer)
 * [Sammelobjekte](#sammelobjekte)
 * [Synergie](#synergie)
-* [tech. Teile](tech-teile)
-* [Teamarbeit passiv](teamarbeit-passiv)
-* [Tiere](tiere)
+* [tech. Teile](#tech-teile)
+* [Teamarbeit passiv](#teamarbeit-passiv)
+* [Tiere](#tiere)
 * [Waffen](#waffen)
 
 
