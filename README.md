@@ -12,7 +12,7 @@ Wiki für das Spiel survior.io [Google Play](https://play.google.com/store/apps/
 * [Kritische Treffer](#kritische-treffer)
 * [Sammelobjekte](#sammelobjekte)
 * [Synergie](#synergie)
-* [tech. Teile](#tech-teile)
+* [tech Teile](#tech-teile)
 * [Teamarbeit passiv](#teamarbeit-passiv)
 * [Tiere](#tiere)
 * [Waffen](#waffen)
@@ -207,7 +207,7 @@ Bestes Tier was ihr in den Unterstützungs Slot packen solltet.
 ## Tier Fertigkeiten
 Bei jedem Tier könnt ihr Fertigkeiten einsetzen. Hier rät es sich auf ATK Erhöhungen zu setzen vom Tier. Auch die Erhöhung der krit. Rate oder Angriff vom Besitzer ist gut. Damit euer Tier nicht so häufig stirbt kann hier die Fertigkeit absorbiert LP gewählt werden. Auch wenn dies gestorben ist. Je mehr rote Tiere ihr habt desto mehr Fertigkeiten (max. 12 Rote) könnt ihr auswählen. Es ist also ratsam jede Art einmal in Rot zu haben. Die ersten vier Slots können durch das Erwachen des Tieres auf Rot hochgestuft werden.
 
-# tech. Teile
+# tech Teile
 ## Präzisionsgerät
 Ist für die beiden Drohne. Immer bevorzugt upgraden. Solltet ihr als erstes auf Rot bekommen später dann auf pink/lila/leuchtend. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
 
