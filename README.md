@@ -249,40 +249,40 @@ In folgender Reihenfolge Waffen und Fertigkeiten auswählen, wenn sie kommen.
 
 Zusätzlich schaut das alle 6 Slots mit Waffen belegt werden, sonst ist es schwieriger den Zerstörer oder die Hauptwaffe zur Superwaffe zu bekommen. Sonst kommen immer wieder andere Vorschläge für andere Waffen. Manchmal dauert es auch richtig lange bis ihr beide Drohnen bekommt. Ab 1 Minute Restzeit solltet ihr vielleicht auch davon abrücken, wenn ihr nur eine Drohne habt. Dann lieber die Hauptwaffe zu Superwaffe bringen oder ATK. Am Ende vom Kampf könnt ihr auch eine Statistik anschauen welche Waffe wieviel Schaden gemacht habt. Schaut dort rein und optimiert euch selber.
 
-Je mehr Exp man erhält, desto besser werden einige Eigenschaften von Waffen und das Tier.
+Je mehr Exp man erhält, desto besser werden einige Eigenschaften von Waffen und dem Tier.
 
 Immerwährende Rüstung. So früh wie möglich einmal Sterben wegen 15% (20%) mehr Schaden nach Wiederbelebung und weitere Fertigkeitsauswahl.
 
 Ying und Yang den debuff auf die Verteidigung auslösen sonst nur die Handflächen nutzen.
 
-Den Boss so laufen lassen das Exp eingesammelt werden aber noch Schaden mit den Drohnen erzeugt wird. Am Anfang kann auch eine Runde gelaufen werden um Exp einzusammeln. Besonders am Ende wird der meiste Schaden erzeugt da alle Waffe gut ausgebildet sind.
+Den Boss so laufen lassen das Exp eingesammelt werden aber noch Schaden mit den Drohnen erzeugt wird. Am Anfang kann auch eine Runde gelaufen werden um Exp einzusammeln. Besonders am Ende wird der meiste Schaden erzeugt, da alle Waffe gut ausgebildet sind.
 
-Einige Boss rennen wie bekloppt über den Bildschirm. Dort so rumprobieren damit er in einer Ecke bleibt oder nur hoch und runter läuft.
+Einige Bosse rennen wie bekloppt über den Bildschirm. Dort so rumprobieren damit er in einer Ecke bleibt oder nur hoch und runter läuft.
 
 Wenn ihr die SS Schuhe habt sollte ihr dort wo der Boss auftaucht, vorher im Kreis rumlaufen. Erstens um diese aufzuladen und den Boss direkt zu vereisen.
 
 Für die perfekte Equipment Zusammenstellung siehe Abschnitt: Equipment optimieren. Für den Expedition Bosskampf gilt eine andere Zusammenstellung als für Echo des Endes.
 
-Jeder Charakter hat auch individuelle Fähigkeiten. Wie diese zu Handhaben sind steht beim der Charakter Beschreibung.
+Jeder Charakter hat individuelle Fähigkeiten. Wie diese zu Handhaben sind steht beim der Charakter Beschreibung.
 
 ### Expedition
 Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellung zu erreichen. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden, wenn ihr weitere Diamanten ausgebt.
 
 Für fast optimalen Schaden:
-Zerstörer, Charakter Fähigkeit, ATK, Schuhe, Geschwindigkeit, Abklingzeit, Reichweite
-Waldläufer-Panzer, wenn nicht die ganze Zeit durchhaltet.
+Zerstörer, Charakter Fähigkeit, ATK, Schuhe, Geschwindigkeit, Abklingzeit und Reichweite.
+Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet.
 
 # Pfad der Prüfungen
-Sollte ihr einmal die Woche spielen und mindestens 1 Level vorankommen damit ihr einmal die Rewards einsammelt. Spielt nicht zu viele Level sonst kommt ihr nächste Woche dann gar nicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben. Mit einem Versuch könnt ihr 25 Ebenen schaffen. Unter die Top 3 zu kommen ist auch gut. Solltet ihr auch mal zurückliegen, könnt ihr Prüfung wiederholen wählen. Hier gilt ungefähr 75.000 ATK = 1000 Ebenen.
+Solltet ihr einmal die Woche spielen und mindestens 1 Level/Ebene vorankommen, damit ihr einmal die Rewards einsammelt. Spielt nicht zu viele Level sonst kommt ihr nächste Woche gar nicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben. Mit einem Versuch könnt ihr 25 Ebenen schaffen. Unter die Top 3 zu kommen ist auch gut, dann ihr noch gelbe Sammelobjekt bekommt. Solltet ihr auch mal zurückliegen, könnt ihr Prüfung wiederholen wählen. Hier gilt ungefähr 75.000 ATK = 1000 Ebenen.
 
 # Megaherausforderung
 Nicht so wichtig, könnt ihr zwischendurch irgendwann mal spielen, wenn ihr noch Lust und Zeit habt.
 
 # Zonenoperation
-Aufwendig zu spielen, nicht ganz so wichtig. Benötigt auch ein gewisses Level und Equipment um es durchgespielt zu bekommen. Hier könnt aber hier 2 S Items erlangen. Für Menschen die eine Herausforderung mögen genau das Richtige. Hier braucht ihr die Leerenmacht Waffe / SS Lanze und die Rüstung von Quietus auf Rot. Zu mindestens ist das meine Erfahrung. Ab Ebene 15 solltet ihr die Rüstung von Quietus nutzen. Wenn ihr alle 20 Stufen durchgespielt habt und die Season vorbei ist braucht ihr hinterher in der nächsten Season nicht jedes Level doppelt zu spielen. Ihr erhaltet auch direkt die Rewards von ersten durchspielen ausbezahlt. Gelbe Tropfen gibt es hier ebenfalls. Maximal 800 Tropfen.
+Aufwendig zu spielen, nicht ganz so wichtig. Benötigt auch ein gewisses Level und Equipment um es durchgespielt zu bekommen. Hier könnt ihr 2 S Items erlangen. Für Menschen die eine Herausforderung mögen genau das Richtige. Hier braucht ihr die Leerenmacht Waffe / SS Lanze und die Rüstung von Quietus auf Rot. Zu mindestens ist das meine Erfahrung. Ab Ebene 15 solltet ihr die Rüstung von Quietus nutzen. Wenn ihr alle 20 Stufen durchgespielt habt und die Season vorbei ist braucht ihr hinterher in der nächsten Season nicht jedes Level doppelt zu spielen. Ihr erhaltet auch direkt die Rewards von ersten durchspielen ausbezahlt. Gelbe Tropfen gibt es hier ebenfalls. Maximal 800 Tropfen.
 
 # Entwicklung
-Zuerst müsst ihr ein Hauptkapitel durchspielen damit ihr die 3 Hauptherausforderungen zu einem Level spielen könnt. Bei dem zweiten und dritten Schwierigkeitsgrad bekommt ihr Gold-DNA. Dadurch könnt ihr eure passiven Fähigkeiten erhöhen und mehr Equipment durch Monsterdrops bekommen. Wichtig das ihr hier nach und nach auch voran kommt. Wichtig ist das ihr am Anfang mehr Drops durch Items bekommt. So könnt ihr schneller euer Equipment upgraden. Spiel am besten direkt die schwierigste Hauptherausforderung, dann sind die ersten beiden Schwierigkeitsgrade direkt miterledigt und ihr bekommt alle 3 Truhen auf einmal.
+Zuerst müsst ihr ein Hauptkapitel durchspielen damit ihr die 3 Hauptherausforderungen zu einem Level spielen könnt. Bei dem zweiten und dritten Schwierigkeitsgrad bekommt ihr Gold-DNA. Dadurch könnt ihr eure passiven Fähigkeiten erhöhen und mehr Equipment durch Monsterdrops bekommen. Wichtig das ihr hier nach und nach auch voran kommt. Wichtig ist das ihr am Anfang mehr Drops durch Items bekommt. So könnt ihr schneller euer Equipment upgraden. Spielt am besten direkt die schwierigste Hauptherausforderung, dann sind die ersten beiden Schwierigkeitsgrade direkt miterledigt und ihr bekommt alle 3 Truhen auf einmal.
 
 # Karten
 Ihr könnten oben links unter dem M - Kartensymbol euch für 9000 Diamanten die Dauerhafte Privilegienkarte holen. Diese rentiert sich auf Dauer. Ihr bekommt jeden Tag einen Schlüssel und 50 Diamanten. Nach einem halben Jahr seid ihr dann mit den Diamanten im Plus. Aber durch den Schlüssel rentiert sich das sicher noch eher.
@@ -295,7 +295,7 @@ Ein guter aktiver Clan bringt euch schneller weiter. Ihr erhaltet so viel mehr B
 [Clan Regeln](https://github.com/Rifffi/survivor-io-wiki/blob/main/Clan.md)<br>
 
 ## Clan Shop
-Hier könnte ihr eure im Clan verdient Münzen gegeben Rewards eintauchen. Am besten die Yang Scherben und rotes Sammelobjekt Truhe holen. Die Qualität der Belohnungen scheinen für alle gleich zu sein egal wie gut der Clan ist. Vielleicht ist dies bei den ersten paar Clanleveln anders.
+Hier könnte ihr eure im Clan verdienten Münzen gegeben Rewards eintauchen. Am besten die Yang Scherben und rotes Sammelobjekt Truhe holen. Die Qualität der Belohnungen scheinen für alle gleich zu sein egal wie gut der Clan ist. Vielleicht ist dies bei den ersten paar Clanleveln anders.
 
 # Synergie
 Wenn ihr insgesamt 3 Mio. gelbe Tropfen gesammelt habt könnt ihr das Synergie System freischalten. Dies bedeutet das alle freigeschalten Charaktere auf das Level 120 angehoben werden. Somit werden auch alle Boni die mit gelben Tropfen erlangt werden können von allen Charakteren freigeschaltet werden. Es werden keine Charaktere freigeschaltet wie z. B. Sandy die ihr beim Event nicht erhalten habt.
@@ -311,7 +311,7 @@ Dieses Wiki basiert auf F2P. Free to play. Ihr könnt in dem Spiel euch zusätzl
 
 # optimal spielen
 Die ersten 4 sind Pflichtprogramm und eigentlich auch in einer dreiviertel Stunde zu schaffen. Die weiteren Punkte sind tagesabhängig und auch zeitlich flexibler in der Absolvierung.
-1. jeden Tag Enders Echo zweimal
+1. jeden Tag Enders Echo, zweimal
 2. Alle drei Tage einmal Regelmäßige Herausforderung (direkt am besten Alptraum)
 3. Jeden Tag 10 Spezialeinsätze (lieber nicht alle Bosse)
 4. 100+ Punkte im Missionscenter
