@@ -197,11 +197,11 @@ Auf der Seite mit den Sammelobjekten gibt es oben rechts einen Button wo alle We
 # Tiere
 Kauft euch jeden Tag einmal die Tiermünzen. Mit jedem Mal kaufen steigt der Preis. Nach einem Tag wird der Preis zurückgesetzt. Je höher das Hauptkapitel desto mehr Münzen und teurer wird es. 3000 Stück ist aber Maximum. Ihr könnt zwei Unterstützer Tiere positionieren. Jedes Tier hat eine Unterstützenfähigkeit. Das ist im oberen rechten Feld beschrieben. Hier macht 10% mehr ATK auf jeden Fall Sinn. 2 mal dasselbe geht nicht. Die Prozentzahl hängt von der Qualität des Unterstützungstier ab. Die Fähigkeit durchdringen Gegner ist auch gut. z.B. in Kombination mit Merika. Bei Quak macht dies natürlich keinen Sinn. Dort ist mehr Reichweite sinniger. Genauso wie bei Rex. Ein Tier kann auch gut als Schild oder Block bei Beschuss eingesetzt werden. Um Gary (Schnecke) auf Rot zu bekommen benötigt ihr mindestens 6 von ihm. Achtet bei Hochstufen auf die richtige Unterstützungsfähigkeit.
 ## Quak
-Flächenschaden gut gegen Mobs. Könnt euch gut mit eurem Char dort reinstellen.
+Flächenschaden gut gegen Mobs. Könnt euch gut mit eurem Char dort reinstellen. Durch die Erwachenfähigkeit wird der Schaden des Besitzers duech Treffer durch Quak geboostet.
 ## Merika
-Wenn erwacht, ist dieser gut gegen Bossmonster, da single traget. Federschüsse.
+Wenn erwacht, ist dieser gut gegen Bossmonster, da single traget. Federschüsse. Merika macht hier den Schaden selber.
 ## Rex
-Macht wohl ab 200.000 ATK mehr Schaden als Merika. Dies dauert aber bis ihr mal dort seid. Aktuell das finale Tier.
+Macht wohl ab 200.000 ATK mehr Schaden als Merika. Dies dauert aber bis ihr mal dort seid. Aktuell das finale Tier. Rex boostet hier den Schaden des Besitzers und teilt Schaden selber eher weniger aus.
 ## Schnecke (Gary)
 Bestes Tier was ihr in den Unterstützungs Slot packen solltet.
 ## Tier Fertigkeiten
