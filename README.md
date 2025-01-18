@@ -1,4 +1,4 @@
-Translate to [english](https://rifffi-github-io.translate.goog/survivor-io-wiki.github.io/markdownviewer.html?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp). :-D
+Translate to [english](https://rifffi-github-io.translate.goog/survivor-io-wiki.github.io?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp). :-D
 # survivor-io-wiki
 Wiki für das Spiel survior.io [Google Play](https://play.google.com/store/apps/details?id=com.dxx.firenow&pcampaignid=web_share) & [App Store](https://apps.apple.com/de/app/survivor-io/id1528941310)
 
