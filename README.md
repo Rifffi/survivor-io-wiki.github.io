@@ -129,19 +129,19 @@ gute Kette für Mobs da ihr beim ersten Schlag sehr viel mehr Schaden macht.
 Super Kette gegen Bossmonster. Steigert den Schaden und die krit. Rate ordentlich. Allerdings muss dafür der Charakter wenig HP haben damit der Effekt funktioniert. Mit der Rüstung von Quietus oder auch dem Energieschild lasst sich dies ganz gut bewerkstelligen.
 
 ## SS Items
-Für SS Items benötigt ihr ein Equipment auf Rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S Items erlangt. Genauso müssen normale Items zerlegt werden für Cubes. Durch Schmiedeeffekt kann das Equipment zusätzliche Eigenschaften erfahren. Dafür werden Reliktkerne, Cubes und Kerne benötigt. Die Eigenschaften gibt es beim 1. 3. 5. und 7. Schmiedeeffekt. Beim 2. 4. 6. und 8. gibt es HP oder ATK Boni. Reihenfolge der Anschaffung kann am besten durch den Kalkulator bestimmt werden. Dies ergibt sich aber meistens: Lanze, Schuhe, Gürtel oder Handschuhe, Kette und Rüstung.
+Für SS Items benötigt ihr ein Equipment auf Rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S Items erlangt. Genauso müssen normale Items zerlegt werden für Cubes. Durch Schmiedeeffekte kann das Equipment zusätzliche Eigenschaften erfahren, die meisten bringen gute ATK Effekt mit sich. Dafür werden Reliktkerne, Cubes und Kerne benötigt. Die Eigenschaften gibt es beim 1. 3. und 5. immerwährend Schmiedeeffekt und beim 2. 4. und 6. leere Schmiedeeffekt. Bei den anderen Schmiedeffekte gibt es HP oder ATK Boni, diese sind nicht ganz so relevant. Reihenfolge der Anschaffung kann am besten durch den [Kalkulator](#kalkulator) bestimmt werden. Dies ergibt sich aber meistens: Lanze, Schuhe, Gürtel oder Handschuhe, Kette und Rüstung. Zusätzlich gibt es noch Chaosfusion, was noch mehr Reliktkerne benötigt und auch das maximal Level der Waffen von 200 erhöht. Dies liegt aber für die Meisten noch außerhalb der Reichweite. Ab eine gewissen Punkt macht es sinn hier die Schmiedeeffekte zu holen weil für die  ersten Chaosfusion Schmiedeeffekte weniger Relkitkerne benötigt werden. Was hier sinn macht sollte ihr anhand des [Kalkulator](#kalkulator) ausrechnen lassen.
 
 ### Lanze
 Die Lanze ist die finale Waffe die ihr haben wollt und auch das erste sinnvolle SS Item. Wichtig sich den 1. Schmiedeeffekt zu holen damit die Waffe auf 3 gelben Sternen startet.
 
 ### Urteilshalskette
-Hiermit bekommt ihr ein zusätzliches Defensives Feature, einen Energieschild, Boni für krit. und Fertigkeitsschaden, sind auch mit dabei. Passive Fertigkeiten könnt ihr 6 mal im Spiel aufleveln. Also ATK auf 60%. Wichtig hier schnell den 1. und 3. Schmiedeeffekt sich zu holen. Aktuelle finale Halskette.
+Hiermit bekommt ihr ein zusätzliches Defensives Feature, einen Energieschild, Boni für krit. und Fertigkeitsschaden, sind auch mit dabei. Passive Fertigkeiten könnt ihr 6 mal im Spiel aufleveln. Also ATK auf 60%. Wichtig hier schnell den 1. und 2. Schmiedeeffekt sich zu holen. Aktuelle finale Halskette.
 
 ### Mondnarbe Armschutz
-Wird erst richtig gut wenn ihr über die 100 % krit Rate kommt. Daher vielleicht lieber länger die S Gloves verwenden. Feuert sonst einen Laser auf ein Bossmonster und gute Angriffsboni. Während der 10 Sekunden Aufladung solltet ihr natürlich die ganze Zeit den Boss angreifen. Daa kronenartige Symbol zeigt an, ob ihr über 100% krit. Rate aktuell habt. Dann ist es Gelb hinterlegt. Es zeigt auch den Status der Aufladung an.
+Wird erst richtig gut wenn ihr über die 100 % krit Rate kommt. Daher vielleicht lieber länger die S Gloves verwenden. Feuert sonst einen Laser auf ein Bossmonster und gute Angriffsboni. Während der 10 Sekunden Aufladung solltet ihr natürlich die ganze Zeit den Boss angreifen. Das kronenartige Symbol zeigt an, ob ihr über 100% krit. Rate aktuell habt. Dann ist es Gelb hinterlegt und zeigt I an. Zusätzlich zeigt auch den Status der Aufladung an.
 
 ### Sternenstaub Schärpe
-Ist auf Schmiedeeffekt 5 gut. Leider muss damit der Schaden richtig zur Geltung kommt viele Treffer vorher an Monstern hinbekommen und auch fast keinen Schaden einstecken.
+Ist auf Schmiedeeffekt 3 gut. Leider muss damit der Schaden richtig zur Geltung, viele Treffer vorher an Monstern, erzielt werden, was auch mit dem Zerstörer am Anfang immer etwas dauert.
 
 ### Immerleere Rüstung 
 eher unbeliebt, sehr viele nutzen lieber weiter die S Rüstungen. Lieber die Ressourcen erstmal in die anderen SS Items stecken. Wenn ihr sterbt geht ein Effekt verloren. Auf dem 5. Schmiedeeffekt habt ihr durch den Schildschaden dann +20% ATK.
@@ -332,10 +332,10 @@ https://danke007.com/
 Es ist ratsam den Googletranslator zu verwenden.
 
 ## Equipment optimieren
-Mit dieser Seite könnt ihr die optimale Zusammenstellung für Bosskämpfe in den verschiedenen Modi errechnen lassen. Dort gebt ihr die Anzahl eurer Relikt Kerne ein und Dinge die ihr sonst so habt. Es gibt einen blauen Button um Teile die ihr nicht habt auszuschließen. Bei dem SS Equipment lasst ihr die auf der maximalen Anzahl an gelber Sterne, damit der Kalkulator euch die beste Zusammenstellung errechnen kann. Oben auf der Seite steht unter Result ein Wert. Je größer dieser Wert desto besser. Die Zusammenstellung könnt ihr vor jedem Kampf durch Abwerten und Aufwerten der Ausrüstung justieren. Dafür die Ausrüstung anklicken und oben rechts den roten Recycling Button drücken. Der Kalkulator hat nichts mit diesem Wiki zu tun:
+Mit dieser Seite könnt ihr die optimale Zusammenstellung für Bosskämpfe in den verschiedenen Modi errechnen lassen. Dort gebt ihr die Anzahl eurer Relikt Kerne ein und Dinge die ihr sonst so habt. Es gibt einen blauen Button um Teile die ihr nicht habt auszuschließen. Bei dem SS Equipment lasst ihr die auf der maximalen Anzahl an gelber Sterne, damit der Kalkulator euch die beste Zusammenstellung errechnen kann. Oben auf der Seite steht unter Result ein Wert. Je größer dieser Wert desto besser. Die Zusammenstellung könnt ihr vor jedem Kampf durch Abwerten und Aufwerten der Ausrüstung justieren. Dafür die Ausrüstung anklicken und oben rechts den roten Recycling Button drücken. Der Kalkulator für die Schadensberechnung hat nichts mit diesem Wiki zu tun:
 https://danke007.com/calc/damage-increase
 
-Damit ihr eure Zusammenstellung einfach wechseln könnt gibt es in der Astrahlschmiede die Speicherung eurer Relikt Kern Zusammenstellung (SS speichern wiederherstellen). 
+Damit ihr eure Zusammenstellung einfach wechseln könnt gibt es in der Astralschmiede die Speicherung eurer Relikt Kern Zusammenstellung (SS speichern wiederherstellen). 
 
 Der Vorteil der Lanze bei Echo des Endes auf einem Stern, auf Lvl 3 zu starten, geht in dem Kalkulator etwas unter. Genauso kommt es auch auf das können jedes einzelnen an mit der Zusammenstellung umzugehen und sie entsprechend für sich zu nutzen.
 
