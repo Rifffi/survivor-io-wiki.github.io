@@ -274,7 +274,7 @@ Zerstörer, Charakter Fähigkeit, ATK, Schuhe, Geschwindigkeit, Abklingzeit und 
 Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen.
 
 # Pfad der Prüfungen
-Solltet ihr einmal die Woche spielen und mindestens 1 Level/Ebene vorankommen, damit ihr einmal die Rewards einsammelt. Spielt nicht zu viele Level sonst kommt ihr nächste Woche gar nicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben. Mit einem Versuch könnt ihr 25 Ebenen schaffen. Unter die Top 3 zu kommen ist auch gut, dann ihr noch gelbe Sammelobjekt bekommt. Solltet ihr auch mal zurückliegen, könnt ihr Prüfung wiederholen wählen. Hier gilt ungefähr 75.000 ATK = 1000 Ebenen. Ab der Ebene 4800 ist das wiederholen nicht mehr Möglich.
+Solltet ihr einmal die Woche spielen und mindestens 1 Level/Ebene vorankommen, damit ihr einmal die Rewards einsammelt. Spielt nicht zu viele Level sonst kommt ihr nächste Woche gar nicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben. Mit einem Versuch könnt ihr 25 Ebenen schaffen. Unter die Top 3 zu kommen ist auch gut, danmit ihr noch gelbe Sammelobjektscherben bekommt. Solltet ihr auch mal zurückliegen, könnt ihr Prüfung wiederholen wählen. Hier gilt ungefähr 75.000 ATK = 1000 Ebenen. Ab der Ebene 4800 ist das wiederholen nicht mehr Möglich.
 
 # Megaherausforderung
 Nicht so wichtig, könnt ihr zwischendurch irgendwann mal spielen, wenn ihr noch Lust und Zeit habt.
