@@ -10,6 +10,7 @@ Wiki für das Spiel survior.io [Google Play](https://play.google.com/store/apps/
 * [Events](#events)
 * [Kalkulator](#kalkulator)
 * [Kritische Treffer](#kritische-treffer)
+* [Pfad der Prüfungen](#pfad-der-prüfungen)
 * [Sammelobjekte](#sammelobjekte)
 * [Synergie](#synergie)
 * [Teamarbeit passiv](#teamarbeit-passiv)
@@ -227,7 +228,7 @@ Die Steine gehen durch alle Gegner
 Die Raketen werden schneller wieder abgeschossen. Auch gut für mehr Schaden an Bossmonstern
 
 # Sammelobjekte
-Hier könnte ihr durch die Objekte allgemein nochmal mehr ATK und HP bekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment einen Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden. Es lohnt sich ggf. darauf zu konzentrieren. Auch das Präzisionsgeräte ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen (lila). Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen.
+Hier könnte ihr durch die Objekte allgemein nochmal mehr ATK und HP bekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment einen Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden. Es lohnt sich ggf. darauf zu konzentrieren. Auch das Präzisionsgeräte ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen (lila Bruchstücke). Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen. Durch das spielen von [Pfad der Prüfungen](#pfad-der-prüfungen) könnt ihr euch viele Sammelobjekte sichern.
 
 # Echo des Endes
 Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char upzugraden. Hier könnt ihr starten und sofort wieder beenden bekommt aber nicht alle Belohnungen wie die tech. Teile.
@@ -273,7 +274,7 @@ Zerstörer, Charakter Fähigkeit, ATK, Schuhe, Geschwindigkeit, Abklingzeit und 
 Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen.
 
 # Pfad der Prüfungen
-Solltet ihr einmal die Woche spielen und mindestens 1 Level/Ebene vorankommen, damit ihr einmal die Rewards einsammelt. Spielt nicht zu viele Level sonst kommt ihr nächste Woche gar nicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben. Mit einem Versuch könnt ihr 25 Ebenen schaffen. Unter die Top 3 zu kommen ist auch gut, dann ihr noch gelbe Sammelobjekt bekommt. Solltet ihr auch mal zurückliegen, könnt ihr Prüfung wiederholen wählen. Hier gilt ungefähr 75.000 ATK = 1000 Ebenen.
+Solltet ihr einmal die Woche spielen und mindestens 1 Level/Ebene vorankommen, damit ihr einmal die Rewards einsammelt. Spielt nicht zu viele Level sonst kommt ihr nächste Woche gar nicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben. Mit einem Versuch könnt ihr 25 Ebenen schaffen. Unter die Top 3 zu kommen ist auch gut, dann ihr noch gelbe Sammelobjekt bekommt. Solltet ihr auch mal zurückliegen, könnt ihr Prüfung wiederholen wählen. Hier gilt ungefähr 75.000 ATK = 1000 Ebenen. Ab der Ebene 4800 ist das wiederholen nicht mehr Möglich.
 
 # Megaherausforderung
 Nicht so wichtig, könnt ihr zwischendurch irgendwann mal spielen, wenn ihr noch Lust und Zeit habt.
