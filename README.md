@@ -245,8 +245,8 @@ In folgender Reihenfolge Waffen und Fertigkeiten auswählen, wenn sie kommen.
 8. Fußballschuhe (wenn Leerwandlertreter)
 10. Schussgeschwindigkeit
 11. Fußball
-12. Blitz
-13. Rakete 
+12. Rakete
+13. Blitz
 
 Zusätzlich schaut das alle 6 Slots mit Waffen belegt werden, sonst ist es schwieriger den Zerstörer oder die Hauptwaffe zur Superwaffe zu bekommen. Sonst kommen immer wieder andere Vorschläge für andere Waffen. Manchmal dauert es auch richtig lange bis ihr beide Drohnen bekommt. Ab 1 Minute Restzeit solltet ihr vielleicht auch davon abrücken, wenn ihr nur eine Drohne habt. Dann lieber die Hauptwaffe zu Superwaffe bringen oder ATK. Am Ende vom Kampf könnt ihr auch eine Statistik anschauen welche Waffe wieviel Schaden gemacht habt. Schaut dort rein und optimiert euch selber.
 
@@ -265,6 +265,13 @@ Wenn ihr die SS Schuhe habt sollte ihr dort wo der Boss auftaucht, vorher im Kre
 Für die perfekte Equipment Zusammenstellung siehe Abschnitt: Equipment optimieren. Für den Expedition Bosskampf gilt eine andere Zusammenstellung als für Echo des Endes.
 
 Jeder Charakter hat individuelle Fähigkeiten. Wie diese zu Handhaben sind steht beim der Charakter Beschreibung.
+
+Reihenfolge der Fertigkeiten plus tech. Teile auf Rot mit dem meisten Schaden:
+1. Zerstörer
+2. Charakterfertigkeit
+3. Fussball
+4. Rakete mit Resonanz
+5. Blitz
 
 ### Expedition
 Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellung zu erreichen. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden, wenn ihr weitere Diamanten ausgebt.
