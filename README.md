@@ -169,7 +169,7 @@ ist aktuell wohl etwas besser als Yang. Aber nur wenn ihr eine hohe krit. Rate h
 Wenn ihr genügend krit. Rate habt ist das wahrscheinlich der beste Charakter aktuell. Bei Bossmonster erscheint ein gelber Balken am Monster, an dieser Seite müsst ihr stehen und Schaden hinzufügen. Wenn ihr Joeys Fähigkeit einsetzt könnt ihr dem Bossmonster von überall mehr Schaden hinzufügen. Dies solltet ihr einsetzen wenn ihr nicht auf die Seite des gelben Balken kommt, weil dort die Wand ist und das Bossmonster von der Wand wieder weg locken. Wenn der gelbe Balken zwischendurch verschwindet sammelt ihr Exp. ein.
 
 ## Teamarbeit passiv
-Wenn euer Charakter erwacht ist und dieser 3 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind. Laut [Kalkulator](#kalkulator) ergibt sich aber folgende Reihenfolge:
+Wenn euer Charakter erwacht ist und dieser 3 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind. Laut [Kalkulator](#kalkulator) ergibt sich aber folgende Reihenfolge:<br>
 Yang > Michelangelo = Raphael > Leonardo > Wurm > King > Common > Metallica > Catnip<br>
 Es scheint auch so das mit der Anzahl an weiteren roten Stern der Schaden erhöht werden kann.
 ### Common
@@ -202,6 +202,8 @@ Für jeden SP Erwachten Charakter gibt es +3% krit. Rate
 Pet krit. Rate +10% und Pet Fähigkeit CD -5%
 ### April
 Pet ATK +5% und Pet HP +5%
+
+Hier ein externer Link der nichts mit diesem Wiki zu tun hat wo alle Skills von allen Charakteren aufgeführt werden https://danke007.com/handbook/hero
 
 # Kritische Treffer
 Es gibt viele Möglichkeiten um eure krit. Rate zu verbessern. Über Equipment, Sammelobjekte, Chars (Panda 20%), Fertigkeiten, Tiere und 
