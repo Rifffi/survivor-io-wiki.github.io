@@ -169,7 +169,9 @@ ist aktuell wohl etwas besser als Yang. Aber nur wenn ihr eine hohe krit. Rate h
 Wenn ihr genügend krit. Rate habt ist das wahrscheinlich der beste Charakter aktuell. Bei Bossmonster erscheint ein gelber Balken am Monster, an dieser Seite müsst ihr stehen und Schaden hinzufügen. Wenn ihr Joeys Fähigkeit einsetzt könnt ihr dem Bossmonster von überall mehr Schaden hinzufügen. Dies solltet ihr einsetzen wenn ihr nicht auf die Seite des gelben Balken kommt, weil dort die Wand ist und das Bossmonster von der Wand wieder weg locken. Wenn der gelbe Balken zwischendurch verschwindet sammelt ihr Exp. ein.
 
 ## Teamarbeit passiv
-Wenn euer Charakter erwacht ist und dieser 3 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind.
+Wenn euer Charakter erwacht ist und dieser 3 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind. Laut [Kalkulator](#kalkulator) ergibt sich aber folgende Reihenfolge:
+Yang > Michelangelo = Raphael > Leonardo > Wurm > King > Common > Metallica > Catnip
+Es scheint auch so das mit der Anzahl an weiteren roten Stern der Schaden erhöht werden kann.
 ### Common
 Wenn Schild aktiv 20% mehr Exp.
 ### Tsukiyomi
@@ -188,11 +190,23 @@ Für 3 mal Fleisch, Magnet oder Bomben gibt es +2% ATK. Max +10%
 +5% krit. Rate und +5% krit. Schaden
 ### Metallica
 +10% Schildschaden
+### Raphael (rot)
+Alle 20s wird ein Angriff gestartet, getroffenen verwundete Feinde erhalten für 5s +10% Schaden
+### Leonardo (blau)
+durch Kollision getroffene verwundete Feinde erhalten +2% Schaden für 5s
+### Michelangelo (gelb)
+Für 500 getroffene Monster erhalten verwundete Freinde für 5s +10% Schaden.
+### Donatello (lila)
+Für jeden SP Erwachten Charakter gibt es +3% krit. Rate
+### Splinter
+Pet krit. Rate +10% und Pet Fähigkeit CD -5%
+### April
+Pet ATK +5% und Pet HP +5%
 
 # Kritische Treffer
 Es gibt viele Möglichkeiten um eure krit. Rate zu verbessern. Über Equipment, Sammelobjekte, Chars (Panda 20%), Fertigkeiten, Tiere und 
 Entwicklung (8%).
-Mit den SS Gloves ist eine krit. Rate über 100% sogar sehr gut. Über 100% gibt es einen Boni auf den krit. Schaden. Das Symbol der Gloves zeigt auch an wenn ihr über 100% krit. Rate habt.
+Mit den SS Gloves ist eine krit. Rate über 100% sogar sehr gut. Über 100% gibt es einen Boni auf den krit. Schaden. Das Symbol der SS Gloves zeigt auch an wenn ihr über 100% krit. Rate habt.
 Auf der Seite mit den Sammelobjekten gibt es oben rechts einen Button wo alle Werte die ihr erlangt habe zusammengefasst sind.
 
 # Tiere
