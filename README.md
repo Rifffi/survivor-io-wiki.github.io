@@ -170,8 +170,9 @@ Wenn ihr genügend krit. Rate habt ist das wahrscheinlich der beste Charakter ak
 
 ## Teamarbeit passiv
 Wenn euer Charakter erwacht ist und dieser 3 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind. Laut [Kalkulator](#kalkulator) ergibt sich aber folgende Reihenfolge:<br>
-Yang > Michelangelo = Raphael > Leonardo > Wurm > King > Common > Metallica > Catnip<br>
-Es scheint auch so das mit der Anzahl an weiteren roten Stern der Schaden erhöht werden kann.
+Yang > Metallica > Wurm > King > Michelangelo = Raphael > Leonardo  > Common > Catnip<br>
+Yang ist demnach die beste Wahl, jedoch eher unrealistisch.
+Es scheint auch so das mit der Anzahl an weiteren roten Stern der Schaden erhöht werden kann. Die nicht aufgeführt Charakter sind erstmal nicht von interesse.
 ### Common
 Wenn Schild aktiv 20% mehr Exp.
 ### Tsukiyomi
@@ -179,7 +180,7 @@ Wenn Schwert ausgerüstet ATK +5%
 ### Catnip
 Zerstörer ATK +5%
 ### King
-Alle 500 krit. Treffer, erzeugt brennden Kreis
+Alle 500 krit. Treffer, erzeugt einen brennenden Kreis
 ### Wurm
 +10% ATK, wenn weniger als 3 Monster
 ### Yelena
@@ -191,11 +192,11 @@ Für 3 mal Fleisch, Magnet oder Bomben gibt es +2% ATK. Max +10%
 ### Metallica
 +10% Schildschaden
 ### Raphael (rot)
-Alle 20s wird ein Angriff gestartet, getroffenen verwundete Feinde erhalten für 5s +10% Schaden
+Alle 20s wird ein Angriff gestartet, getroffenen verwundete Monster erhalten für 5s +10% Schaden
 ### Leonardo (blau)
-durch Kollision getroffene verwundete Feinde erhalten +2% Schaden für 5s
+durch Kollision getroffene verwundete Monster erhalten +2% Schaden für 5s
 ### Michelangelo (gelb)
-Für 500 getroffene Monster erhalten verwundete Freinde für 5s +10% Schaden.
+Für 500 getroffene Monster erhalten verwundete Monster für 5s +10% Schaden.
 ### Donatello (lila)
 Für jeden SP Erwachten Charakter gibt es +3% krit. Rate
 ### Splinter
