@@ -169,10 +169,10 @@ ist aktuell wohl etwas besser als Yang. Aber nur wenn ihr eine hohe krit. Rate h
 Wenn ihr genügend krit. Rate habt ist das wahrscheinlich der beste Charakter aktuell. Bei Bossmonster erscheint ein gelber Balken am Monster, an dieser Seite müsst ihr stehen und Schaden hinzufügen. Wenn ihr Joeys Fähigkeit einsetzt könnt ihr dem Bossmonster von überall mehr Schaden hinzufügen. Dies solltet ihr einsetzen wenn ihr nicht auf die Seite des gelben Balken kommt, weil dort die Wand ist und das Bossmonster von der Wand wieder weg locken. Wenn der gelbe Balken zwischendurch verschwindet sammelt ihr Exp. ein.
 
 ## Teamarbeit passiv
-Wenn euer Charakter erwacht ist und dieser 2 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind. Laut [Kalkulator](#kalkulator) ergibt sich aber folgende Reihenfolge:<br>
+Wenn euer Charakter erwacht ist und dieser 2 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind. Laut [Kalkulator](#kalkulator) ergibt sich aber folgende Reihenfolge wenn dieser Charakter 5 rote Sterne hat:<br>
 Yang > Metallica > Wurm > King > Michelangelo = Raphael > Leonardo  > Common > Catnip<br>
 Yang ist demnach die beste Wahl, jedoch eher unrealistisch.
-Es scheint auch so das mit der Anzahl an weiteren roten Stern der Schaden erhöht werden kann. Die nicht aufgeführt Charakter sind erstmal nicht von interesse.
+Es scheint auch so das mit der Anzahl an weiteren roten Stern der Schaden erhöht werden kann. Die nicht aufgeführten Charaktere sind erstmal nicht von interesse.
 ### Common
 Wenn Schild aktiv 20% mehr Exp.
 ### Tsukiyomi
