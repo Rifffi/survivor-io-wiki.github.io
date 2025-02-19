@@ -173,6 +173,7 @@ Wenn euer Charakter erwacht ist und dieser 2 rote Sterne hat, wird ein Slot frei
 Yang > Metallica > Wurm > King > Michelangelo = Raphael > Leonardo  > Common > Catnip<br>
 Yang ist demnach die beste Wahl, jedoch eher unrealistisch.
 Es scheint auch so das mit der Anzahl an weiteren roten Stern der Schaden erhöht werden kann. Die nicht aufgeführten Charaktere sind erstmal nicht von interesse.
+Hier eine Liste was beim ersten roten Stern freigeschaltet wird:
 ### Common
 Wenn Schild aktiv 20% mehr Exp.
 ### Tsukiyomi
@@ -204,7 +205,7 @@ Pet krit. Rate +10% und Pet Fähigkeit CD -5%
 ### April
 Pet ATK +5% und Pet HP +5%
 
-Hier ein externer Link der nichts mit diesem Wiki zu tun hat wo alle Skills von allen Charakteren aufgeführt werden https://danke007.com/handbook/hero
+Hier ein externer Link der nichts mit diesem Wiki zu tun hat wo alle Skills von allen Charakteren aufgeführt werden inkl. der erwachen Skills auch für alle roten Sterne https://danke007.com/handbook/hero
 
 # Kritische Treffer
 Es gibt viele Möglichkeiten um eure krit. Rate zu verbessern. Über Equipment, Sammelobjekte, Chars (Panda 20%), Fertigkeiten, Tiere und 
