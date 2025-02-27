@@ -227,23 +227,42 @@ Bestes Tier was ihr in den Unterstützungs Slot packen solltet.
 Bei jedem Tier könnt ihr Fertigkeiten einsetzen. Hier rät es sich auf ATK Erhöhungen zu setzen vom Tier. Auch die Erhöhung der krit. Rate oder Angriff vom Besitzer ist gut. Damit euer Tier nicht so häufig stirbt kann hier die Fertigkeit absorbiert LP gewählt werden. Auch wenn dies gestorben ist. Je mehr rote Tiere ihr habt desto mehr Fertigkeiten (max. 12 Rote) könnt ihr auswählen. Es ist also ratsam jede Art einmal in Rot zu haben. Die ersten vier Slots können durch das Erwachen des Tieres auf Rot hochgestuft werden.
 
 # tech Teile
-## Präzisionsgerät
+Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigkeiten auch auswählt, weil diese durch die Teile auch verstärkt werden.
+## Präzisionsgerät (empfohlen)
 Ist für die beiden Drohne. Immer bevorzugt upgraden. Solltet ihr als erstes auf Rot bekommen später dann auf pink/lila/leuchtend. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
 
-##  Quantum Polisator
-Ist für den Fußball. 30% Schaden das gibt nochmal mehr Schaden auch bei Bossmonstern.
+## Quantum Polisator (empfohlen, wenn Quanten-Nanobot noch nicht verfügbar)
+Ist für den Fußball. 30% Schaden das gibt nochmal mehr Schaden auch bei Bossmonstern. Bringt nach dem Präzisonsgerät am zweitmeisten.
 
-## Phasenumwandler
-2 Blitzschläge mehr. Auch gut gegen Bossmonster
+## Quanten-Nanobot (Durain-Modus) (empfohlen)
+Auf rot sind die +75% Fertigkeitsschaden geht super.
 
-## Exo-Skelett 
-Hällt euch durch den Pushback die Monster vom Hals
+## Phasenumwandler (empfohlen)
+2 Blitzschläge mehr. Auch gut gegen Bossmonster.
 
-## Schwerkraftregler
-Die Steine gehen durch alle Gegner
+## Exo-Skelett (empfohlen)
+Hällt euch durch den erhöhten Pushback die Monster noch besser vom Hals.
 
-## Effizientes Wartungsgerät
-Die Raketen werden schneller wieder abgeschossen. Auch gut für mehr Schaden an Bossmonstern
+## Schwerkraftregler (empfohlen)
+Die Steine gehen durch alle Gegner.
+
+## Effizientes Wartungsgerät (empfohlen)
+Die Raketen werden schneller wieder abgeschossen. Auch gut für mehr Schaden an Bossmonstern. Kann auf rot mit 3 weitern tech Teilen aufgewertet werden. Kann durch C4 Sprengstoff Monster vereisen.
+
+## Energie-Diffusor
+Auf rot +10% Schaden durch Verwundung.
+
+## Antimateriegenerator
+Erhöht die Fluggeschwindigkeit.
+
+## Energie-Sammler
+doppelte Schaden auf rot mehr Exp. Trotzdem nicht die beste Wahl.
+
+## Vernichter
+Auf rot werden Bosse direkt fokusiert und angegriffen. Ist aber vom Schaden her nicht so gut.
+
+## Leistungsapparat
+Eher unbeliebt.
 
 # Sammelobjekte
 Hier könnte ihr durch die Objekte allgemein nochmal mehr ATK und HP bekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment einen Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden. Es lohnt sich ggf. darauf zu konzentrieren. Auch das Präzisionsgeräte ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen (lila Bruchstücke). Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen. Durch das spielen von [Pfad der Prüfungen](#pfad-der-prüfungen) könnt ihr euch viele Sammelobjekte sichern.
