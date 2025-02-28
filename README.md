@@ -347,8 +347,8 @@ Wenn ihr insgesamt 3 Mio. gelbe Tropfen gesammelt habt könnt ihr das Synergie S
 Die Eigenschaften die per Scherben freigeschaltet werden, werden nicht freigeschaltet.
 Die Synergie lässt sich durch, blaue Scherben, gelbe Tropfen und Geld hochleveln. Alle 5 Level benötigt ihr Erwachenkerne und S Scherben. Dadurch werden die verschiedenen Schadenwerte erhöht. Alle Charaktere werden dann um +1 Level angehoben. 120 + Synergie Level.
 
-## Harmonie 
-Zum Hauptcharakter können zwei Begleitcharakter bestimmt werden. Aktuell geht hier Common, King und alle S Charaktere. Anhand der Anzahl der Sterne der Begleitcharaktere könnt ihr hierdurch die krit. Rate weiter erhöhen. gelbe Sterne 1 Stern 2%, 3 3%, 6 5%, 9 5%, 12 5%, 15 5%, 18 5%.
+## Harmonie
+Harmonie wird durch Synergie freigeschaltet. Zum Hauptcharakter können zwei Begleitcharakter bestimmt werden. Aktuell geht hier Common, King und alle S Charaktere. Anhand der Anzahl der Sterne der Begleitcharaktere könnt ihr hierdurch die krit. Rate weiter erhöhen. gelbe Sterne 1 Stern 2%, 3 3%, 6 5%, 9 5%, 12 5%, 15 5%, 18 5%.
 Rote Sterne schaltet Skills frei die z.B. Common ausführt, wie Kunai werfen. Dafür benötigt ihr aber alle gelben Sterne von allen drei aktiven Charakteren.
 
 # Allgemeines
