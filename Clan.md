@@ -14,7 +14,7 @@ Wir spielen zusammen und es ist wunderbar, wenn wir uns gegenseitig unterstütze
 ## Clan-Erkundung
 - Alle 24h wird die Energie aufgeladen um in einer Mission 3 Schlüssel zu erhalten um ein Bossmonster freischalten. Je schneller der ganze Clan dies schafft desto mehr gute Rewards gibt es. Ihr müsst 9 Schlüssel mindestens erspielt haben um die Rewards zu erhalten. Im Clanshop könnt ihr die erhalten Clanmünzen gegen Items eintauschen. Wer es nicht jeden Tag schafft kann die am nächsten Tag mit zwei Missionen nachholen. Bei einigen Mission gibt es besondere Boni beim Starten. Rechts neben der Mission ist dann zusätzlich ein Icon (Charakter mit grünem Pfeil) Dies könnt ihr selektieren und der Boni wird angezeigt.
 - Grüne und blaue Missionen dauern 6 Minuten. Gelbe und braune Missionen ca. 2 Minuten.
-- An allen Mission stehen Zahlen, bzw. weisen ein Schwierigkeitslevel aus. Nach Spielen der Mission verändert sich das Level. Bei einigen Level ändert sich nach dem Spielen die Farbe in die beliebte Missionen gelb und braun. Hier eine Liste dazu: 1,17,...
+- An allen Mission stehen Zahlen, bzw. weisen ein Schwierigkeitslevel aus. Nach Spielen der Mission verändert sich das Level. Bei einigen Level ändert sich nach dem Spielen die Farbe in die beliebte Missionen gelb und braun. Hier eine Liste dazu: 1,17,20,..
 
 ## Clan-Expedition
 - Die Expedition startet immer am Dienstagabend. Hier habt ihr bis Freitagabend 5 Mission zu absolvieren. Hier erhaltet ihr ebenfalls Clanmünzen. Durch den  Abschluss einer Mission erhält der Clan einen ATK Bonus von 0,3% auf das Bossmonster welcher am Freitagabend freigeschaltet wird. Bis Montagabend ist es wichtig mindestens einmal gegen den Boss gekämpft zu haben.
