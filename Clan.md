@@ -3,7 +3,11 @@ Wir spielen zusammen und es ist wunderbar, wenn wir uns gegenseitig unterstütze
 - Spielt täglich den Clan Eventcenter
 ## Clan-Erkundung
 -   täglich 3 Schlüssel erspielen oder wenn freigeschaltet gegen den Boss kämpfen
-## Clan-Expedition
+## Mondmine-Expedition
+    1. Phase einmal gegen den Boss kämpfen
+    2. Nur spielbar für den Clanleader
+    3. Weitere Bosskämpfen?
+## Clan-Expedition (wurde entfernt)
 -   Von Freitagabend bis Montagabend einmal gegen den Boss kämpfen.
 ## Eventcenter
 -   130 Punkte sind täglich drin. 100 sollten es täglich aber schon sein.
@@ -16,7 +20,7 @@ Wir spielen zusammen und es ist wunderbar, wenn wir uns gegenseitig unterstütze
 - Grüne und blaue Missionen dauern 6 Minuten. Gelbe und braune Missionen ca. 2 Minuten.
 - An allen Mission stehen Zahlen, bzw. weisen ein Schwierigkeitslevel aus. Nach Spielen der Mission verändert sich das Level. Bei einigen Level ändert sich nach dem Spielen die Farbe in die beliebte Missionen gelb und braun. Hier eine Liste dazu: 1,17,20,..
 
-## Clan-Expedition
+## Clan-Expedition (wurde entfernt)
 - Die Expedition startet immer am Dienstagabend. Hier habt ihr bis Freitagabend 5 Mission zu absolvieren. Hier erhaltet ihr ebenfalls Clanmünzen. Durch den  Abschluss einer Mission erhält der Clan einen ATK Bonus von 0,3% auf das Bossmonster welcher am Freitagabend freigeschaltet wird. Bis Montagabend ist es wichtig mindestens einmal gegen den Boss gekämpft zu haben.
 ## Eventcenter
 - Spielt täglich den Eventcenter (100 Punkte gehen in 2 Minuten)
