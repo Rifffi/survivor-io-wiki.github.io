@@ -6,7 +6,7 @@ Wir spielen zusammen und es ist wunderbar, wenn wir uns gegenseitig unterstütze
 ## Mondmine-Expedition
   1. Phase, einmal gegen den Boss kämpfen
   2. Phase, Nur spielbar für den Clanleader
-  3. Phase, Weitere Bosskämpfen?
+  3. Phase, ab Donnerstag für drei Tage einmal gegen den Boss kämpfen
 ## Clan-Expedition (wurde entfernt)
 -   Von Freitagabend bis Montagabend einmal gegen den Boss kämpfen.
 ## Eventcenter
@@ -21,6 +21,8 @@ Wir spielen zusammen und es ist wunderbar, wenn wir uns gegenseitig unterstütze
 - An allen Mission stehen Zahlen, bzw. weisen ein Schwierigkeitslevel aus. Nach Spielen der Mission verändert sich das Level. Bei einigen Level ändert sich nach dem Spielen die Farbe in die beliebte Missionen gelb und braun. Hier eine Liste dazu: 1,17,20,27,  ,...
 ## Moonmine-Expedition
 In der ersten Phase wird gegen einen Boss gekämpft und Medallien gewonnen. Dies startet immer Dienstags.
+Die zweite Phase startet am Mittwoch und kann nur von den Leitern gespielt werden.
+Die dritte Phase start am Donnerstag, wo ebenfalls gegen einen Boss gekämpft wird. Am Freitag und Samstag ebenfalls.
 ## Clan-Expedition (wurde entfernt)
 - Die Expedition startet immer am Dienstagabend. Hier habt ihr bis Freitagabend 5 Mission zu absolvieren. Hier erhaltet ihr ebenfalls Clanmünzen. Durch den  Abschluss einer Mission erhält der Clan einen ATK Bonus von 0,3% auf das Bossmonster welcher am Freitagabend freigeschaltet wird. Bis Montagabend ist es wichtig mindestens einmal gegen den Boss gekämpft zu haben.
 ## Eventcenter
