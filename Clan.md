@@ -5,7 +5,7 @@ Wir spielen zusammen und es ist wunderbar, wenn wir uns gegenseitig unterstütze
 -   täglich 3 Schlüssel erspielen oder wenn freigeschaltet gegen den Boss kämpfen
 ## Mondmine-Expedition
   1. Phase, einmal gegen den Boss kämpfen
-  2. Phase, Nur spielbar für den Clanleader
+  2. Phase, Nur spielbar für den Clanleader oder Vizeleader
   3. Phase, ab Donnerstag für drei Tage einmal gegen den Boss kämpfen
 ## Clan-Expedition (wurde entfernt)
 -   Von Freitagabend bis Montagabend einmal gegen den Boss kämpfen.
