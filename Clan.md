@@ -24,7 +24,7 @@ In der ersten Phase wird gegen einen Boss gekämpft und Medallien gewonnen. Dies
 Die zweite Phase startet am Mittwoch und kann nur von den Leitern gespielt werden.
 Die dritte Phase start am Donnerstag, wo ebenfalls gegen einen Boss gekämpft wird. Am Freitag und Samstag ebenfalls.
 ### Mondminegebiet
-Die Karte ist in drei Ringe aufgeteil. Die Felder des ersten Rings können maximal auf Level 2 gebraucht werden. Die Felder des zweiten Rings auf Level 3 und der letzte auf Level 4. Ein neues Feld vom zweiten Ring wird freigeschaltet wenn zwei nebeneinander liegende Felder von Ring eins auf das maximal Level 2 gebracht wurden.
+Die Karte ist in drei Ringe aufgeteilt. Die Felder des ersten Rings können maximal auf Level 2 gebraucht werden. Die Felder des zweiten Rings auf Level 3 und der letzte auf Level 4. Ein neues Feld vom zweiten Ring wird freigeschaltet wenn zwei nebeneinander liegende Felder von Ring eins auf das maximal Level 2 gebracht wurden.
 ## Clan-Expedition (wurde entfernt)
 - Die Expedition startet immer am Dienstagabend. Hier habt ihr bis Freitagabend 5 Mission zu absolvieren. Hier erhaltet ihr ebenfalls Clanmünzen. Durch den  Abschluss einer Mission erhält der Clan einen ATK Bonus von 0,3% auf das Bossmonster welcher am Freitagabend freigeschaltet wird. Bis Montagabend ist es wichtig mindestens einmal gegen den Boss gekämpft zu haben.
 ## Eventcenter
