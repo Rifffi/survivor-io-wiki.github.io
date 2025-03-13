@@ -166,7 +166,7 @@ Für die letzten gelben Stern benötigt ihr 400 Scherben. Für die erwachen Ster
 ist aktuell wohl etwas besser als Yang. Aber nur wenn ihr eine hohe krit. Rate habt. Jedoch dauert es auch bis hier ihr angekommen seid.
 
 ## Joey
-Wenn ihr genügend krit. Rate habt ist das wahrscheinlich der beste Charakter aktuell. Bei Bossmonster erscheint ein gelber Balken am Monster, an dieser Seite müsst ihr stehen und Schaden hinzufügen. Wenn ihr Joeys Fähigkeit einsetzt könnt ihr dem Bossmonster von überall mehr Schaden hinzufügen. Dies solltet ihr einsetzen wenn ihr nicht auf die Seite des gelben Balken kommt, weil dort die Wand ist und das Bossmonster von der Wand wieder weg locken. Wenn der gelbe Balken zwischendurch verschwindet sammelt ihr Exp. ein.
+Wenn ihr genügend krit. Rate habt ist das wahrscheinlich der beste Charakter aktuell. Spätestens wenn ihr [Synergie](#synergie) freigeschaltet habt ihr genügend krit. Rate. Bei Bossmonster erscheint ein gelber Balken am Monster, an dieser Seite müsst ihr stehen und Schaden hinzufügen. Wenn ihr Joeys Fähigkeit einsetzt könnt ihr dem Bossmonster von überall mehr Schaden hinzufügen. Dies solltet ihr einsetzen wenn ihr nicht auf die Seite des gelben Balken kommt, weil dort die Wand ist und das Bossmonster von der Wand wieder weg locken. Wenn der gelbe Balken zwischendurch verschwindet sammelt ihr Exp. ein.
 
 ## Teamarbeit passiv
 Wenn euer Charakter erwacht ist und dieser 2 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind. Laut [Kalkulator](#kalkulator) ergibt sich aber folgende Reihenfolge wenn dieser Charakter 6 rote Sterne hat:<br>
@@ -208,10 +208,9 @@ Pet ATK +5% und Pet HP +5%
 Hier ein externer Link der nichts mit diesem Wiki zu tun hat wo alle Skills von allen Charakteren aufgeführt werden inkl. der erwachen Skills auch für alle 6 roten Sterne https://danke007.com/handbook/hero
 
 # Kritische Treffer
-Es gibt viele Möglichkeiten um eure krit. Rate zu verbessern. Über Equipment, Sammelobjekte, Chars (Panda 20%), Fertigkeiten, Tiere und 
-Entwicklung (8%).
+Es gibt viele Möglichkeiten um eure krit. Rate zu verbessern. Über Equipment, Sammelobjekte, Chars (Panda 20%), Fertigkeiten, Tiere, Entwicklung (8%) und [Synergie](#synergie)
 Mit den SS Gloves ist eine krit. Rate über 100% sogar sehr gut. Über 100% gibt es einen Boni auf den krit. Schaden. Das Symbol der SS Gloves zeigt auch an wenn ihr über 100% krit. Rate habt.
-Auf der Seite mit den Sammelobjekten gibt es oben rechts einen Button wo alle Werte die ihr erlangt habe zusammengefasst sind.
+Auf der Seite mit den Sammelobjekten gibt es oben rechts einen Button wo alle Werte die ihr erlangt habt zusammengefasst sind.
 
 # Tiere
 Kauft euch jeden Tag einmal die Tiermünzen. Mit jedem Mal kaufen steigt der Preis. Nach einem Tag wird der Preis zurückgesetzt. Je höher das Hauptkapitel desto mehr Münzen und teurer wird es. 3000 Stück ist aber Maximum. Ihr könnt zwei Unterstützer Tiere positionieren. Jedes Tier hat eine Unterstützenfähigkeit. Das ist im oberen rechten Feld beschrieben. Hier macht 10% mehr ATK auf jeden Fall Sinn. 2 mal dasselbe geht nicht. Die Prozentzahl hängt von der Qualität des Unterstützungstier ab. Die Fähigkeit durchdringen Gegner ist auch gut. z.B. in Kombination mit Merika. Bei Quak macht dies natürlich keinen Sinn. Dort ist mehr Reichweite sinniger. Genauso wie bei Rex. Ein Tier kann auch gut als Schild oder Block bei Beschuss eingesetzt werden. Auch wenn es gestorben ist. Um Gary (Schnecke) auf Rot zu bekommen benötigt ihr mindestens 6 von ihm. Achtet bei Hochstufen auf die richtige Unterstützungsfähigkeit. Die folgenden drei Tiere sind die bevorzugten Tiere im Spiel. Letzen Endes tun sie sich alle nicht viel. Manchmal kommt es auch einfach auf den Boss an welches Tier besser ist. Die Projektile von Merika und Croaky müssen den Boss auch treffen. Dies ist schwieriger wenn dieser viel herumrennt. Da ist Rex dann besser. Es kommt also auch auf euch an wohin ihr den Boss so lenkt.
