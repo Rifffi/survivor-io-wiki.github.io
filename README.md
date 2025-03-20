@@ -230,7 +230,7 @@ Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigk
 ## Präzisionsgerät (empfohlen)
 Ist für die beiden Drohne. Immer bevorzugt upgraden. Solltet ihr als erstes auf Rot bekommen später dann auf pink/lila/leuchtend. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
 
-## Quantum Polisator (empfohlen, wenn Quanten-Nanobot noch nicht verfügbar)
+## Quantum Polisator (empfohlen, auch wenn Quanten-Nanobot noch nicht verfügbar)
 Ist für den Fußball. 30% Schaden das gibt nochmal mehr Schaden auch bei Bossmonstern. Bringt nach dem Präzisonsgerät am zweitmeisten.
 
 ## Quanten-Nanobot (Durain-Modus) (empfohlen)
@@ -288,7 +288,7 @@ Zusätzlich schaut das alle 6 Slots mit Waffen belegt werden, sonst ist es schwi
 
 Je mehr Exp man erhält, desto besser werden einige Eigenschaften von Waffen und dem Tier.
 
-Immerwährende Rüstung. So früh wie möglich einmal Sterben wegen 15% (20%) mehr Schaden nach Wiederbelebung und weitere Fertigkeitsauswahl.
+Immerwährende Rüstung. So früh wie möglich einmal Sterben wegen 15% (20%) mehr Schaden nach Wiederbelebung und weitere Fertigkeitsauswahl. Durch erneutes Sterben erhöht es sich nochmal. Also am besten 3mal hintereinander Sterben, sofern der Boss nicht zu stark ist.
 
 Ying und Yang den debuff auf die Verteidigung auslösen sonst nur die Handflächen nutzen.
 
@@ -309,12 +309,17 @@ Reihenfolge der Fertigkeiten plus tech. Teile auf Rot mit dem meisten Schaden:
 4. Rakete mit Resonanz
 5. Blitz
 
-### Expedition
-Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellung zu erreichen. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden, wenn ihr weitere Diamanten ausgebt.
+### Expedition / Mondmine
+Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellung zu erreichen. Bei der Mondmine benötigt ihr keine Diamanten. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden, wenn ihr weiter auswählt.
 
-Für fast optimalen Schaden:
-Zerstörer, Charakter Fähigkeit, ATK, Schuhe, Geschwindigkeit, Abklingzeit und Reichweite.
-Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen.
+Für fast optimalen Schaden mit
+Yang:
+Hauptwaffe,Zerstörer, Charakter Fähigkeit, Durain, Rakete, Fussball, ATK, Schuhe, Geschwindigkeit, Abklingzeit, Reichweite und Exo-Skelett.
+
+Joey:
+Hauptwaffe, Zerstörer, Durain, Rakete, Fussball, Molotow, ATK, Charakter Fähigkeit, Schuhe, Geschwindigkeit, Abklingzeit und Reichweite.
+
+Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen. Dafür Exo-Skelett und/oder Schuhe weglassen.
 
 # Pfad der Prüfungen
 Solltet ihr einmal die Woche spielen und mindestens 1 Level/Ebene vorankommen, damit ihr einmal die Rewards einsammelt. Spielt nicht zu viele Level sonst kommt ihr nächste Woche gar nicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben. Mit einem Versuch könnt ihr 25 Ebenen schaffen. Unter die Top 3 zu kommen ist auch gut, danmit ihr noch gelbe Sammelobjektscherben bekommt. Solltet ihr auch mal zurückliegen, könnt ihr Prüfung wiederholen wählen. Hier gilt ungefähr 75.000 ATK = 1000 Ebenen. Ab der Ebene 4800 ist das wiederholen nicht mehr Möglich.
