@@ -365,7 +365,7 @@ Die ersten 4 sind Pflichtprogramm und eigentlich auch in einer dreiviertel Stund
 3. Jeden Tag 10 Spezialeinsätze (lieber nicht alle Bosse)
 4. 100+ Punkte im Missionscenter
 5. Einmal die Woche, Pfad der Prüfung spielen
-6. während Event zweimal täglich Hauptkapitel 74 spielen.
+6. während [Events](#events) zweimal täglich Hauptkapitel 74 oder 4 spielen.
 7. Dienstag Mondmine Bosskampf spielen
 8. Donnerstag, Freitag, Samstag Mondmine Bosskampf
 9. täglich einmal Clanerkundung
