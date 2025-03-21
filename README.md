@@ -67,7 +67,7 @@ eher unbeliebt, Minen können so schlecht gesteuert werden wo sie auftauchen und
 ## Laserstrahler
 Macht Flächenschaden um den Charakter herum und hilft bei der Verteidigung.
 ## Rakete
-Gute Single traget Waffe, hilft gut gegen Bossmonster mit Flächenschaden.
+Gute Single traget Waffe, hilft gut gegen Bossmonster, mit Flächenschaden.
 
 # passive Fähigkeiten
 hängt meistens immer ein wenig davon ab welche Waffen ihr gewählt habt, damit ihr diese zur Superwaffe macht.
@@ -234,7 +234,7 @@ Ist für die beiden Drohne. Immer bevorzugt upgraden. Solltet ihr als erstes auf
 Ist für den Fußball. 30% Schaden das gibt nochmal mehr Schaden auch bei Bossmonstern. Bringt nach dem Präzisonsgerät am zweitmeisten.
 
 ## Quanten-Nanobot (Durain-Modus) (empfohlen)
-Auf rot sind die +75% Fertigkeitsschaden geht super.
+Auf rot sind die +75% Fertigkeitsschaden echt super.
 
 ## Phasenumwandler (empfohlen)
 2 Blitzschläge mehr. Auch gut gegen Bossmonster.
@@ -248,8 +248,8 @@ Die Steine gehen durch alle Gegner.
 ## Effizientes Wartungsgerät (empfohlen)
 Die Raketen werden schneller wieder abgeschossen. Auch gut für mehr Schaden an Bossmonstern. Kann auf rot mit 3 weitern tech Teilen aufgewertet werden. Kann durch C4 Sprengstoff Monster vereisen.
 
-## Energie-Diffusor
-Auf rot +10% Schaden durch Verwundung.
+## Energie-Diffusor (enpfohlen)
+Auf rot +10% Schaden durch Verwundung. Bei genug Resonanz wird auch die Fähigkeit Gold für die Superwaffe nicht mehr benötigt.
 
 ## Antimateriegenerator
 Erhöht die Fluggeschwindigkeit.
@@ -309,16 +309,16 @@ Reihenfolge der Fertigkeiten plus tech. Teile auf Rot mit dem meisten Schaden:
 4. Rakete mit Resonanz
 5. Blitz
 
-Ölfass/Molotow und Durain/Nanobot sind zwar vom Schaden besser aber erst als Superwaffe. Diese als Superwaffe in Ende des Echo zu bekommen ist schwierig.
+Ölfass/Molotow und Durain/Nanobot sind zwar vom Schaden besser aber erst als Superwaffe geben sie zusätzliche Atk. Diese als Superwaffe in Ende des Echo zu bekommen ist schwierig.
 
 ### Expedition / Mondmine
 Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellung zu erreichen. Bei der Mondmine benötigt ihr keine Diamanten. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden, wenn ihr weiter auswählt.
 
 Für fast optimalen Schaden mit
 Yang:
-Hauptwaffe,Zerstörer, Charakter Fähigkeit, Durain, Rakete, Fussball, ATK, Schuhe, Geschwindigkeit, Abklingzeit, Reichweite und Exo-Skelett.
+Hauptwaffe, Zerstörer, Charakter Fähigkeit, Durain, Rakete, Molotow, ATK, Exoskelett, Geschwindigkeit, Abklingzeit, Reichweite und Exoskelett. Wer keine SS Schuhe und die Leerwandlertreter hat sollte Schuhe und Fußball anstatt Molotow nehmen. Genauso wenn das tech Teil nicht rot ist.
 
-Joey:
+Joey / Metallica:
 Hauptwaffe, Zerstörer, Durain, Rakete, Fussball, Molotow, ATK, Charakter Fähigkeit, Schuhe, Geschwindigkeit, Abklingzeit und Reichweite.
 
 Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen. Dafür Exo-Skelett und/oder Schuhe weglassen.
