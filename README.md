@@ -289,7 +289,7 @@ Je mehr Exp man erhält, desto besser werden einige Eigenschaften von Waffen und
 
 Immerwährende Rüstung. So früh wie möglich zweimal Sterben wegen 2 * 15% (20%) mehr Schaden nach Wiederbelebung und weitere Fertigkeitsauswahl. Dies nur anwenden sofern der Boss nicht zu stark ist. Seit ihr zu stark könnt ihr Rüstung, Gürtel und Schuhe auf Level 1 herunterstufen.
 
-Mit [Panda](panda), Ying und Yang den Debuff auf die Verteidigung auslösen sonst nur die Handflächen nutzen.
+Mit [Panda](#panda), Ying und Yang den Debuff auf die Verteidigung auslösen sonst nur die Handflächen nutzen.
 
 Den Boss so laufen lassen das Exp eingesammelt werden aber noch Schaden mit den Drohnen erzeugt wird. Am Anfang kann auch eine Runde gelaufen werden um Exp einzusammeln. Besonders am Ende wird der meiste Schaden erzeugt, da alle Waffe gut ausgebildet sind.
 
@@ -314,10 +314,10 @@ Reihenfolge der Fertigkeiten plus tech. Teile auf Rot mit dem meisten Schaden:
 Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellung zu erreichen. Bei der Mondmine benötigt ihr keine Diamanten. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden, wenn ihr weiter auswählt.
 
 Für fast optimalen Schaden mit
-[Panda](panda):
+[Panda](#panda):
 Hauptwaffe, Zerstörer, Charakter Fähigkeit, Durain, Rakete, Molotow, ATK, Exoskelett, Geschwindigkeit, Abklingzeit, Reichweite und Exoskelett. Wer keine SS Schuhe und die Leerwandlertreter hat sollte Schuhe und Fußball anstatt Molotow nehmen. Genauso wenn das tech Teil nicht rot ist.
 
-[Joey](joey) / Metallica:
+[Joey](#joey) / Metallica:
 Hauptwaffe, Zerstörer, Durain, Rakete, Fussball, Molotow, ATK, Charakter Fähigkeit, Schuhe, Geschwindigkeit, Abklingzeit und Reichweite.
 
 Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen. Dafür Exoskelett und/oder Schuhe weglassen. Hier solltet ihr am Anfang dreimal sterben wenn immerwährende Rüstung angelegt, außer der Boss ist zu stark. Seit ihr zu stark Defensives Equipment auf Level 1 herunterstufen.
