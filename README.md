@@ -78,7 +78,7 @@ Alle Projektile fliegen dadurch schneller und können schneller mehr Schaden mac
 ## Laufgeschwindigkeit
 Durch die Leerwandlertreter könnte ihr hierdurch auch mehr Schaden machen.
 ## Reichweite
-Projektile werden größer und einige Waffen haben dadurch eine größere Reichweite. Monster kommen nicht so nah an euch ran und treffen besser.
+Projektile werden größer und einige Waffen haben dadurch eine größere Reichweite. Monster kommen nicht so nah an euch ran und ihr trefft besser.
 ## ANG / ATK, mehr Schaden
 Mehr ATK immer ein Muss, wenn ihr viel Schaden machen wollt.
 ## Heilung
