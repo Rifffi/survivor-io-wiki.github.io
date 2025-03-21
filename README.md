@@ -309,6 +309,8 @@ Reihenfolge der Fertigkeiten plus tech. Teile auf Rot mit dem meisten Schaden:
 4. Rakete mit Resonanz
 5. Blitz
 
+Ölfass/Molotow und Durain/Nanobot sind zwar vom Schaden besser aber erst als Superwaffe. Diese als Superwaffe in Ende des Echo zu bekommen ist schwierig.
+
 ### Expedition / Mondmine
 Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellung zu erreichen. Bei der Mondmine benötigt ihr keine Diamanten. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden, wenn ihr weiter auswählt.
 
@@ -352,7 +354,7 @@ Die Eigenschaften die per Scherben freigeschaltet werden, werden nicht freigesch
 Die Synergie lässt sich durch, blaue Scherben, gelbe Tropfen und Geld hochleveln. Alle 5 Level benötigt ihr Erwachenkerne und S Scherben. Dadurch werden die verschiedenen Schadenwerte erhöht. Alle Charaktere werden dann um +1 Level angehoben. 120 + Synergie Level.
 
 ## Harmonie
-Harmonie wird durch Synergie freigeschaltet. Zum Hauptcharakter können zwei Begleitcharakter bestimmt werden. Aktuell geht hier Common, und alle S Charaktere. Anhand der Anzahl der Sterne der Begleitcharaktere und des Hauptcharakter könnt ihr die krit. Rate weiter erhöhen: gelbe Sterne 1 Stern 2%, 3 Sterne 3%, 6 Sterne 5%, 9 Sterne 5%, 12 Sterne 5%, 15 Sterne 5%, 18 Sterne 5%. Insgesamt: 30% mehr krit. Rate
+Harmonie wird durch Synergie freigeschaltet. Zum Hauptcharakter können zwei Begleitcharakter bestimmt werden. Aktuell geht hier Common, King und alle S Charaktere. Anhand der Anzahl der Sterne der Begleitcharaktere und des Hauptcharakter könnt ihr die krit. Rate weiter erhöhen: gelbe Sterne 1 Stern 2%, 3 Sterne 3%, 6 Sterne 5%, 9 Sterne 5%, 12 Sterne 5%, 15 Sterne 5%, 18 Sterne 5%. Insgesamt: 30% mehr krit. Rate
 Rote Sterne schaltet Skills frei die z.B. Common ausführt, wie Kunai werfen. Dafür benötigt ihr aber alle gelben Sterne von allen drei aktiven Charakteren. Wichtig hier im Spiel habt ihr nicht direkt alle Sterne freigeschaltet. Mit dem steigen des in Game Levels (Exp.) und öffnen von Truhen steigen auch die Sterne. Ca. alle 4-5 Level erhaltet ihr einen weiteren Stern.
 
 # Allgemeines
