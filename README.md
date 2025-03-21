@@ -288,9 +288,9 @@ Zusätzlich schaut das alle 6 Slots mit Waffen belegt werden, sonst ist es schwi
 
 Je mehr Exp man erhält, desto besser werden einige Eigenschaften von Waffen und dem Tier.
 
-Immerwährende Rüstung. So früh wie möglich einmal Sterben wegen 15% (20%) mehr Schaden nach Wiederbelebung und weitere Fertigkeitsauswahl. Durch erneutes Sterben erhöht es sich nochmal. Also am besten 3mal hintereinander Sterben, sofern der Boss nicht zu stark ist.
+Immerwährende Rüstung. So früh wie möglich zweimal Sterben wegen 2 * 15% (20%) mehr Schaden nach Wiederbelebung und weitere Fertigkeitsauswahl. Dies nur anwenden sofern der Boss nicht zu stark ist. Seit ihr zu stark könnt ihr Rüstung, Gürtel und Achuhe auf Level 1 herunterstufen.
 
-Ying und Yang den debuff auf die Verteidigung auslösen sonst nur die Handflächen nutzen.
+Mit Yang, Ying und Yang den debuff auf die Verteidigung auslösen sonst nur die Handflächen nutzen.
 
 Den Boss so laufen lassen das Exp eingesammelt werden aber noch Schaden mit den Drohnen erzeugt wird. Am Anfang kann auch eine Runde gelaufen werden um Exp einzusammeln. Besonders am Ende wird der meiste Schaden erzeugt, da alle Waffe gut ausgebildet sind.
 
@@ -321,7 +321,7 @@ Hauptwaffe, Zerstörer, Charakter Fähigkeit, Durain, Rakete, Molotow, ATK, Exos
 Joey / Metallica:
 Hauptwaffe, Zerstörer, Durain, Rakete, Fussball, Molotow, ATK, Charakter Fähigkeit, Schuhe, Geschwindigkeit, Abklingzeit und Reichweite.
 
-Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen. Dafür Exo-Skelett und/oder Schuhe weglassen.
+Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen. Dafür Exo-Skelett und/oder Schuhe weglassen. Hier solltet ihr am Anfang dreimal sterben wenn immerwährende Rüstung angelegt, außer der Boss ist zu stark. Seit ihr zu stark Defensives Equipment auf Level 1 Herunterstufen.
 
 # Pfad der Prüfungen
 Solltet ihr einmal die Woche spielen und mindestens 1 Level/Ebene vorankommen, damit ihr einmal die Rewards einsammelt. Spielt nicht zu viele Level sonst kommt ihr nächste Woche gar nicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben. Mit einem Versuch könnt ihr 25 Ebenen schaffen. Unter die Top 3 zu kommen ist auch gut, danmit ihr noch gelbe Sammelobjektscherben bekommt. Solltet ihr auch mal zurückliegen, könnt ihr Prüfung wiederholen wählen. Hier gilt ungefähr 75.000 ATK = 1000 Ebenen. Ab der Ebene 4800 ist das wiederholen nicht mehr Möglich.
