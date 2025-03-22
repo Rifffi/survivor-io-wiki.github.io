@@ -58,7 +58,7 @@ naja nicht so beliebt
 Hält einem die Monster vom Leib wegen Pushback.
 ## Brandflasche (Molotov)
 Guter Flächenschaden. Durch tech. Teil auf Rot +10% mehr Schaden.
-## Durain
+## Durian
 Langsam und ohne tech. Teile bewegt sie sich auf dem ganzen Bildschirm. Ist Geschmackssache.
 ## Kraftfeld
 Okay für die Verteidigung, aber macht nicht viel Schaden.
@@ -232,13 +232,13 @@ Ist für die beiden Drohne. Immer bevorzugt upgraden. Solltet ihr als erstes auf
 ## Quantum Polisator (empfohlen, auch wenn Quanten-Nanobot noch nicht verfügbar)
 Ist für den Fußball. 30% Schaden das gibt nochmal mehr Schaden auch bei Bossmonstern. Bringt nach dem Präzisonsgerät am zweitmeisten.
 
-## Quanten-Nanobot (Durain-Modus) (empfohlen)
+## Quanten-Nanobot (Durian-Modus) (empfohlen)
 Auf rot sind die +75% Fertigkeitsschaden echt super.
 
 ## Phasenumwandler (empfohlen)
 2 Blitzschläge mehr. Auch gut gegen Bossmonster.
 
-## Exo-Skelett (empfohlen)
+## Exoskelett (empfohlen)
 Hällt euch durch den erhöhten Pushback die Monster noch besser vom Hals.
 
 ## Schwerkraftregler (empfohlen)
@@ -308,17 +308,17 @@ Reihenfolge der Fertigkeiten plus tech. Teile auf Rot mit dem meisten Schaden:
 4. Rakete mit Resonanz
 5. Blitz
 
-Ölfass/Molotow und Durain/Nanobot sind zwar vom Schaden besser aber erst als Superwaffe geben sie zusätzliche Atk. Diese als Superwaffe in Ende des Echo zu bekommen ist schwierig.
+Ölfass/Molotow und Durian/Nanobot sind zwar vom Schaden besser aber erst als Superwaffe geben sie zusätzliche Atk. Diese als Superwaffe in Ende des Echo zu bekommen ist schwierig.
 
 ### Expedition / Mondmine
 Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellung zu erreichen. Bei der Mondmine benötigt ihr keine Diamanten. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden, wenn ihr weiter auswählt.
 
 Für fast optimalen Schaden mit
 [Panda](#panda):
-Hauptwaffe, Zerstörer, Charakter Fähigkeit, Durain, Rakete, Molotow, ATK, Exoskelett, Geschwindigkeit, Abklingzeit, Reichweite und Exoskelett. Wer keine SS Schuhe und die Leerwandlertreter hat sollte Schuhe und Fußball anstatt Molotow nehmen. Genauso wenn das tech Teil nicht rot ist.
+Hauptwaffe, Zerstörer, Charakter Fähigkeit, Durian, Rakete, Molotow, ATK, Exoskelett, Geschwindigkeit, Abklingzeit, Reichweite und Exoskelett. Wer keine SS Schuhe und die Leerwandlertreter hat sollte Schuhe und Fußball anstatt Molotow nehmen. Genauso wenn das tech Teil nicht rot ist.
 
 [Joey](#joey) / Metallica:
-Hauptwaffe, Zerstörer, Durain, Rakete, Fussball, Molotow, ATK, Charakter Fähigkeit, Schuhe, Geschwindigkeit, Abklingzeit und Reichweite.
+Hauptwaffe, Zerstörer, Durian, Rakete, Fussball, Molotow, ATK, Charakter Fähigkeit, Schuhe, Geschwindigkeit, Abklingzeit und Reichweite.
 
 Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen. Dafür Exoskelett und/oder Schuhe weglassen. Hier solltet ihr am Anfang dreimal sterben wenn immerwährende Rüstung angelegt, außer der Boss ist zu stark. Seit ihr zu stark Defensives Equipment auf Level 1 herunterstufen.
 
