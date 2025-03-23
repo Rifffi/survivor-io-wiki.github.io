@@ -223,6 +223,8 @@ Macht wohl ab 200.000 ATK mehr Schaden als Merika. Dies dauert aber bis ihr mal 
 Bestes Tier was ihr in den Unterstützungs Slot packen solltet.
 ## Tier Fertigkeiten
 Bei jedem Tier könnt ihr Fertigkeiten einsetzen. Hier rät es sich auf ATK Erhöhungen zu setzen vom Tier. Auch die Erhöhung der krit. Rate oder Angriff vom Besitzer ist gut. So ab 300.000 Atk, macht es mehr Sinn den Besitzer zu boosten. Damit euer Tier nicht so häufig stirbt kann hier die Fertigkeit absorbiert LP gewählt werden. Wenn das Tier stirbt erhält der Besitzer auch keinen Boost mehr. Je mehr rote Tiere ihr habt desto mehr Fertigkeiten (max. 12 Rote) könnt ihr auswählen. Es ist also ratsam jede Art von Tier einmal in Rot zu haben. Die ersten vier Slots können zusätzlich durch das Erwachen des Tieres auf Rot hochgestuft werden.
+## Geschenke
+Ihr solltet nur passende Geschenk dem Tier geben dem es zugeordnet ist. Durch das Schenken wird die ATK des Besitzers erhöht. Dies gilt auch wenn ihr das Tier nicht ausgerüstet habt, sprich auch wenn nicht als Unterstützungstier selektiert. Da das Level auch an das Erwachen gebunden ist geht mit bedacht vor. Fakt ist aber, das ihr euch auf Tier erstmal konzentriert und danach gleichmäßig alle nachzieht.
 
 # tech Teile
 Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigkeiten auch auswählt, weil diese durch die Teile auch verstärkt werden.
