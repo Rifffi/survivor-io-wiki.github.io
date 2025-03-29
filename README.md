@@ -235,7 +235,10 @@ Ist für die beiden Drohne. Immer bevorzugt upgraden. Solltet ihr als erstes auf
 Ist für den Fußball. 30% Schaden das gibt nochmal mehr Schaden auch bei Bossmonstern. Bringt nach dem Präzisonsgerät am zweitmeisten.
 
 ## Quanten-Nanobot (Durian-Modus) (empfohlen)
-Auf rot sind die +75% Fertigkeitsschaden echt super.
+Auf rot sind die +75% Fertigkeitsschaden echt super. Auch die ganzen Boni durch die Resonanz sind gut.
+
+## Quanten-Nanobot (Fussball-Modus) (empfohlen, bei viel krit.)
+Auf rot sind die +80% krit. Schaden bei 100% krit. Rate besser als der Durian-Modus. Auch sind die Boni durch Resonanz echt super.
 
 ## Phasenumwandler (empfohlen)
 2 Blitzschläge mehr. Auch gut gegen Bossmonster.
@@ -317,12 +320,12 @@ Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellu
 
 Für fast optimalen Schaden mit
 [Panda](#panda):
-Hauptwaffe, Zerstörer, Charakter Fähigkeit, Durian, Rakete, Molotow, ATK, Exoskelett, Geschwindigkeit, Abklingzeit, Reichweite und Exoskelett. Wer keine SS Schuhe und die Leerwandlertreter hat sollte Schuhe und Fußball anstatt Molotow nehmen. Genauso wenn das tech Teil nicht rot ist.
+Hauptwaffe, Zerstörer, Charakter Fähigkeit, Fussball, Rakete, Molotow, ATK, Exoskelett, Geschwindigkeit, Abklingzeit, Reichweite und Exoskelett. Wer keine SS Schuhe und die Leerwandlertreter hat sollte Schuhe und Fußball anstatt Molotow nehmen. Genauso wenn das tech Teil nicht rot ist.
 
 [Joey](#joey) / Metallica:
-Hauptwaffe, Zerstörer, Durian, Rakete, Fussball, Molotow, ATK, Charakter Fähigkeit, Schuhe, Geschwindigkeit, Abklingzeit und Reichweite.
+Hauptwaffe, Zerstörer, Blitz, Rakete, Fussball, Molotow, ATK, Charakter Fähigkeit, Schuhe, Geschwindigkeit, Abklingzeit und Reichweite.
 
-Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen. Dafür Exoskelett und/oder Schuhe weglassen. Hier solltet ihr am Anfang dreimal sterben wenn immerwährende Rüstung angelegt, außer der Boss ist zu stark. Seit ihr zu stark Defensives Equipment auf Level 1 herunterstufen.
+Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen. Dafür Exoskelett und/oder Schuhe weglassen. Hier solltet ihr am Anfang dreimal sterben wenn immerwährende Rüstung angelegt, außer der Boss ist zu stark. Seit ihr zu stark Defensives Equipment auf Level 1 herunterstufen. Um die HP zu reduzieren lasst euch von Boss durch die Gegend schieben und nicht in die Ecke drängen. Dadurch bleiben die SS Schuhe aufgeladen.
 
 # Pfad der Prüfungen
 Solltet ihr einmal die Woche spielen und mindestens 1 Level/Ebene vorankommen, damit ihr einmal die Rewards einsammelt. Spielt nicht zu viele Level sonst kommt ihr nächste Woche gar nicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben. Mit einem Versuch könnt ihr 25 Ebenen schaffen. Unter die Top 3 zu kommen ist auch gut, danmit ihr noch gelbe Sammelobjektscherben bekommt. Solltet ihr auch mal zurückliegen, könnt ihr Prüfung wiederholen wählen. Hier gilt ungefähr 75.000 ATK = 1000 Ebenen. Ab der Ebene 4800 ist das wiederholen nicht mehr Möglich.
