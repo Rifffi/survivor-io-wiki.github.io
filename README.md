@@ -227,18 +227,19 @@ Bei jedem Tier könnt ihr Fertigkeiten einsetzen. Hier rät es sich auf ATK Erh�
 Ihr solltet nur passende Geschenk dem Tier geben dem es zugeordnet ist. Durch das Schenken wird die ATK des Besitzers erhöht. Dies gilt auch wenn ihr das Tier nicht ausgerüstet habt, sprich auch wenn nicht als Unterstützungstier selektiert. Da das Level auch an das Erwachen gebunden ist geht mit bedacht vor. Fakt ist aber, das ihr euch auf Tier erstmal konzentriert und danach gleichmäßig alle nachzieht.
 
 # tech Teile
-Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigkeiten auch auswählt, weil diese durch die Teile auch verstärkt werden.
+Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigkeiten auswählt, weil diese durch die Teile auch verstärkt werden. Es ist nur möglich ein tech. Teil vom gleichen Typ auszurüsten. Durch Resonanz lassen sich einige tech. Teile nochmals verbessern. Eine Umverteilung solltet ihr hin und wieder mal prüfen.
+
 ## Präzisionsgerät (empfohlen)
 Ist für die beiden Drohne. Immer bevorzugt upgraden. Solltet ihr als erstes auf Rot bekommen später dann auf pink/lila/leuchtend. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
 
-## Quantum Polisator (empfohlen, auch wenn Quanten-Nanobot noch nicht verfügbar)
+## Quantum Polisator (empfohlen)
 Ist für den Fußball. 30% Schaden das gibt nochmal mehr Schaden auch bei Bossmonstern. Bringt nach dem Präzisonsgerät am zweitmeisten.
 
 ## Quanten-Nanobot (Durian-Modus) (empfohlen)
 Auf rot sind die +75% Fertigkeitsschaden echt super. Auch die ganzen Boni durch die Resonanz sind gut.
 
 ## Quanten-Nanobot (Fussball-Modus) (empfohlen, bei viel krit.)
-Auf rot sind die +80% krit. Schaden bei 100% krit. Rate besser als der Durian-Modus. Auch sind die Boni durch Resonanz echt super.
+Auf rot sind die +80% krit. Schaden bei 100% krit. Rate besser als der Durian-Modus. Auch sind die Boni durch Resonanz echt super. Hier lohnt sich auch ggf. eine Umverteilung von tech. Teilen für mehr Resonanz. Ab genug Resonanz benötigt ihr keine Schuhe mehr für das Update auf die Superwaffe.
 
 ## Phasenumwandler (empfohlen)
 2 Blitzschläge mehr. Auch gut gegen Bossmonster.
@@ -250,10 +251,13 @@ Hällt euch durch den erhöhten Pushback die Monster noch besser vom Hals.
 Die Steine gehen durch alle Gegner.
 
 ## Effizientes Wartungsgerät (empfohlen)
-Die Raketen werden schneller wieder abgeschossen. Auch gut für mehr Schaden an Bossmonstern. Kann auf rot mit 3 weitern tech Teilen aufgewertet werden. Kann durch C4 Sprengstoff Monster vereisen.
+Die Raketen werden schneller wieder abgeschossen. Auch gut für mehr Schaden an Bossmonstern. Kann auf rot mit 3 weitern tech Teilen aufgewertet werden. Kann dadurch mit C4 Sprengstoff Monster vereisen.
 
 ## Energie-Diffusor (enpfohlen)
 Auf rot +10% Schaden durch Verwundung. Bei genug Resonanz wird auch die Fähigkeit Gold für die Superwaffe nicht mehr benötigt.
+
+## Nanobot
+Schlecht steuerbar. Erst ist besser als Quantum-Nanobot
 
 ## Antimateriegenerator
 Erhöht die Fluggeschwindigkeit.
