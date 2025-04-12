@@ -156,7 +156,7 @@ Ihr müsst den Charakter auf Lvl 20 haben damit ihr diesen mit den jeweiligen Sc
 Jeder Charakter kann 6 gelbe Sterne bekommen durch Scherben. Danach kann dieser Erwachen und mit weiteren Scherben und Quantensternscherben auf 6 rote Sterne gebracht werden. Hier können andere Chars als Unterstützung in Slots gesetzt werden plus zusätzliche Boni. Später kommt noch das Synergie System hinzu. Folgende Reihenfolge geht ihr im Laufe der Zeit an. Common->King->Panda->Joey
 
 ## King
-ist die Wahl nach dem Startcharakter. Seine zusätzliche Fähigkeit mehr kritische Treffer zu erhalten, hilft um viel mehr Schaden zu machen.
+ist die Wahl nach dem Startcharakter. Seine zusätzliche Fähigkeit mehr [kritische Treffer](#kritische-treffer) zu erhalten, hilft um viel mehr Schaden zu machen.
 
 ## Panda
 darauf liegt der Fokus bis ihr eine krit. Rate größer 80-90% habt, danach nehmt ihr Joey. Ist aber vielleicht auch Geschmacksache. Panda hat eine aktive Fähigkeit. Ying und Yang. Dieser ermöglicht euch diese Fähigkeit zur Verteidigung oder zum Angriff (+20 krit. Rate mit den Handflächen) einzusetzen. Auch diese Fähigkeit kann zur Superwaffe werden. Die KI Kugeln (Bollwerk, golden leuchtend) können als Superwaffe ein Debuff (-50%) auf die Monsterverteidigung erwirken. Dies hilft um mehr Schaden an Bossmonster zu erlangen. Nachdem ihr den Debuff an einem Bossmonster durchgeführt habt wechselt ihr auf die Feuerhand. Der Debuff wird auch in der violetten Leiste (Ying, Yang Symbol) vom Boss angezeigt. Beim Treffen mit einer Handfläche wird das Symbol auch angezeigt erzeugt aber einen geringen Debuff von 15% (20%). Für den letzten gelben Stern benötigt ihr 400 Scherben. Für die erwachen Sterne (Rot), werden auch Scherben, Erwachenkerne und blaue Scherben benötigt.
@@ -208,7 +208,7 @@ Hier ein externer Link der nichts mit diesem Wiki zu tun hat wo alle Skills von 
 
 # Kritische Treffer
 Es gibt viele Möglichkeiten um eure krit. Rate zu verbessern. Über Equipment, Sammelobjekte, Chars (Panda 20%), Fertigkeiten, Tiere, Entwicklung (8%) und [Synergie](#synergie)
-Mit den SS Gloves ist eine krit. Rate über 100% sogar sehr gut. Über 100% gibt es einen Boni auf den krit. Schaden. Das Symbol der SS Gloves zeigt auch an wenn ihr über 100% krit. Rate habt.
+Mit den SS Gloves ist eine krit. Rate über 100% sogar sehr gut. Über 100% gibt es einen Boni auf den krit. Schaden. Das Symbol der SS Gloves zeigt auch an wenn ihr über 100% krit. Rate habt. Gelb bei 100% und orange bei 130%.
 Auf der Seite mit den Sammelobjekten gibt es oben rechts einen Button wo alle Werte die ihr erlangt habt durch [Sammelobjekte](#sammelobjekte) zusammengefasst sind. Hier ein Link zum Calculator für eure krit. Rate. Der Calculator hat nichts mit diesem Wiki zu tun. https://danke007.com/calc/bao-ji-lv
 Bitte beachtet das die Boni z.B. von den SS Gloves nicht direkt beim Start zur Verfügung stehen. Somit ist beim Start eines Level die krit. Rate geringer als zum Ende hin. Besonders bei Ende des Echo kann das einiges aus machen.
 
