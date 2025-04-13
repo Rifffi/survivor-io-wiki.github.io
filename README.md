@@ -36,7 +36,7 @@ Bei den passiven Fertigkeiten (Schuhe) wird auch angezeigt welche Waffe dazu pas
 Wenn ihr wisst das ihr ein Level ohne Probleme schafft solltet ihr die passive Fähigkeit mehr Gold erlernen. Gold ist am Anfang des Spiels ein Problem hinterher sollte ihr eigentlich genug Gold anhäufen.
 
 # Events
-Jede Woche gibt es ein Event über mehrere Tage. Dort gibt es immer gute Items/Rewards zu holen. Dies ist mit Aufwand verbunden, der aber zwingend notwendig ist, um vorwärts zu kommen. Es müssen Millionen von Monstern getötet werden. Am besten dazu Hauptherausforderung Lvl. 74 (180.000 Kills) oder Lvl. 4 (80.000 Kills) wiederholt spielen. Als Equipment den glänzenden Handgelenkschutz nutzen und Kunai oder Leermacht. Long Range Waffen wie Bohrer und Fußball wählen. Wenn euer Charakter ein höheres Lvl. hat könnt ihr 1 Minute spielen afk gehen, nach 3 Minuten einen Magnet einsammeln und afk gehen, bis die 8 Minuten um sind. Bei Lvl. 74 benötigt ihr auch einiges an ATK und nehmt die Lanze. Wenn ihr die Level als Hauptkapitel spielt gibt es bei Lvl. 74 nur (90.000 Kills) und Lvl. 4 (160.000 Kills). Dauern aber mit 15Minuten länger. Die 30-40 Hauptkapitel erledigt ihr  nur durch starten und direkt wieder beenden/abbrechen. Die 10 Spezialeinsätze sind jeden Tag Pflichtprogramm, dazu gibt es aber auch gelbe Karten um diese ohne spielen abzuschließen. 300 Truhen öffnen ist meistens nicht notwendig. Meistens reichen 100. Dafür müsst ihr fleißig Schlüssel sammeln und dafür aufbewahren. Das Ziel sollte sein mindestens eine S Truhe zu bekommen. Kann aber auch variieren. Truhen solltet ihr also nur während eines Events öffnen. Mit Diamanten die ihr am besten auch nur für Events aufspart, können noch weitere gute zusätzliche Rewards erlangt werden. Durch öffnen von 300 Truhen und investieren von ein paar Diamanten könnt ihr zusäzlich Relikt Kerne, rote Sammelobjekttruhen, Resonanzchips oder ähnliches gute Rewards zusätzlich zur S Truhe erlangen. Wenn ihr hinterher die Punkte gegen Rewards eintauscht holt ihr euch weitere Schlüssel, um für das nächste Event wieder mehr Truhen öffnen zu können. Evtl. müsst ihr ein Event auch mal mit dem Verbrauch von Schlüssen und Diamanten aussetzen um zu sparen.
+Jede Woche gibt es ein Event über mehrere Tage. Dort gibt es immer gute Items/Rewards zu holen. Dies ist mit Aufwand verbunden, der aber zwingend notwendig ist, um vorwärts zu kommen. Es müssen Millionen von Monstern getötet werden. Am besten dazu Hauptherausforderung Lvl. 74 (180.000 Kills) oder Lvl. 4 (80.000 Kills) wiederholt spielen. Als Equipment den glänzenden Handgelenkschutz nutzen und Kunai oder Leermacht. Long Range Waffen wie Bohrer und Fußball wählen. Wenn euer Charakter ein höheres Lvl. hat könnt ihr 1 Minute spielen afk gehen, nach 3 Minuten einen Magnet einsammeln und afk gehen, bis die 8 Minuten um sind. Bei Lvl. 74 benötigt ihr auch einiges an ATK und nehmt die Lanze. Wenn ihr die Level als Hauptkapitel spielt gibt es bei Lvl. 74 nur (90.000 Kills) und Lvl. 4 (160.000 Kills). Dauern aber mit 15Minuten länger. Die 30-40 Hauptkapitel erledigt ihr nur durch starten und direkt wieder beenden/abbrechen. Die 10 Spezialeinsätze sind jeden Tag Pflichtprogramm, dazu gibt es aber auch gelbe Karten um diese ohne spielen abzuschließen. 300 Truhen öffnen ist meistens nicht notwendig. Meistens reichen 100. Dafür müsst ihr fleißig Schlüssel sammeln und dafür aufbewahren. Das Ziel sollte sein mindestens eine S Truhe zu bekommen. Kann aber auch variieren. Truhen solltet ihr also nur während eines Events öffnen. Mit Diamanten die ihr am besten auch nur für Events aufspart, können noch weitere gute zusätzliche Rewards erlangt werden. Durch öffnen von 300 Truhen und investieren von ein paar Diamanten könnt ihr zusätzlich Relikt Kerne, rote Sammelobjekttruhen, Resonanzchips oder ähnliches gute Rewards zusätzlich zur S Truhe erlangen. Wenn ihr hinterher die Punkte gegen Rewards eintauscht holt ihr euch weitere Schlüssel, um für das nächste Event wieder mehr Truhen öffnen zu können. Evtl. müsst ihr ein Event auch mal mit dem Verbrauch von Schlüssen und Diamanten aussetzen um zu sparen.
 
 # Waffen   
 Welche Waffen sind gut:
@@ -82,21 +82,21 @@ Projektile werden größer und einige Waffen haben dadurch eine größere Reichw
 ## ANG / ATK, mehr Schaden
 Mehr ATK immer ein Muss, wenn ihr viel Schaden machen wollt.
 ## Heilung
-Es gibt genug Heilung durch andere Items. Daher nicht umbedingt notwendig.
+Es gibt genug Heilung durch andere Items. Daher nicht unbedingt notwendig.
 ## mehr Gold
 Gold bekommt ihr eigentlich genug, Daher meistens nicht so wichtig.
 ## mehr Exp.
-Dadurch bekommt ihr schneller und mehr Exp. um die Waffen und passiven Fähigkeiten zur erhalten. Ihr bekommt aber nicht mehr Exp um eueren Charakter hochzuleveln.
+Dadurch bekommt ihr schneller und mehr Exp. um die Waffen und passiven Fähigkeiten zur erhalten. Ihr bekommt aber nicht mehr Exp. um eueren Charakter hochzuleveln.
 ## Exoskelett
 Einige Waffeneffekte bleiben länger aktiv. Bei der Superwaffe Lanze bleiben die gelben Kreise länger stehen, so dass nicht zwei, sondern auch drei Parallel existieren können.
 ## Waldläufer Panzer
-Reduziert den Schaden den ihr bekommt. Ist sinnvoller auszuwählen, wenn ihr ein Lvl oder Bossmonster nicht schafft als den Heilungsfertigkeit.
+Reduziert den Schaden den ihr bekommt. Ist sinnvoller auszuwählen, wenn ihr ein Lvl. oder Bossmonster nicht schafft als den Heilungsfertigkeit.
 ## optimale Zusammenstellung
 Um maximalen Schaden zu erlangen eignen sich daher: ATK, Abklingzeit, Fluggeschwindigkeit, 
 Laufgeschwindigkeit, Reichweite, Exoskelett, (Gold für die +10% durch rotes tech. Teil und Brandflasche) 
 
 # Equipment
-Wichtig ATK geht immer vor HP. Sprich Hauptwaffe, Kette und Handschuhe gehen vor Rüstung, Gürtel und Schuhe. Was vor geht immer bevorzugt upgraden. Mit dem SS-Equipment ändert sich dies unter gewissen Umständen etwas. Am meisten konzentiert ihr euch auf Bossequipment. Aber auch Mobequipment wird hier und da benötigt, aber vielleicht nicht ganz so stark upgegradet. Ihr müsst viel Geduld mitbringen damit euer Equipment richtig gut wird. 
+Wichtig ATK geht immer vor HP. Sprich Hauptwaffe, Kette und Handschuhe gehen vor Rüstung, Gürtel und Schuhe. Was vor geht immer bevorzugt upgraden. Mit dem SS-Equipment ändert sich dies unter gewissen Umständen etwas. Am meisten konzentriert ihr euch auf Bossequipment. Aber auch Mobequipment wird hier und da benötigt, aber vielleicht nicht ganz so stark upgegradet. Ihr müsst viel Geduld mitbringen damit euer Equipment richtig gut wird. 
 
 Am Anfang nutzt ihr das Standardequipment.
 Baseballschläger für Mobs. Kunai gegen Bossmonster. Seht zu das ihr S Equipment bekommt und danach SS Equipment.
@@ -120,7 +120,7 @@ Auf dem ersten gelben Schmiedeeffekt macht dieser einen doppelten Treffer an nor
 #### Immerwähr. Panzer
 Wenn ihr sterbt werden ihr zusätzlich 1-2 Wiederbelebt. Wenn ihr Wiederbelebt werdet habt ihr 15% (20%) mehr ATK.
 #### Rüstung von Quietus
-Wenn ihr einmal gestorben seid könnt ihr weiterspielen für eine gewisse Sekundenanzahl. Wenn die Rüsten die Qualität rot erreicht seit ihr sozusagen Unsterblich, solange es genügend Monstermobs gibt und ihr innerhalb der Sekundenanzahl den Boss töten könnt. (auch genannt death walker build)
+Wenn ihr einmal gestorben seid könnt ihr weiterspielen für eine gewisse Sekundenanzahl. Wenn die Rüsten die Qualität rot erreicht seid ihr sozusagen Unsterblich, solange es genügend Monstermobs gibt und ihr innerhalb der Sekundenanzahl den Boss töten könnt. (auch genannt death walker build)
 
 ### Ketten
 #### immerwährende Kette
@@ -130,7 +130,7 @@ gute Kette für Mobs da ihr beim ersten Schlag sehr viel mehr Schaden macht.
 Super Kette gegen Bossmonster. Steigert den Schaden und die krit. Rate ordentlich. Allerdings muss dafür der Charakter wenig HP haben damit der Effekt funktioniert. Mit der Rüstung von Quietus oder auch dem Energieschild lasst sich dies ganz gut bewerkstelligen.
 
 ## SS Items
-Für SS Items benötigt ihr ein Equipment auf Rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S Items erlangt. Genauso müssen normale Items zerlegt werden für Cubes. Durch Schmiedeeffekte kann das Equipment zusätzliche Eigenschaften erfahren, die meisten bringen gute ATK Effekt mit sich. Dafür werden Reliktkerne, Cubes und Kerne benötigt. Die Eigenschaften gibt es beim 1. 3. und 5. immerwährend Schmiedeeffekt und beim 2. 4. und 6. leere Schmiedeeffekt. Bei den anderen Schmiedeffekte gibt es HP oder ATK Boni, diese sind nicht ganz so relevant. Reihenfolge der Anschaffung kann am besten durch den [Kalkulator](#kalkulator) bestimmt werden. Dies ergibt sich aber meistens: Lanze, Schuhe, Gürtel oder Handschuhe, Kette und Rüstung. Zusätzlich gibt es noch Chaosfusion, was noch mehr Reliktkerne benötigt und auch das maximal Level der Waffen von 200 erhöht. Dies liegt aber für die Meisten noch außerhalb der Reichweite. Ab eine gewissen Punkt macht es sinn hier die Schmiedeeffekte zu holen weil für die  ersten Chaosfusion Schmiedeeffekte weniger Relkitkerne benötigt werden. Was hier sinn macht sollte ihr anhand des [Kalkulator](#kalkulator) ausrechnen lassen.
+Für SS Items benötigt ihr ein Equipment auf Rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S Items erlangt. Genauso müssen normale Items zerlegt werden für Cubes. Durch Schmiedeeffekte kann das Equipment zusätzliche Eigenschaften erfahren, die meisten bringen gute ATK Effekt mit sich. Dafür werden Reliktkerne, Cubes und Kerne benötigt. Die Eigenschaften gibt es beim 1. 3. und 5. immerwährend Schmiedeeffekt und beim 2. 4. und 6. leere Schmiedeeffekt. Bei den anderen Schmiedeeffekte gibt es HP oder ATK Boni, diese sind nicht ganz so relevant. Reihenfolge der Anschaffung kann am besten durch den [Kalkulator](#kalkulator) bestimmt werden. Dies ergibt sich aber meistens: Lanze, Schuhe, Gürtel oder Handschuhe, Kette und Rüstung. Zusätzlich gibt es noch Chaosfusion, was noch mehr Reliktkerne benötigt und auch das maximale Level der Waffen von 200 erhöht. Dies liegt aber für die Meisten noch außerhalb der Reichweite. Ab einem gewissen Punkt macht es Sinn hier die Schmiedeeffekte zu holen, weil für die ersten Chaosfusion Schmiedeeffekte weniger Relkitkerne benötigt werden. Was hier Sinn macht sollte ihr anhand des [Kalkulator](#kalkulator) ausrechnen lassen.
 
 ### Lanze
 Die Lanze ist die finale Waffe die ihr haben wollt und auch das erste sinnvolle SS Item. Wichtig sich den 1. Schmiedeeffekt zu holen damit die Waffe auf 3 gelben Sternen startet.
@@ -148,11 +148,11 @@ Ist auf Schmiedeeffekt 3 gut. Leider muss damit der Schaden richtig zur Geltung,
 eher unbeliebt, sehr viele nutzen lieber weiter die S Rüstungen. Lieber die Ressourcen erstmal in die anderen SS Items stecken. Wenn ihr sterbt geht ein Effekt verloren. Auf dem 5. Schmiedeeffekt habt ihr durch den Schildschaden dann +20% ATK.
 
 ### Gletscher-Kriegsstiefel
-sind besser als die Leerenwandler-Treter vor allem wenn ihr den 1. und 3. Schmiedeeffekt habt. Die Monster müssen dazu aber auch eingefroren werden. Seht auch zu das ihr viel rumlauft damit diese Aufgeladen werden. Dies funktioniert schneller wenn ihr die Fertigkeit Schuhe auswählt.
+sind besser als die Leerenwandler-Treter vor allem wenn ihr den 1. und 3. Schmiedeeffekt habt. Die Monster müssen dazu aber auch eingefroren werden. Seht auch zu das ihr viel rumlauft damit diese Aufgeladen werden. Dies funktioniert schneller, wenn ihr die Fertigkeit Schuhe auswählt.
 
 # Charaktere
-Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Dies ist dieses gelb-orangene Feld und bedeutet diesen Boni bekommt ihr auch wenn dieser Charakter nicht aktiv ausgewählt ist. Bei der Auswahl solltet ihr euch nur auf ATK oder krit. Rate/Schaden konzentrieren. Ihr solltet euch aber auch hauptsächlich auf einen Charakter fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40 pushen.
-Ihr müsst den Charakter auf Lvl 20 haben damit ihr diesen mit den jeweiligen Scherben updaten könnt. Es gibt ein Fläschchen damit könnt ihr alle Ressourcen die ihr in einen Charakter gesteckt haben wieder zurückerlangen. Kann man durch kaufen oder durch Events irgendwann bekommen.
+Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl. 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Dies ist dieses gelb-orangene Feld und bedeutet diesen Boni bekommt ihr auch wenn dieser Charakter nicht aktiv ausgewählt ist. Bei der Auswahl solltet ihr euch nur auf ATK oder krit. Rate/Schaden konzentrieren. Ihr solltet euch aber auch hauptsächlich auf einen Charakter fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40 pushen.
+Ihr müsst den Charakter auf Lvl. 20 haben damit ihr diesen mit den jeweiligen Scherben updaten könnt. Es gibt ein Fläschchen damit könnt ihr alle Ressourcen die ihr in einen Charakter gesteckt haben wieder zurückerlangen. Kann man durch kaufen oder durch Events irgendwann bekommen.
 Jeder Charakter kann 6 gelbe Sterne bekommen durch Scherben. Danach kann dieser Erwachen und mit weiteren Scherben und Quantensternscherben auf 6 rote Sterne gebracht werden. Hier können andere Chars als Unterstützung in Slots gesetzt werden plus zusätzliche Boni. Später kommt noch das Synergie System hinzu. Folgende Reihenfolge geht ihr im Laufe der Zeit an. Common->King->Panda->Joey
 
 ## King
@@ -165,13 +165,13 @@ darauf liegt der Fokus bis ihr eine krit. Rate größer 80-90% habt, danach nehm
 ist aktuell wohl etwas besser als Yang. Aber nur wenn ihr eine hohe [krit. Rate](#kritische-treffer) habt. Jedoch dauert es auch bis hier ihr angekommen seid.
 
 ## Joey
-Wenn ihr genügend [krit. Rate](#kritische-treffer) habt ist das wahrscheinlich der beste Charakter aktuell. Spätestens wenn ihr [Synergie](#synergie) freigeschaltet habt, werdet ihr genügend krit. Rate haben. Bei Bossmonster erscheint ein gelber Balken am Monster wenn ihr Joey Fähigkeit freigeschaltet habt. An der Seite mit dem gelben Balken müsst ihr stehen und Schaden hinzufügen. Zusätzlich habt ihr eine aktive Aktion die über den Button aktiviert und Joey kann am Bossmonster von überall mehr Schaden hinzufügen. Dies solltet ihr einsetzen wenn ihr nicht auf die Seite des gelben Balken kommt, weil dort die Wand ist, um das Bossmonster von der Wand weg zu locken. Wenn der gelbe Balken zwischendurch verschwindet sammelt ihr Exp. ein. Der Vorteil ist das kein aktivier Waffenslot belegt wird, sondern ein Slot für eine passive Fähigkeit. Um den gelben Balken besser sichtbar zu machen empfiehlt sich in den Einstellungen die VFK zu verringern. Natürlich sollte die Fähigkeit immer schnell verwendet werden wenn sie Aufgeladen ist.
+Wenn ihr genügend [krit. Rate](#kritische-treffer) habt ist das wahrscheinlich der beste Charakter aktuell. Spätestens wenn ihr [Synergie](#synergie) freigeschaltet habt, werdet ihr genügend krit. Rate haben. Bei Bossmonster erscheint ein gelber Balken am Monster wenn ihr Joey Fähigkeit freigeschaltet habt. An der Seite mit dem gelben Balken müsst ihr stehen und Schaden hinzufügen. Zusätzlich habt ihr eine aktive Aktion die über den Button aktiviert und Joey kann am Bossmonster von überall mehr Schaden hinzufügen. Dies solltet ihr einsetzen, wenn ihr nicht auf die Seite des gelben Balkens kommt, weil dort die Wand ist, um das Bossmonster von der Wand weg zu locken. Wenn der gelbe Balken zwischendurch verschwindet sammelt ihr Exp. ein. Der Vorteil ist das kein aktiver Waffenslot belegt wird, sondern ein Slot für eine passive Fähigkeit. Um den gelben Balken besser sichtbar zu machen empfiehlt sich in den Einstellungen die VFK zu verringern. Natürlich sollte die Fähigkeit immer schnell verwendet werden, wenn sie Aufgeladen ist.
 
 ## Teamarbeit passiv
-Wenn euer Charakter erwacht ist und dieser 2 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind. Laut [Kalkulator](#kalkulator) ergibt sich aber folgende Reihenfolge wenn dieser Charakter 6 rote Sterne hat:<br>
-Yang > Metallica > Wurm > King > Michelangelo = Raphael > Leonardo  > Common > Catnip<br>
+Wenn euer Charakter erwacht ist und dieser 2 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden, wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind. Laut [Kalkulator](#kalkulator) ergibt sich aber folgende Reihenfolge, wenn dieser Charakter 6 rote Sterne hat:<br>
+Yang > Metallica > Wurm > King > Michelangelo = Raphael > Leonardo > Common > Catnip<br>
 Yang ist demnach die beste Wahl, jedoch eher unrealistisch.
-Mit der Anzahl an weiteren roten Stern kann der Schaden erhöht werden. Der Schaden erhöht sich bei 1,2,4 und 6 Sternen. Die nicht aufgeführten Charaktere sind erstmal nicht von interesse.
+Mit der Anzahl an weiteren roten Stern kann der Schaden erhöht werden. Der Schaden erhöht sich bei 1,2,4 und 6 Sternen. Die nicht aufgeführten Charaktere sind erstmal nicht von Interesse.
 Hier eine Liste was beim ersten roten Stern freigeschaltet wird:
 ### Common
 Wenn Schild aktiv 20% mehr Exp.
@@ -208,12 +208,12 @@ Hier ein externer Link der nichts mit diesem Wiki zu tun hat wo alle Skills von 
 
 # Kritische Treffer
 Es gibt viele Möglichkeiten um eure krit. Rate zu verbessern. Über Equipment, Sammelobjekte, Chars (Panda 20%), Fertigkeiten, Tiere, Entwicklung (8%) und [Synergie](#synergie)
-Mit den SS Gloves ist eine krit. Rate über 100% sogar sehr gut. Über 100% gibt es einen Boni auf den krit. Schaden. Das Symbol der SS Gloves zeigt auch an wenn ihr über 100% krit. Rate habt. Gelb bei 100% und orange bei 130%.
-Auf der Seite mit den Sammelobjekten gibt es oben rechts einen Button wo alle Werte die ihr erlangt habt durch [Sammelobjekte](#sammelobjekte) zusammengefasst sind. Hier ein Link zum Calculator für eure krit. Rate. Der Calculator hat nichts mit diesem Wiki zu tun. https://danke007.com/calc/bao-ji-lv
-Bitte beachtet das die Boni z.B. von den SS Gloves nicht direkt beim Start zur Verfügung stehen. Somit ist beim Start eines Level die krit. Rate geringer als zum Ende hin. Besonders bei Ende des Echo kann das einiges aus machen.
+Mit den SS Gloves ist eine krit. Rate über 100% sogar sehr gut. Über 100% gibt es einen Boni auf den krit. Schaden. Das Symbol der SS Gloves zeigt auch an, wenn ihr über 100% krit. Rate habt. Gelb bei 100% und orange bei 130%.
+Auf der Seite mit den Sammelobjekten gibt es oben rechts einen Button wo alle Werte die ihr erlangt habt durch [Sammelobjekte](#sammelobjekte) zusammengefasst sind. Hier ein Link zum Kalkulator für eure krit. Rate. Der Kalkulator hat nichts mit diesem Wiki zu tun. https://danke007.com/calc/bao-ji-lv
+Bitte beachtet das die Boni z.B. von den SS Gloves nicht direkt beim Start zur Verfügung stehen. Somit ist beim Start eines Levels die krit. Rate geringer als zum Ende hin. Besonders bei Ende des Echo kann das einiges aus machen.
 
 # Tiere
-Kauft euch jeden Tag einmal die Tiermünzen. Mit jedem Mal kaufen steigt der Preis. Nach einem Tag wird der Preis zurückgesetzt. Je höher das Hauptkapitel desto mehr Münzen und teurer wird es. 3000 Stück ist aber Maximum. Ihr könnt zwei Unterstützer Tiere positionieren. Jedes Tier hat eine Unterstützenfähigkeit. Das ist im oberen rechten Feld beschrieben. Hier macht 10% mehr ATK auf jeden Fall Sinn. 2 mal dasselbe geht nicht. Die Prozentzahl hängt von der Qualität des Unterstützungstier ab. Die Fähigkeit durchdringen Gegner ist auch gut. z.B. in Kombination mit Merika. Bei Quak macht dies natürlich keinen Sinn. Dort ist mehr Reichweite sinniger. Genauso wie bei Rex. Ein Tier kann auch gut als Schild oder Block bei Beschuss eingesetzt werden. Auch wenn es gestorben ist. Um Gary (Schnecke) auf Rot zu bekommen benötigt ihr mindestens 6 von ihm. Achtet bei Hochstufen auf die richtige Unterstützungsfähigkeit. Die folgenden drei Tiere sind die bevorzugten Tiere im Spiel. Letzen Endes tun sie sich alle nicht viel. Manchmal kommt es auch einfach auf den Boss an welches Tier besser ist. Die Projektile von Merika und Croaky müssen den Boss auch treffen. Dies ist schwieriger wenn dieser viel herumrennt. Da ist Rex dann besser. Es kommt also auch auf euch an wohin ihr den Boss so lenkt.
+Kauft euch jeden Tag einmal die Tiermünzen. Mit jedem Mal kaufen steigt der Preis. Nach einem Tag wird der Preis zurückgesetzt. Je höher das Hauptkapitel desto mehr Münzen und teurer wird es. 3000 Stück ist aber Maximum. Ihr könnt zwei Unterstützer Tiere positionieren. Jedes Tier hat eine Unterstützenfähigkeit. Das ist im oberen rechten Feld beschrieben. Hier macht 10% mehr ATK auf jeden Fall Sinn. 2 mal dasselbe geht nicht. Die Prozentzahl hängt von der Qualität des Unterstützungstier ab. Die Fähigkeit durchdringen Gegner ist auch gut. z.B. in Kombination mit Merika. Bei Quak macht dies natürlich keinen Sinn. Dort ist mehr Reichweite sinniger. Genauso wie bei Rex. Ein Tier kann auch gut als Schild oder Block bei Beschuss eingesetzt werden. Auch wenn es gestorben ist. Um Gary (Schnecke) auf Rot zu bekommen benötigt ihr mindestens 6 von ihm. Achtet bei Hochstufen auf die richtige Unterstützungsfähigkeit. Die folgenden drei Tiere sind die bevorzugten Tiere im Spiel. Letzen Endes tun sie sich alle nicht viel. Manchmal kommt es auch einfach auf den Boss an welches Tier besser ist. Die Projektile von Merika und Croaky müssen den Boss auch treffen. Dies ist schwieriger, wenn dieser viel herumrennt. Da ist Rex dann besser. Es kommt also auch auf euch an wohin ihr den Boss so lenkt.
 ## Quak
 Flächenschaden gut gegen Mobs. Könnt euch gut mit eurem Char in die grüne Säure reinstellen. Durch die Erwachenfähigkeit wird der Schaden des Besitzers durch Treffer durch Quak geboostet. Der Besitzer macht hier den meisten Schaden.
 ## Merika
@@ -225,7 +225,7 @@ Bestes Tier was ihr in den Unterstützungs Slot packen solltet.
 ## Tier Fertigkeiten
 Bei jedem Tier könnt ihr Fertigkeiten einsetzen. Hier rät es sich auf ATK Erhöhungen zu setzen vom Tier. Auch die Erhöhung der krit. Rate oder Angriff vom Besitzer ist gut. So ab 300.000 Atk, macht es mehr Sinn den Besitzer zu boosten. Damit euer Tier nicht so häufig stirbt kann hier die Fertigkeit absorbiert LP gewählt werden. Wenn das Tier stirbt erhält der Besitzer auch keinen Boost mehr. Je mehr rote Tiere ihr habt desto mehr Fertigkeiten (max. 12 Rote) könnt ihr auswählen. Es ist also ratsam jede Art von Tier einmal in Rot zu haben. Die ersten vier Slots können zusätzlich durch das Erwachen des Tieres auf Rot hochgestuft werden.
 ## Geschenke
-Ihr solltet nur passende Geschenk dem Tier geben dem es zugeordnet ist. Durch das Schenken wird die ATK des Besitzers erhöht. Dies gilt auch wenn ihr das Tier nicht ausgerüstet habt, sprich auch wenn nicht als Unterstützungstier selektiert. Da das Level auch an das Erwachen gebunden ist geht mit bedacht vor. Fakt ist aber, das ihr euch auf Tier erstmal konzentriert und danach gleichmäßig alle nachzieht.
+Ihr solltet nur passende Geschenk dem Tier geben dem es zugeordnet ist. Durch das Schenken wird die ATK des Besitzers erhöht. Dies gilt auch wenn ihr das Tier nicht ausgerüstet habt, sprich auch wenn nicht als Unterstützungstier selektiert. Da das Level auch an das Erwachen gebunden ist geht mit Bedacht vor. Fakt ist aber, das ihr euch auf Tier erstmal konzentriert und danach gleichmäßig alle nachzieht.
 
 # tech Teile
 Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigkeiten auswählt, weil diese durch die Teile auch verstärkt werden. Es ist nur möglich ein tech. Teil vom gleichen Typ auszurüsten. Durch Resonanz lassen sich einige tech. Teile nochmals verbessern. Eine Umverteilung solltet ihr hin und wieder mal prüfen.
@@ -234,27 +234,27 @@ Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigk
 Ist für die beiden Drohne. Immer bevorzugt upgraden. Solltet ihr als erstes auf Rot bekommen später dann auf pink/lila/leuchtend. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
 
 ## Quantum Polisator (empfohlen)
-Ist für den Fußball. 30% Schaden das gibt nochmal mehr Schaden auch bei Bossmonstern. Bringt nach dem Präzisonsgerät am zweitmeisten.
+Ist für den Fußball. 30% Schaden das gibt nochmal mehr Schaden auch bei Bossmonstern. Bringt nach dem Präzisionsgerät am zweitmeisten.
 
 ## Quanten-Nanobot (Durian-Modus) (empfohlen)
-Auf rot sind die +75% Fertigkeitsschaden echt super. Auch die ganzen Boni durch die Resonanz sind gut.
+Auf Rot sind die +75% Fertigkeitsschaden echt super. Auch die ganzen Boni durch die Resonanz sind gut.
 
-## Quanten-Nanobot (Fussball-Modus) (empfohlen, bei viel krit.)
-Auf rot sind die +80% krit. Schaden bei 100% krit. Rate besser als der Durian-Modus. Auch sind die Boni durch Resonanz echt super. Hier lohnt sich auch ggf. eine Umverteilung von tech. Teilen für mehr Resonanz. Ab genug Resonanz benötigt ihr keine Schuhe mehr für das Update auf die Superwaffe.
+## Quanten-Nanobot (Fußball-Modus) (empfohlen, bei viel krit.)
+Auf Rot sind die +80% krit. Schaden bei 100% krit. Rate besser als der Durian-Modus. Auch sind die Boni durch Resonanz echt super. Hier lohnt sich auch ggf. eine Umverteilung von tech. Teilen für mehr Resonanz. Ab genug Resonanz benötigt ihr keine Schuhe mehr für das Update auf die Superwaffe.
 
 ## Phasenumwandler (empfohlen)
 2 Blitzschläge mehr. Auch gut gegen Bossmonster.
 
 ## Exoskelett (empfohlen)
-Hällt euch durch den erhöhten Pushback die Monster noch besser vom Hals.
+Hält euch durch den erhöhten Pushback die Monster noch besser vom Hals.
 
 ## Schwerkraftregler (empfohlen)
 Die Steine gehen durch alle Gegner.
 
 ## Effizientes Wartungsgerät (empfohlen)
-Die Raketen werden schneller wieder abgeschossen. Auch gut für mehr Schaden an Bossmonstern. Kann auf rot mit 3 weitern tech Teilen aufgewertet werden. Kann dadurch mit C4 Sprengstoff Monster vereisen.
+Die Raketen werden schneller wieder abgeschossen. Auch gut für mehr Schaden an Bossmonstern. Kann auf Rot mit 3 weiteren tech. Teilen aufgewertet werden. Kann dadurch mit C4 Sprengstoff Monster vereisen.
 
-## Energie-Diffusor (enpfohlen)
+## Energie-Diffusor (empfohlen)
 Auf rot +10% Schaden durch Verwundung. Bei genug Resonanz wird auch die Fähigkeit Gold für die Superwaffe nicht mehr benötigt.
 
 ## Nanobot
@@ -264,10 +264,10 @@ Schlecht steuerbar. Erst ist besser als Quantum-Nanobot
 Erhöht die Fluggeschwindigkeit.
 
 ## Energie-Sammler
-doppelte Schaden auf rot mehr Exp. Trotzdem nicht die beste Wahl.
+doppelte Schaden auf Rot mehr Exp. Trotzdem nicht die beste Wahl.
 
 ## Vernichter
-Auf rot werden Bosse direkt fokusiert und angegriffen. Ist aber vom Schaden her nicht so gut.
+Auf Rot werden Bosse direkt fokusiert und angegriffen. Ist aber vom Schaden her nicht so gut.
 
 ## Leistungsapparat
 Eher unbeliebt.
