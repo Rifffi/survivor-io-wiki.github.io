@@ -267,13 +267,13 @@ Erhöht die Fluggeschwindigkeit.
 doppelte Schaden auf Rot mehr Exp. Trotzdem nicht die beste Wahl.
 
 ## Vernichter
-Auf Rot werden Bosse direkt fokusiert und angegriffen. Ist aber vom Schaden her nicht so gut.
+Auf Rot werden Bosse direkt fokussiert und angegriffen. Ist aber vom Schaden her nicht so gut.
 
 ## Leistungsapparat
 Eher unbeliebt.
 
 # Sammelobjekte
-Hier könnte ihr durch die Objekte allgemein nochmal mehr ATK und HP bekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment einen Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden. Es lohnt sich ggf. darauf zu konzentrieren. Auch das Präzisionsgeräte ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen (lila Bruchstücke). Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen. Durch das spielen von [Pfad der Prüfungen](#pfad-der-prüfungen) könnt ihr euch viele Sammelobjekte sichern.
+Hier könnte ihr durch die Objekte allgemein nochmal mehr ATK und HP bekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment einen Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden. Es lohnt sich ggf. darauf zu konzentrieren. Auch das Präzisionsgerät ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen (lila Bruchstücke). Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen. Durch das spielen von [Pfad der Prüfungen](#pfad-der-prüfungen) könnt ihr euch viele Sammelobjekte sichern.
 
 # Echo des Endes
 Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char upzugraden. Hier könnt ihr starten und sofort wieder beenden bekommt aber nicht alle Belohnungen wie die tech. Teile.
@@ -285,7 +285,7 @@ In folgender Reihenfolge Waffen und Fertigkeiten auswählen, wenn sie kommen.
 3. Char Fertigkeit z.B.: Panda Ying Yang
 4. ATK / ANG
 5. Magnet (aber nur einmal, außer ihr habt die Omni-Schwerkraft aus der Entwicklung)
-6. Mehr Exp
+6. Mehr Exp.
 7. Abklingzeit
 8. Fußballschuhe (wenn Leerwandlertreter)
 10. Schussgeschwindigkeit
@@ -295,13 +295,13 @@ In folgender Reihenfolge Waffen und Fertigkeiten auswählen, wenn sie kommen.
 
 Zusätzlich schaut das alle 6 Slots mit Waffen belegt werden, sonst ist es schwieriger den Zerstörer oder die Hauptwaffe zur Superwaffe zu bekommen. Sonst kommen immer wieder andere Vorschläge für andere Waffen. Manchmal dauert es auch richtig lange bis ihr beide Drohnen bekommt. Ab 1 Minute Restzeit solltet ihr vielleicht auch davon abrücken, wenn ihr nur eine Drohne habt. Dann lieber die Hauptwaffe zu Superwaffe bringen oder ATK. Am Ende vom Kampf könnt ihr auch eine Statistik anschauen welche Waffe wieviel Schaden gemacht habt. Schaut dort rein und optimiert euch selber.
 
-Je mehr Exp man erhält, desto besser werden einige Eigenschaften von Waffen und dem Tier.
+Je mehr Exp. man erhält, desto besser werden einige Eigenschaften von Waffen und dem Tier.
 
-Immerwährende Rüstung. So früh wie möglich zweimal Sterben wegen 2 * 15% (20%) mehr Schaden nach Wiederbelebung und weitere Fertigkeitsauswahl. Dies nur anwenden sofern der Boss nicht zu stark ist. Seit ihr zu stark könnt ihr Rüstung, Gürtel und Schuhe auf Level 1 herunterstufen.
+Immerwährende Rüstung. So früh wie möglich zweimal Sterben wegen 2 * 15% (20%) mehr Schaden nach Wiederbelebung und weitere Fertigkeitsauswahl. Dies nur anwenden sofern der Boss nicht zu stark ist. Seid ihr zu stark könnt ihr Rüstung, Gürtel und Schuhe auf Level 1 herunterstufen.
 
 Mit [Panda](#panda), Ying und Yang den Debuff auf die Verteidigung auslösen sonst nur die Handflächen nutzen.
 
-Den Boss so laufen lassen das Exp eingesammelt werden aber noch Schaden mit den Drohnen erzeugt wird. Am Anfang kann auch eine Runde gelaufen werden um Exp einzusammeln. Besonders am Ende wird der meiste Schaden erzeugt, da alle Waffe gut ausgebildet sind.
+Den Boss so laufen lassen das Exp eingesammelt werden aber noch Schaden mit den Drohnen erzeugt wird. Am Anfang kann auch eine Runde gelaufen werden um Exp. einzusammeln. Besonders am Ende wird der meiste Schaden erzeugt, da alle Waffe gut ausgebildet sind.
 
 Einige Bosse rennen wie bekloppt über den Bildschirm. Dort so rumprobieren damit er in einer Ecke bleibt oder nur hoch und runter läuft.
 
@@ -309,12 +309,12 @@ Wenn ihr die SS Schuhe habt sollte ihr dort wo der Boss auftaucht, vorher im Kre
 
 Für die perfekte Equipment Zusammenstellung siehe Abschnitt: Equipment optimieren. Für den Expedition Bosskampf gilt eine andere Zusammenstellung als für Echo des Endes.
 
-Jeder Charakter hat individuelle Fähigkeiten. Wie diese zu Handhaben sind steht beim der Charakter Beschreibung.
+Jeder Charakter hat individuelle Fähigkeiten. Wie diese zu handhaben sind steht beim der Charakter Beschreibung.
 
 Reihenfolge der Fertigkeiten plus tech. Teile auf Rot mit dem meisten Schaden:
 1. Zerstörer
 2. Charakterfertigkeit
-3. Fussball
+3. Fußball
 4. Rakete mit Resonanz
 5. Blitz
 
@@ -325,15 +325,15 @@ Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellu
 
 Für fast optimalen Schaden mit
 [Panda](#panda):
-Hauptwaffe, Zerstörer, Charakter Fähigkeit, Fussball, Rakete, Molotow, ATK, Exoskelett, Geschwindigkeit, Abklingzeit, Reichweite und Exoskelett. Wer keine SS Schuhe und die Leerwandlertreter hat sollte Schuhe und Fußball anstatt Molotow nehmen. Genauso wenn das tech Teil nicht rot ist.
+Hauptwaffe, Zerstörer, Charakter Fähigkeit, Fußball, Rakete, Molotow, ATK, Exoskelett, Geschwindigkeit, Abklingzeit, Reichweite und Exoskelett. Wer keine SS Schuhe und die Leerwandlertreter hat sollte Schuhe und Fußball anstatt Molotow nehmen. Genauso wenn das tech. Teil nicht rot ist.
 
 [Joey](#joey) / Metallica:
-Hauptwaffe, Zerstörer, Blitz, Rakete, Fussball, Molotow, ATK, Charakter Fähigkeit, Schuhe, Geschwindigkeit, Abklingzeit und Reichweite.
+Hauptwaffe, Zerstörer, Blitz, Rakete, Fußball, Molotow, ATK, Charakter Fähigkeit, Schuhe, Geschwindigkeit, Abklingzeit und Reichweite.
 
-Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen. Dafür Exoskelett und/oder Schuhe weglassen. Hier solltet ihr am Anfang dreimal sterben wenn immerwährende Rüstung angelegt, außer der Boss ist zu stark. Seit ihr zu stark Defensives Equipment auf Level 1 herunterstufen. Um die HP zu reduzieren lasst euch von Boss durch die Gegend schieben und nicht in die Ecke drängen. Dadurch bleiben die SS Schuhe aufgeladen.
+Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen. Dafür Exoskelett und/oder Schuhe weglassen. Hier solltet ihr am Anfang dreimal sterben, wenn immerwährende Rüstung angelegt, außer der Boss ist zu stark. Seid ihr zu stark Defensives Equipment auf Level 1 herunterstufen. Um die HP zu reduzieren lasst euch von Boss durch die Gegend schieben und nicht in die Ecke drängen. Dadurch bleiben die SS Schuhe aufgeladen.
 
 # Pfad der Prüfungen
-Solltet ihr einmal die Woche spielen und mindestens 1 Level/Ebene vorankommen, damit ihr einmal die Rewards einsammelt. Spielt nicht zu viele Level sonst kommt ihr nächste Woche gar nicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben. Mit einem Versuch könnt ihr 25 Ebenen schaffen. Unter die Top 3 zu kommen ist auch gut, danmit ihr noch gelbe Sammelobjektscherben bekommt. Solltet ihr auch mal zurückliegen, könnt ihr Prüfung wiederholen wählen. Hier gilt ungefähr 75.000 ATK = 1000 Ebenen. Ab der Ebene 4800 ist das wiederholen nicht mehr Möglich. Bei Prüfung wiederholen entspricht Ebene 41 -> Ebene 4801.
+Solltet ihr einmal die Woche spielen und mindestens 1 Level/Ebene vorankommen, damit ihr einmal die Rewards einsammelt. Spielt nicht zu viele Level sonst kommt ihr nächste Woche gar nicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben. Mit einem Versuch könnt ihr 25 Ebenen schaffen. Unter die Top 3 zu kommen ist auch gut, damit ihr noch gelbe Sammelobjektscherben bekommt. Solltet ihr auch mal zurückliegen, könnt ihr Prüfung wiederholen wählen. Hier gilt ungefähr 75.000 ATK = 1000 Ebenen. Ab der Ebene 4800 ist das wiederholen nicht mehr möglich. Bei Prüfung wiederholen entspricht Ebene 41 -> Ebene 4801.
 
 # Megaherausforderung
 Nicht so wichtig, könnt ihr zwischendurch irgendwann mal spielen, wenn ihr noch Lust und Zeit habt.
@@ -348,10 +348,10 @@ Zuerst müsst ihr ein Hauptkapitel durchspielen damit ihr die 3 Hauptherausforde
 Ihr könnten oben links unter dem M - Kartensymbol euch für 9000 Diamanten die Dauerhafte Privilegienkarte holen. Diese rentiert sich auf Dauer. Ihr bekommt jeden Tag einen Schlüssel und 50 Diamanten. Nach einem halben Jahr seid ihr dann mit den Diamanten im Plus. Aber durch den Schlüssel rentiert sich das sicher noch eher.
 
 # Pass Exp.
-Es gibt drei Kategorien wo ihr Exp. draufladen könnt. Bis 2000 Exp bekommt ihr aus den Kategorien die Belohnungen. Von 2000-3000 Exp. gibt es Schlüssel. Achtet darauf das ihr nach 3000 Exp. die Kategorie oben rechts über den Button wechselt. Wenn ihr normal spiel schafft ihr in einer Season alle Belohnungen zu erhalten.
+Es gibt drei Kategorien wo ihr Exp. draufladen könnt. Bis 2000 Exp. bekommt ihr aus den Kategorien die Belohnungen. Von 2000-3000 Exp. gibt es Schlüssel. Achtet darauf das ihr nach 3000 Exp. die Kategorie oben rechts über den Button wechselt. Wenn ihr normal spiel schafft ihr in einer Season alle Belohnungen zu erhalten.
 
 # Clan
-Ein guter aktiver Clan bringt euch schneller weiter. Ihr erhaltet so viel mehr Belohungen. 
+Ein guter aktiver Clan bringt euch schneller weiter. Ihr erhaltet so viel mehr Belohnungen. 
 [Clan Regeln](https://github.com/Rifffi/survivor-io-wiki/blob/main/Clan.md)<br>
 
 ## Clan Shop
@@ -397,7 +397,7 @@ https://danke007.com/calc/damage-increase
 
 Damit ihr eure Zusammenstellung einfach wechseln könnt gibt es in der Astralschmiede die Speicherung eurer Relikt Kern Zusammenstellung (SS speichern wiederherstellen). 
 
-Der Vorteil der Lanze bei Echo des Endes auf einem Stern, auf Lvl 3 zu starten, geht in dem Kalkulator etwas unter. Genauso kommt es auch auf das können jedes einzelnen an mit der Zusammenstellung umzugehen und sie entsprechend für sich zu nutzen.
+Der Vorteil der Lanze bei Echo des Endes auf einem Stern, auf Lvl. 3 zu starten, geht in dem Kalkulator etwas unter. Genauso kommt es auch auf das können jedes einzelnen an mit der Zusammenstellung umzugehen und sie entsprechend für sich zu nutzen. Auch sind einige Effekt von der Ansatz an getötet Monster und Treffern abhängig. Dies ist aber beim Starten des Level nicht geben.
 
 # Codes
 Alle paar Wochen gibt es Codes diese können hier: https://gift.survivorio.com/ eingelöst werden. Eure ID findet ihr in den Einstellungen im Spiel. Diese sind von der Hauptseite über die drei Striche zu erreichen.
