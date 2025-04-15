@@ -151,7 +151,7 @@ eher unbeliebt, sehr viele nutzen lieber weiter die S Rüstungen. Lieber die Res
 sind besser als die Leerenwandler-Treter vor allem wenn ihr den 1. und 3. Schmiedeeffekt habt. Die Monster müssen dazu aber auch eingefroren werden. Seht auch zu das ihr viel rumlauft damit diese Aufgeladen werden. Dies funktioniert schneller, wenn ihr die Fertigkeit Schuhe auswählt.
 
 ### Chaos fusion
-Um chaos fusion für SS items freischalten zu können benötigt ihr drei gelbe Sterne für die jeweilige Waffe. Jeder rote Stern schaltet etwas für diese Waffe etwas frei. Eine ATK Boni oder das maximal Lvl. wird erhöht. Dann werden von allen Waffen die insgesamte Anzahl an Sternen zusammengerechnet und bei einem vielfachen von 3 werden ebenfalls Boni freigeschaltet.
+Um chaos fusion für SS items freischalten zu können benötigt ihr drei gelbe Sterne für die jeweilige Waffe. Jeder rote Stern schaltet etwas für diese Waffe frei. Eine ATK Boni oder das maximal Lvl. wird erhöht. Mit der ChaosfusionKraft werden von allen Waffen die insgesamte Anzahl an roten Sternen zusammengerechnet und bei einem vielfachen von 3 werden ebenfalls Boni freigeschaltet.
 
 # Charaktere
 Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl. 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Dies ist dieses gelb-orangene Feld und bedeutet diesen Boni bekommt ihr auch wenn dieser Charakter nicht aktiv ausgewählt ist. Bei der Auswahl solltet ihr euch nur auf ATK oder krit. Rate/Schaden konzentrieren. Ihr solltet euch aber auch hauptsächlich auf einen Charakter fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40 pushen.
