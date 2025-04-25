@@ -363,7 +363,7 @@ Hier könnte ihr eure im Clan verdienten Münzen gegeben Rewards eintauchen. Am 
 # Synergie
 Wenn ihr insgesamt 3 Mio. gelbe Tropfen gesammelt habt könnt ihr das Synergie System freischalten. Dies bedeutet das alle freigeschalten Charaktere auf das Level 120 angehoben werden. Somit werden auch alle Boni die mit gelben Tropfen erlangt werden können, von allen Charakteren freigeschaltet. Es werden keine Charaktere freigeschaltet wie z. B. Sandy die ihr beim Event nicht erhalten habt.
 Die Eigenschaften die per Scherben freigeschaltet werden, werden nicht freigeschaltet.
-Die Synergie lässt sich durch, blaue Scherben, gelbe Tropfen und Geld hochleveln. Alle 5 Level benötigt ihr Erwachenkerne und S Scherben. Dadurch werden die verschiedenen Schadenwerte erhöht. Alle Charaktere werden dann um +1 Level angehoben. 120 + Synergie Level.
+Die Synergie lässt sich durch, blaue Scherben, gelbe Tropfen und Geld hochleveln. Alle 5 Level benötigt ihr Erwachenkerne und S Scherben. Dadurch werden die verschiedenen Schadenwerte erhöht. Alle Charaktere werden dann um +1 Level angehoben. 120 + Synergie Level. Gelbe Tropfen bekommt ihr durch Events, Patrouillen (Hauptkapitel maximieren), Clanevents, Zoneoperation, Ende des Echo. Synergie freizuschalten ist sehr wichtig und sehr empfehlenswert.
 
 ## Harmonie
 Harmonie wird durch Synergie freigeschaltet. Zum Hauptcharakter können zwei Begleitcharakter bestimmt werden. Aktuell geht hier Common, King und alle S Charaktere. Anhand der Anzahl der Sterne der Begleitcharaktere und des Hauptcharakter könnt ihr die krit. Rate weiter erhöhen: gelbe Sterne 1 Stern 2%, 3 Sterne 3%, 6 Sterne 5%, 9 Sterne 5%, 12 Sterne 5%, 15 Sterne 5%, 18 Sterne 5%. Insgesamt: 30% mehr krit. Rate
