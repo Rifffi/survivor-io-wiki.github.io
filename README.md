@@ -11,6 +11,7 @@ Wiki für das Spiel survior.io [Google Play](https://play.google.com/store/apps/
 * [Kalkulator](#kalkulator)
 * [Kritische Treffer](#kritische-treffer)
 * [Pfad der Prüfungen](#pfad-der-prüfungen)
+* [Ranking](#ranking)
 * [Sammelobjekte](#sammelobjekte)
 * [Synergie](#synergie)
 * [Teamarbeit passiv](#teamarbeit-passiv)
@@ -401,6 +402,9 @@ https://danke007.com/calc/damage-increase
 Damit ihr eure Zusammenstellung einfach wechseln könnt gibt es in der Astralschmiede die Speicherung eurer Relikt Kern Zusammenstellung (SS speichern wiederherstellen). 
 
 Der Vorteil der Lanze bei Echo des Endes auf einem Stern, auf Lvl. 3 zu starten, geht in dem Kalkulator etwas unter. Genauso kommt es auch auf das können jedes einzelnen an mit der Zusammenstellung umzugehen und sie entsprechend für sich zu nutzen. Auch sind einige Effekt von der Ansatz an getötet Monster und Treffern abhängig. Dies ist aber beim Starten des Level nicht geben.
+
+#Ranking
+Hier ein zu einer Seite die nichts mit diesem Wiki zu tun hat, wo es ein Cla und Player Ranking der besten Spieler gibt. https://survivor.botbenson.com/
 
 # Codes
 Alle paar Wochen gibt es Codes diese können hier: https://gift.survivorio.com/ eingelöst werden. Eure ID findet ihr in den Einstellungen im Spiel. Diese sind von der Hauptseite über die drei Striche zu erreichen.
