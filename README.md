@@ -403,7 +403,7 @@ Damit ihr eure Zusammenstellung einfach wechseln könnt gibt es in der Astralsch
 
 Der Vorteil der Lanze bei Echo des Endes auf einem Stern, auf Lvl. 3 zu starten, geht in dem Kalkulator etwas unter. Genauso kommt es auch auf das können jedes einzelnen an mit der Zusammenstellung umzugehen und sie entsprechend für sich zu nutzen. Auch sind einige Effekt von der Ansatz an getötet Monster und Treffern abhängig. Dies ist aber beim Starten des Level nicht geben.
 
-#Ranking
+# Ranking
 Hier ein zu einer Seite die nichts mit diesem Wiki zu tun hat, wo es ein Cla und Player Ranking der besten Spieler gibt. https://survivor.botbenson.com/
 
 # Codes
