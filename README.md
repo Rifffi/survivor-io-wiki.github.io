@@ -237,6 +237,9 @@ Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigk
 ## Präzisionsgerät (empfohlen)
 Ist für die beiden Drohne. Immer bevorzugt upgraden. Solltet ihr als erstes auf Rot bekommen später dann auf pink/lila/leuchtend. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
 
+## Energielenksystem (Drohnenmodus) (empfohlen)
+Wenn ihr das Präzisionsgerät auf bunt habt und den Energie-Sammler auf rot müsst ihr schauen das ihr ein weiteres Präzisionsgerät auf rot bekommt. Vor dem Verschmelzen die Resonanz herrabstufen. Auf rot ist dieses tech. Teil immer noch besser als das Präzisionsgerät auf bunt. Zusätzlich könnt ihr dies nun in einem defensiven Slot positionieren. Schaut auch das ihr die Resonanz wieder erhöht. Durch Monster die im Kraftfeld getötet werden bekommt ihr mehr Exp.
+
 ## Quantum Polisator (empfohlen)
 Ist für den Fußball. 30% Schaden das gibt nochmal mehr Schaden auch bei Bossmonstern. Bringt nach dem Präzisionsgerät am zweitmeisten.
 
