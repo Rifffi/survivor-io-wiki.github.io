@@ -42,7 +42,7 @@ Jede Woche gibt es ein Event über mehrere Tage. Dort gibt es immer gute Items/R
 # Waffen   
 Welche Waffen sind gut:
 ## Drohnen
-Die beiden Drohnen (weiß und schwarz) werden als Superwaffe zum Zerstörer (Destroyer). Dieser ist gegen Bossmonster super da er viel Schaden macht. Aber auch eine gute Allroundwaffe. Effekten die auf Anzahl von Treffer basieren werden durch die hohe Feuerrate schneller ausgelöst.
+Die beiden Drohnen (weiß und schwarz) werden als Superwaffe zum Zerstörer (Destroyer). Dieser ist gegen Bossmonster super da er viel Schaden macht. Aber auch eine gute Allroundwaffe. Effekte die auf Anzahl von Treffer basieren werden durch die hohe Feuerrate schneller ausgelöst.
 ## Hauptwaffe
 Die Hauptwaffe sollte auch immer zur Superwaffe gebracht werden.
 ## Blitz
@@ -235,7 +235,7 @@ Ihr solltet nur passende Geschenk dem Tier geben dem es zugeordnet ist. Durch da
 Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigkeiten auswählt, weil diese durch die Teile auch verstärkt werden. Es ist nur möglich ein tech. Teil vom gleichen Typ auszurüsten. Durch Resonanz lassen sich einige tech. Teile nochmals verbessern. Eine Umverteilung solltet ihr hin und wieder mal prüfen.
 
 ## Präzisionsgerät (empfohlen)
-Ist für die beiden Drohne. Immer bevorzugt upgraden. Solltet ihr als erstes auf Rot bekommen später dann auf pink/lila/leuchtend. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
+Ist für die beiden Drohnen. Immer bevorzugt upgraden. Solltet ihr als erstes auf Rot bekommen später dann auf pink/lila/leuchtend/bunt. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
 
 ## Energielenksystem (Drohnenmodus) (empfohlen)
 Wenn ihr das Präzisionsgerät auf bunt habt und den Energie-Sammler auf rot müsst ihr schauen das ihr ein weiteres Präzisionsgerät auf rot bekommt. Vor dem Verschmelzen die Resonanz herrabstufen. Auf rot ist dieses tech. Teil immer noch besser als das Präzisionsgerät auf bunt. Zusätzlich könnt ihr dies nun in einem defensiven Slot positionieren. Schaut auch das ihr die Resonanz wieder erhöht. Durch Monster die im Kraftfeld getötet werden bekommt ihr mehr Exp.
@@ -271,13 +271,17 @@ Schlecht steuerbar. Erst ist besser als Quantum-Nanobot
 Erhöht die Fluggeschwindigkeit.
 
 ## Energie-Sammler
-doppelte Schaden auf Rot mehr Exp. Trotzdem nicht die beste Wahl.
+doppelte Schaden auf Rot mehr Exp. Trotzdem nicht die beste Wahl. Wird aber in Kombination mit dem Präzisionsgerät wichtig. Daher sollte dies auch bevorzugt upgedatet werden.
 
 ## Vernichter
 Auf Rot werden Bosse direkt fokussiert und angegriffen. Ist aber vom Schaden her nicht so gut.
 
 ## Leistungsapparat
 Eher unbeliebt.
+
+## Resonanz
+Um weitere Effekte freizuschalten gibt es den Resonanzwert. Dieser kann durch andere tech. Teile und durch Resonanzchips erhöht werden. Hier solltet ihr die verbleibenden nicht eingesetzten tech. Teil verteilen. Manchmal ist es sogar für Verteidigung tech. Teile sinnvoll diese wieder aufzuteilen um wichtig Effekte freizuschalten. 
+
 
 # Sammelobjekte
 Hier könnte ihr durch die Objekte allgemein nochmal mehr ATK und HP bekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment einen Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden. Es lohnt sich ggf. darauf zu konzentrieren. Auch das Präzisionsgerät ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen (lila Bruchstücke). Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen. Durch das spielen von [Pfad der Prüfungen](#pfad-der-prüfungen) könnt ihr euch viele Sammelobjekte sichern.
