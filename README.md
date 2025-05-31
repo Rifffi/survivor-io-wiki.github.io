@@ -243,6 +243,9 @@ Ist für die beiden Drohnen. Immer bevorzugt upgraden. Solltet ihr als erstes au
 ## Energielenksystem (Drohnenmodus) (empfohlen)
 Wenn ihr das Präzisionsgerät auf bunt habt und den Energie-Sammler auf rot müsst ihr schauen das ihr ein weiteres Präzisionsgerät auf rot bekommt. Vor dem Verschmelzen die Resonanz herrabstufen. Auf rot ist dieses tech. Teil immer noch besser als das Präzisionsgerät auf bunt. Zusätzlich könnt ihr dies nun in einem defensiven Slot positionieren. Schaut auch das ihr die Resonanz wieder erhöht. Durch Monster die im Kraftfeld getötet werden bekommt ihr mehr Exp.
 
+## Energielenksystem (Energiemodus)
+Der Drohnenmodus ist zu bevorzugen. Dieser Modus scheint leicht schlechter zu sein. Vielleicht gibt es Konstellation wo dieser mal besser ist.
+
 ## Quantum Polisator (empfohlen)
 Ist für den Fußball. 30% Schaden das gibt nochmal mehr Schaden auch bei Bossmonstern. Bringt nach dem Präzisionsgerät am zweitmeisten.
 
