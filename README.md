@@ -313,7 +313,7 @@ Je mehr Exp. man erhält, desto besser werden einige Eigenschaften von Waffen un
 
 Immerwährende Rüstung. So früh wie möglich zweimal Sterben wegen 2 * 15% (20%) mehr Schaden nach Wiederbelebung und weitere Fertigkeitsauswahl. Dies nur anwenden sofern der Boss nicht zu stark ist. Seid ihr zu stark könnt ihr Rüstung, Gürtel und Schuhe auf Level 1 herunterstufen.
 
-Das [Leerenwandler Embleem](#leerenwandler-wmbleem) ist für Echo des Endes meistens noch besser als die SS Kette mit den drei Schmiedeeffekten. Durch das erlangen von mehr Exp ist die ein oder andere Superwaffe früher und mehr drin.
+Das [Leerenwandler Embleem](#leerenwandler-embleem) ist für Echo des Endes meistens noch besser als die SS Kette mit den drei Schmiedeeffekten. Durch das erlangen von mehr Exp ist die ein oder andere Superwaffe früher und mehr drin.
 
 Mit [Panda](#panda), Ying und Yang den Debuff auf die Verteidigung auslösen sonst nur die Handflächen nutzen.
 
