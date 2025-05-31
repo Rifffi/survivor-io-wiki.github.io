@@ -416,7 +416,7 @@ https://danke007.com/calc/damage-increase
 
 Damit ihr eure Zusammenstellung einfach wechseln könnt gibt es in der Astralschmiede die Speicherung eurer Relikt Kern Zusammenstellung (SS speichern wiederherstellen). 
 
-Der Vorteil der Lanze bei Echo des Endes auf einem Stern, auf Lvl. 3 zu starten, geht in dem Kalkulator etwas unter. Genauso kommt es auch auf das können jedes einzelnen an mit der Zusammenstellung umzugehen und sie entsprechend für sich zu nutzen. Auch sind einige Effekt von der Ansatz an getötet Monster und Treffern abhängig. Dies ist aber beim Starten des Level nicht geben. Wenn gewisse krit. Raten nicht erreicht wird die zwar als Hinweis angezeigt aber nicht mit einberechnet.
+Der Vorteil der Lanze bei Echo des Endes auf einem Stern, auf Lvl. 3 zu starten, geht in dem Kalkulator etwas unter. Genauso kommt es auch auf das können jedes einzelnen an mit der Zusammenstellung umzugehen und sie entsprechend für sich zu nutzen. Auch sind einige Effekt von der Ansatz an getöteten Monster und Treffern abhängig. Dies ist aber beim Starten des Level nicht geben. Wenn gewisse krit. Raten nicht erreicht wird die zwar als Hinweis angezeigt aber nicht mit einberechnet. Das Prinzip ist eigentlich recht Simpel mit möglichst vielen Reliktkernen möglichst viele Boni rausholen. Mit steigenden Sternen benötigt ihr auch mehr Reliktkerne. Daher kommt es meistens nicht vor erst eine Waffe mit allen gelben Sternen auszustatten.
 
 # Ranking
 Hier ein zu einer Seite die nichts mit diesem Wiki zu tun hat, wo es ein Cla und Player Ranking der besten Spieler gibt. https://survivor.botbenson.com/
