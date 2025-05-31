@@ -127,7 +127,7 @@ Wenn ihr einmal gestorben seid könnt ihr weiterspielen für eine gewisse Sekund
 #### immerwährende Kette
 gute Kette für Mobs da ihr beim ersten Schlag sehr viel mehr Schaden macht.
 
-#### leerenwandler Emblem
+#### leerenwandler Embleem 
 Super Kette gegen Bossmonster. Steigert den Schaden und die krit. Rate ordentlich. Allerdings muss dafür der Charakter wenig HP haben damit der Effekt funktioniert. Mit der Rüstung von Quietus oder auch dem Energieschild lasst sich dies ganz gut bewerkstelligen.
 
 ## SS Items
@@ -151,8 +151,11 @@ eher unbeliebt, sehr viele nutzen lieber weiter die S Rüstungen. Lieber die Res
 ### Gletscher-Kriegsstiefel
 sind besser als die Leerenwandler-Treter vor allem wenn ihr den 1. und 3. Schmiedeeffekt habt. Die Monster müssen dazu aber auch eingefroren werden. Seht auch zu das ihr viel rumlauft damit diese Aufgeladen werden. Dies funktioniert schneller, wenn ihr die Fertigkeit Schuhe auswählt.
 
-### Chaos fusion
+## Chaos fusion
 Um chaos fusion für SS items freischalten zu können benötigt ihr drei gelbe Sterne für die jeweilige Waffe. Jeder rote Stern schaltet etwas für diese Waffe frei. Eine ATK Boni oder das maximal Lvl. wird erhöht. Mit der ChaosfusionKraft werden von allen Waffen die insgesamte Anzahl an roten Sternen zusammengerechnet und bei einem vielfachen von 3 werden ebenfalls Boni freigeschaltet.
+
+## universeller Tausch
+Unter Meine Taache findet ihr den Reiter: universeller Tausch. Dort könnt ihr schlechtere Items in bessere Aufwerten. Wichtig denkt daran von dem schlechteren Items euch noch einen kleinen Puffer zu halten.
 
 # Charaktere
 Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl. 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Dies ist dieses gelb-orangene Feld und bedeutet diesen Boni bekommt ihr auch wenn dieser Charakter nicht aktiv ausgewählt ist. Bei der Auswahl solltet ihr euch nur auf ATK oder krit. Rate/Schaden konzentrieren. Ihr solltet euch aber auch hauptsächlich auf einen Charakter fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40 pushen.
@@ -310,6 +313,8 @@ Je mehr Exp. man erhält, desto besser werden einige Eigenschaften von Waffen un
 
 Immerwährende Rüstung. So früh wie möglich zweimal Sterben wegen 2 * 15% (20%) mehr Schaden nach Wiederbelebung und weitere Fertigkeitsauswahl. Dies nur anwenden sofern der Boss nicht zu stark ist. Seid ihr zu stark könnt ihr Rüstung, Gürtel und Schuhe auf Level 1 herunterstufen.
 
+Das [Leerenwandler Embleem](#leerenwandler-wmbleem) ist für Echo des Endes meistens noch besser als die SS Kette mit den drei Schmiedeeffekten. Durch das erlangen von mehr Exp ist die ein oder andere Superwaffe früher und mehr drin.
+
 Mit [Panda](#panda), Ying und Yang den Debuff auf die Verteidigung auslösen sonst nur die Handflächen nutzen.
 
 Den Boss so laufen lassen das Exp eingesammelt werden aber noch Schaden mit den Drohnen erzeugt wird. Am Anfang kann auch eine Runde gelaufen werden um Exp. einzusammeln. Besonders am Ende wird der meiste Schaden erzeugt, da alle Waffe gut ausgebildet sind.
@@ -408,7 +413,7 @@ https://danke007.com/calc/damage-increase
 
 Damit ihr eure Zusammenstellung einfach wechseln könnt gibt es in der Astralschmiede die Speicherung eurer Relikt Kern Zusammenstellung (SS speichern wiederherstellen). 
 
-Der Vorteil der Lanze bei Echo des Endes auf einem Stern, auf Lvl. 3 zu starten, geht in dem Kalkulator etwas unter. Genauso kommt es auch auf das können jedes einzelnen an mit der Zusammenstellung umzugehen und sie entsprechend für sich zu nutzen. Auch sind einige Effekt von der Ansatz an getötet Monster und Treffern abhängig. Dies ist aber beim Starten des Level nicht geben.
+Der Vorteil der Lanze bei Echo des Endes auf einem Stern, auf Lvl. 3 zu starten, geht in dem Kalkulator etwas unter. Genauso kommt es auch auf das können jedes einzelnen an mit der Zusammenstellung umzugehen und sie entsprechend für sich zu nutzen. Auch sind einige Effekt von der Ansatz an getötet Monster und Treffern abhängig. Dies ist aber beim Starten des Level nicht geben. Wenn gewisse krit. Raten nicht erreicht wird die zwar als Hinweis angezeigt aber nicht mit einberechnet.
 
 # Ranking
 Hier ein zu einer Seite die nichts mit diesem Wiki zu tun hat, wo es ein Cla und Player Ranking der besten Spieler gibt. https://survivor.botbenson.com/
