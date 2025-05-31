@@ -155,7 +155,7 @@ sind besser als die Leerenwandler-Treter vor allem wenn ihr den 1. und 3. Schmie
 Um chaos fusion für SS items freischalten zu können benötigt ihr drei gelbe Sterne für die jeweilige Waffe. Jeder rote Stern schaltet etwas für diese Waffe frei. Eine ATK Boni oder das maximal Lvl. wird erhöht. Mit der ChaosfusionKraft werden von allen Waffen die insgesamte Anzahl an roten Sternen zusammengerechnet und bei einem vielfachen von 3 werden ebenfalls Boni freigeschaltet.
 
 ## universeller Tausch
-Unter Meine Taache findet ihr den Reiter: universeller Tausch. Dort könnt ihr schlechtere Items in bessere Aufwerten. Wichtig denkt daran von dem schlechteren Items euch noch einen kleinen Puffer zu halten.
+Unter Meine Tasche findet ihr den Reiter: universeller Tausch. Dort könnt ihr schlechtere Items in bessere Aufwerten. Wichtig denkt daran von dem schlechteren Items euch noch einen kleinen Puffer zu halten.
 
 # Charaktere
 Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl. 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Dies ist dieses gelb-orangene Feld und bedeutet diesen Boni bekommt ihr auch wenn dieser Charakter nicht aktiv ausgewählt ist. Bei der Auswahl solltet ihr euch nur auf ATK oder krit. Rate/Schaden konzentrieren. Ihr solltet euch aber auch hauptsächlich auf einen Charakter fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40 pushen.
@@ -344,10 +344,10 @@ Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellu
 
 Für fast optimalen Schaden mit
 [Panda](#panda):
-Hauptwaffe, Zerstörer, Charakter Fähigkeit, Fußball, Rakete, Molotow, ATK, Exoskelett, Geschwindigkeit, Abklingzeit, Reichweite und Exoskelett. Wer keine SS Schuhe und die Leerwandlertreter hat sollte Schuhe und Fußball anstatt Molotow nehmen. Genauso wenn das tech. Teil nicht rot ist.
+Hauptwaffe, Zerstörer, Charakter Fähigkeit, Fußball, Rakete, Molotow, ATK, Geschwindigkeit, Abklingzeit, Reichweite und Exoskelett. Wer keine SS Schuhe und die Leerwandlertreter hat sollte Schuhe und Fußball anstatt Molotow nehmen. Genauso wenn das tech. Teil nicht rot ist.
 
 [Joey](#joey) / Metallica:
-Hauptwaffe, Zerstörer, Blitz, Rakete, Fußball, Molotow, ATK, Charakter Fähigkeit, Schuhe, Geschwindigkeit, Abklingzeit und Reichweite.
+Hauptwaffe, Zerstörer, Blitz, Rakete, Fußball, Molotow, ATK, Charakter Fähigkeit, Exoskelett, Geschwindigkeit, Abklingzeit und Reichweite.
 
 Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen. Dafür Exoskelett und/oder Schuhe weglassen. Hier solltet ihr am Anfang dreimal sterben, wenn immerwährende Rüstung angelegt, außer der Boss ist zu stark. Seid ihr zu stark Defensives Equipment auf Level 1 herunterstufen. Um die HP zu reduzieren lasst euch von Boss durch die Gegend schieben und nicht in die Ecke drängen. Dadurch bleiben die SS Schuhe aufgeladen.
 
