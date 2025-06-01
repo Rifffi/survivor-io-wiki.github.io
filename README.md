@@ -292,6 +292,9 @@ Um weitere Effekte freizuschalten gibt es den Resonanzwert. Dieser kann durch an
 # Sammelobjekte
 Hier könnte ihr durch die Objekte allgemein nochmal mehr ATK und HP bekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment einen Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden. Es lohnt sich ggf. darauf zu konzentrieren. Auch das Präzisionsgerät ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen (lila Bruchstücke). Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen. Durch das spielen von [Pfad der Prüfungen](#pfad-der-prüfungen) könnt ihr euch viele Sammelobjekte sichern.
 
+## Sets
+Durch die lila Sammelobject Scherben könnt ihr zusätzliche Boni freischalten. Das erste Set könnt ihr recht schnell freischalten. Alle Slots solltet ihr nach Möglichkeit mit roten Sammelobjekten besetzen. Die erste Reihe beim zweiten Set könnt ihr auch recht schnell besetzen. Danach sind die Slots mit 30.000 teuer. Solltet ihr den nächsten Slot nicht mit einem roten Sammelobjekt besetzen zu können solltet ihr die lila Scherben lieber in die Sammelobjekte direkt stecken.
+
 # Echo des Endes
 Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char upzugraden. Hier könnt ihr starten und sofort wieder beenden bekommt aber nicht alle Belohnungen wie die tech. Teile.
 
