@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="description" content="Das ultimative Wiki für survivor.io: Entdecke detaillierte Guides, Strategien und Lösungsansätze für alle Spielstufen. Ob Anfänger oder Profi – hier findest du alles, um zum Überlebenskünstler zu werden.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>survivor.io Wiki</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@latest/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/showdown@latest/dist/showdown.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1 class="text-center">survivor.io Wiki</h1>
+    <div id="readme-container" style="padding-bottom:30px;"></div>
+    <footer style="height: 30px;"><a href="https://github.com/Rifffi/survivor-io-wiki.github.io" style="text-align: center; position: fixed; bottom: 5px; left: 50%; transform: translateX(-50%);">Wiki GitHub</a></footer>
+  </div>
+  <script>
+    const readmeUrl = 'https://raw.githubusercontent.com/Rifffi/survivor-io-wiki.github.io/refs/heads/main/Clan.md';
+    fetch(readmeUrl)
+      .then(response => response.text())
+      .then(markdown => {
+        const converter = new showdown.Converter();
+        converter.setFlavor('github');
+        const html = converter.makeHtml(markdown);
+        const readmeContainer = document.getElementById('readme-container');
+        readmeContainer.innerHTML = html;
+      })
+      .catch(error => {
+        console.error('Fehler beim Laden der README:', error);
+        readmeContainer.innerHTML = '<a href="https://github.com/Rifffi/survivor-io-wiki.github.io#survivor-io-wiki">Hier geht es zum Survivor.io Wiki</a>';
+      });
+  </script>
+</body>
+</html>
