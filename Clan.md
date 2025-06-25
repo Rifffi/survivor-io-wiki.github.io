@@ -4,9 +4,9 @@ Wir spielen zusammen und es ist wunderbar, wenn wir uns gegenseitig unterstütze
 ## Clan-Erkundung
 -   täglich 3 Schlüssel erspielen oder wenn freigeschaltet gegen den Boss kämpfen
 ## Mondmine-Expedition
-  1. Phase, einmal gegen den Boss kämpfen (Verteidigungsembleme erspielen, startet Di Nachts)
-  2. Phase, Nur spielbar für den Clanleader oder Vizeleader
-  3. Phase, ab Donnerstag für drei Tage, jeden Tag einmal gegen den Boss kämpfen
+  1. Phase, einmal gegen den Boss kämpfen (Verteidigungsembleme erspielen, startet Dienstag Nachts)
+  2. Phase, Nur spielbar für den Clanleader oder Vizeleader (startet Mitteoch Abends)
+  3. Phase, ab Donnerstag für drei Tage, jeden Tag einmal gegen den Boss kämpfen (startet Donnerstag Abends)
 ## Clan-Expedition (wurde entfernt)
 -   Von Freitagabend bis Montagabend einmal gegen den Boss kämpfen.
 ## Eventcenter
