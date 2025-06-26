@@ -11,6 +11,7 @@ Wiki für das Spiel survior.io [Google Play](https://play.google.com/store/apps/
 * [Kalkulator](#kalkulator)
 * [Kritische Treffer](#kritische-treffer)
 * [Pfad der Prüfungen](#pfad-der-prüfungen)
+* [Prüfungen](#prüfungen)
 * [Ranking](#ranking)
 * [Sammelobjekte](#sammelobjekte)
 * [Synergie](#synergie)
@@ -353,16 +354,18 @@ Hauptwaffe, Zerstörer, Blitz, Rakete, Fußball, Molotow, ATK, Charakter Fähigk
 
 Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen. Dafür Exoskelett und/oder Schuhe weglassen. Hier solltet ihr am Anfang dreimal sterben, wenn immerwährende Rüstung angelegt, außer der Boss ist zu stark. Seid ihr zu stark Defensives Equipment auf Level 1 herunterstufen. Um die HP zu reduzieren lasst euch von Boss durch die Gegend schieben und nicht in die Ecke drängen. Dadurch bleiben die SS Schuhe aufgeladen.
 
-# Pfad der Prüfungen
+# Prüfungen
+
+## Pfad der Prüfungen
 Solltet ihr einmal die Woche spielen und mindestens 1 Level/Ebene vorankommen, damit ihr einmal die Rewards einsammelt. Spielt nicht zu viele Level sonst kommt ihr nächste Woche gar nicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben. Mit einem Versuch könnt ihr 25 Ebenen schaffen. Unter die Top 3 zu kommen ist auch gut, damit ihr noch gelbe Sammelobjektscherben bekommt. Solltet ihr auch mal zurückliegen, könnt ihr Prüfung wiederholen wählen. Hier gilt ungefähr 75.000 ATK = 1000 Ebenen. Ab der Ebene 4800 ist das wiederholen nicht mehr möglich. Bei Prüfung wiederholen entspricht Ebene 41 -> Ebene 4801.
 
-# Megaherausforderung
+## Megaherausforderung
 Nicht so wichtig, könnt ihr zwischendurch irgendwann mal spielen, wenn ihr noch Lust und Zeit habt.
 
-# Zonenoperation
+## Zonenoperation
 Aufwendig zu spielen, nicht ganz so wichtig. Benötigt auch ein gewisses Level und Equipment um es durchgespielt zu bekommen. Hier könnt ihr 2 S Items erlangen. Für Menschen die eine Herausforderung mögen genau das Richtige. Hier braucht ihr die Leerenmacht Waffe / SS Lanze und die Rüstung von Quietus auf Rot. Zu mindestens ist das meine Erfahrung. Ab Ebene 15 solltet ihr die Rüstung von Quietus nutzen. Wenn ihr alle 20 Stufen durchgespielt habt und die Season vorbei ist braucht ihr hinterher in der nächsten Season nicht jedes Level doppelt zu spielen. Ihr erhaltet auch direkt die Rewards von ersten durchspielen ausbezahlt. Gelbe Tropfen gibt es hier ebenfalls. Maximal 800 Tropfen.
 
-# Operation Rückzug
+## Operation Rückzug
 Dies ist zeitaufwendig zu Spielen. Damit man durch Sterben nicht die Errungenschaft zu verlieren geht ihr wie folgt vor. Ihr spielt zwei bis drei mal bis zum ersten Boss und geht immer zum Hauptquartier zurück. Danach spielt ihr vom Anfang zwei bis dreimal bis zum zweiten Boss und geht zum Hauptquartier zurück. Danach startet ihr bei Einfach - 3 und spielt zwei bis dreimal und besiegt zwei Bosse. Irgendwann startet ihr dann bei Einfach - 5, usw. Wenn ihr merkt das ihr bei einem Boss länger als die Hälfte der maximalen Zeit braucht , werdet ihr den nächsten nicht besiegen. Damit ihr bei Einfach - 3 startet müsst ihr den Einfach - 5 Balken voll haben.
 Ihr benötigt ungefähr zwei bis drei Balken um eure Fertigkeiten und Waffen zu maximieren. Empfohlene Waffen: Beide Drohnen bis zum Zerstörer, Fussball, Molotow, Pfeil. Hat man den Zerstörer kann man noch Blitz oder die Rakete nehmen. Empfohlene Fertigkeiten: ATK, Abklingzeit, Schuhe, Geschwindigkeit, Reichweite, Heilung. Wenn ihr startet zu spielen steuert erstnal keine Altäre an, sondern maximiert erstmal die Waffen und Fähigkeiten. Die Altäre geben debuffs die aber auch nach ca. 1 Minute aufgehoben werden. Wenn ihr einen Boss erledigt habt bekommt ihr Karten die ihr in einem Fertigkeitsbaum einsetzen müsst. Hier am besten immer nur einen Stern vergeben und immmer nur das Schwert auswählen. Heißt so schnell wie möglich nach oben kommen.
 
