@@ -372,9 +372,12 @@ Dies ist zeitaufwendig zu Spielen. Als Belohnungen gibt es S Items, gelbe und ro
 3500 ATK schafft ihr Episch durch (Boss in Legendär -2)\
 4500 ATK schafft ihr Legendäre durch ( Boss in Mystisch -2)\
 Ihr benötigt ungefähr drei Balken um eure Fertigkeiten und Waffen zu maximieren. Wenn ihr in eine neue Ebene vorstoßen wollt nehmt am besten ein paar Ebenen Anlauf und erledigt wenig Altare wegen den Debuffs. Empfohlene Waffen: Beide Drohnen bis zum Zerstörer, Fussball, Molotow, Pfeil. Hat man den Zerstörer kann man noch Blitz oder die Rakete nehmen. Empfohlene Fertigkeiten: ATK, Abklingzeit, Schuhe, Geschwindigkeit, Reichweite, Heilung (am Anfang). Wenn ihr startet zu spielen steuert erstnal keine Altäre an, sondern maximiert erstmal die Waffen und Fähigkeiten. Die Altare geben Debuffs die aber auch dauerhaft bleiben oder auch verschwinden. Je mehr Altare ihr spielt desto mehr Debuffs gibt es pro Altar. Es gibt einen Talentebaum. Hier am besten immer nur einen Stern vergeben und immmer nur das Schwert auswählen. Heißt so schnell wie möglich nach oben kommen. Ebenfalls nur rote Talente auswählen, nur diese bringen ATK Boni. Ein paar grüne Felder geben auch ATK Boni Talentmünzen für den Baum bekommt ihr hauptsächlich aus einem Altar. Bei 20 pro Tag ist ein Limit gesetzt. Wahrscheinlich auch pro Ebenen die ihr geschafft habt bzw Droprate wird reduziert.
+
 Folgende Ebenen gibt es:
 Einfach, Mittel, Schwer, Episch, Legendär,  Mystisch, Alptraum und Heißblütig.
 Ab Legendär gibt es gelbe Drops. Die Wertgegenstände geben ca. 100 Münzen.
+
+Zum farmen von Itrms empfiehlt sich die immerwährende Rüstung, da ihr so schneller von Altar zu Altar kommt. 
 
 # Entwicklung
 Zuerst müsst ihr ein Hauptkapitel durchspielen damit ihr die 3 Hauptherausforderungen zu einem Level spielen könnt. Bei dem zweiten und dritten Schwierigkeitsgrad bekommt ihr Gold-DNA. Dadurch könnt ihr eure passiven Fähigkeiten erhöhen und mehr Equipment durch Monsterdrops bekommen. Wichtig das ihr hier nach und nach auch voran kommt. Wichtig ist das ihr am Anfang mehr Drops durch Items bekommt. So könnt ihr schneller euer Equipment upgraden. Spielt am besten direkt die schwierigste Hauptherausforderung, dann sind die ersten beiden Schwierigkeitsgrade direkt miterledigt und ihr bekommt alle 3 Truhen auf einmal.
