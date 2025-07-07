@@ -380,8 +380,9 @@ Ab Legendär gibt es gelbe Drops. Die Wertgegenstände geben ca. 100 Münzen.
 
 Zum farmen von Itrms empfiehlt sich die immerwährende Rüstung, da ihr so schneller von Altar zu Altar kommt. Am Anfang vielleicht eine Truhe öfnnen und danach am besten soviele Altare wie es geht. Ihr müsst aber auch noch den Boss schaffen. Also ran Tasten.
 
-Equipment zum weiterkommen: immerwährende Kette, Schuhe und Handschuhe, Schwert der Unordnung, Rüstung des Quintus, verdrehter Gürtel 
+Equipment zum weiterkommen: immerwährende Kette, Schuhe und Handschuhe, Schwert der Unordnung, Rüstung des Quintus, verdrehter Gürtel
 
+Talentebaum:
 ![Talentebaum](Images/Survivor.io_20250707_163149.png)
 
 # Entwicklung
