@@ -382,8 +382,7 @@ Zum farmen von Itrms empfiehlt sich die immerwährende Rüstung, da ihr so schne
 
 Equipment zum weiterkommen: immerwährende Kette, Schuhe und Handschuhe, Schwert der Unordnung, Rüstung des Quintus, verdrehter Gürtel 
 
-Talentebaum:
-[Images/Survivor.io_20250707_163149.png]
+![Talentebaum](Images/Survivor.io_20250707_163149.png)
 
 # Entwicklung
 Zuerst müsst ihr ein Hauptkapitel durchspielen damit ihr die 3 Hauptherausforderungen zu einem Level spielen könnt. Bei dem zweiten und dritten Schwierigkeitsgrad bekommt ihr Gold-DNA. Dadurch könnt ihr eure passiven Fähigkeiten erhöhen und mehr Equipment durch Monsterdrops bekommen. Wichtig das ihr hier nach und nach auch voran kommt. Wichtig ist das ihr am Anfang mehr Drops durch Items bekommt. So könnt ihr schneller euer Equipment upgraden. Spielt am besten direkt die schwierigste Hauptherausforderung, dann sind die ersten beiden Schwierigkeitsgrade direkt miterledigt und ihr bekommt alle 3 Truhen auf einmal.
