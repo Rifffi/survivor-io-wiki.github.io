@@ -3,6 +3,7 @@ Translate to [english](https://rifffi-github-io.translate.goog/survivor-io-wiki.
 Wiki für das Spiel survior.io [Google Play](https://play.google.com/store/apps/details?id=com.dxx.firenow&pcampaignid=web_share) & [App Store](https://apps.apple.com/de/app/survivor-io/id1528941310)
 
 # wichtigste Punkte:
+* [Bugs](#Bugs)
 * [Charaktere](#charaktere)
 * [Clan](#clan)
 * [Echo des Endes](#echo-des-endes)
@@ -444,6 +445,17 @@ Die Zusammenstellung könnt ihr vor jedem Kampf durch Abwerten und Aufwerten der
 Damit ihr eure Zusammenstellung einfach wechseln könnt gibt es in der Astralschmiede die Speicherung eurer Relikt Kern Zusammenstellung (SS speichern wiederherstellen). 
 
 Der Vorteil der Lanze bei Echo des Endes auf einem Stern, auf Lvl. 3 zu starten, geht in dem Kalkulator etwas unter. Genauso kommt es auch auf das können jedes einzelnen an mit der Zusammenstellung umzugehen und sie entsprechend für sich zu nutzen. Auch sind einige Effekt von der Ansatz an getöteten Monster und Treffern abhängig. Dies ist aber beim Starten des Level nicht geben. Wenn gewisse krit. Raten nicht erreicht wird die zwar als Hinweis angezeigt aber nicht mit einberechnet. Das Prinzip ist eigentlich recht Simpel mit möglichst vielen Reliktkernen möglichst viele Boni rausholen. Mit steigenden Sternen benötigt ihr auch mehr Reliktkerne. Daher kommt es meistens nicht vor erst eine Waffe mit allen gelben/roten Sternen auszustatten.
+
+# Bugs
+## Chat
+Der Clan Chat ist beendet leider das Spiel ab und zu, sobald ihr einen Text schreiben wollt. Je schneller ihr schreibt desto weniger die Gefahr des Absturzes. Des weiteren werden nicht immer alle zuletzt geschrieben Nachrichten angezeigt. Hier rat es sich immer das Spiel einmal zu komplett zu beenden und neu zu öffnen.
+
+## Millionen Monster kills
+In der Clan Erkundung wählt ihr eine 6 Minuten Mission aus. Spielt diese 3 Sekunden und schaltet euer Smartphone in den Flugmodus und spielt die Mission zu Ende. Es erscheint ein Dialog mit Verbindungsproblemen. Diesen drückt ihr x mal. Smartphone den Flugmodus deaktivieren. Den Button drücken und etwas länger warten.
+Das x bestimmt ihr wie folgt. Erwünschte Monster kills = Angezeigte Monster kills * x
+400.000 = 9.000 * 44 klicken.
+
+Warnung: Je mehr klicks ihr tätigt destomehr Anfragen werden auf einmal an den Server gesendet, dies könnte beim übertrieben dem Betreiber vielleicht missfallen. Für etwaige Konsequenzen seit ihr selber verantwortlich.
 
 # Ranking
 Hier ein zu einer Seite die nichts mit diesem Wiki zu tun hat, wo es ein Cla und Player Ranking der besten Spieler gibt. https://survivor.botbenson.com/
