@@ -451,14 +451,14 @@ Der Vorteil der Lanze bei Echo des Endes auf einem Stern, auf Lvl. 3 zu starten,
 Der Clan Chat ist beendet leider das Spiel ab und zu, sobald ihr einen Text schreiben wollt. Je schneller ihr schreibt desto weniger die Gefahr des Absturzes. Des weiteren werden nicht immer alle zuletzt geschrieben Nachrichten angezeigt. Hier rat es sich immer das Spiel einmal zu komplett zu beenden und neu zu öffnen.
 
 ## Millionen Monster kills
+Warnung: Je mehr klicks ihr tätigt destomehr Anfragen werden auf einmal an den Server gesendet, dies könnte beim übertrieben dem Betreiber vielleicht missfallen. Für etwaige Konsequenzen seit ihr selber verantwortlich. Es ist nur Fair wenn alle mit den gleichen Mitteln spielen können. Dem Betreiber obliegt es ja auch den Bug zu schließen.
+
 In der Clan Erkundung wählt ihr eine 6 Minuten Mission aus. Spielt diese 3 Sekunden und schaltet euer Smartphone in den Flugmodus und spielt die Mission zu Ende. Es erscheint ein Dialog mit Verbindungsproblemen. Diesen drückt ihr x mal. Smartphone den Flugmodus deaktivieren. Den Button drücken und etwas länger warten.
 Das x bestimmt ihr wie folgt.
 
 Erwünschte Monster kills = Angezeigte Monster kills * x
 
 400.000 = 9.000 * 44 klicken.
-
-Warnung: Je mehr klicks ihr tätigt destomehr Anfragen werden auf einmal an den Server gesendet, dies könnte beim übertrieben dem Betreiber vielleicht missfallen. Für etwaige Konsequenzen seit ihr selber verantwortlich.
 
 # Ranking
 Hier ein zu einer Seite die nichts mit diesem Wiki zu tun hat, wo es ein Cla und Player Ranking der besten Spieler gibt. https://survivor.botbenson.com/
