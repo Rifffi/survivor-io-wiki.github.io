@@ -452,7 +452,10 @@ Der Clan Chat ist beendet leider das Spiel ab und zu, sobald ihr einen Text schr
 
 ## Millionen Monster kills
 In der Clan Erkundung wählt ihr eine 6 Minuten Mission aus. Spielt diese 3 Sekunden und schaltet euer Smartphone in den Flugmodus und spielt die Mission zu Ende. Es erscheint ein Dialog mit Verbindungsproblemen. Diesen drückt ihr x mal. Smartphone den Flugmodus deaktivieren. Den Button drücken und etwas länger warten.
-Das x bestimmt ihr wie folgt. Erwünschte Monster kills = Angezeigte Monster kills * x
+Das x bestimmt ihr wie folgt.
+
+Erwünschte Monster kills = Angezeigte Monster kills * x
+
 400.000 = 9.000 * 44 klicken.
 
 Warnung: Je mehr klicks ihr tätigt destomehr Anfragen werden auf einmal an den Server gesendet, dies könnte beim übertrieben dem Betreiber vielleicht missfallen. Für etwaige Konsequenzen seit ihr selber verantwortlich.
