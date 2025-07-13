@@ -374,20 +374,25 @@ Dies ist zeitaufwendig zu Spielen. Als Belohnungen gibt es S Items, gelbe und ro
 4500 ATK schafft ihr Legendäre durch ( Boss in Mystisch -2)\
 5500 ATK schafft ihr Mystisch durch ( Boss in Alptraum -2)\
 7500 ATK schafft ihr Alptraum durch ( Boss in Traumhölle -2)\
-Ihr benötigt ungefähr drei Balken um eure Fertigkeiten und Waffen zu maximieren. Wenn ihr in eine neue Ebene vorstoßen wollt fangt bei der höchsten Ebene an und erledigt keine/wenig Altare wegen den Debuffs. Empfohlene Waffen: Beide Drohnen bis zum Zerstörer, Fussball, Molotow, Pfeil. Hat man den Zerstörer kann man noch Blitz oder die Rakete nehmen. Empfohlene Fertigkeiten: ATK, Abklingzeit, Schuhe, Geschwindigkeit, Reichweite, Heilung (am Anfang). Wenn ihr startet zu spielen steuert erstnal keine Altäre an, sondern maximiert erstmal die Waffen und Fähigkeiten. Die Altare geben Debuffs die aber auch dauerhaft bleiben oder auch verschwinden. Je mehr Altare ihr spielt desto mehr Debuffs gibt es pro Altar. Es gibt einen Talentebaum. Hier am besten immer nur einen Stern vergeben und immmer nur das Schwert auswählen. Heißt so schnell wie möglich nach oben kommen. Ebenfalls nur rote Talente auswählen, nur diese bringen ATK Boni. Ein paar grüne Felder geben auch ATK Boni Talentmünzen für den Baum bekommt ihr hauptsächlich aus einem Altar. Bei 20 pro Tag ist ein Limit gesetzt. Wahrscheinlich auch pro Ebenen die ihr geschafft habt bzw Droprate wird reduziert. 200 Talentmünzen könnt ihr insgesamt erlangen.
+Ihr benötigt ungefähr drei Balken um eure Fertigkeiten und Waffen zu maximieren. Wenn ihr in eine neue Ebene vorstoßen wollt fangt bei der höchsten Ebene an und erledigt keine/wenig Altare wegen den Debuffs. Empfohlene Waffen: Beide Drohnen bis zum Zerstörer, Fussball, Molotow, Pfeil. Hat man den Zerstörer kann man noch Blitz oder die Rakete nehmen. Empfohlene Fertigkeiten: ATK, Abklingzeit, Schuhe, Geschwindigkeit, Reichweite, Heilung (am Anfang). Wenn ihr startet zu spielen steuert erstnal keine Altäre an, sondern maximiert erstmal die Waffen und Fähigkeiten. Die Altare geben Debuffs die aber auch dauerhaft bleiben oder auch verschwinden. Je mehr Altare ihr spielt desto mehr Debuffs gibt es pro Altar. Bei dem debuff: Sterben durch Schaden müsst ihr aufpassen. Der ist zwar nie permanent und ohne Schild ist bei einem Treffer sofort Ende.
+### Talentebaum 
+Es gibt einen Talentebaum. Hier am besten immer nur einen Stern vergeben und immmer nur das Schwert auswählen. Heißt so schnell wie möglich nach oben kommen. Ebenfalls nur rote Talente auswählen, nur diese bringen ATK Boni. Ein paar grüne Felder geben auch ATK Boni. Talentmünzen für den Baum bekommt ihr hauptsächlich aus einem Altar. Bei 20 pro Tag ist ein Limit gesetzt. Wahrscheinlich auch pro Ebenen die ihr geschafft habt bzw. Droprate wird reduziert. 200 Talentmünzen könnt ihr insgesamt erlangen.
 
 Folgende Ebenen gibt es:
 Einfach, Mittel, Schwer, Episch, Legendär,  Mystisch, Alptraum und Traumhölle 9.
 Ab Legendär gibt es gelbe Drops. Die Wertgegenstände geben ca. 100 Münzen.
 Ab Alptraum gibt es rote Drops. Die Wertgegenstände geben ca. 400 Münzen.
 
-Zum farmen von Itrms empfiehlt sich die immerwährende Rüstung, da ihr so schneller von Altar zu Altar kommt. Am Anfang vielleicht eine Truhe öffnen und danach am besten soviele Altare wie es geht. Ihr müsst aber auch noch den Boss schaffen. Also ran Tasten.
-Am Ende farmt ihr dann Traumhölle 3 oder 5. Pro run sind dann einige 1000 Münzen drin. Spielt am besten nicht über Traumhölle 7 weiter. Wahrscheinlich braucht ihr eine spezielle Talentmünzen Zusammenstellung und spezifisches rotes Equipment. 3-4 rote Equipmentteile und 200 Talentmünzen reichen nicht aus.
+### Münzen farmen
+Zum farmen von Items, empfiehlt sich die immerwährende Rüstung, da ihr so schneller von Altar zu Altar kommt. Am Anfang vielleicht eine Truhe öffnen und danach am besten soviele Altare wie es geht. Ihr müsst aber auch noch den Boss schaffen. Also ran Tasten.
+Am Ende farmt ihr dann Traumhölle 3 oder 5. Pro run sind dann einige 1000 Münzen drin. Spielt am besten nicht über Traumhölle 7 weiter. Wahrscheinlich braucht ihr eine spezielle Talentmünzen Zusammenstellung und spezifisches rotes Equipment. 3-4 rote Equipmentteile und 200 Talentmünzen reichen nicht aus.  Im Talentebaum gibt es vier Fähigkeiten: 15 % mehr Münzen beim verkaufen von Wertgegenständen. Chance auf einen permanenten Fluch reduzieren. Chance auf einen weiteren Drop von Altaren. Altare geben ATK Boni.
 
 Equipment zum weiterkommen: immerwährende Kette, Schuhe und Handschuhe, Schwert der Unordnung, Rüstung des Quintus, verdrehter Gürtel
 
 Talentebaum:
 ![Talentebaum](Images/Survivor.io_20250707_163149.png)
+
+Es gibt noch die Variante mit wenig HP. Talente und auch Equipment gibt es. Problem ist wenn ihr sterbt.
 
 # Entwicklung
 Zuerst müsst ihr ein Hauptkapitel durchspielen damit ihr die 3 Hauptherausforderungen zu einem Level spielen könnt. Bei dem zweiten und dritten Schwierigkeitsgrad bekommt ihr Gold-DNA. Dadurch könnt ihr eure passiven Fähigkeiten erhöhen und mehr Equipment durch Monsterdrops bekommen. Wichtig das ihr hier nach und nach auch voran kommt. Wichtig ist das ihr am Anfang mehr Drops durch Items bekommt. So könnt ihr schneller euer Equipment upgraden. Spielt am besten direkt die schwierigste Hauptherausforderung, dann sind die ersten beiden Schwierigkeitsgrade direkt miterledigt und ihr bekommt alle 3 Truhen auf einmal.
