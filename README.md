@@ -385,7 +385,7 @@ Ab Alptraum gibt es rote Drops. Die Wertgegenstände geben ca. 400 Münzen.
 
 ### Münzen farmen
 Zum farmen von Items, empfiehlt sich die immerwährende Rüstung, da ihr so schneller von Altar zu Altar kommt. Am Anfang vielleicht eine Truhe öffnen und danach am besten soviele Altare wie es geht. Ihr müsst aber auch noch den Boss schaffen. Also ran Tasten.
-Am Ende farmt ihr dann Traumhölle 3 oder 5. Pro run sind dann einige 1000 Münzen drin. Spielt am besten nicht über Traumhölle 7 weiter. Wahrscheinlich braucht ihr eine spezielle Talentmünzen Zusammenstellung und spezifisches rotes Equipment. 3-4 rote Equipmentteile und 200 Talentmünzen reichen nicht aus.  Im Talentebaum gibt es vier Fähigkeiten: 15 % mehr Münzen beim verkaufen von Wertgegenständen. Chance auf einen permanenten Fluch reduzieren. Chance auf einen weiteren Drop von Altaren. Altare geben ATK Boni.
+Am Ende farmt ihr dann Traumhölle 3 oder 5. Auf T.3 bekommt ihr mehr Wertgegenstände und auf T.5 bekommt ihr mehr rote S Items Pro run sind dann einige 1000 Münzen drin. Bis an die 5500. Spielt am besten nicht über Traumhölle 7 weiter. Wahrscheinlich braucht ihr eine spezielle Talentmünzen Zusammenstellung und spezifisches rotes Equipment. 3-4 rote Equipmentteile und 200 Talentmünzen reichen nicht aus. Im Talentebaum gibt es vier Fähigkeiten zum farmen: 15 % mehr Münzen beim verkaufen von Wertgegenständen. Chance auf einen permanenten Fluch reduzieren. Chance auf einen weiteren Drop von Altaren. Altare geben ATK Boni.
 
 Equipment zum weiterkommen: immerwährende Kette, Schuhe und Handschuhe, Schwert der Unordnung, Rüstung des Quintus, verdrehter Gürtel
 
