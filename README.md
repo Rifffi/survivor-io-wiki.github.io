@@ -153,7 +153,7 @@ eher unbeliebt, sehr viele nutzen lieber weiter die S Rüstungen. Lieber die Res
 sind besser als die Leerenwandler-Treter vor allem wenn ihr den 1. und 3. Schmiedeeffekt habt. Die Monster müssen dazu aber auch eingefroren werden. Seht auch zu das ihr viel rumlauft damit diese Aufgeladen werden. Dies funktioniert schneller, wenn ihr die Fertigkeit Schuhe auswählt.
 
 ## Chaos fusion
-Um chaos fusion für SS items freischalten zu können benötigt ihr drei gelbe Sterne für die jeweilige Waffe. Jeder rote Stern schaltet etwas für diese Waffe frei. Eine ATK Boni oder das maximal Lvl. wird erhöht. Mit der ChaosfusionKraft werden von allen Waffen die insgesamte Anzahl an roten Sternen zusammengerechnet und bei einem vielfachen von 3 werden ebenfalls Boni freigeschaltet.
+Um chaos fusion für SS items freischalten zu können benötigt ihr drei gelbe Sterne für die jeweilige Waffe. Jeder rote Stern schaltet etwas für diese Waffe frei. Eine ATK Boni oder das maximal Lvl. wird erhöht. Mit der Chaosfusion Kraft werden von allen Waffen die insgesamte Anzahl an roten Sternen zusammengerechnet und bei einem vielfachen von 3 werden ebenfalls Boni freigeschaltet. Daher darauf achten das ihr mit dem roten Sternen ein Vielfaches von 3 immer bekommt.
 
 ## universeller Tausch
 Unter Meine Tasche findet ihr den Reiter: universeller Tausch. Dort könnt ihr schlechtere Items in bessere Aufwerten. Wichtig denkt daran von dem schlechteren Items euch noch einen kleinen Puffer zu halten.
@@ -215,7 +215,7 @@ Pet ATK +5% und Pet HP +5%
 Hier ein externer Link der nichts mit diesem Wiki zu tun hat wo alle Skills von allen Charakteren aufgeführt werden inkl. der erwachen Skills auch für alle 6 roten Sterne https://danke007.com/handbook/hero
 
 # Kritische Treffer
-Es gibt viele Möglichkeiten um eure krit. Rate zu verbessern. Über Equipment, Sammelobjekte, Chars (Panda 20%), Fertigkeiten, Tiere, Entwicklung (8%) und [Synergie](#synergie)
+Es gibt viele Möglichkeiten um eure krit. Rate zu verbessern. Ziel ist immer eine krit. Rate von 150% zu haben. Über Equipment, Sammelobjekte, Chars (Panda 20%), Fertigkeiten, Tiere, Entwicklung (8%) und [Synergie](#synergie)
 Mit den SS Gloves ist eine krit. Rate über 100% sogar sehr gut. Über 100% gibt es einen Boni auf den krit. Schaden. Das Symbol der SS Gloves zeigt auch an, wenn ihr über 100% krit. Rate habt. Gelb bei 100%, orange bei 130% und rot bei 150%.
 Auf der Seite mit den Sammelobjekten gibt es oben rechts einen Button wo alle Werte die ihr erlangt habt durch [Sammelobjekte](#sammelobjekte) zusammengefasst sind. Auf der Ausrüstungsseite gibt es oben Links einen weißen Button. Dahinter befinden sich eure Werte u.a. auch eure grundlegende krit. Rate. Während des spielen kann die sich noch erhöhen. Bitte beachtet das die Boni z.B. von den SS Gloves nicht direkt beim Start zur Verfügung stehen. Somit ist beim Start eines Levels die krit. Rate geringer als zum Ende hin. Besonders bei Ende des Echo kann das einiges aus machen. Zusätzlich noch ein Link zum Kalkulator für eure krit. Rate. Der Kalkulator hat nichts mit diesem Wiki zu tun. https://danke007.com/calc/bao-ji-lv
 
@@ -289,7 +289,7 @@ Eher unbeliebt.
 Um weitere Effekte freizuschalten gibt es den Resonanzwert. Dieser kann durch andere tech. Teile und durch Resonanzchips erhöht werden. Hier solltet ihr die verbleibenden nicht eingesetzten tech. Teil verteilen. Manchmal ist es sogar für Verteidigung tech. Teile sinnvoll diese wieder aufzuteilen um wichtig Effekte freizuschalten. 
 
 # Sammelobjekte
-Hier könnte ihr durch die Objekte allgemein nochmal mehr ATK und HP bekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment einen Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden. Es lohnt sich ggf. darauf zu konzentrieren. Auch das Präzisionsgerät ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen (lila Bruchstücke). Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen. Durch das spielen von [Pfad der Prüfungen](#pfad-der-prüfungen) könnt ihr euch viele Sammelobjekte sichern.
+Hier könnte ihr durch die Objekte allgemein nochmal mehr ATK und HP bekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment einen Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden.  Dies ist immer bei drei roten Sternen der Fall. Es lohnt sich ggf. darauf zu konzentrieren. Auch das Präzisionsgerät ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen (lila Bruchstücke). Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen. Durch das spielen von [Pfad der Prüfungen](#pfad-der-prüfungen) könnt ihr euch viele Sammelobjekte sichern.
 
 ## Sets
 Durch die lila Sammelobject Scherben könnt ihr zusätzliche Boni freischalten. Das erste Set könnt ihr recht schnell freischalten. Alle Slots solltet ihr nach Möglichkeit mit roten Sammelobjekten besetzen. Die erste Reihe beim zweiten Set könnt ihr auch recht schnell besetzen. Danach sind die Slots mit 30.000 teuer. Solltet ihr den nächsten Slot nicht mit einem roten Sammelobjekt besetzen zu können solltet ihr die lila Scherben lieber in die Sammelobjekte direkt stecken.
