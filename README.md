@@ -13,6 +13,7 @@ Wiki für das Spiel survior.io [Google Play](https://play.google.com/store/apps/
 * [Kritische Treffer](#kritische-treffer)
 * [Pfad der Prüfungen](#pfad-der-prüfungen)
 * [Prüfungen](#prüfungen)
+* [Ranking](Ranking)
 * [Sammelobjekte](#sammelobjekte)
 * [Synergie](#synergie)
 * [Teamarbeit passiv](#teamarbeit-passiv)
@@ -467,6 +468,9 @@ Das x bestimmt ihr wie folgt:
 Erwünschte Monster kills = Angezeigte Monster kills * x Klicks
 
 400.000 = 9.000 * 44 Klicks
+
+# Ranking
+Hier ein zu einer Seite die nichts mit diesem Wiki zu tun hat, wo es ein Cla und Player Ranking der besten Spieler gibt. https://garrytools.com
 
 # Codes
 Alle paar Wochen gibt es Codes diese können hier: https://gift.survivorio.com/ eingelöst werden. Eure ID findet ihr in den Einstellungen im Spiel. Diese sind von der Hauptseite über die drei Striche zu erreichen.
