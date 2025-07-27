@@ -13,7 +13,7 @@ Wiki für das Spiel survior.io [Google Play](https://play.google.com/store/apps/
 * [Kritische Treffer](#kritische-treffer)
 * [Pfad der Prüfungen](#pfad-der-prüfungen)
 * [Prüfungen](#prüfungen)
-* [Ranking](Ranking)
+* [Ranking](#Ranking)
 * [Sammelobjekte](#sammelobjekte)
 * [Synergie](#synergie)
 * [Teamarbeit passiv](#teamarbeit-passiv)
