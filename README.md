@@ -369,7 +369,7 @@ Dies ist zeitaufwendig zu Spielen. Als Belohnungen gibt es S Items, gelbe und ro
 500 ATK schafft ihr die Einfach Stages (Boss in Mittel - 2)\
 1000 ATK schafft ihr Mittel durch (Boss in Schwer -2)\
 2500 ATK schafft ihr Schwer durch (Boss in Episch -2)\
-3500 ATK schafft ihr Episch durch (Boss in Legendär -2)\
+5800 ATK schafft ihr Episch durch (Boss in Legendär -2)\
 4500 ATK schafft ihr Legendäre durch ( Boss in Mystisch -2)\
 5500 ATK schafft ihr Mystisch durch ( Boss in Alptraum -2)\
 7500 ATK schafft ihr Alptraum durch ( Boss in Traumhölle -2)\
