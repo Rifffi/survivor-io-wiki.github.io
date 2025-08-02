@@ -174,7 +174,10 @@ darauf liegt der Fokus bis ihr eine krit. Rate größer 80-90% habt, danach nehm
 ist aktuell wohl etwas besser als Yang. Aber nur wenn ihr eine hohe [krit. Rate](#kritische-treffer) habt. Jedoch dauert es auch bis hier ihr angekommen seid.
 
 ## Joey
-Wenn ihr genügend [krit. Rate](#kritische-treffer) habt ist das wahrscheinlich der beste Charakter aktuell. Spätestens wenn ihr [Synergie](#synergie) freigeschaltet habt, werdet ihr genügend krit. Rate haben. Bei Bossmonster erscheint ein gelber Balken am Monster wenn ihr Joey Fähigkeit freigeschaltet habt. An der Seite mit dem gelben Balken müsst ihr stehen und Schaden hinzufügen. Zusätzlich habt ihr eine aktive Aktion die über den Button aktiviert und Joey kann am Bossmonster von überall mehr Schaden hinzufügen. Dies solltet ihr einsetzen, wenn ihr nicht auf die Seite des gelben Balkens kommt, weil dort die Wand ist, um das Bossmonster von der Wand weg zu locken. Wenn der gelbe Balken zwischendurch verschwindet sammelt ihr Exp. ein. Der Vorteil ist das kein aktiver Waffenslot belegt wird, sondern ein Slot für eine passive Fähigkeit. Um den gelben Balken besser sichtbar zu machen empfiehlt sich in den Einstellungen die VFK zu verringern. Natürlich sollte die Fähigkeit immer schnell verwendet werden, wenn sie Aufgeladen ist.
+Wenn ihr genügend [krit. Rate](#kritische-treffer) habt ist das der 2 beste Charakter aktuell. Spätestens wenn ihr [Synergie](#synergie) freigeschaltet habt, werdet ihr genügend krit. Rate haben. Bei Bossmonster erscheint ein gelber Balken am Monster wenn ihr Joey Fähigkeit freigeschaltet habt. An der Seite mit dem gelben Balken müsst ihr stehen und Schaden hinzufügen. Zusätzlich habt ihr eine aktive Aktion die über den Button aktiviert und Joey kann am Bossmonster von überall mehr Schaden hinzufügen. Dies solltet ihr einsetzen, wenn ihr nicht auf die Seite des gelben Balkens kommt, weil dort die Wand ist, um das Bossmonster von der Wand weg zu locken. Wenn der gelbe Balken zwischendurch verschwindet sammelt ihr Exp. ein. Der Vorteil ist das kein aktiver Waffenslot belegt wird, sondern ein Slot für eine passive Fähigkeit. Um den gelben Balken besser sichtbar zu machen empfiehlt sich in den Einstellungen die VFK zu verringern. Natürlich sollte die Fähigkeit immer schnell verwendet werden, wenn sie Aufgeladen ist.
+
+## Taloxa
+Der aktuell beste Charakter. Leider belegt diese mit seiner aktiven Fähigkeit wieder einen Waffenslot. Auf 5 roten Sternen wird dieses aber aufgehoben. Talox macht auch schon mit ca. 80% krit. Rate mehr Schaden als Panda.
 
 ## Teamarbeit passiv
 Wenn euer Charakter erwacht ist und dieser 2 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden, wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind. Laut [Kalkulator](#kalkulator) ergibt sich aber folgende Reihenfolge, wenn dieser Charakter 6 rote Sterne hat:<br>
@@ -212,6 +215,9 @@ Für jeden SP Erwachten Charakter gibt es +3% krit. Rate
 Pet krit. Rate +10% und Pet Fähigkeit CD -5%
 ### April
 Pet ATK +5% und Pet HP +5%
+### Joey
+
+### Taloxa
 
 Hier ein externer Link der nichts mit diesem Wiki zu tun hat wo alle Skills von allen Charakteren aufgeführt werden inkl. der erwachen Skills auch für alle 6 roten Sterne https://danke007.com/handbook/hero
 
@@ -236,7 +242,7 @@ Bei jedem Tier könnt ihr Fertigkeiten einsetzen. Hier rät es sich auf ATK Erh�
 Ihr solltet nur passende Geschenk dem Tier geben dem es zugeordnet ist. Durch das Schenken wird die ATK des Besitzers erhöht. Dies gilt auch wenn ihr das Tier nicht ausgerüstet habt, sprich auch wenn nicht als Unterstützungstier selektiert. Da das Level auch an das Erwachen gebunden ist geht mit Bedacht vor. Fakt ist aber, das ihr euch auf Tier erstmal konzentriert und danach gleichmäßig alle nachzieht.
 
 # tech Teile
-Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigkeiten auswählt, weil diese durch die Teile auch verstärkt werden. Es ist nur möglich ein tech. Teil vom gleichen Typ auszurüsten. Durch Resonanz lassen sich einige tech. Teile nochmals verbessern. Eine Umverteilung solltet ihr hin und wieder mal prüfen.
+Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigkeiten auswählt, weil diese durch die Teile auch verstärkt werden. Es ist nur möglich ein tech. Teil vom gleichen Typ auszurüsten. Durch Resonanz lassen sich einige tech. Teile nochmals verbessern. Eine Umverteilung solltet ihr hin und wieder mal prüfen. Die Zwillingsteile sind immer einzusetzen und mindestens zwei in den rechten Slots. Bei dritten muss man ein wenig mehr nach den tech Teilen für die Resonanz schauen.
 
 ## Präzisionsgerät (empfohlen)
 Ist für die beiden Drohnen. Immer bevorzugt upgraden. Solltet ihr als erstes auf Rot bekommen später dann auf pink/lila/leuchtend/bunt. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
@@ -255,6 +261,9 @@ Auf Rot sind die +75% Fertigkeitsschaden echt super. Auch die ganzen Boni durch 
 
 ## Quanten-Nanobot (Fußball-Modus) (empfohlen, bei viel krit.)
 Auf Rot sind die +80% krit. Schaden bei 100% krit. Rate besser als der Durian-Modus. Auch sind die Boni durch Resonanz echt super. Hier lohnt sich auch ggf. eine Umverteilung von tech. Teilen für mehr Resonanz. Ab genug Resonanz benötigt ihr keine Schuhe mehr für das Update auf die Superwaffe.
+
+## Antimaterie-Wartungsgerät (Schuss- Modus) (empfohlen)
+Auch hier auf fie Resonanzverteilung achten
 
 ## Phasenumwandler (empfohlen)
 2 Blitzschläge mehr. Auch gut gegen Bossmonster.
@@ -311,7 +320,8 @@ In folgender Reihenfolge Waffen und Fertigkeiten auswählen, wenn sie kommen.
 10. Schussgeschwindigkeit
 11. Fußball
 12. Rakete
-13. Blitz
+13. Pfeil
+14. Blitz
 
 Zusätzlich schaut das alle 6 Slots mit Waffen belegt werden, sonst ist es schwieriger den Zerstörer oder die Hauptwaffe zur Superwaffe zu bekommen. Sonst kommen immer wieder andere Vorschläge für andere Waffen. Manchmal dauert es auch richtig lange bis ihr beide Drohnen bekommt. Ab 1 Minute Restzeit solltet ihr vielleicht auch davon abrücken, wenn ihr nur eine Drohne habt. Dann lieber die Hauptwaffe zu Superwaffe bringen oder ATK. Am Ende vom Kampf könnt ihr auch eine Statistik anschauen welche Waffe wieviel Schaden gemacht habt. Schaut dort rein und optimiert euch selber.
 
@@ -338,7 +348,8 @@ Reihenfolge der Fertigkeiten plus tech. Teile auf Rot mit dem meisten Schaden:
 2. Charakterfertigkeit
 3. Fußball
 4. Rakete mit Resonanz
-5. Blitz
+5. Pfeil mit Resonanz 
+6. Blitz
 
 Ölfass/Molotow und Durian/Nanobot sind zwar vom Schaden besser aber erst als Superwaffe geben sie zusätzliche Atk. Diese als Superwaffe in Ende des Echo zu bekommen ist schwierig.
 
@@ -350,7 +361,10 @@ Für fast optimalen Schaden mit
 Hauptwaffe, Zerstörer, Charakter Fähigkeit, Fußball, Rakete, Molotow, ATK, Geschwindigkeit, Abklingzeit, Reichweite und Exoskelett. Wer keine SS Schuhe und die Leerwandlertreter hat sollte Schuhe und Fußball anstatt Molotow nehmen. Genauso wenn das tech. Teil nicht rot ist.
 
 [Joey](#joey) / Metallica:
-Hauptwaffe, Zerstörer, Blitz, Rakete, Fußball, Molotow, ATK, Charakter Fähigkeit, Exoskelett, Geschwindigkeit, Abklingzeit und Reichweite.
+Hauptwaffe, Zerstörer, Pfeil, Rakete, Fußball, Molotow, ATK, Charakter Fähigkeit, Exoskelett, Geschwindigkeit, Abklingzeit und Reichweite.
+
+[Taloxa](#Taloxa)
+Hauptwaffe, Zerstörer, Charakter Fähigkeit, Fussball, Pfeil, Molotow, ATK, Exoskelett, Geschwindigkeit, Abklingzeit, Schuhe und Reichweite
 
 Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen. Dafür Exoskelett und/oder Schuhe weglassen. Hier solltet ihr am Anfang dreimal sterben, wenn immerwährende Rüstung angelegt, außer der Boss ist zu stark. Seid ihr zu stark Defensives Equipment auf Level 1 herunterstufen. Um die HP zu reduzieren lasst euch von Boss durch die Gegend schieben und nicht in die Ecke drängen. Dadurch bleiben die SS Schuhe aufgeladen.
 
