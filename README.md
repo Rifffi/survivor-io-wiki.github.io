@@ -58,7 +58,7 @@ mit tech. Teile ganz gut, da sie die Gegner durchdringt.
 ## Bumerang 
 naja nicht so beliebt 
 ## Wächter
-Hält einem die Monster vom Leib wegen Pushback.
+Hält einem die Monster vom Leib wegen Pushback. Macht aber kaum Schaden.
 ## Brandflasche (Molotov)
 Guter Flächenschaden. Durch tech. Teil auf Rot +10% mehr Schaden.
 ## Durian
@@ -99,7 +99,7 @@ Um maximalen Schaden zu erlangen eignen sich daher: ATK, Abklingzeit, Fluggeschw
 Laufgeschwindigkeit, Reichweite, Exoskelett, (Gold für die +10% durch rotes tech. Teil und Brandflasche) 
 
 # Equipment
-Wichtig ATK geht immer vor HP. Sprich Hauptwaffe, Kette und Handschuhe gehen vor Rüstung, Gürtel und Schuhe. Was vor geht immer bevorzugt upgraden. Mit dem SS-Equipment ändert sich dies unter gewissen Umständen etwas. Am meisten konzentriert ihr euch auf Bossequipment. Aber auch Mobequipment wird hier und da benötigt, aber vielleicht nicht ganz so stark upgegradet. Ihr müsst viel Geduld mitbringen damit euer Equipment richtig gut wird. 
+Wichtig ATK geht immer vor HP. Sprich Hauptwaffe, Kette und Handschuhe gehen vor Rüstung, Gürtel und Schuhe. Was vor geht immer bevorzugt upgraden. Mit dem SS-Equipment ändert sich dies unter gewissen Umständen etwas. Am meisten konzentriert ihr euch auf Bossequipment. Aber auch Mobequipment wird hier und da benötigt, aber vielleicht nicht ganz so stark upgegradet. Ihr müsst viel Geduld mitbringen damit euer Equipment richtig gut wird. Das Spiel ist von den Drops her aber sehr ausgeglichen gestaltet, daher gibt es nicht viele Optimierungsmöglichkeiten.
 
 Am Anfang nutzt ihr das Standardequipment.
 Baseballschläger für Mobs. Kunai gegen Bossmonster. Seht zu das ihr S Equipment bekommt und danach SS Equipment.
@@ -162,7 +162,7 @@ Unter Meine Tasche findet ihr den Reiter: universeller Tausch. Dort könnt ihr s
 # Charaktere
 Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl. 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Dies ist dieses gelb-orangene Feld und bedeutet diesen Boni bekommt ihr auch wenn dieser Charakter nicht aktiv ausgewählt ist. Bei der Auswahl solltet ihr euch nur auf ATK oder krit. Rate/Schaden konzentrieren. Ihr solltet euch aber auch hauptsächlich auf einen Charakter fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40 pushen.
 Ihr müsst den Charakter auf Lvl. 20 haben damit ihr diesen mit den jeweiligen Scherben updaten könnt. Es gibt ein Fläschchen damit könnt ihr alle Ressourcen die ihr in einen Charakter gesteckt haben wieder zurückerlangen. Kann man durch kaufen oder durch Events irgendwann bekommen.
-Jeder Charakter kann 6 gelbe Sterne bekommen durch Scherben. Danach kann dieser Erwachen und mit weiteren Scherben und Quantensternscherben auf 6 rote Sterne gebracht werden. Hier können andere Chars als Unterstützung in Slots gesetzt werden plus zusätzliche Boni. Später kommt noch das Synergie System hinzu. Folgende Reihenfolge geht ihr im Laufe der Zeit an. Common->King->Panda->Joey
+Jeder Charakter kann 6 gelbe Sterne bekommen durch Scherben. Danach kann dieser Erwachen und mit weiteren Scherben und Quantensternscherben auf 6 rote Sterne gebracht werden. Die Quantensternscherben erhaltet ihr durch das Zerlegen von normalen Scherben, unter dem jeweiligen Charakter -> verbessern -> auferten.  Hier unter [Teamarbeit passiv](#teamarbeit-passiv), können andere Chars als Unterstützung in Slots gesetzt werden plus zusätzliche Boni. Später kommt noch das [Synergie](#synergie) System hinzu. Folgende Reihenfolge geht ihr im Laufe der Zeit an. Common->King->Panda->Joey
 
 ## King
 ist die Wahl nach dem Startcharakter. Seine zusätzliche Fähigkeit mehr [kritische Treffer](#kritische-treffer) zu erhalten, hilft um viel mehr Schaden zu machen.
