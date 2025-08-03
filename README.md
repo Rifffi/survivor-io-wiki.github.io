@@ -184,7 +184,8 @@ Wenn euer Charakter erwacht ist und dieser 2 rote Sterne hat, wird ein Slot frei
 Leonardo > Yang > Michelangelo > Raphael > Metallica > Wurm > King > Common > Catnip<br>
 Leonardo oder Yang ist demnach die beste Wahl, jedoch eher unrealistisch.
 Auf 1 roten Stern ist es folgende Reihenfolge:<br> Michelangelo > Raphael > Leonardo > Metallica > Yang > Wurm > King > Common > Catnip
-
+<br>
+realistisch ist Leonardo, King, Common, Wurm vielleicht nocht ein S Charakter.
 Mit der Anzahl an weiteren roten Stern kann der Schaden erhöht werden. Der Schaden erhöht sich bei 1,2,4 und 6 Sternen. Die nicht aufgeführten Charaktere sind erstmal nicht von Interesse.
 Hier eine Liste was beim ersten roten Stern freigeschaltet wird:
 ### Common
