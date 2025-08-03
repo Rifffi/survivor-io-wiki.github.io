@@ -181,7 +181,7 @@ Der aktuell beste Charakter. Leider belegt diese mit seiner aktiven Fähigkeit w
 
 ## Teamarbeit passiv
 Wenn euer Charakter erwacht ist und dieser 2 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden, wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind. Laut [Kalkulator](#kalkulator) ergibt sich aber folgende Reihenfolge, wenn dieser Charakter 6 rote Sterne hat:<br>
-Yang > Metallica > Wurm > King > Michelangelo = Raphael > Leonardo > Common > Catnip<br>
+Yang > Metallica > Wurm > King > Michelangelo > Raphael > Leonardo > Common > Catnip<br>
 Yang ist demnach die beste Wahl, jedoch eher unrealistisch.
 Mit der Anzahl an weiteren roten Stern kann der Schaden erhöht werden. Der Schaden erhöht sich bei 1,2,4 und 6 Sternen. Die nicht aufgeführten Charaktere sind erstmal nicht von Interesse.
 Hier eine Liste was beim ersten roten Stern freigeschaltet wird:
