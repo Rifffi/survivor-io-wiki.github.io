@@ -265,8 +265,8 @@ Auf Rot sind die +75% Fertigkeitsschaden echt super. Auch die ganzen Boni durch 
 ## Quanten-Nanobot (Fußball-Modus) (empfohlen, bei viel krit.)
 Auf Rot sind die +80% krit. Schaden bei 100% krit. Rate besser als der Durian-Modus. Auch sind die Boni durch Resonanz echt super. Hier lohnt sich auch ggf. eine Umverteilung von tech. Teilen für mehr Resonanz. Ab genug Resonanz benötigt ihr keine Schuhe mehr für das Update auf die Superwaffe.
 
-## Antimaterie-Wartungsgerät (Schuss- Modus) (empfohlen)
-Auch hier auf fie Resonanzverteilung achten
+## Antimaterie-Wartungsgerät (Raketen- Modus) (empfohlen)
+Auch hier auf die Resonanzverteilung achten
 
 ## Phasenumwandler (empfohlen)
 2 Blitzschläge mehr. Auch gut gegen Bossmonster.
@@ -323,8 +323,8 @@ In folgender Reihenfolge Waffen und Fertigkeiten auswählen, wenn sie kommen.
 10. Schussgeschwindigkeit
 11. Fußball
 12. Rakete
-13. Pfeil
-14. Blitz
+13. Blitz
+14. Bohrer
 
 Zusätzlich schaut das alle 6 Slots mit Waffen belegt werden, sonst ist es schwieriger den Zerstörer oder die Hauptwaffe zur Superwaffe zu bekommen. Sonst kommen immer wieder andere Vorschläge für andere Waffen. Manchmal dauert es auch richtig lange bis ihr beide Drohnen bekommt. Ab 1 Minute Restzeit solltet ihr vielleicht auch davon abrücken, wenn ihr nur eine Drohne habt. Dann lieber die Hauptwaffe zu Superwaffe bringen oder ATK. Am Ende vom Kampf könnt ihr auch eine Statistik anschauen welche Waffe wieviel Schaden gemacht habt. Schaut dort rein und optimiert euch selber.
 
@@ -351,10 +351,10 @@ Reihenfolge der Fertigkeiten plus tech. Teile auf Rot mit dem meisten Schaden:
 2. Charakterfertigkeit
 3. Fußball
 4. Rakete mit Resonanz
-5. Pfeil mit Resonanz 
-6. Blitz
+5. Blitz 
+6. Pfeil mit Resonanz
 
-Ölfass/Molotow und Durian/Nanobot sind zwar vom Schaden besser aber erst als Superwaffe geben sie zusätzliche Atk. Diese als Superwaffe in Ende des Echo zu bekommen ist schwierig.
+Ölfass/Molotow und Durian/Nanobot sind zwar vom Schaden besser aber erst als Superwaffe geben sie zusätzliche Atk. Diese als Superwaffe in Ende des Echo zu bekommen ist schwieriger.
 
 ### Expedition / Mondmine
 Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellung zu erreichen. Bei der Mondmine benötigt ihr keine Diamanten. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden, wenn ihr weiter auswählt.
@@ -364,12 +364,14 @@ Für fast optimalen Schaden mit
 Hauptwaffe, Zerstörer, Charakter Fähigkeit, Fußball, Rakete, Molotow, ATK, Geschwindigkeit, Abklingzeit, Reichweite und Exoskelett. Wer keine SS Schuhe und die Leerwandlertreter hat sollte Schuhe und Fußball anstatt Molotow nehmen. Genauso wenn das tech. Teil nicht rot ist.
 
 [Joey](#joey) / Metallica:
-Hauptwaffe, Zerstörer, Pfeil, Rakete, Fußball, Molotow, ATK, Charakter Fähigkeit, Exoskelett, Geschwindigkeit, Abklingzeit und Reichweite.
+Hauptwaffe, Zerstörer, Blitz, Rakete, Fußball, Molotow, ATK, Charakter Fähigkeit, Exoskelett, Geschwindigkeit, Abklingzeit und Reichweite.
 
 [Taloxa](#Taloxa)
-Hauptwaffe, Zerstörer, Charakter Fähigkeit, Fussball, Pfeil, Molotow, ATK, Exoskelett, Geschwindigkeit, Abklingzeit, Schuhe und Reichweite
+Hauptwaffe, Zerstörer, Charakter Fähigkeit, Fussball, Blitz, Molotow, ATK, Exoskelett, Geschwindigkeit, Abklingzeit, Schuhe und Reichweite
 
-Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen. Dafür Exoskelett und/oder Schuhe weglassen. Hier solltet ihr am Anfang dreimal sterben, wenn immerwährende Rüstung angelegt, außer der Boss ist zu stark. Seid ihr zu stark Defensives Equipment auf Level 1 herunterstufen. Um die HP zu reduzieren lasst euch von Boss durch die Gegend schieben und nicht in die Ecke drängen. Dadurch bleiben die SS Schuhe aufgeladen.
+Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen. Dafür Exoskelett und/oder Schuhe weglassen. Hier solltet ihr am Anfang dreimal sterben, wenn immerwährende Rüstung angelegt, außer der Boss ist zu stark. Seid ihr zu stark Defensives Equipment auf Level 1 herunterstufen. Um die HP zu reduzieren lasst euch von Boss durch die Gegend schieben und nicht in die Ecke drängen. Dadurch bleiben die SS Schuhe aufgeladen. Bzw. lösen Effekte schneller oder häufiger aus.
+
+Immer wieder ändert sich etwas am Spiel daher können auch andere Zusammenstellung sinnvol sein.
 
 # Prüfungen
 
@@ -383,15 +385,15 @@ Nicht so wichtig, könnt ihr zwischendurch irgendwann mal spielen, wenn ihr noch
 Aufwendig zu spielen, nicht ganz so wichtig. Benötigt auch ein gewisses Level und Equipment um es durchgespielt zu bekommen. Hier könnt ihr 2 S Items erlangen. Für Menschen die eine Herausforderung mögen genau das Richtige. Ab 250.000 Atk wirds einfacher. Hier braucht ihr die Leerenmacht Waffe / SS Lanze und die Rüstung von Quietus auf Rot. Zu mindestens ist das meine Erfahrung. Ab Ebene 15 solltet ihr die Rüstung von Quietus nutzen. Wenn ihr alle 20 Stufen durchgespielt habt und die Season vorbei ist braucht ihr hinterher in der nächsten Season nicht jedes Level doppelt zu spielen. Ihr erhaltet auch direkt die Rewards von ersten durchspielen ausbezahlt. Gelbe Tropfen gibt es hier ebenfalls. Maximal 800 Tropfen.
 
 ## Operation Rückzug
-Dies ist zeitaufwendig zu Spielen. Als Belohnungen gibt es S Items, gelbe und rote Sammelobjektetruhen, Resonanzchip und Reliktkerne und Erwachenkerne. Diese Kosten 35k Münzen. Ab Mystisch könnt ihr alles kaufen. Damit ihr durch Sterben nicht die Errungenschaft verliert, geht ihr wie folgt vor. Ihr spielt zwei bis drei mal bis zum ersten Boss und geht immer zum Hauptquartier zurück. Danach spielt ihr vom Anfang zwei bis dreimal, bis zum zweiten Boss und geht zum Hauptquartier zurück. Danach startet ihr bei Einfach - 3 und spielt zwei bis dreimal und besiegt zwei Bosse. Irgendwann startet ihr dann bei Einfach - 5, usw. Wenn ihr merkt das ihr bei einem Boss länger als die Hälfte der maximalen Zeit braucht, werdet ihr den nächsten nicht besiegen. Damit ihr bei Einfach - 3 startet könnt, müsst ihr bei  den Einfach - 5 Balken den Boss besiegen. Um mehr ATK durch bessers Equipment zu erhalten kann man bei Stage - 5 starten und nach dem ersten Boss nicht aufhören. Dies empfiehlt sich aktuell auf Episch - 5.\
+Dies ist zeitaufwendig zu Spielen. Als Belohnungen gibt es S Items, gelbe und rote Sammelobjektetruhen, Resonanzchip und Reliktkerne und Erwachenkerne. Diese Kosten 35k Münzen. Ab Mystisch könnt ihr alles kaufen. Damit ihr durch Sterben nicht die Errungenschaft verliert, geht ihr wie folgt vor. Ihr spielt zwei bis drei mal bis zum ersten Boss und geht immer zum Hauptquartier zurück. Danach spielt ihr vom Anfang zwei bis dreimal, bis zum zweiten Boss und geht zum Hauptquartier zurück. Danach startet ihr bei Einfach - 3 und spielt zwei bis dreimal und besiegt zwei Bosse. Irgendwann startet ihr dann bei Einfach - 5, usw. Wenn ihr merkt das ihr bei einem Boss länger als die Hälfte der maximalen Zeit braucht, werdet ihr den nächsten nicht besiegen. Damit ihr bei Einfach - 3 startet könnt, müsst ihr bei  den Einfach - 5 Balken den Boss besiegen. Um mehr ATK durch bessers Equipment zu erhalten kann man bei Stage - 5 starten und nach dem ersten Boss nicht aufhören. Dies empfiehlt sich aktuell auf Episch - 5. Ab und zu muss der dritte Boss nicht besiegt werden und ihr schaltet trotzdem dem Savepoint frei. Hat bei Alptraum 1 funktioniert.\
 500 ATK schafft ihr die Einfach Stages (Boss in Mittel - 2)\
 1000 ATK schafft ihr Mittel durch (Boss in Schwer -2)\
 2500 ATK schafft ihr Schwer durch (Boss in Episch -2)\
 6000 ATK schafft ihr Episch durch (Boss in Legendär -2)\
 6200 ATK schafft ihr Legendäre durch ( Boss in Mystisch -2)\
-???? ATK schafft ihr Mystisch durch ( Boss in Alptraum -2)\
+7300 ATK schafft ihr Mystisch durch ( Boss in Alptraum -2)\
 ???? ATK schafft ihr Alptraum durch ( Boss in Traumhölle -2)\
-Ihr benötigt ungefähr drei Balken um eure Fertigkeiten und Waffen zu maximieren, hängt aber auch von der Laufgeschwindigkeit stark ab. Wenn ihr in eine neue Ebene vorstoßen wollt fangt bei der höchsten Ebene an und erledigt keine/wenig Altare wegen den Debuffs. Empfohlene Waffen: Beide Drohnen bis zum Zerstörer, Fussball, Molotow, Pfeil. Hat man den Zerstörer kann man noch Blitz oder die Rakete nehmen. Empfohlene Fertigkeiten: ATK, Abklingzeit, Schuhe, Geschwindigkeit, Reichweite, Heilung (am Anfang). Wenn ihr startet zu spielen steuert erstnal keine Altäre an, sondern maximiert erstmal die Waffen und Fähigkeiten. Die Altare geben Debuffs die aber auch dauerhaft bleiben oder auch verschwinden. Je mehr Altare ihr spielt desto mehr Debuffs gibt es pro Altar. Bei dem debuff: Sterben durch Schaden müsst ihr aufpassen. Der ist zwar nie permanent und ohne Schild ist bei einem Treffer sofort Ende. Das Problem ist immer den Boss in der angegeben Zeit zu schaffen. Daher keine Waffe, Kunai oder Schwert der Unordnung verwenden. Die Hauptwaffe sollte nach Möglichkeit alle Sterne haben oder eine Drohne hat 5 Sterne mit zielsuchenden Raketen. Sonst wird es selbst bei ausreichend ATK kritisch den Boss zu schaffen.
+Ihr benötigt ungefähr drei Balken um eure Fertigkeiten und Waffen zu maximieren, hängt aber auch von der Laufgeschwindigkeit stark ab. Wenn ihr in eine neue Ebene vorstoßen wollt fangt bei der höchsten Ebene an und erledigt keine/wenig Altare wegen den Debuffs. Empfohlene Waffen: Beide Drohnen bis zum Zerstörer, Fussball, Molotow, Pfeil. Hat man den Zerstörer kann man noch Blitz oder die Rakete nehmen. Empfohlene Fertigkeiten: ATK, Abklingzeit, Schuhe, Geschwindigkeit, Reichweite, Heilung (am Anfang), Panzer (wenn Heilung über Talentbaum). Wenn ihr startet zu spielen steuert erstnal keine Altäre an, sondern maximiert erstmal die Waffen und Fähigkeiten. Die Altare geben Debuffs die aber auch dauerhaft bleiben oder auch verschwinden. Je mehr Altare ihr spielt desto mehr Debuffs gibt es pro Altar. Bei dem debuff: Sterben durch Schaden müsst ihr aufpassen. Der ist zwar nie permanent und ohne Schild ist bei einem Treffer sofort Ende. Das Problem ist immer den Boss in der angegeben Zeit zu schaffen. Daher keine Waffe, Kunai oder Schwert der Unordnung verwenden. Die Hauptwaffe sollte nach Möglichkeit alle Sterne haben oder eine Drohne hat 5 Sterne mit zielsuchenden Raketen. Sonst wird es selbst bei ausreichend ATK kritisch den Boss zu schaffen.
 ### Talentebaum 
 Es gibt einen Talentebaum. Hier am besten immer nur einen Stern vergeben und immmer nur das Schwert auswählen. Heißt so schnell wie möglich nach oben kommen. Ebenfalls nur rote Talente auswählen, nur diese bringen ATK Boni. Ein paar grüne Felder geben auch ATK Boni. Talentmünzen für den Baum bekommt ihr hauptsächlich aus einem Altar. Es gibt ein Limit das sich pro Tag um 10 erhöht. 200 Talentmünzen könnt ihr insgesamt erlangen. In die nächste Session können 80 Talentmünzen mit übernommen werden. Euer Equipment wird komplett resettet auch übrig gebliebe Münzen. Bei den Talenten empfiehlt sich alles auszuwählen was ATK bringt und was nicht HP oder Shield auf 30% Limitiert. Den Skill wo ihr wiederbelebt solltet ihr aber mitnehmen. Da sterben nervig ist.
 
@@ -405,12 +407,12 @@ Ab Alptraum gibt es rote Drops. Die Wertgegenstände geben ca. 400-1000 Münzen.
 Zum farmen von Items, empfiehlt sich die immerwährende Rüstung, da ihr so schneller von Altar zu Altar kommt. Am Anfang vielleicht eine Truhe öffnen und danach am besten soviele Altare wie es geht. Ihr müsst aber auch noch den Boss schaffen. Also ran Tasten. Wenn der Boss besiegt ist und 5 Minuten noch nicht um sind, könnt ihr noch Altare öffnen.
 Am Ende farmt ihr dann Traumhölle 1, 3 oder 5. Auf T.1 bekommt ihr mehr Wertgegenstände und auf T.5 bekommt ihr mehr rote S Items. Evtl. auch einfach Glücksache mit dem S Items. Pro Run sind dann einige 1000 Münzen drin, bis an die 6500. Es macht kaum Sinn mehr als einen Boss zu spielen, da ihr nur 16 Items verkaufen könnt. Gelbes Lvl2 Equipment gibt mehr als violette Wertgegenstände. Spielt am besten nicht über Traumhölle 7 weiter. Traumhölle 9 schafft ihr mit 6 roten Equipmentteilen und 200 Talentmünzen. Dann geht es Endlos weiter. 3-4 rote Equipmentteile und 200 Talentmünzen reichen nicht aus. Im Talentebaum gibt es vier Fähigkeiten zum farmen: 15 % mehr Münzen beim verkaufen von Wertgegenständen. Chance auf einen permanenten Fluch reduzieren. Chance auf einen weiteren Drop von Altaren. Altare geben ATK Boni.
 
-Equipment zum weiterkommen: immerwährende Kette, Schuhe und Handschuhe, Schwert der Unordnung, Rüstung des Quintus, verdrehter Gürtel
+Equipment zum weiterkommen: Stein der Spaltung (evtl.immerwährende Kette), Schwert der Unordnung, Rüstung des Quintus, (evtl.verdrehter Gürtel), immerwährende Handschuhe, immerwährende Schuhe, immerwährender Gürtel. Alles das was viel ATK gibt.
 
 Talentebaum:
 ![Talentebaum](Images/Survivor.io_20250707_163149.png)
 
-Es gibt noch die Variante mit wenig HP. Talente und auch Equipment gibt es. Problem ist, wenn ihr sterbt.
+Es gibt noch die Variante mit wenig HP. Talente und auch Equipment gibt es. Problem ist, das Leben am Limit und das Sterben.
 
 # Entwicklung
 Zuerst müsst ihr ein Hauptkapitel durchspielen damit ihr die 3 Hauptherausforderungen zu einem Level spielen könnt. Bei dem zweiten und dritten Schwierigkeitsgrad bekommt ihr Gold-DNA. Dadurch könnt ihr eure passiven Fähigkeiten erhöhen und mehr Equipment durch Monsterdrops bekommen. Wichtig das ihr hier nach und nach auch voran kommt. Wichtig ist das ihr am Anfang mehr Drops durch Items bekommt. So könnt ihr schneller euer Equipment upgraden. Spielt am besten direkt die schwierigste Hauptherausforderung, dann sind die ersten beiden Schwierigkeitsgrade direkt miterledigt und ihr bekommt alle 3 Truhen auf einmal.
