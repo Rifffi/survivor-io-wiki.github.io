@@ -183,7 +183,7 @@ Der aktuell beste Charakter. Leider belegt diese mit seiner aktiven Fähigkeit w
 8 Kerne für Synergie Lvl 25 = 45% mehr\
 vs. \
 8 Kerne Taloxa lvl 4 + Teamarbeit = 35% mehr \
-15 Kerne Taloxa lvl 5 + Dauerlaser = +60% mehr \
+15 Kerne Taloxa lvl 5 + Dauerlaser = +60% mehr
 
 ## Teamarbeit passiv
 Wenn euer Charakter erwacht ist und dieser 2 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden, wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind. Laut [Kalkulator](#kalkulator) ergibt sich aber folgende Reihenfolge, wenn dieser Charakter 6 rote Sterne hat:<br>
