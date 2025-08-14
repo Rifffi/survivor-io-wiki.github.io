@@ -413,12 +413,15 @@ Ab Alptraum gibt es rote Drops. Die Wertgegenstände geben ca. 400-1000 Münzen.
 Zum farmen von Items, empfiehlt sich die immerwährende Rüstung, da ihr so schneller von Altar zu Altar kommt. Am Anfang vielleicht eine Truhe öffnen und danach am besten soviele Altare wie es geht. Ihr müsst aber auch noch den Boss schaffen. Also ran Tasten. Wenn der Boss besiegt ist und 5 Minuten noch nicht um sind, könnt ihr noch Altare öffnen.
 Am Ende farmt ihr dann Traumhölle 1, 3 oder 5. Auf T.1 bekommt ihr mehr Wertgegenstände und auf T.5 bekommt ihr mehr rote S Items. Evtl. auch einfach Glücksache mit dem S Items. Pro Run sind dann einige 1000 Münzen drin, bis an die 6500. Es macht kaum Sinn mehr als einen Boss zu spielen, da ihr nur 16 Items verkaufen könnt. Gelbes Lvl2 Equipment gibt mehr als violette Wertgegenstände. Spielt am besten nicht über Traumhölle 7 weiter. Traumhölle 9 schafft ihr mit 6 roten Equipmentteilen und 200 Talentmünzen. Dann geht es Endlos weiter. 3-4 rote Equipmentteile und 200 Talentmünzen reichen nicht aus. Im Talentebaum gibt es vier Fähigkeiten zum farmen: 15 % mehr Münzen beim verkaufen von Wertgegenständen. Chance auf einen permanenten Fluch reduzieren. Chance auf einen weiteren Drop von Altaren. Altare geben ATK Boni.
 
-Equipment zum weiterkommen: Stein der Spaltung (evtl.immerwährende Kette), Schwert der Unordnung, Rüstung des Quintus, (evtl.verdrehter Gürtel), immerwährende Handschuhe, immerwährende Schuhe, immerwährender Gürtel. Alles das was viel ATK gibt.
+Equipment zum weiterkommen: Stein der Spaltung (evtl. immerwährende Kette), Schwert der Unordnung (evtl. Kunai), immerwährende Rüstung (evtl. Rüstung des Quintus), das immerwährender Gürtel (evtl.verdrehter Gürtel), immerwährende Handschuhe (evtl. Handschuh des Chaos), immerwährende Schuhe. Alles das was viel ATK gibt.
 
-Es gibt glaube einen Trick um den dritten Boss nicht schaffen zu müssen und trotzdem den Savepoint freizuschalten. Wenn ihr die ersten zwei Bosse besiegt habt wartet ihr so lange bis sich die Todeszone ganz knapp an die Escapezone zugezogen hat.
+Es gibt einen Trick um den dritten Boss nicht schaffen zu müssen und trotzdem den Savepoint freizuschalten. Wenn ihr die ersten zwei Bosse besiegt habt wartet ihr so lange bis sich die Todeszone ganz knapp an die Escapezone zugezogen hat.
 
-Talentebaum:
+Talentebaum:\
+weniger Schaden, weniger Risiko
 ![Talentebaum](Images/Survivor.io_20250707_163149.png)
+mehr Schaden, höheres Risiko
+![Talentbaum1](Images/Survivor.io_20250810_101308.png)
 
 Es gibt noch die Variante mit wenig HP. Talente und auch Equipment gibt es. Problem ist, das Leben am Limit und das Sterben.
 
