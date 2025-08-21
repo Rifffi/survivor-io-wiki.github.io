@@ -177,7 +177,7 @@ ist aktuell wohl etwas besser als Yang. Aber nur wenn ihr eine hohe [krit. Rate]
 Wenn ihr genügend [krit. Rate](#kritische-treffer) habt ist das der 2 beste Charakter aktuell. Spätestens wenn ihr [Synergie](#synergie) freigeschaltet habt, werdet ihr genügend krit. Rate haben. Bei Bossmonster erscheint ein gelber Balken am Monster wenn ihr Joey Fähigkeit freigeschaltet habt. An der Seite mit dem gelben Balken müsst ihr stehen und Schaden hinzufügen. Zusätzlich habt ihr eine aktive Aktion die über den Button aktiviert und Joey kann am Bossmonster von überall mehr Schaden hinzufügen. Dies solltet ihr einsetzen, wenn ihr nicht auf die Seite des gelben Balkens kommt, weil dort die Wand ist, um das Bossmonster von der Wand weg zu locken. Wenn der gelbe Balken zwischendurch verschwindet sammelt ihr Exp. ein. Der Vorteil ist das kein aktiver Waffenslot belegt wird, sondern ein Slot für eine passive Fähigkeit. Um den gelben Balken besser sichtbar zu machen empfiehlt sich in den Einstellungen die VFK zu verringern. Natürlich sollte die Fähigkeit immer schnell verwendet werden, wenn sie Aufgeladen ist.
 
 ## Taloxa
-Der aktuell beste Charakter. Leider belegt diese mit seiner aktiven Fähigkeit wieder einen Waffenslot. Auf 6 roten Sternen wird dieses aber aufgehoben. Talox macht auch schon mit ca. 80% krit. Rate mehr Schaden als Panda. Die Fähigkeiten eigentlich immer auslösen im Spiel. Den Laser solltet ihr beim Bosskampf nutzen und dauerhaft auf den Boss ausrichten. Der Ladezustand wird Links angezeigt. Auf 5 roten Sternen könnt ihr den Laser fast dauerhaft nutzen. Wenn ihr bei Synergie auf Lvl 25 seit und Taloxa nur auf 4 roten Sternen, lohnt es sich Synergie auf Lvl 20 runter zu Stufen und Taloxa auf 5 rote Sterne zu bringen. Oder wenn ihr Synergie auf Lvl 20 habt, runter auf Lvl 10. Oder von 20 auf 15 um Taloxa von 3 auf 4 rote zu bekommen. Ein paar Kerne braucht ihr aber trotzdem noch zusätzlich.\
+Der aktuell beste Charakter. Leider belegt diese mit seiner aktiven Fähigkeit wieder einen Waffenslot. Auf 6 roten Sternen wird dieses aber aufgehoben. Talox macht auch schon mit ca. 80% krit. Rate mehr Schaden als Panda. Die Fähigkeiten eigentlich immer auslösen im Spiel. Den Laser solltet ihr beim Bosskampf nutzen und dauerhaft auf den Boss ausrichten. Wenn die Lanze zur Superwaffe gebracht wurde richtet sich der Laser immer zum Gegner. Der Ladezustand wird Links angezeigt. Maximal sind 400 drin. Wenn ihr Taloxa auf 5 roten Sternen habt, könnt ihr den Laser fast dauerhaft nutzen. Wenn ihr bei Synergie auf Lvl 25 seit und Taloxa nur auf 4 roten Sternen, lohnt es sich Synergie auf Lvl 20 runter zu Stufen und Taloxa auf 5 rote Sterne zu bringen. Oder wenn ihr Synergie auf Lvl 20 habt, runter auf Lvl 10. Oder von 20 auf 15 um Taloxa von 3 auf 4 rote zu bekommen. Ein paar Kerne braucht ihr aber trotzdem noch zusätzlich.\
 5 Kerne für Synergie Lvl 15 = 30% mehr\
 5 Kerne für Synergie Lvl 20 = 30% mehr\
 8 Kerne für Synergie Lvl 25 = 45% mehr\
@@ -395,8 +395,8 @@ Dies ist zeitaufwendig zu Spielen. Als Belohnungen gibt es S Items, gelbe und ro
 500 ATK schafft ihr die Einfach Stages (Boss in Mittel - 2)\
 1000 ATK schafft ihr Mittel durch (Boss in Schwer -2)\
 2500 ATK schafft ihr Schwer durch (Boss in Episch -2)\
-6000 ATK schafft ihr Episch durch (Boss in Legendär -2)\
-6200 ATK schafft ihr Legendäre durch ( Boss in Mystisch -2)\
+4500 ATK schafft ihr Episch durch (Boss in Legendär -2)\
+5600 ATK schafft ihr Legendäre durch ( Boss in Mystisch -2)\
 7300 ATK schafft ihr Mystisch durch ( Boss in Alptraum -2)\
 8900 ATK schafft ihr Alptraum durch ( Boss in Traumhölle -2)\
 Ihr benötigt ungefähr drei Balken um eure Fertigkeiten und Waffen zu maximieren, hängt aber auch von der Laufgeschwindigkeit stark ab. Wenn ihr in eine neue Ebene vorstoßen wollt fangt bei der höchsten Ebene an und erledigt keine/wenig Altare wegen den Debuffs. Empfohlene Waffen: Beide Drohnen bis zum Zerstörer, Fussball, Molotow, Pfeil. Hat man den Zerstörer kann man noch Blitz oder die Rakete nehmen. Empfohlene Fertigkeiten: ATK, Abklingzeit, Schuhe, Geschwindigkeit, Reichweite, Heilung (am Anfang), Panzer (wenn Heilung über Talentbaum). Wenn ihr startet zu spielen steuert erstmal keine Altäre an, sondern maximiert erstmal die Waffen und Fähigkeiten. Die Altare geben Debuffs die aber auch dauerhaft bleiben oder auch verschwinden. Je mehr Altare ihr spielt desto mehr füllt sich eure Liste. Nach einem Boss werden die debuffs nicht zurückgesetzt. Bei dem debuff: Sterben durch Schaden müsst ihr aufpassen. Der ist zwar nie permanent und ohne Schild ist bei einem Treffer sofort Ende. Das Problem ist immer den Boss in der angegeben Zeit zu schaffen. Daher keine Waffe, Kunai oder Schwert der Unordnung verwenden. Die Hauptwaffe sollte nach Möglichkeit alle Sterne haben oder eine Drohne hat 5 Sterne mit zielsuchenden Raketen. Sonst wird es selbst bei ausreichend ATK kritisch den Boss zu schaffen.
@@ -420,7 +420,7 @@ Es gibt einen Trick um den dritten Boss nicht schaffen zu müssen und trotzdem d
 Talentebaum:\
 weniger Schaden, weniger Risiko
 ![Talentebaum](Images/Survivor.io_20250707_163149.png)
-mehr Schaden, höheres Risiko, siehe Talent 37 und 43. Bei 43 der negative Effekt wirkt nur einmal beim dritten Treffer und kann Kontrolliert durch laufen in einen Gegner ausgelöst werden.
+mehr Schaden, höheres Risiko, siehe Talent 37 (ab Legendär) und 43. Bei 43 der negative Effekt wirkt nur einmal beim dritten Treffer und kann Kontrolliert durch laufen in einen Gegner ausgelöst werden.
 ![Talentbaum1](Images/Survivor.io_20250810_101308.png)
 
 Es gibt noch die Variante mit wenig HP. Talente und auch Equipment gibt es. Problem ist, das Leben am Limit und das Sterben.
