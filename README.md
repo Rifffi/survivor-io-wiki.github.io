@@ -397,7 +397,7 @@ Dies ist zeitaufwendig zu Spielen. Als Belohnungen gibt es S Items, gelbe und ro
 2500 ATK schafft ihr Schwer durch (Boss in Episch -2)\
 4500 ATK schafft ihr Episch durch (Boss in Legendär -2)\
 5600 ATK schafft ihr Legendäre durch ( Boss in Mystisch -2)\
-7300 ATK schafft ihr Mystisch durch ( Boss in Alptraum -2)\
+7000 ATK schafft ihr Mystisch durch ( Boss in Alptraum -2)\
 8900 ATK schafft ihr Alptraum durch ( Boss in Traumhölle -2)\
 Ihr benötigt ungefähr drei Balken um eure Fertigkeiten und Waffen zu maximieren, hängt aber auch von der Laufgeschwindigkeit stark ab. Wenn ihr in eine neue Ebene vorstoßen wollt fangt bei der höchsten Ebene an und erledigt keine/wenig Altare wegen den Debuffs. Empfohlene Waffen: Beide Drohnen bis zum Zerstörer, Fussball, Molotow, Pfeil. Hat man den Zerstörer kann man noch Blitz oder die Rakete nehmen. Empfohlene Fertigkeiten: ATK, Abklingzeit, Schuhe, Geschwindigkeit, Reichweite, Heilung (am Anfang), Panzer (wenn Heilung über Talentbaum). Wenn ihr startet zu spielen steuert erstmal keine Altäre an, sondern maximiert erstmal die Waffen und Fähigkeiten. Die Altare geben Debuffs die aber auch dauerhaft bleiben oder auch verschwinden. Je mehr Altare ihr spielt desto mehr füllt sich eure Liste. Nach einem Boss werden die debuffs nicht zurückgesetzt. Bei dem debuff: Sterben durch Schaden müsst ihr aufpassen. Der ist zwar nie permanent und ohne Schild ist bei einem Treffer sofort Ende. Das Problem ist immer den Boss in der angegeben Zeit zu schaffen. Daher keine Waffe, Kunai oder Schwert der Unordnung verwenden. Die Hauptwaffe sollte nach Möglichkeit alle Sterne haben oder eine Drohne hat 5 Sterne mit zielsuchenden Raketen. Sonst wird es selbst bei ausreichend ATK kritisch den Boss zu schaffen.
 ### Talentebaum 
