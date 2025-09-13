@@ -305,7 +305,7 @@ Auf Rot werden Bosse direkt fokussiert und angegriffen. Ist aber vom Schaden her
 Eher unbeliebt.
 
 ## Resonanz
-Um weitere Effekte freizuschalten gibt es den Resonanzwert. Dieser kann durch andere tech. Teile und durch Resonanzchips erhöht werden. Hier solltet ihr die verbleibenden nicht eingesetzten tech. Teil verteilen. Manchmal ist es sogar für Verteidigung tech. Teile sinnvoll diese wieder aufzuteilen um wichtig Effekte freizuschalten. 
+Um weitere Effekte freizuschalten gibt es den Resonanzwert. Dieser kann durch andere tech. Teile und durch Resonanzchips erhöht werden. Hier solltet ihr die verbleibenden nicht eingesetzten tech. Teil verteilen. Es ist sogar für tech. Teile sinnvoll diese wieder aufzuteilen um wichtige Effekte freizuschalten. Ein Zwillingsteil auf Lvl 1,2,3,4 wieder auf 0 bringen und einzeln ein Lvl niedriger, in die Resonanzslots stecken.
 
 # Sammelobjekte
 Hier könnte ihr durch die Objekte allgemein nochmal mehr ATK und HP bekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment einen Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden. Dies ist immer bei drei roten Sternen der Fall. Es lohnt sich ggf. darauf zu konzentrieren. Auch das Präzisionsgerät ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen (lila Bruchstücke). Diese können beim universellen Tausch benutzt werden. Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen. Durch das spielen von [Pfad der Prüfungen](#pfad-der-prüfungen) könnt ihr euch viele Sammelobjekte sichern.
