@@ -253,6 +253,9 @@ Ihr solltet nur passende Geschenk dem Tier geben dem es zugeordnet ist. Durch da
 # tech Teile
 Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigkeiten auswählt, weil diese durch die Teile auch verstärkt werden. Es ist nur möglich ein tech. Teil vom gleichen Typ auszurüsten. Durch Resonanz lassen sich einige tech. Teile nochmals verbessern. Eine Umverteilung solltet ihr hin und wieder mal prüfen. Die Zwillingsteile sind immer einzusetzen und mindestens zwei in den rechten Slots. Bei dritten muss man ein wenig mehr nach den tech Teilen für die Resonanz schauen.
 
+## Resonanz
+Um weitere Effekte freizuschalten gibt es den Resonanzwert. Dieser kann durch andere tech. Teile und durch Resonanzchips erhöht werden. Hier solltet ihr die verbleibenden nicht eingesetzten tech. Teil verteilen. Es ist sogar für tech. Teile sinnvoll diese wieder aufzuteilen um wichtige Effekte freizuschalten. Ein Zwillingsteil auf Lvl 1,2,3,4 wieder auf 0 bringen und einzeln ein Lvl niedriger, in die Resonanzslots stecken.
+
 ## Präzisionsgerät (empfohlen)
 Ist für die beiden Drohnen. Immer bevorzugt upgraden. Solltet ihr als erstes auf Rot bekommen später dann auf pink/lila/leuchtend/bunt. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
 
@@ -303,9 +306,6 @@ Auf Rot werden Bosse direkt fokussiert und angegriffen. Ist aber vom Schaden her
 
 ## Leistungsapparat
 Eher unbeliebt.
-
-## Resonanz
-Um weitere Effekte freizuschalten gibt es den Resonanzwert. Dieser kann durch andere tech. Teile und durch Resonanzchips erhöht werden. Hier solltet ihr die verbleibenden nicht eingesetzten tech. Teil verteilen. Es ist sogar für tech. Teile sinnvoll diese wieder aufzuteilen um wichtige Effekte freizuschalten. Ein Zwillingsteil auf Lvl 1,2,3,4 wieder auf 0 bringen und einzeln ein Lvl niedriger, in die Resonanzslots stecken.
 
 # Sammelobjekte
 Hier könnte ihr durch die Objekte allgemein nochmal mehr ATK und HP bekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment einen Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden. Dies ist immer bei drei roten Sternen der Fall. Es lohnt sich ggf. darauf zu konzentrieren. Auch das Präzisionsgerät ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen (lila Bruchstücke). Diese können beim universellen Tausch benutzt werden. Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen. Durch das spielen von [Pfad der Prüfungen](#pfad-der-prüfungen) könnt ihr euch viele Sammelobjekte sichern.
