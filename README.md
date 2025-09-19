@@ -327,9 +327,9 @@ In folgender Reihenfolge Waffen und Fertigkeiten auswählen, wenn sie kommen.
 7. Abklingzeit
 8. Fußballschuhe (wenn Leerwandlertreter)
 10. Schussgeschwindigkeit
-11. Fußball
+11. Blitz 
 12. Rakete
-13. Blitz
+13. Fussball
 14. Bohrer
 
 Zusätzlich schaut das alle 6 Slots mit Waffen belegt werden, sonst ist es schwieriger den Zerstörer oder die Hauptwaffe zur Superwaffe zu bekommen. Sonst kommen immer wieder andere Vorschläge für andere Waffen. Manchmal dauert es auch richtig lange bis ihr beide Drohnen bekommt. Ab 1 Minute Restzeit solltet ihr vielleicht auch davon abrücken, wenn ihr nur eine Drohne habt. Dann lieber die Hauptwaffe zu Superwaffe bringen oder ATK. Am Ende vom Kampf könnt ihr auch eine Statistik anschauen welche Waffe wieviel Schaden gemacht habt. Schaut dort rein und optimiert euch selber.
@@ -355,9 +355,9 @@ Jeder Charakter hat individuelle Fähigkeiten. Wie diese zu handhaben sind steht
 Reihenfolge der Fertigkeiten plus tech. Teile auf Rot mit dem meisten Schaden:
 1. Zerstörer
 2. Charakterfertigkeit
-3. Fußball
+3. Blitz mit Resonanz 
 4. Rakete mit Resonanz
-5. Blitz 
+5. Fussball mit Resonanz 
 6. Pfeil mit Resonanz
 
 Ölfass/Molotow und Durian/Nanobot sind zwar vom Schaden besser aber erst als Superwaffe geben sie zusätzliche Atk. Diese als Superwaffe in Ende des Echo zu bekommen ist schwieriger.
@@ -367,17 +367,17 @@ Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellu
 
 Für fast optimalen Schaden mit
 [Panda](#panda):
-Hauptwaffe, Zerstörer, Charakter Fähigkeit, Fußball, Rakete, Molotow, ATK, Geschwindigkeit, Abklingzeit, Reichweite und Exoskelett. Wer keine SS Schuhe und die Leerwandlertreter hat sollte Schuhe und Fußball anstatt Molotow nehmen. Genauso wenn das tech. Teil nicht rot ist.
+Hauptwaffe, Zerstörer, Charakter Fähigkeit, Blitz, Rakete, Molotow, ATK, Geschwindigkeit, Abklingzeit, Reichweite und Exoskelett. Wer keine SS Schuhe und die Leerwandlertreter hat sollte Schuhe und Fußball anstatt Molotow nehmen. Genauso wenn das tech. Teil nicht rot ist.
 
 [Joey](#joey) / Metallica:
-Hauptwaffe, Zerstörer, Blitz, Rakete, Fußball, Molotow, ATK, Charakter Fähigkeit, Exoskelett, Geschwindigkeit, Abklingzeit und Reichweite.
+Hauptwaffe, Zerstörer, Blitz, Rakete, Fussball, Molotow, ATK, Charakter Fähigkeit, Exoskelett, Geschwindigkeit, Abklingzeit und Reichweite.
 
 [Taloxa](#Taloxa)
-Hauptwaffe, Zerstörer, Charakter Fähigkeit, Fussball, Blitz, Molotow, ATK, Exoskelett, Geschwindigkeit, Abklingzeit, Schuhe und Reichweite
+Hauptwaffe, Zerstörer, Charakter Fähigkeit, Rakete, Blitz, Molotow, (Fussball) ATK, Exoskelett, Geschwindigkeit, Abklingzeit, Schuhe und Reichweite
 
 Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen. Dafür Exoskelett und/oder Schuhe weglassen. Hier solltet ihr am Anfang dreimal sterben, wenn immerwährende Rüstung angelegt, außer der Boss ist zu stark. Seid ihr zu stark Defensives Equipment auf Level 1 herunterstufen. Um die HP zu reduzieren lasst euch von Boss durch die Gegend schieben und nicht in die Ecke drängen. Dadurch bleiben die SS Schuhe aufgeladen. Bzw. lösen Effekte schneller oder häufiger aus.
 
-Immer wieder ändert sich etwas am Spiel daher können auch andere Zusammenstellung sinnvol sein.
+Immer wieder ändert sich etwas am Spiel daher können auch andere Zusammenstellung sinnvol sein. Dies könnt ihr in der Mondmine durch mehrere verschiedene Spiele und Änderungen gut ausprobieren.
 
 # Prüfungen
 
