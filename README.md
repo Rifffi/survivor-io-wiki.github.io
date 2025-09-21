@@ -250,6 +250,13 @@ Bei jedem Tier könnt ihr Fertigkeiten einsetzen. Hier rät es sich auf ATK Erh�
 ## Geschenke
 Ihr solltet nur passende Geschenk dem Tier geben dem es zugeordnet ist. Durch das Schenken wird die ATK des Besitzers erhöht. Dies gilt auch wenn ihr das Tier nicht ausgerüstet habt, sprich auch wenn nicht als Unterstützungstier oder Haupttier selektiert ist. Da das Level auch an das Erwachen gebunden ist geht mit Bedacht vor. Fakt ist aber, das ihr euch auf ein Tier erstmal konzentriert beim erwachen und fie Geschenke gleichmäßig auf alle verteilt.
 
+# Xeno- Tiere
+Ab 4 gelben Sternen sind die Xeno Tiere ungefähr besser als die normalen. Ab da gibt es  Boni für den Besitzer.
+## Clucker
+Gibt krit. Rate und krit. Schaden, daher super für die Mondmine.
+## Puffo
+Gibt am meisten mehr Schaden, daher super für Enders Echo oder für die eine sehr hohe krit. Rate, bei der Mondmine von über 200%.
+
 # tech Teile
 Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigkeiten auswählt, weil diese durch die Teile auch verstärkt werden. Es ist nur möglich ein tech. Teil vom gleichen Typ auszurüsten. Durch Resonanz lassen sich einige tech. Teile nochmals verbessern. Eine Umverteilung solltet ihr hin und wieder mal prüfen. Die Zwillingsteile sind immer einzusetzen und mindestens drei in den rechten Slots. Beim dritten muss man ein wenig mehr nach den tech Teilen für die Resonanz schauen.
 
@@ -401,7 +408,7 @@ Dies ist zeitaufwendig zu Spielen. Als Belohnungen gibt es S Items, gelbe und ro
 4500 ATK schafft ihr Episch durch (Boss in Legendär -2)\
 5600 ATK schafft ihr Legendäre durch ( Boss in Mystisch -2)\
 6500 ATK schafft ihr Mystisch durch ( Boss in Alptraum -2)\
-8500 ATK schafft ihr Alptraum durch ( Boss in Traumhölle -2)\
+7500 ATK schafft ihr Alptraum durch ( Boss in Traumhölle -2)\
 Ihr benötigt ungefähr drei Balken um eure Fertigkeiten und Waffen zu maximieren, hängt aber auch von der Laufgeschwindigkeit stark ab. Wenn ihr in eine neue Ebene vorstoßen wollt fangt bei der höchsten Ebene an und erledigt keine/wenig Altare wegen den Debuffs aber trotzdem 4 ansteuern und direkt aus dem Kreis laufen (Talent 57). Empfohlene Waffen: Beide Drohnen bis zum Zerstörer, Fussball, Molotow, Pfeil. Hat man den Zerstörer kann man noch Blitz oder die Rakete nehmen. Empfohlene Fertigkeiten: ATK, Abklingzeit, Schuhe, Geschwindigkeit, Reichweite, Heilung (am Anfang), Panzer (wenn Heilung über Talentbaum). Wenn ihr startet zu spielen steuert erstmal keine Altäre an, sondern maximiert erstmal die Waffen und Fähigkeiten. Die Altare geben Debuffs die aber auch dauerhaft bleiben oder auch verschwinden. Je mehr Altare ihr spielt desto mehr füllt sich eure Liste. Nach einem Boss werden die debuffs nicht zurückgesetzt. Bei dem debuff: Sterben durch Schaden müsst ihr aufpassen. Der ist zwar nie permanent und ohne Schild ist bei einem Treffer sofort Ende. Das Problem ist immer den Boss in der angegeben Zeit zu schaffen. Daher keine Waffe, Kunai oder Schwert der Unordnung verwenden. Die Hauptwaffe sollte nach Möglichkeit alle Sterne haben oder eine Drohne hat 5 Sterne mit zielsuchenden Raketen. Sonst wird es selbst bei ausreichend ATK kritisch den Boss zu schaffen. Vor einem Bosskampf solltet ihr in der letzten Minutr 10 Kugeln einsammeln (Talent 6). Sehr ihr auch links bei den ganzen Symbolen + Zähler.
 ### Talentebaum 
 Es gibt einen Talentebaum. Hier am besten immer nur einen Stern vergeben und immmer nur das Schwert auswählen. Heißt so schnell wie möglich nach oben kommen und später dann mit mehr Sternen ausfüllen. Ebenfalls nur rote Talente auswählen, nur diese bringen ATK Boni. Ein paar grüne Felder geben auch ATK Boni. Talentmünzen für den Baum bekommt ihr hauptsächlich aus einem Altar. Es gibt ein Limit das sich pro Tag um 10 erhöht. 200 Talentmünzen könnt ihr insgesamt erlangen. In die nächste Session können 40% der Talentmünzen mit übernommen werden. Bei 200 sind dies 80. Euer Equipment wird komplett resettet auch übrig gebliebe Münzen. Also verkauft am Ende euer Equipment. Bei den Talenten empfiehlt sich alles auszuwählen was ATK bringt und was nicht HP oder Shield auf 30% Limitiert. Den Skill wo ihr wiederbelebt solltet ihr aber mitnehmen. Da sterben nervig ist. Hinterher müsst ihr aber eine Limitierung auf 30% auswählen um weiter zu kommen.
