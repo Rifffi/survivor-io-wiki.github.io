@@ -481,8 +481,10 @@ Die ersten 4 sind Pflichtprogramm und eigentlich auch in einer dreiviertel Stund
 Es gibt zwei Youtuber Playme (https://www.youtube.com/c/PlayMe-GameChannel) und Phasecast (https://www.youtube.com/@Phasecast) die unzählige Videos erstellt haben.
 
 # Kalkulator
-externer Link, die Kalkulatoren und Inhalte haben nichts mit diesem Wiki zu tun:
-https://danke007.com/
+externer Links, die Kalkulatoren und Inhalte haben nichts mit diesem Wiki zu tun:
+https://sio-tools.vercel.app/ (kostenlos)
+
+https://danke007.com/ (teilweise Kostenlos)
 Es ist ratsam den Googletranslator zu verwenden.
 
 ## Equipment optimieren
