@@ -431,7 +431,7 @@ Talentebaum:\
 weniger Schaden, weniger Risiko
 ![Talentebaum](Images/Survivor.io_20250707_163149.png)
 mehr Schaden, höheres Risiko, siehe Talent 37 (ab Legendär) und 43 (ab Albtraum). Bei 43 der negative Effekt wirkt nur einmal beim dritten Treffer und kann Kontrolliert durch laufen in einen Gegner ausgelöst werden. Niemals mit Talent 36 kombinieren.
-![Talentbaum1](Images/Survivor.io_20250810_101308.png)
+![Talentbaum1](Images/Survivor.io_20251005_204849.png)
 
 Es gibt noch die Variante mit wenig HP. Talente und auch Equipment gibt es. Problem ist, das Leben am Limit und das Sterben.
 
