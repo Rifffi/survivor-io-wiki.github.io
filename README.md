@@ -251,11 +251,13 @@ Bei jedem Tier könnt ihr Fertigkeiten einsetzen. Hier rät es sich auf ATK Erh�
 Ihr solltet nur passende Geschenk dem Tier geben dem es zugeordnet ist. Durch das Schenken wird die ATK des Besitzers erhöht. Dies gilt auch wenn ihr das Tier nicht ausgerüstet habt, sprich auch wenn nicht als Unterstützungstier oder Haupttier selektiert ist. Da das Level auch an das Erwachen gebunden ist geht mit Bedacht vor. Fakt ist aber, das ihr euch auf ein Tier erstmal konzentriert beim erwachen und fie Geschenke gleichmäßig auf alle verteilt.
 
 # Xeno-Tiere
-Ab 4 gelben Sternen sind die Xeno Tiere ungefähr besser als die Normalen. Ab da gibt es Boni für den Besitzer.
+Ab 4 gelben Sternen sind die Xeno Tiere ungefähr besser als die Normalen. Ab da gibt es Boni für den Besitzer. Das wechseln eines Tieres kann Kostspielig sein weil das Tier entlassen werden muss damit man die Kekse zurück bekommt. Dabei gehen 10% der Keks verloren.
 ## Clucker
-Gibt krit. Rate und krit. Schaden, daher super für die Mondmine.
+Gibt krit. Rate und krit. Schaden, daher super für die Mondmine. Aber such nur wenn der Gegner viel krit. Raten Debuff hat.
 ## Puffo
-Gibt am meisten mehr Schaden, daher super für Enders Echo oder für die eine sehr hohe krit. Rate, bei der Mondmine von über 200%.
+Ist etwas schlechter als Blizzblast.
+# König Blizzblast
+Für Ender Echo aktuell das Beste Xeno-Tier. Bei der Mondmine kommt es auf den krit. Raten Debuff an. Dies wird dann über 200% interessant.
 
 # tech Teile
 Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigkeiten auswählt, weil diese durch die Teile auch verstärkt werden. Es ist nur möglich ein tech. Teil vom gleichen Typ auszurüsten. Durch Resonanz lassen sich einige tech. Teile nochmals verbessern. Eine Umverteilung solltet ihr hin und wieder mal prüfen. Die Zwillingsteile sind immer einzusetzen und mindestens drei in den rechten Slots. Beim dritten muss man ein wenig mehr nach den tech Teilen für die Resonanz schauen.
