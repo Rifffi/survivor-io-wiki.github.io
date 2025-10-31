@@ -251,7 +251,7 @@ Bei jedem Tier könnt ihr Fertigkeiten einsetzen. Hier rät es sich auf ATK Erh�
 Ihr solltet nur passende Geschenk dem Tier geben dem es zugeordnet ist. Durch das Schenken wird die ATK des Besitzers erhöht. Dies gilt auch wenn ihr das Tier nicht ausgerüstet habt, sprich auch wenn nicht als Unterstützungstier oder Haupttier selektiert ist. Da das Level auch an das Erwachen gebunden ist geht mit Bedacht vor. Fakt ist aber, das ihr euch auf ein Tier erstmal konzentriert beim erwachen und fie Geschenke gleichmäßig auf alle verteilt.
 
 # Xeno-Tiere
-Ab 4 gelben Sternen sind die Xeno Tiere ungefähr besser als die Normalen. Ab da gibt es Boni für den Besitzer. Das wechseln eines Tieres kann Kostspielig sein weil das Tier entlassen werden muss damit man die Kekse zurück bekommt. Dabei gehen 10% der Keks verloren.
+Ab 4 gelben Sternen sind die Xeno Tiere ungefähr besser als die Normalen. Ab da gibt es Boni für den Besitzer. Das wechseln eines Tieres kann Kostspielig sein weil das Tier entlassen werden muss damit man die Kekse zurück bekommt. Dabei gehen 10% der Keks verloren. Für 4 gelbe Stern benötigt ihr 130 gelbe Sterne und 4 Xeno-Kerne. Die normalen Tiere denen ihr Geschenke gegeben habt sollte ihr nicht entlasten.
 ## Clucker
 Gibt krit. Rate und krit. Schaden, daher super für die Mondmine. Aber such nur wenn der Gegner viel krit. Raten Debuff hat.
 ## Puffo
