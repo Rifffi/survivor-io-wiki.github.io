@@ -251,13 +251,16 @@ Bei jedem Tier könnt ihr Fertigkeiten einsetzen. Hier rät es sich auf ATK Erh�
 Ihr solltet nur passende Geschenk dem Tier geben dem es zugeordnet ist. Durch das Schenken wird die ATK des Besitzers erhöht. Dies gilt auch wenn ihr das Tier nicht ausgerüstet habt, sprich auch wenn nicht als Unterstützungstier oder Haupttier selektiert ist. Da das Level auch an das Erwachen gebunden ist geht mit Bedacht vor. Fakt ist aber, das ihr euch auf ein Tier erstmal konzentriert beim erwachen und fie Geschenke gleichmäßig auf alle verteilt.
 
 # Xeno-Tiere
-Ab 4 gelben Sternen sind die Xeno Tiere ungefähr besser als die Normalen. Ab da gibt es Boni für den Besitzer. Das wechseln eines Tieres kann Kostspielig sein weil das Tier entlassen werden muss damit man die Kekse zurück bekommt. Dabei gehen 10% der Keks verloren. Für 4 gelbe Stern benötigt ihr 130 gelbe Sterne und 4 Xeno-Kerne. Die normalen Tiere denen ihr Geschenke gegeben habt sollte ihr nicht entlasten.
+Ab 4 gelben Sternen sind die Xeno Tiere ungefähr besser als die Normalen. Ab da gibt es Boni für den Besitzer. Das wechseln eines Tieres kann kostspielig sein, weil das Tier entlassen werden muss damit man die Kekse zurück bekommt. Dabei gehen 10% der Keks verloren. Für 4 gelbe Stern benötigt ihr 130 gelbe Sterne und 4 Xeno-Kerne. Die normalen Tiere denen ihr Geschenke gegeben habt sollte ihr nicht entlasten.
 ## Clucker
 Gibt krit. Rate und krit. Schaden, daher super für die Mondmine. Aber such nur wenn der Gegner viel krit. Raten Debuff hat.
 ## Puffo
 Ist etwas schlechter als Blizzblast.
-# König Blizzblast
+## König Blizzblast
 Für Ender Echo aktuell das Beste Xeno-Tier. Bei der Mondmine kommt es auf den krit. Raten Debuff an. Dies wird dann über 200% interessant.
+## Unterstützungsfertigkeiten
+Es gibt Slot für weitere Unterstützungstiere inkl. Fertigkeitsslots für die Fertigkeiten. Diese Slots werden freigeschaltet wenn die jeweilige Art des Tieres gelbe Sterne hat. Bei 1,4,... gelben Sterne wird jeweils ein Slot freigeschaltet. Daher sinnvoll nur die selben Tiere in die Slots zu packen, da ihr weniger Ressourcen benötigt. In die ersten beiden Fertigkeitenslots gehören Schwert mit Katzensymbol und nur das Katzensymbol. Reihenfolge ist egal. Alle anderen Tiere solltet ihr entlassen. Dazu müsst ihr das Tier mit Cookies sehr häufig auf Lvl 30 bringen. Bzw. auch euch sehr viele Tiere kaufen. Erstmal bringt ihr euer Haupttier auf Lvl und die Unterstützungstiere auf Lvl 30. Danach euer Haupttier auf Lvl 90. Je nach Erwachenstern zieht ihr Unterstützungstiere mit dem Lvl nach. Tiere die danach ein Herzsymbol als Unterstützungsfertigkeit bekommen entlasst ihr. Wenn ihr ein Tier auf Lvl 90 habt gibt es eine Pille die ihr benutzen könnt um eine Fertigkeit nochmal wechseln zu können.
+Am Anfang nehmt ihr natürlich erstmal die Tiere mit irgendwelchen Symbolen.
 
 # tech Teile
 Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigkeiten auswählt, weil diese durch die Teile auch verstärkt werden. Es ist nur möglich ein tech. Teil vom gleichen Typ auszurüsten. Durch Resonanz lassen sich einige tech. Teile nochmals verbessern. Eine Umverteilung solltet ihr hin und wieder mal prüfen. Die Zwillingsteile sind immer einzusetzen und mindestens drei in den rechten Slots. Beim dritten muss man ein wenig mehr nach den tech Teilen für die Resonanz schauen.
@@ -487,7 +490,7 @@ Es gibt zwei Youtuber Playme (https://www.youtube.com/c/PlayMe-GameChannel) und 
 externer Links, die Kalkulatoren und Inhalte haben nichts mit diesem Wiki zu tun:
 https://sio-tools.vercel.app/ (kostenlos)
 Ihr wählt das Szenario aus: Enders Echo oder Moonmine Phasen. ATK:
-Ihr tragt dort in die Felder die Basis-ANG und Final-ANG ein. Die Werte findet ihr auf eurer Equipment Seite oben links hinter dem weißen Button. Ebenfalls Sammelobjekte und Charaktere so eingeben wie ihr sie habt. Unter Items ist dort ein kleiner Button wo hier dahinter 2 mal die Anzahl eurer Relikt-Kerne eingebt und auf calculate drückt. Danach habt ihr eure Zuteilung der Kerne. Gleiches könnt ihr auch für die tech. Teile machen.
+Ihr tragt dort in die Felder die Basis-ANG und Final-ANG ein. Die Werte findet ihr auf eurer Equipment Seite oben links hinter dem weißen Button. Ebenfalls Sammelobjekte und Charaktere so eingeben wie ihr sie habt. Unter Items ist dort ein kleiner Button wo hier dahinter 2 mal die Anzahl eurer Relikt-Kerne eingebt und auf calculate drückt. Danach habt ihr eure Zuteilung der Kerne. Gleiches könnt ihr auch für die tech. Teile machen. Dort gebt ihr die Anzahl an wie viele einzelne tech. Teile ihr von welcher Farbe und Lvl habt. Bunte, rote und lvl 3 gelbe reichen. Dann noch die Anzahl der Resonanz-Chips und welche Zwillingsteile ihr auf Lvl 0 jeweils habt. Ansonst erstmal alle Zwillingstechteile auf Lvl zerlegen.
 
 https://danke007.com/ (teilweise Kostenlos)
 Es ist ratsam den Googletranslator zu verwenden.
