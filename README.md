@@ -20,6 +20,7 @@ Wiki für das Spiel survior.io [Google Play](https://play.google.com/store/apps/
 * [tech Teile](#tech-teile)
 * [Tiere](#tiere)
 * [Waffen](#waffen)
+* [Xeno-Tiere](#xeno-tiere)
 
 
 # Patrouille
@@ -263,7 +264,7 @@ Es gibt Slot für weitere Unterstützungstiere inkl. Fertigkeitsslots für die F
 Am Anfang nehmt ihr natürlich erstmal die Tiere mit irgendwelchen Symbolen.
 
 # tech Teile
-Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigkeiten auswählt, weil diese durch die Teile auch verstärkt werden. Es ist nur möglich ein tech. Teil vom gleichen Typ auszurüsten. Durch Resonanz lassen sich einige tech. Teile nochmals verbessern. Eine Umverteilung solltet ihr hin und wieder mal prüfen. Die Zwillingsteile sind immer einzusetzen und mindestens drei in den rechten Slots. Beim dritten muss man ein wenig mehr nach den tech Teilen für die Resonanz schauen.
+Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigkeiten auswählt, weil diese durch die Teile auch verstärkt werden. Es ist nur möglich ein tech. Teil vom gleichen Typ auszurüsten. Durch Resonanz lassen sich einige tech. Teile nochmals verbessern. Eine Umverteilung solltet ihr hin und wieder mal prüfen. Nehmt dazu auch den [Kalkulator](#kalkulator). Die Zwillingsteile sind immer einzusetzen und mindestens drei in den rechten Slots. Mittlerweile gibt es 5 Zwillingstechteile und in den letzten kommt der Molotow.
 
 ## Resonanz
 Um weitere Effekte freizuschalten gibt es den Resonanzwert. Dieser kann durch andere tech. Teile und durch Resonanzchips erhöht werden. Hier solltet ihr die verbleibenden nicht eingesetzten tech. Teil verteilen. Es ist sogar für tech. Teile sinnvoll diese wieder aufzuteilen um wichtige Resonanzeffekte freizuschalten. Ein Zwillingsteil auf Lvl 1,2,3,4 wieder auf 0 bringen und einzeln ein Lvl niedriger, in die Resonanzslots stecken. Die Drohnen können mit Resonanzchips etwas mehr aufgewertet werden die restlichen Chips solltet ihr weitestgehend gleich verteilen. Am Besten schauen das ihr sowas wie +20% mehr Schaden gerade so mitnehmt.
@@ -295,6 +296,9 @@ Auch hier auf die Resonanzverteilung achten
 ## Phasenumwandler (empfohlen)
 2 Blitzschläge mehr. Auch gut gegen Bossmonster.
 
+## Exo-Radikator (Wächtermodus) (empfohlen)
+gibt mit Resonanz wieder viele Boni und mach auch einen guten Flächenschaden.
+
 ## Exoskelett (empfohlen)
 Hält euch durch den erhöhten Pushback die Monster noch besser vom Hals.
 
@@ -308,7 +312,7 @@ Die Raketen werden schneller wieder abgeschossen. Auch gut für mehr Schaden an 
 Auf rot +10% Schaden durch Verwundung. Bei genug Resonanz wird auch die Fähigkeit Gold für die Superwaffe nicht mehr benötigt.
 
 ## Nanobot
-Schlecht steuerbar. Erst ist besser als Quantum-Nanobot
+Schlecht steuerbar. Ist erst besser als Quantum-Nanobot und klebt dann am Boss.
 
 ## Antimateriegenerator
 Erhöht die Fluggeschwindigkeit.
@@ -326,7 +330,7 @@ Eher unbeliebt.
 Hier könnte ihr durch die Objekte allgemein nochmal mehr ATK und HP bekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment einen Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden. Dies ist immer bei drei roten Sternen der Fall. Es lohnt sich ggf. darauf zu konzentrieren. Auch das Präzisionsgerät ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen (lila Bruchstücke). Diese können beim universellen Tausch benutzt werden. Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen. Durch das spielen von [Pfad der Prüfungen](#pfad-der-prüfungen) könnt ihr euch viele Sammelobjekte sichern.
 
 ## Sets
-Durch die lila Sammelobject Scherben könnt ihr zusätzliche Boni freischalten. Das erste Set könnt ihr recht schnell freischalten. Alle Slots solltet ihr nach Möglichkeit mit roten Sammelobjekten besetzen. Die erste Reihe beim zweiten Set könnt ihr auch recht schnell besetzen. Danach sind die Slots mit 30.000 teuer. Solltet ihr den nächsten Slot nicht mit einem roten Sammelobjekt besetzen zu können solltet ihr die lila Scherben lieber in die Sammelobjekte direkt stecken.
+Durch die lila Sammelobject Scherben könnt ihr zusätzliche Boni freischalten. Das erste Set könnt ihr recht schnell freischalten. Alle Slots solltet ihr nach Möglichkeit mit roten Sammelobjekten besetzen. Die erste Reihe beim zweiten Set könnt ihr auch recht schnell besetzen. Danach sind die Slots mit 30.000 teuer. Solltet ihr den nächsten Slot nicht mit einem roten Sammelobjekt besetzen zu können solltet ihr die lila Scherben lieber in die Sammelobjekte direkt stecken. Wenn ihr mehr lila Scherben bekommen wollt, könnt ihr Schlüssel benutzen und dort einsetzen wo ihr lila und gelbe Sammelobjekte auf max Sterne habt. Aber eigentlich ist diese Vorgehen über die Zeit gesehen Verschwendung, da ihr andere Sammelobjekte später bekommt.
 
 # Echo des Endes
 Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char upzugraden. Hier könnt ihr starten und sofort wieder beenden bekommt aber nicht alle Belohnungen wie die tech. Teile.
@@ -378,7 +382,7 @@ Reihenfolge der Fertigkeiten plus tech. Teile auf Rot mit dem meisten Schaden:
 Ölfass/Molotow und Durian/Nanobot sind zwar vom Schaden besser aber erst als Superwaffe geben sie zusätzliche Atk. Diese als Superwaffe in Ende des Echo zu bekommen ist schwieriger.
 
 ### Expedition / Mondmine
-Bei der Expedition solltet ihr Diamanten ausgeben um die optimale Zusammenstellung zu erreichen. Bei der Mondmine benötigt ihr keine Diamanten. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden, wenn ihr weiter auswählt.
+Bevor ihr die Expedition startet solltet ihr immer die optimale Zusammenstellung der Waffen und passiven Fertigkeiten auswählen. Bei der Mondmine benötigt ihr keine Diamanten. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden, wenn ihr weitere Waffen neu auswählt.
 
 Für fast optimalen Schaden mit
 [Panda](#panda):
