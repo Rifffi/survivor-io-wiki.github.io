@@ -486,6 +486,8 @@ Es gibt zwei Youtuber Playme (https://www.youtube.com/c/PlayMe-GameChannel) und 
 # Kalkulator
 externer Links, die Kalkulatoren und Inhalte haben nichts mit diesem Wiki zu tun:
 https://sio-tools.vercel.app/ (kostenlos)
+Ihr wählt das Szenario aus: Enders Echo oder Moonmine Phasen. ATK:
+Ihr tragt dort in die Felder die Basis-ANG und Final-ANG ein. Die Werte findet ihr auf eurer Equipment Seite oben links hinter dem weißen Button. Ebenfalls Sammelobjekte und Charaktere so eingeben wie ihr sie habt. Unter Items ist dort ein kleiner Button wo hier dahinter 2 mal die Anzahl eurer Relikt-Kerne eingebt und auf calculate drückt. Danach habt ihr eure Zuteilung der Kerne. Gleiches könnt ihr auch für die tech. Teile machen.
 
 https://danke007.com/ (teilweise Kostenlos)
 Es ist ratsam den Googletranslator zu verwenden.
