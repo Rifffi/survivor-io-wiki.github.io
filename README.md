@@ -510,8 +510,10 @@ Damit ihr eure Zusammenstellung einfach wechseln könnt gibt es in der Astralsch
 Der Vorteil der Lanze bei Echo des Endes auf einem Stern, auf Lvl. 3 zu starten, geht in dem Kalkulator etwas unter. Genauso kommt es auch auf das können jedes einzelnen an mit der Zusammenstellung umzugehen und sie entsprechend für sich zu nutzen. Auch sind einige Effekt von der Ansatz an getöteten Monster und Treffern abhängig. Dies ist aber beim Starten des Level nicht geben. Wenn gewisse krit. Raten nicht erreicht wird die zwar als Hinweis angezeigt aber nicht mit einberechnet. Das Prinzip ist eigentlich recht Simpel mit möglichst vielen Reliktkernen möglichst viele Boni rausholen. Mit steigenden Sternen benötigt ihr auch mehr Reliktkerne. Daher kommt es meistens nicht vor erst eine Waffe mit allen gelben/roten Sternen auszustatten. Genauso wird die immerwährende Rüstung wegen dem Effekt nach Sterben 20% mehr ATK vom Kalkulator empfohlen. Hier ist es mit viel HP und einfachen Boss schwierig 4 mal zu sterben und dadurch 80% mehr ATK abzurufen.
 
 # Bugs
+Unter Einstellungen gibt es den Button Fehler beheben. Dieser löscht alle lokalen Einstellungen. Eure Spielstand wird dann einmal neu vom Server heruntergeladen.
+
 ## Chat
-Der Clan Chat ist beendet leider das Spiel ab und zu, sobald ihr einen Text schreiben wollt. Je schneller ihr schreibt desto weniger die Gefahr des Absturzes. Des weiteren werden nicht immer alle zuletzt geschrieben Nachrichten angezeigt. Hier rat es sich immer das Spiel einmal zu komplett zu beenden und neu zu öffnen.
+Der Clan Chat zeigt leider nicht immer alle aktuellen Nachrichten an. Daher ist es ratsam das Spiel einmal komplett zu beenden und neu zu öffnen.
 
 ## Millionen Monster kills
 Warnung: Je mehr klicks ihr tätigt destomehr Anfragen werden auf einmal an den Server gesendet, dies könnte beim übertreiben dem Betreiber vielleicht missfallen. Für etwaige Konsequenzen seit ihr selber verantwortlich. Es ist nur Fair wenn alle mit den gleichen Mitteln spielen können. Dem Betreiber obliegt es auch den Bug zu schließen. Hier sollte man auch nicht von einem Bug, sondern von einem speziellen Feature, sprechen da wo etlich Spieler davon wissen.
