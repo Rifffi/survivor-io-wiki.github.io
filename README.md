@@ -491,13 +491,13 @@ Die ersten 4 sind Pflichtprogramm und eigentlich auch in einer dreiviertel Stund
 Es gibt zwei Youtuber Playme (https://www.youtube.com/c/PlayMe-GameChannel) und Phasecast (https://www.youtube.com/@Phasecast) die unzählige Videos erstellt haben.
 
 # Kalkulator
-externer Links, die Kalkulatoren und Inhalte haben nichts mit diesem Wiki zu tun:
+externe Links, die Kalkulatoren und Inhalte haben nichts mit diesem Wiki zu tun:
 https://sio-tools.vercel.app/ (kostenlos)
-Ihr wählt das Szenario aus: Enders Echo oder Moonmine Phasen. ATK:
-Ihr tragt dort in die Felder die Basis-ANG und Final-ANG ein. Die Werte findet ihr auf eurer Equipment Seite oben links hinter dem weißen Button. Ebenfalls Sammelobjekte und Charaktere so eingeben wie ihr sie habt. Unter Items ist dort ein kleiner Button wo hier dahinter 2 mal die Anzahl eurer Relikt-Kerne eingebt und auf calculate drückt. Danach habt ihr eure Zuteilung der Kerne. Gleiches könnt ihr auch für die tech. Teile machen. Dort gebt ihr die Anzahl an wie viele einzelne tech. Teile ihr von welcher Farbe und Lvl habt. Bunte, rote und lvl 3 gelbe reichen. Dann noch die Anzahl der Resonanz-Chips und welche Zwillingsteile ihr auf Lvl 0 jeweils habt. Ansonst erstmal alle Zwillingstechteile auf Lvl zerlegen.
+Ihr wählt das Szenario aus: Enders Echo oder eine Moonmine Phase. Bei ATK:
+Ihr tragt dort in die Felder die Basis-ANG und Final-ANG ein. Die Werte findet ihr auf eurer Equipment Seite oben links hinter dem weißen Button. Ebenfalls Sammelobjekte und Charaktere so eingeben wie ihr sie habt. Unter Items ist dort ein kleiner Button wo hier dahinter 2 mal die Anzahl eurer Relikt-Kerne eingebt und auf Calculate drückt. Danach habt ihr eure Zuteilung der Kerne. Gleiches könnt ihr auch für die tech. Teile machen. Dort gebt ihr die Anzahl an wie viele einzelne tech. Teile ihr von welcher Farbe und Lvl habt. Bunte, rote jedes Lvl und lvl 3 gelbe reichen. Dann noch die Anzahl der Resonanz-Chips und welche Zwillingsteile ihr auf Lvl 0 jeweils habt. Ansonst erstmal alle Zwillingstechteile auf Lvl 0 zerlegen.
 
+Alternative: 
 https://danke007.com/ (teilweise Kostenlos)
-Es ist ratsam den Googletranslator zu verwenden.
 
 ## Equipment optimieren
 Mit der Kalkulatoren Seite könnt ihr die optimale Zusammenstellung für Bosskämpfe in den verschiedenen Modi errechnen lassen. Dort gebt ihr die Anzahl eurer Relikt Kerne ein und Dinge die ihr sonst so habt. Unter Scenario wählt ihr Endes Echo aus oder die Mondmine. Bei der Mondmine müsst ihr die Verteidigungsembleeme Anzahl des Gegners eingeben. Hat der Gegner einen hohen Wert geht wird die krt. Rate unter 100% gedrückt und der Kalkulator schlägt euch das [Leerenwandler Embleem](#leerenwandler-embleem) vor und nimmt vom den Handschuhen die gelben Sterne weg da der krit. Effekt nicht greift. Es gibt einen blauen Button (CALCULATE CORE ALLOCATION) um Teile die ihr nicht habt auszuschließen oder zu begrenzen. Bei dem SS Equipment lasst ihr die auf der maximalen Anzahl an gelber und roter Sterne, damit der Kalkulator euch die beste Zusammenstellung errechnen kann. Oben auf der Seite steht unter Result ein Wert. Je größer dieser Wert desto besser. Der Kalkulator für die Schadensberechnung hat nichts mit diesem Wiki zu tun:
