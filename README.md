@@ -529,3 +529,6 @@ Hier ein zu einer Seite die nichts mit diesem Wiki zu tun hat, wo es ein Cla und
 
 # Codes
 Alle paar Wochen gibt es Codes diese können hier: https://gift.survivorio.com/ eingelöst werden. Eure ID findet ihr in den Einstellungen im Spiel. Diese sind von der Hauptseite über die drei Striche zu erreichen.
+
+# Einstellungen 
+Dort gibt es eine automatische Waffen- und passive Fertigkeiten-Selektion, die in Spiel aktiv werden kann, für verschiedene Spielmodi. Wer viel ATK hat kann einige Modi somit einfach nebenher laufen lassen, ohne etwas zutun zu müssen.
