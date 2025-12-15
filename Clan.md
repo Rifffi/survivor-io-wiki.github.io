@@ -18,7 +18,7 @@ Wir spielen zusammen und es ist wunderbar, wenn wir uns gegenseitig unterstütze
 ## Clan-Erkundung
 - Alle 24h wird die Energie aufgeladen um in einer Mission 3 Schlüssel zu erhalten um ein Bossmonster freischalten. Je schneller der ganze Clan dies schafft desto mehr gute Rewards gibt es. Ihr müsst 9 Schlüssel mindestens erspielt haben um die Rewards zu erhalten. Im Clanshop könnt ihr die erhalten Clanmünzen gegen Items eintauschen. Wer es nicht jeden Tag schafft kann die am nächsten Tag mit zwei Missionen nachholen. Bei einigen Mission gibt es besondere Boni beim Starten. Rechts neben der Mission ist dann zusätzlich ein Icon (Charakter mit grünem Pfeil) Dies könnt ihr selektieren und der Boni wird angezeigt.
 - Grüne und blaue Missionen dauern 6 Minuten. Gelbe und braune Missionen ca. 2 Minuten.
-- An allen Mission stehen Zahlen, bzw. weisen ein Schwierigkeitslevel aus. Nach Spielen der Mission verändert sich das Level. Bei einigen Level ändert sich nach dem Spielen die Farbe in die beliebte Missionen gelb und braun. Hier eine Liste dazu: 1,17,20,21,44,61,63,64,66,  ,...
+- An allen Mission stehen Zahlen, bzw. weisen ein Schwierigkeitslevel aus. Nach Spielen der Mission verändert sich das Level. Bei einigen Level ändert sich nach dem Spielen die Farbe in die beliebte Missionen gelb und braun. Hier eine Liste dazu: 1,17,20,21,23,44,61,63,64,66,  ,...
 ## Moonmine-Expedition
 In der ersten Phase wird gegen einen Boss gekämpft und Medallien gewonnen. Dies startet immer Dienstags.
 Die zweite Phase startet am Mittwoch und kann nur von den Leitern gespielt werden.
