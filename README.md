@@ -264,10 +264,10 @@ Es gibt Slots für weitere Unterstützungstiere, inkl. Fertigkeitsslots für die
 Am Anfang nehmt ihr natürlich erstmal die Tiere mit irgendwelchen Symbolen. Jeden Tag könnt ihr die Unterstützungsfertigkeiten Neuschmieden und zusätzlich aufwerten.
 
 # tech Teile
-Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigkeiten auswählt, weil diese durch die Teile auch verstärkt werden. Es ist nur möglich ein tech. Teil vom gleichen Typ auszurüsten. Durch Resonanz lassen sich einige tech. Teile nochmals verbessern. Eine Umverteilung solltet ihr hin und wieder mal prüfen. Nehmt dazu auch den [Kalkulator](#kalkulator). Die Zwillingsteile sind immer einzusetzen und mindestens drei in den rechten Slots. Mittlerweile gibt es 5 Zwillingstechteile und in den letzten kommt der Molotow auf lvl 0.
+Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigkeiten auswählt, weil diese durch die Teile auch verstärkt werden. Es ist nur möglich ein tech. Teil vom gleichen Typ auszurüsten. Durch Resonanz lassen sich einige tech. Teile nochmals verbessern. Eine Umverteilung solltet ihr hin und wieder mal prüfen. Nehmt dazu auch den [Kalkulator](#kalkulator). Die Zwillingsteile sind immer einzusetzen und mindestens drei in den rechten Slots. Mittlerweile gibt es 6 Zwillingstechteile, somit sind alle zu belegen.
 
 ## Resonanz
-Um weitere Effekte freizuschalten gibt es den Resonanzwert. Dieser kann durch andere tech. Teile und durch Resonanzchips erhöht werden. Hier solltet ihr die verbleibenden nicht eingesetzten tech. Teil verteilen. Es ist sogar für tech. Teile sinnvoll diese wieder aufzuteilen um wichtige Resonanzeffekte freizuschalten. Ein Zwillingsteil auf Lvl 1,2,3,4 wieder auf 0 bringen und einzeln ein Lvl niedriger, in die Resonanzslots stecken. Die Drohnen können mit Resonanzchips etwas mehr aufgewertet werden die restlichen Chips solltet ihr weitestgehend gleich verteilen. Am Besten schauen das ihr sowas wie +20% mehr Schaden gerade so mitnehmt.
+Um weitere Effekte freizuschalten gibt es den Resonanzwert. Dieser kann durch andere tech. Teile und durch Resonanzchips erhöht werden. Hier solltet ihr die verbleibenden nicht eingesetzten tech. Teil verteilen. Es ist sogar für tech. Teile sinnvoll diese wieder aufzuteilen um wichtige Resonanzeffekte freizuschalten. Ein Zwillingsteil auf Lvl 1,2,3,4 wieder auf 0 bringen und einzeln ein Lvl niedriger, in die Resonanzslots stecken. Die Drohnen können mit Resonanzchips etwas mehr aufgewertet werden die restlichen Chips solltet ihr weitestgehend gleich verteilen. Am Besten schauen das ihr sowas wie +20% mehr Schaden, gerade so mitnehmt.
 
 ## Präzisionsgerät (empfohlen)
 Ist für die beiden Drohnen. Immer bevorzugt upgraden. Solltet ihr als erstes auf Rot bekommen später dann auf pink/lila/leuchtend/bunt. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
@@ -276,7 +276,7 @@ Ist für die beiden Drohnen. Immer bevorzugt upgraden. Solltet ihr als erstes au
 Wenn ihr das Präzisionsgerät auf bunt habt und den Energie-Sammler auf rot müsst ihr schauen das ihr ein weiteres Präzisionsgerät auf rot bekommt. Vor dem Verschmelzen die Resonanz herrabstufen. Auf rot ist dieses tech. Teil immer noch besser als das Präzisionsgerät auf bunt. Zusätzlich könnt ihr dies nun in einem defensiven Slot positionieren. Schaut auch das ihr die Resonanz wieder erhöht. Durch Monster die im Kraftfeld getötet werden bekommt ihr mehr Exp.
 
 ## Energielenksystem (Energiemodus)
-Der Drohnenmodus ist zu bevorzugen. Dieser Modus scheint leicht schlechter zu sein. Vielleicht gibt es Konstellation wo dieser mal besser ist.
+Der Drohnenmodus ist zu bevorzugen. Dieser Modus scheint leicht schlechter zu sein. Wenn ihr eine niedrige krit. Rate habt lohnt sich der Modus mehr. Daher ist er in der Mondmine meistens besser.
 
 ## Phasentreiber (Blitzmodus)
 Ist gegenüber den anderen Zwillingsteilen aktuell eines der Besten und daher auf jeden Fall ein muss.
