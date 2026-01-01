@@ -157,6 +157,9 @@ sind besser als die Leerenwandler-Treter vor allem wenn ihr den 1. und 3. Schmie
 ## Chaos fusion
 Um chaos fusion für SS items freischalten zu können benötigt ihr drei gelbe Sterne für die jeweilige Waffe. Jeder rote Stern schaltet etwas für diese Waffe frei. Eine ATK Boni oder das maximal Lvl. wird erhöht. Mit der Chaosfusion Kraft werden von allen Ausrüstungsgefenständen die insgesamte Anzahl an roten Sternen zusammengerechnet und bei einem vielfachen von 3 werden ebenfalls Boni freigeschaltet. Daher darauf achten das ihr mit dem roten Sternen ein Vielfaches von 3 immer bekommt (3,6,9,12... rote Sterne).
 
+## Xeno Transmute
+Ein SS Item benötigt dafür 8 gelbe Sterne. Zusätzlich wird auch ein Transmute Kern benötigt. Dieser kann im universeller Tausch durch einen Relikt Kern und Diamanten eingetauscht werden oder durch Events erspielt werden.
+
 ## universeller Tausch
 Unter Meine Tasche findet ihr den Reiter: universeller Tausch. Dort könnt ihr schlechtere Items in bessere Aufwerten. Wichtig denkt daran von dem schlechteren Items euch noch einen kleinen Puffer zu halten. Unter anderem könntne die violetten Scherben in jedes Sammelobjekt getauscht werden.
 
