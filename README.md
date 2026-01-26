@@ -472,7 +472,7 @@ Ein guter aktiver Clan bringt euch schneller weiter. Ihr erhaltet so viel mehr B
 [Clan Regeln](https://github.com/Rifffi/survivor-io-wiki/blob/main/Clan.md)<br>
 
 ## Clan Shop
-Hier könnte ihr eure im Clan verdienten Münzen gegeben Rewards eintauchen. Am besten die Yang Scherben und rotes Sammelobjekt Truhe holen. Die Qualität der Belohnungen scheinen für alle gleich zu sein egal wie gut der Clan ist. Vielleicht ist dies bei den ersten paar Clanleveln anders.
+Hier könnte ihr eure im Clan verdienten Münzen gegeben Rewards eintauchen. Am besten die Yang Scherben und rotes Sammelobjekt Truhe holen. Die Qualität der Belohnungen scheinen für alle gleich zu sein egal wie gut der Clan ist. Die Anzahl ändert sich durch das Clanlevel. Es gibt eine Geheimnisvollen Händler wodurch ihr die Items aus dem Shop durch Unterstützung der Clanmitglieder günstiger bekommt.
 
 # Synergie
 Wenn ihr insgesamt 3 Mio. gelbe Tropfen gesammelt habt könnt ihr das Synergie System freischalten. Dies bedeutet das alle freigeschalten Charaktere auf das Level 120 angehoben werden. Somit werden auch alle Boni die mit gelben Tropfen erlangt werden können, von allen Charakteren freigeschaltet. Es werden keine Charaktere freigeschaltet wie z. B. Sandy die ihr beim Event nicht erhalten habt.
