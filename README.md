@@ -277,63 +277,70 @@ Am Anfang nehmt ihr natürlich erstmal die Tiere mit irgendwelchen Symbolen. Jed
 Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigkeiten auswählt, weil diese durch die Teile auch verstärkt werden. Es ist nur möglich ein tech. Teil vom gleichen Typ auszurüsten. Durch Resonanz lassen sich einige tech. Teile nochmals verbessern. Eine Umverteilung solltet ihr hin und wieder mal prüfen. Nehmt dazu auch den [Kalkulator](#kalkulator). Die Zwillingsteile sind immer einzusetzen und mindestens drei in den rechten Slots. Mittlerweile gibt es 6 Zwillingstechteile, somit sind alle zu belegen. Ihr benötigt 16 gelbe für ein rotes und 7 rote für ein buntes.
 
 ## Resonanz
-Um weitere Effekte freizuschalten gibt es den Resonanzwert. Dieser kann durch andere tech. Teile und durch Resonanzchips erhöht werden. Hier solltet ihr die verbleibenden nicht eingesetzten tech. Teil verteilen. Es ist sogar für tech. Teile sinnvoll diese wieder aufzuteilen um wichtige Resonanzeffekte freizuschalten. Ein Zwillingsteil auf Lvl 1,2,3,4 wieder auf 0 bringen und einzeln ein Lvl niedriger, in die Resonanzslots stecken. Die Drohnen können mit Resonanzchips etwas mehr aufgewertet werden die restlichen Chips solltet ihr weitestgehend gleich verteilen. Am Besten schauen das ihr sowas wie +20% mehr Schaden, gerade so mitnehmt.
+Um weitere Effekte freizuschalten gibt es den Resonanzwert. Dieser kann durch andere tech. Teile und durch Resonanzchips erhöht werden. Hier solltet ihr die verbleibenden nicht eingesetzten tech. Teil verteilen. Es ist sogar für tech. Teile sinnvoll diese wieder aufzuteilen um wichtige Resonanzeffekte freizuschalten. Ein Zwillingsteil auf Lvl 1,2,3,4 wieder auf 0 bringen und einzeln ein Lvl niedriger, in die Resonanzslots stecken. Die Drohnen können mit Resonanzchips etwas mehr aufgewertet werden die restlichen Chips solltet ihr weitestgehend gleich verteilen. Am Besten schauen das ihr sowas wie +20% mehr Schaden, gerade so mitnehmt. Alles 6 Zwillingsteile zu nutzen ist Pflicht.
 
-## Präzisionsgerät (empfohlen)
-Ist für die beiden Drohnen. Immer bevorzugt upgraden. Solltet ihr als erstes auf Rot bekommen später dann auf pink/lila/leuchtend/bunt. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
+## Zwillingsteile
 
-## Energielenksystem (Drohnenmodus) (empfohlen)
+### Energielenksystem (Drohnenmodus) (empfohlen)
 Wenn ihr das Präzisionsgerät auf bunt habt und den Energie-Sammler auf rot müsst ihr schauen das ihr ein weiteres Präzisionsgerät auf rot bekommt. Vor dem Verschmelzen die Resonanz herrabstufen. Auf rot ist dieses tech. Teil immer noch besser als das Präzisionsgerät auf bunt. Zusätzlich könnt ihr dies nun in einem defensiven Slot positionieren. Schaut auch das ihr die Resonanz wieder erhöht. Durch Monster die im Kraftfeld getötet werden bekommt ihr mehr Exp.
 
-## Energielenksystem (Energiemodus)
+### Energielenksystem (Energiemodus)
 Der Drohnenmodus ist zu bevorzugen. Dieser Modus scheint leicht schlechter zu sein. Wenn ihr eine niedrige krit. Rate habt lohnt sich der Modus mehr. Daher ist er in der Mondmine meistens besser.
 
-## Phasentreiber (Blitzmodus)
-Ist gegenüber den anderen Zwillingsteilen aktuell eines der Besten und daher auf jeden Fall ein muss.
+### Präzisionsgerät (empfohlen)
+Ist für die beiden Drohnen. Immer bevorzugt upgraden. Solltet ihr als erstes auf Rot bekommen später dann auf pink/lila/leuchtend/bunt. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
 
-## Quantum Polisator (empfohlen)
-Ist für den Fußball. 30% Schaden das gibt nochmal mehr Schaden auch bei Bossmonstern. Bringt nach dem Präzisionsgerät am zweitmeisten.
-
-## Quanten-Nanobot (Durian-Modus) (empfohlen)
+### Quanten-Nanobot (Durian-Modus) (empfohlen)
 Auf Rot sind die +75% Fertigkeitsschaden echt super. Auch die ganzen Boni durch die Resonanz sind gut.
 
-## Quanten-Nanobot (Fußball-Modus) (empfohlen, bei viel krit.)
+### Quanten-Nanobot (Fußball-Modus) (empfohlen, bei viel krit.)
 Auf Rot sind die +80% krit. Schaden bei 100% krit. Rate besser als der Durian-Modus. Auch sind die Boni durch Resonanz echt super. Hier lohnt sich auch ggf. eine Umverteilung von tech. Teilen für mehr Resonanz. Ab genug Resonanz benötigt ihr keine Schuhe mehr für das Update auf die Superwaffe.
 
-## Antimaterie-Wartungsgerät (Raketen- Modus) (empfohlen)
+### Phasentreiber (Blitzmodus) (empfohlen)
+Ist gegenüber den anderen Zwillingsteilen aktuell eines der Besten und daher auf jeden Fall ein muss.
+
+### Antimaterie-Wartungsgerät (Raketen- Modus) (empfohlen)
 Auch hier auf die Resonanzverteilung achten
 
-## Phasenumwandler (empfohlen)
+### Exo-Radikator (Wächtermodus) (empfohlen)
+gibt mit Resonanz wieder viele Boni und macht auch einen guten Flächenschaden.
+
+### Hi-Schwerkraft-Pulser (Brandflaschenmodus) (empfohlen)
+Wirkt wie ein zusätzlicher Flammenwerfer. Muss leider auf den Gegner dauerhaft gezielt werden. Ist trotzdem besser als der andere Modus wo es durch Resonanz mehr ATK an Bossmonster gibt.
+
+## Einzelteile
+
+### Quantum Polisator (empfohlen)
+Ist für den Fußball. 30% Schaden das gibt nochmal mehr Schaden auch bei Bossmonstern. Bringt nach dem Präzisionsgerät am zweitmeisten.
+
+### Phasenumwandler (empfohlen)
 2 Blitzschläge mehr. Auch gut gegen Bossmonster.
 
-## Exo-Radikator (Wächtermodus) (empfohlen)
-gibt mit Resonanz wieder viele Boni und mach auch einen guten Flächenschaden.
-
-## Exoskelett (empfohlen)
+### Exoskelett (empfohlen)
 Hält euch durch den erhöhten Pushback die Monster noch besser vom Hals.
 
-## Schwerkraftregler (empfohlen)
+### Schwerkraftregler (empfohlen)
 Die Steine gehen durch alle Gegner.
 
-## Effizientes Wartungsgerät (empfohlen)
+### Effizientes Wartungsgerät (empfohlen)
 Die Raketen werden schneller wieder abgeschossen. Auch gut für mehr Schaden an Bossmonstern. Kann auf Rot mit 3 weiteren tech. Teilen aufgewertet werden. Kann dadurch mit C4 Sprengstoff Monster vereisen.
 
-## Energie-Diffusor (empfohlen)
+### Energie-Diffusor (empfohlen)
 Auf rot +10% Schaden durch Verwundung. Bei genug Resonanz wird auch die Fähigkeit Gold für die Superwaffe nicht mehr benötigt.
 
-## Nanobot
+### Nanobot
 Schlecht steuerbar. Ist erst besser als Quantum-Nanobot und klebt dann am Boss.
 
-## Antimateriegenerator
+### Antimateriegenerator
 Erhöht die Fluggeschwindigkeit.
 
-## Energie-Sammler
+### Energie-Sammler
 doppelte Schaden auf Rot mehr Exp. Trotzdem nicht die beste Wahl. Wird aber in Kombination mit dem Präzisionsgerät wichtig. Daher sollte dies auch bevorzugt upgedatet werden.
 
-## Vernichter
+### Vernichter
 Auf Rot werden Bosse direkt fokussiert und angegriffen. Ist aber vom Schaden her nicht so gut.
 
-## Leistungsapparat
+### Leistungsapparat
 Eher unbeliebt.
 
 # Sammelobjekte
