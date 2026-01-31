@@ -231,11 +231,9 @@ Pet ATK +5% und Pet HP +5%
 ### Joey
 
 ### Taloxa
-
 Hier ein externer Link der nichts mit diesem Wiki zu tun hat wo alle Skills von allen Charakteren aufgeführt werden inkl. der erwachen Skills auch für alle 6 roten Sterne https://danke007.com/handbook/hero
 
 ## Kostüme
-
 Kostüme geben zusätzliche ATK. Diese sind meistens nur einmalig im Spiel, während eines Event erhältlich. Die ATK gibt es auch wenn ihr den Charakter nicht aktiv spielt. Bzw. das Kostüme nicht angezogen ist.
 
 # Kritische Treffer
@@ -244,7 +242,7 @@ Mit den SS Gloves ist eine krit. Rate über 100% sogar sehr gut. Über 100% gibt
 Auf der Seite mit den Sammelobjekten gibt es oben rechts einen Button wo alle Werte die ihr erlangt habt durch [Sammelobjekte](#sammelobjekte) zusammengefasst sind. Auf der Ausrüstungsseite gibt es oben Links einen weißen Button. Dahinter befinden sich eure Werte u.a. auch eure grundlegende krit. Rate. Während des spielen kann die sich noch erhöhen. Bitte beachtet das die Boni z.B. von den SS Gloves nicht direkt beim Start zur Verfügung stehen. Somit ist beim Start eines Levels die krit. Rate geringer als zum Ende hin. Besonders bei Ende des Echo kann das einiges aus machen. Zusätzlich noch ein Link zum Kalkulator für eure krit. Rate. Der Kalkulator hat nichts mit diesem Wiki zu tun. https://danke007.com/calc/bao-ji-lv
 
 # Tiere
-Kauft euch jeden Tag einmal die Tiermünzen. Oder 7 auf einmal für die Woche. Nach 7 käufen steigt einmal der Preis. Nach einer Woche wird der Preis zurückgesetzt. Je höher das Hauptkapitel desto mehr Münzen und teurer wird es. 4500 Stück ist aber Maximum. In der Goldmine könnt ihr noch mehr Tiermünzen erspielen. Nutzt mindestens den violetten Chaoshandschuh dafür. Pro run sind dann 6000 drin.
+Kauft euch jeden Tag einmal die Tiermünzen. Oder 24 auf einmal für die Woche. Nach 7 käufen steigt einmal der Preis. Nach einer Woche wird der Preis zurückgesetzt. Je höher das Hauptkapitel desto mehr Münzen und teurer wird es. 4500 Stück ist aber Maximum. In der Goldmine könnt ihr noch mehr Tiermünzen erspielen. Nutzt mindestens den violetten Chaoshandschuh dafür. Pro run sind dann 6000 drin.
 Ihr könnt zwei Unterstützertiere positionieren. Jedes Tier hat eine Unterstützenfähigkeit. Das ist im oberen rechten Feld beschrieben. Hier macht 10% mehr ATK auf jeden Fall Sinn (Kraftvoll). 2 mal dasselbe geht nicht. Die Prozentzahl, höhe des Boni, hängt von der Qualität des Unterstützungstier ab. Das Unterstützungstier sollte daher auch legendär sein. Die Fähigkeit durchdringen Gegner ist auch gut. z.B. in Kombination mit Merika. Bei Quak macht dies natürlich keinen Sinn. Dort ist mehr Reichweite sinniger. Genauso wie bei Rex. Welches Tier ihr als nehmt ist egal es kommt auf die Unterstützungsfähigkeit an. Wer Gary hat sollte diesen aus Unterstützer nehmen. Ein Tier kann auch gut als Schild oder Block bei Beschuss eingesetzt werden. Auch wenn es gestorben ist. Um Gary (Schnecke) auf Rot zu bekommen benötigt ihr mindestens 6 von ihm. Achtet beim Hochstufen auf die richtige Unterstützungsfähigkeit für die anderen Tiere. Die folgenden drei Tiere sind die bevorzugten Tiere im Spiel. Letzen Endes tun sie sich alle nicht viel. Manchmal kommt es auch einfach auf den Boss an welches Tier besser ist. Die Projektile von Merika und Croaky müssen den Boss auch treffen. Dies ist schwieriger, wenn dieser viel herumrennt. Da ist Rex dann besser. Es kommt also auch auf euch an wohin ihr den Boss so lenkt.
 ## Quak
 Flächenschaden gut gegen Mobs. Könnt euch gut mit eurem Char in die grüne Säure reinstellen. Durch die Erwachenfähigkeit wird der Schaden des Besitzers durch Treffer durch Quak geboostet. Der Besitzer macht hier den meisten Schaden.
@@ -287,9 +285,6 @@ Wenn ihr das Präzisionsgerät auf bunt habt und den Energie-Sammler auf rot mü
 ### Energielenksystem (Energiemodus)
 Der Drohnenmodus ist zu bevorzugen. Dieser Modus scheint leicht schlechter zu sein. Wenn ihr eine niedrige krit. Rate habt lohnt sich der Modus mehr. Daher ist er in der Mondmine meistens besser.
 
-### Präzisionsgerät (empfohlen)
-Ist für die beiden Drohnen. Immer bevorzugt upgraden. Solltet ihr als erstes auf Rot bekommen später dann auf pink/lila/leuchtend/bunt. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
-
 ### Quanten-Nanobot (Durian-Modus) (empfohlen)
 Auf Rot sind die +75% Fertigkeitsschaden echt super. Auch die ganzen Boni durch die Resonanz sind gut.
 
@@ -309,6 +304,9 @@ gibt mit Resonanz wieder viele Boni und macht auch einen guten Flächenschaden.
 Wirkt wie ein zusätzlicher Flammenwerfer. Muss leider auf den Gegner dauerhaft gezielt werden. Ist trotzdem besser als der andere Modus wo es durch Resonanz mehr ATK an Bossmonster gibt.
 
 ## Einzelteile
+
+### Präzisionsgerät (empfohlen)
+Ist für die beiden Drohnen. Immer bevorzugt upgraden. Solltet ihr als erstes auf Rot bekommen später dann auf pink/lila/leuchtend/bunt. Auch später mit Resonanzchips den Muliplikationsfaktor erhöhen. Der Zerstörer macht schon viel Schaden durch die tech. Teile wird dies nochmal erhöht.
 
 ### Quantum Polisator (empfohlen)
 Ist für den Fußball. 30% Schaden das gibt nochmal mehr Schaden auch bei Bossmonstern. Bringt nach dem Präzisionsgerät am zweitmeisten.
