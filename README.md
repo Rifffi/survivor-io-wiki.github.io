@@ -295,9 +295,9 @@ Auf Rot sind die +80% krit. Schaden bei 100% krit. Rate besser als der Durian-Mo
 Ist gegenüber den anderen Zwillingsteilen aktuell eines der Besten und daher auf jeden Fall ein muss.
 
 ### Antimaterie-Wartungsgerät (Raketen- Modus) (empfohlen)
-Auch hier auf die Resonanzverteilung achten
+Wenn auf bunt ist der Pfeil Modus wahrscheinlich besser 
 
-### Exo-Radikator (Wächtermodus) (empfohlen)
+### Exo-Radikator (Lasermodus) (empfohlen)
 gibt mit Resonanz wieder viele Boni und macht auch einen guten Flächenschaden.
 
 ### Hi-Schwerkraft-Pulser (Brandflaschenmodus) (empfohlen)
