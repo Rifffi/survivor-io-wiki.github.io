@@ -134,7 +134,7 @@ gute Kette für Mobs da ihr beim ersten Schlag sehr viel mehr Schaden macht.
 Super Kette gegen Bossmonster. Steigert den Schaden und die krit. Rate ordentlich. Allerdings muss dafür der Charakter wenig HP haben damit der Effekt funktioniert. Mit der Rüstung von Quietus oder auch dem Energieschild lasst sich dies ganz gut bewerkstelligen.
 
 ## SS Items
-Für SS Items benötigt ihr ein Equipment auf Rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S Items erlangt. Genauso müssen normale Items zerlegt werden für Cubes. Durch Schmiedeeffekte kann das Equipment zusätzliche Eigenschaften erfahren, die meisten bringen gute ATK Effekt mit sich. Dafür werden Reliktkerne, Cubes und Kerne benötigt. Die Eigenschaften gibt es beim 1. 3. und 5. immerwährend Schmiedeeffekt und beim 2. 4. und 6. leere Schmiedeeffekt. Bei den anderen Schmiedeeffekte gibt es HP oder ATK Boni, diese sind nicht ganz so relevant. Reihenfolge der Anschaffung kann am besten durch den [Kalkulator](#kalkulator) bestimmt werden. Dies ergibt sich aber meistens: Lanze, Schuhe, Gürtel oder Handschuhe, Kette und Rüstung. Zusätzlich gibt es noch Chaosfusion, was noch mehr Reliktkerne benötigt und auch das maximale Level der Waffen von 200 erhöht. Dies liegt aber für die Meisten noch außerhalb der Reichweite. Ab einem gewissen Punkt macht es Sinn hier die Schmiedeeffekte zu holen, weil für die ersten Chaosfusion Schmiedeeffekte weniger Relkitkerne benötigt werden. Was hier Sinn macht sollte ihr anhand des [Kalkulator](#kalkulator) ausrechnen lassen.
+Für SS Items benötigt ihr ein Equipment auf Rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S Items erlangt. Genauso müssen normale Items zerlegt werden für Cubes. Durch Schmiedeeffekte kann das Equipment zusätzliche Eigenschaften erfahren, die meisten bringen gute ATK Effekt mit sich. Dafür werden Reliktkerne, Cubes und Kerne benötigt. Die Eigenschaften gibt es beim 1. 3. und 5. immerwährend Schmiedeeffekt und beim 2. 4. und 6. leere Schmiedeeffekt. Bei den anderen Schmiedeeffekte gibt es HP oder ATK Boni, diese sind nicht ganz so relevant. Reihenfolge der Anschaffung kann am besten durch den [Kalkulator](#kalkulator) bestimmt werden. Dies ergibt sich aber meistens: Lanze, Schuhe, Gürtel oder Handschuhe, Kette und Rüstung. Zusätzlich gibt es noch Chaos fusion was noch mehr Reliktkerne benötigt und auch das maximale Level der Waffen von 200 erhöht. Ab einem gewissen Punkt macht es Sinn hier die Schmiedeeffekte zu holen, weil für die ersten Chaosfusion Schmiedeeffekte weniger Relkitkerne benötigt werden. Auch zugekommen ist Transmute wo ihr noch mehr Reliktkerne benötigt. Was hier Sinn macht sollte ihr anhand des [Kalkulator](#kalkulator) ausrechnen lassen. Was pauschal aber gesagt werden kann alles sollte auch wenn es nur ernig Sterne hat aktiviert werden auch Transmute.
 
 ### Lanze
 Die Lanze ist die finale Waffe die ihr haben wollt und auch das erste sinnvolle SS Item. Wichtig sich den 1. Schmiedeeffekt zu holen damit die Waffe auf 3 gelben Sternen startet.
@@ -158,7 +158,7 @@ sind besser als die Leerenwandler-Treter vor allem wenn ihr den 1. und 3. Schmie
 Um chaos fusion für SS items freischalten zu können benötigt ihr drei gelbe Sterne für die jeweilige Waffe. Jeder rote Stern schaltet etwas für diese Waffe frei. Eine ATK Boni oder das maximal Lvl. wird erhöht. Mit der Chaosfusion Kraft werden von allen Ausrüstungsgefenständen die insgesamte Anzahl an roten Sternen zusammengerechnet und bei einem vielfachen von 3 werden ebenfalls Boni freigeschaltet. Daher darauf achten das ihr mit dem roten Sternen ein Vielfaches von 3 immer bekommt (3,6,9,12... rote Sterne).
 
 ## Xeno Transmute
-Ein SS Item benötigt dafür 8 gelbe Sterne. Zusätzlich wird auch ein Transmute Kern benötigt. Dieser kann im universeller Tausch durch einen Relikt Kern und Diamanten eingetauscht werden oder durch Events erspielt werden.
+Ein SS Item benötigt dafür 8 gelbe Sterne. Zusätzlich wird auch ein Transmute Kern benötigt. Dieser kann im universeller Tausch durch einen Relikt Kern und Diamanten eingetauscht werden oder durch Events erspielt werden. Sofern ihr grundlegend genügend Relikt Kerne habt aktiviert es.
 
 ## universeller Tausch
 Unter Meine Tasche findet ihr den Reiter: universeller Tausch. Dort könnt ihr schlechtere Items in bessere Aufwerten. Wichtig denkt daran von dem schlechteren Items euch noch einen kleinen Puffer zu halten. Unter anderem könntne die violetten Scherben in jedes Sammelobjekt getauscht werden.
@@ -507,6 +507,7 @@ Die ersten 4 sind Pflichtprogramm und eigentlich auch in einer dreiviertel Stund
 10. wöchentlich 1 Hauptkapitel
 11. wöchentlich schwierigste Hauptkapitel Herausforderungen
 12. Operation Rückzug mehrfach
+13. Showdoen 2 Kisten pro Tag
 # YouTube 
 Es gibt zwei Youtuber Playme (https://www.youtube.com/c/PlayMe-GameChannel) und Phasecast (https://www.youtube.com/@Phasecast) die unzählige Videos erstellt haben.
 
