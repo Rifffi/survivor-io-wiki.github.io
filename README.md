@@ -6,6 +6,7 @@ Wiki für das Spiel survior.io [Google Play](https://play.google.com/store/apps/
 * [Bugs](#Bugs)
 * [Charaktere](#charaktere)
 * [Clan](#clan)
+* [Debuffs](#debuffs)
 * [Echo des Endes](#echo-des-endes)
 * [Equipment](#equipment)
 * [Events](#events)
@@ -38,6 +39,10 @@ Superwaffen bekommt ihr, wenn die entsprechende passive Fertigkeit vorher ausgew
 Bei den passiven Fertigkeiten (Schuhe) wird auch angezeigt welche Waffe dazu passt. Die passive Fertigkeit benötigt ihr nur auf einem gelben Stern.
 ## Gold
 Wenn ihr wisst das ihr ein Level ohne Probleme schafft solltet ihr die passive Fähigkeit mehr Gold erlernen. Gold ist am Anfang des Spiels ein Problem hinterher sollte ihr eigentlich genug Gold anhäufen.
+
+# Debuffs
+Hier ein Link zu einem Debuff Bild was der Youtuber PlayMe erstellt hat. [Debuffs](https://storage.ko-fi.com/cdn/useruploads/5f26df86-110a-4279-bdba-9cdf2c3a8792_debuffs.jpg)
+Durch Debuffs werden weitere ATK Boni aktiviert. In den Beschreibungen im Spiel muss unterschieden werden ob dies auch ausgelöst wird oder ob prozentual nur mehr Schaden gemacht wird. Solange ihr es nicht auslöst hilft ein hoher Prozentwert nicht.
 
 # Events
 Jede Woche gibt es ein Event über mehrere Tage. Dort gibt es immer gute Items/Rewards zu holen. Dies ist mit Aufwand verbunden, der aber zwingend notwendig ist, um vorwärts zu kommen. Es müssen Millionen von Monstern getötet werden. Dazu könnt ihr folgenden Bug nutzen [Millionen Monster kills](#millionen-monster-kills) oder alternativ dazu Hauptherausforderung Lvl. 74 (180.000 Kills) oder Lvl. 4 (80.000 Kills) wiederholt spielen. Als Equipment den glänzenden Handgelenkschutz nutzen und Kunai oder Leermacht. Long Range Waffen wie Bohrer und Fußball wählen. Wenn euer Charakter ein höheres Lvl. hat könnt ihr 1 Minute spielen afk gehen, nach 3 Minuten einen Magnet einsammeln und afk gehen, bis die 8 Minuten um sind. Bei Lvl. 74 benötigt ihr auch einiges an ATK und nehmt die Lanze. Wenn ihr die Level als Hauptkapitel spielt gibt es bei Lvl. 74 nur (90.000 Kills) und Lvl. 4 (160.000 Kills). Dauern aber mit 15 Minuten länger. Die 30-40 Hauptkapitel erledigt ihr nur durch starten und direkt wieder beenden/abbrechen. Die 10 Spezialeinsätze sind jeden Tag Pflichtprogramm, dazu gibt es aber auch gelbe Karten um diese ohne spielen abzuschließen. Die gelben Karten könnt ihr im universellen Tausch gegen Gold tauschen. 300 Truhen öffnen ist notwendig. Darüber hinaus, kommt drauf an ob ihr fürs nächste Event genügend habt. Dafür müsst ihr fleißig Schlüssel sammeln und dafür aufbewahren. Das Ziel sollte sein die Truhe nach der S Truhe zu bekommen. Kann aber auch variieren. Truhen solltet ihr also nur während eines Events öffnen. Mit Diamanten die ihr am besten auch nur für Events aufspart, können noch weitere gute zusätzliche Rewards erlangt werden. Durch öffnen von 300 Truhen und investieren von ein paar Diamanten könnt ihr zusätzlich Relikt Kerne, rote Sammelobjekttruhen, Resonanzchips oder ähnliches gute Rewards zusätzlich zur S Truhe erlangen. Wenn ihr hinterher die Punkte gegen Rewards eintauscht holt ihr euch weitere Schlüssel, um für das nächste Event wieder mehr Truhen öffnen zu können. Evtl. müsst ihr ein Event auch mal mit dem Verbrauch von Schlüssen und Diamanten aussetzen um zu sparen.
