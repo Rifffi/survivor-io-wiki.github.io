@@ -99,7 +99,10 @@ Dadurch bekommt ihr schneller und mehr Exp. um die Waffen und passiven Fähigkei
 ## Exoskelett
 Einige Waffeneffekte bleiben länger aktiv. Bei der Superwaffe Lanze bleiben die gelben Kreise länger stehen, so dass nicht zwei, sondern auch drei Parallel existieren können.
 ## Waldläufer Panzer
-Reduziert den Schaden den ihr bekommt. Ist sinnvoller auszuwählen, wenn ihr ein Lvl. oder Bossmonster nicht schafft als den Heilungsfertigkeit.
+Reduziert den Schaden den ihr bekommt. Ist sinnvoller auszuwählen, wenn ihr ein Lvl. oder Bossmonster nicht schafft, besser als die Heilungsfertigkeit.
+## mehr HP
+Mehr HP, dadurch auch größere Heilung und längere Überlebensdauer.
+
 ## optimale Zusammenstellung
 Um maximalen Schaden zu erlangen eignen sich daher: ATK, Abklingzeit, Fluggeschwindigkeit, 
 Laufgeschwindigkeit, Reichweite, Exoskelett, (Gold für die +10% durch rotes tech. Teil und Brandflasche) 
@@ -195,7 +198,7 @@ vs. \
 15 Kerne Taloxa lvl 5 + Dauerlaser = +60% mehr
 
 ## Venato
-Der aktuell beste Charakter. Aber Venato erfordert eine etwas andere Konfiguration. Durch den Boost durch HP Verlust lohnt sich als tech Teil die HP Regeneration. Durch die Schildverstärkung maximiert sich eure Schildschaden. Genauso braucht ihr nicht mehr für HP Verlust in den Gegner zu laufen. Ebenfalls ist die SS Halskette meistens besser. Hier spielt wieder die krit. Rate eine Rolle. In Moonmine ist bein viel krit debuff das Leerenwandler Embleem wieder besser. Ebenfalls macht Venato bei 5 roten Sternen  nochmal den doppelten Boost aus. Da sein Skill einen passiven Slot blegt kann eine weitere Waffe ausgewählt werden.
+Der aktuell beste Charakter. Aber Venato erfordert eine etwas andere Konfiguration. Durch den Boost durch HP Verlust lohnt sich als tech Teil die HP Regeneration und doppelte HP. Durch die Schildverstärkung maximiert sich eure Schildschaden. Genauso braucht ihr nicht mehr für HP Verlust in den Gegner zu laufen. Ebenfalls ist die SS Halskette meistens besser. Hier spielt wieder die krit. Rate eine Rolle. In Moonmine ist bein viel krit debuff das Leerenwandler Embleem wieder besser. Ebenfalls macht Venato bei 5 roten Sternen  nochmal den doppelten Boost aus. Da sein Skill einen passiven Slot blegt kann eine weitere Waffe ausgewählt werden.
 
 ## Teamarbeit passiv
 Wenn euer Charakter erwacht ist und dieser 2 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden, wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind. Laut [Kalkulator](#kalkulator) ergibt sich aber folgende Reihenfolge, wenn dieser Charakter 6 rote Sterne hat:<br>
