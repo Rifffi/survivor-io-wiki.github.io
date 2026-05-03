@@ -141,6 +141,10 @@ gute Kette für Mobs da ihr beim ersten Schlag sehr viel mehr Schaden macht.
 #### leerenwandler Embleem 
 Super Kette gegen Bossmonster. Steigert den Schaden und die krit. Rate ordentlich. Allerdings muss dafür der Charakter wenig HP haben damit der Effekt funktioniert. Mit der Rüstung von Quietus oder auch dem Energieschild lasst sich dies ganz gut bewerkstelligen.
 
+### Gürtel
+#### verdrehter Gürtel
+Dieser bringt einiges an ATK mit daher die beste Wahl. Zwar schankt der Schaden, aber im Durchschnitt ist der Schaden dann super. Vorallem mit zwei roten Sammelobjekten die zusätzlich nochmal ATK hinzufügen. Holotraum-Flüssigkeit. 3 oder 5 gelbe Sterne +15%.
+
 ## SS Items
 Für SS Items benötigt ihr ein Equipment auf Rot. Danach braucht ihr Kerne die ihr durch zerlegen von weitern S Items erlangt. Genauso müssen normale Items zerlegt werden für Cubes. Durch Schmiedeeffekte kann das Equipment zusätzliche Eigenschaften erfahren, die meisten bringen gute ATK Effekt mit sich. Dafür werden Reliktkerne, Cubes und Kerne benötigt. Die Eigenschaften gibt es beim 1. 3. und 5. immerwährend Schmiedeeffekt und beim 2. 4. und 6. leere Schmiedeeffekt. Bei den anderen Schmiedeeffekte gibt es HP oder ATK Boni, diese sind nicht ganz so relevant. Reihenfolge der Anschaffung kann am besten durch den [Kalkulator](#kalkulator) bestimmt werden. Dies ergibt sich aber meistens: Lanze, Schuhe, Gürtel oder Handschuhe, Kette und Rüstung. Zusätzlich gibt es noch Chaos fusion was noch mehr Reliktkerne benötigt und auch das maximale Level der Waffen von 200 erhöht. Ab einem gewissen Punkt macht es Sinn hier die Schmiedeeffekte zu holen, weil für die ersten Chaosfusion Schmiedeeffekte weniger Relkitkerne benötigt werden. Auch zugekommen ist Transmute wo ihr noch mehr Reliktkerne benötigt. Was hier Sinn macht sollte ihr anhand des [Kalkulator](#kalkulator) ausrechnen lassen. Was pauschal aber gesagt werden kann alles sollte auch wenn es nur ernig Sterne hat aktiviert werden auch Transmute.
 
@@ -154,7 +158,7 @@ Hiermit bekommt ihr ein zusätzliches Defensives Feature, einen Energieschild, B
 Wird erst richtig gut wenn ihr über die 100 % krit Rate kommt. Daher vielleicht lieber länger die S Gloves verwenden. Feuert sonst einen Laser auf ein Bossmonster und gute Angriffsboni. Während der 10 Sekunden Aufladung solltet ihr natürlich die ganze Zeit den Boss angreifen. Das kronenartige Symbol zeigt an, ob ihr über 100% krit. Rate aktuell habt. Dann ist es Gelb hinterlegt und zeigt I an. Zusätzlich zeigt auch den Status der Aufladung an.
 
 ### Sternenstaub Schärpe
-Ist auf Schmiedeeffekt 3 gut. Leider muss damit der Schaden richtig zur Geltung, viele Treffer vorher an Monstern, erzielt werden, was auch mit dem Zerstörer am Anfang immer etwas dauert.
+Ist auf Schmiedeeffekt 3 gut. Leider muss damit der Schaden richtig zur Geltung, viele Treffer vorher an Monstern, erzielt werden, was auch mit dem Zerstörer am Anfang immer etwas dauert. Daher ist der verdrehte Gürtel inkl. Sammelobjekten besser.
 
 ### Immerleere Rüstung 
 eher unbeliebt, sehr viele nutzen lieber weiter die S Rüstungen. Lieber die Ressourcen erstmal in die anderen SS Items stecken. Wenn ihr sterbt geht ein Effekt verloren. Auf dem 5. Schmiedeeffekt habt ihr durch den Schildschaden dann +20% ATK.
@@ -271,7 +275,7 @@ Ihr solltet nur passende Geschenk dem Tier geben dem es zugeordnet ist. Durch da
 # Xeno-Tiere
 Ab 4 gelben Sternen sind die Xeno Tiere ungefähr besser als die Normalen. Ab da gibt es Boni für den Besitzer. Das wechseln eines Tieres kann kostspielig sein, weil das Tier entlassen werden muss damit man die Kekse zurück bekommt. Dabei gehen 10% der Keks verloren. Für 4 gelbe Stern benötigt ihr 130 gelbe Sterne und 4 Xeno-Kerne. Die normalen Tiere denen ihr Geschenke gegeben habt sollte ihr nicht entlasten. Auch benötigt ihr 4 normale Tiere auf 5 gelben Sterne, damit die Xenos freigeschaltet sind.
 ## Clucker
-Gibt krit. Rate und krit. Schaden, daher super für die Mondmine. Aber such nur wenn der Gegner viel krit. Raten Debuff hat.
+Gibt krit. Rate und krit. Schaden, daher super für die Mondmine. Aber such nur wenn der Moonmine Gegner Clan viel krit. Raten Debuff hat.
 ## Cappy
 Ein ausgeglichens Tier, aber eher nicht zu empfehlen.
 ## Puffo
@@ -279,7 +283,10 @@ Ist etwas schlechter als Blizzblast.
 ## König Blizzblast
 Gutes Tier bei hoher krit. Rate. +2% Schaden an Bossen.
 ## Nussi
-Für Ender Echo aktuell das Beste Xeno-Tier. Bei der Mondmine kommt es auf den krit. Raten Debuff an. Dies wird dann bei einer Rate von über 200% interessant. +4% Schaden an Bossen.
+Gutes Tier bei hoher krit. Rate. +4% Schaden an Bossen.
+## Gourmiau
+Für Ender Echo aktuell das Beste Xeno-Tier. Bei der Mondmine kommt es auf den krit. Raten Debuff an. Dies wird dann bei einer Rate von über 200% interessant. +7% Schaden an Bossen.
+
 ## Unterstützungsfertigkeiten
 Es gibt Slots für weitere Unterstützungstiere, inkl. Fertigkeitsslots für die Fertigkeiten. Diese Slots werden freigeschaltet wenn die jeweilige Art des Tieres gelbe Sterne hat. Bei 2,4,... gelben Sterne wird jeweils ein Slot freigeschaltet. Daher sinnvoll nur die selben Tiere in die Slots zu packen, da ihr weniger Ressourcen benötigt. In die ersten beiden Fertigkeitenslots gehören Schwert mit Katzensymbol und nur das Katzensymbol. Reihenfolge ist egal. Alle anderen Tiere solltet ihr entlassen. Dazu müsst ihr das Tier mit Cookies sehr häufig auf Lvl 30 bringen. Bzw. auch euch sehr viele Tiere kaufen. Erstmal bringt ihr euer Haupttier auf Lvl 30 und die Unterstützungstiere auf Lvl 30. Danach euer Haupttier auf Lvl 90. Je nach Erwachenstern zieht ihr Unterstützungstiere mit dem Lvl nach. Tiere die danach ein Herzsymbol als Unterstützungsfertigkeit bekommen entlasst ihr. Genau das Symbol für die Beschleunigung. Wenn ihr ein Tier auf Lvl 90 habt gibt es eine Pille die ihr benutzen könnt um eine Fertigkeit nochmal wechseln zu können. Die Fertigkeit könnt ihr selber bestimmen. Die Pille bekommt ihr in Events, müsst aber Diamanten dafür opfern.
 Am Anfang nehmt ihr natürlich erstmal die Tiere mit irgendwelchen Symbolen. Jeden Tag könnt ihr die Unterstützungsfertigkeiten Neuschmieden und zusätzlich aufwerten.
