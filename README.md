@@ -395,7 +395,7 @@ Je mehr Exp. man erhält, desto besser werden einige Eigenschaften von Waffen un
 
 Immerwährende Rüstung. So früh wie möglich zweimal Sterben wegen 2 * 15% (20%) mehr Schaden nach Wiederbelebung und weitere Fertigkeitsauswahl. Dies nur anwenden sofern der Boss nicht zu stark ist. Seid ihr zu stark könnt ihr Rüstung, Gürtel und Schuhe auf Level 1 herunterstufen.
 
-Das [Leerenwandler Embleem](#leerenwandler-embleem) ist für Echo des Endes meistens noch besser als die SS Kette mit den drei Schmiedeeffekten. Durch das erlangen von mehr Exp ist die ein oder andere Superwaffe früher und mehr drin.
+Das [Leerenwandler Embleem](#leerenwandler-embleem) ist für Echo des Endes meistens noch besser als die SS Kette mit den drei Schmiedeeffekten. Durch das erlangen von mehr Exp ist die ein oder andere Superwaffe früher und auch mehr drin.
 
 Mit [Panda](#panda), Ying und Yang den Debuff auf die Verteidigung auslösen sonst nur die Handflächen nutzen.
 
@@ -418,6 +418,8 @@ Reihenfolge der Fertigkeiten plus tech. Teile auf Rot mit dem meisten Schaden:
 6. Pfeil mit Resonanz
 
 Ölfass/Molotow und Durian/Nanobot sind zwar vom Schaden besser aber erst als Superwaffe geben sie zusätzliche Atk. Diese als Superwaffe in Ende des Echo zu bekommen ist schwieriger.
+
+Je stärker ihr werdet desto mehr Superwaffe könnt ihr erspielen. Sobald ihr die Zwillings tech. Teile habt, sollte ihr die Waffen in der Reihenfolge zur Superwaffe bringen wo ihr auch einen hohen Resonanzwert habt. Dies ist sehr wichtig.
 
 ### Expedition / Mondmine
 Bevor ihr die Expedition startet solltet ihr immer die optimale Zusammenstellung der Waffen und passiven Fertigkeiten auswählen. Bei der Mondmine benötigt ihr keine Diamanten. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden, wenn ihr weitere Waffen neu auswählt.
