@@ -8,7 +8,7 @@
 | BigMacxxl | | 2800 | |
 | Keekoo31 | | 2800 | 2800 |
 | LuckyPůnch | | 2800 | 2600 |
-| Tetsujin | | 2800 | 2700 |
+| Tetsujin | x | 2800 | 2700 |
 | aNAPher | | 2800 | 2700 |
 | steakcake | | 2800 | 2600 |
 | Bodytalk | | 2700 | 2600 |
