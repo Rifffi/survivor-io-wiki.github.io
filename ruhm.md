@@ -6,7 +6,7 @@
 | Copperhead78 | | 2800 | 2600 |
 | Walkingrick | | 2800 | 2600 |
 | BigMacxxl | | 2800 | |
-| Keekoo31 | | 2800 | 2800 |
+| Keekoo31 | x | 2800 | 2800 |
 | LuckyPůnch | | 2800 | 2600 |
 | Tetsujin | x | 2800 | 2700 |
 | aNAPher | | 2800 | 2700 |
