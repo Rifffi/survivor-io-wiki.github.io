@@ -84,7 +84,7 @@ hängt meistens immer ein wenig davon ab welche Waffen ihr gewählt habt, damit 
 ## Abklingzeit
 Alle Waffen werden dadurch schneller wieder ausgelöst. Dadurch macht ihr auf Dauer mehr Schaden.
 ## Fluggeschwindigkeit
-Alle Projektile fliegen dadurch schneller und können schneller mehr Schaden machen und fliegen nicht an Gegner vorbei.
+Alle Projektile fliegen dadurch schneller und können dadurch mehr Schaden machen und fliegen nicht an Gegner vorbei. Bei langsamen Gegner bringt dieser Effekt also nichts.
 ## Laufgeschwindigkeit
 Durch die Leerwandlertreter könnte ihr hierdurch auch mehr Schaden machen.
 ## Reichweite
