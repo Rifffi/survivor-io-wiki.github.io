@@ -275,6 +275,9 @@ Ihr solltet nur passende Geschenk dem Tier geben dem es zugeordnet ist. Durch da
 
 # Xeno-Tiere
 Ab 4 gelben Sternen sind die Xeno Tiere ungefähr besser als die Normalen. Ab da gibt es Boni für den Besitzer. Das wechseln eines Tieres kann kostspielig sein, weil das Tier entlassen werden muss damit man die Kekse zurück bekommt. Dabei gehen 10% der Keks verloren. Für 4 gelbe Stern benötigt ihr 130 gelbe Sterne und 4 Xeno-Kerne. Die normalen Tiere denen ihr Geschenke gegeben habt sollte ihr nicht entlasten. Auch benötigt ihr 4 normale Tiere auf 5 gelben Sterne, damit die Xenos freigeschaltet sind.  Es empfiehlt sich danach auf 1 roten, 3 rote (25 Kerne) und später dann auf 5 rote Sterne (50 Kerne) zu gehen.
+
+Wenn ihr ein Tier wechseln wollt solltet ihr Ressourcen vorhalten. Dies sind S Tierkisten. Bzw. das ausgewählte Tier in entsprechender Anzahl und entsprechendem ersten Fähigkeiten Slot. Ebenfalls solltet ihr x * 250.000 Kekse haben und ein paar Pillen zum resetten der Fähigkeiten. Geld zum neuschmieden nicht vergessen.
+
 ## Clucker
 Gibt krit. Rate und krit. Schaden, daher super für die Mondmine. Aber such nur wenn der Moonmine Gegner Clan viel krit. Raten Debuff hat.
 ## Cappy
