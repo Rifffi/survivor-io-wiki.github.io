@@ -286,7 +286,10 @@ Gutes Tier bei hoher krit. Rate. +2% Schaden an Bossen.
 ## Nussi
 Gutes Tier bei hoher krit. Rate. +4% Schaden an Bossen.
 ## Gourmiau
-Für Ender Echo aktuell das Beste Xeno-Tier. Bei der Mondmine kommt es auf den krit. Raten Debuff an. Dies wird dann bei einer Rate von über 200% interessant. +7% Schaden an Bossen.
+Gutes Tier bei hoher krit. Rate. +7% Schaden an Bossen.
+
+## Schattenseele
+Für Ender Echo aktuell das Beste Xeno-Tier. Bei der Mondmine kommt es auf den krit. Raten Debuff an. Dies wird dann bei einer Rate von über 200% interessant. +10% Schaden an Bossen. Der Spezialangriff fokussiert das Bossmonster.
 
 ## Unterstützungsfertigkeiten
 Es gibt Slots für weitere Unterstützungstiere, inkl. Fertigkeitsslots für die Fertigkeiten. Diese Slots werden freigeschaltet wenn die jeweilige Art des Tieres gelbe Sterne hat. Bei 2,4,... gelben Sterne wird jeweils ein Slot freigeschaltet. Daher sinnvoll nur die selben Tiere in die Slots zu packen, da ihr weniger Ressourcen benötigt. In die ersten beiden Fertigkeitenslots gehören Schwert mit Katzensymbol und nur das Katzensymbol. Reihenfolge ist egal. Alle anderen Tiere solltet ihr entlassen. Dazu müsst ihr das Tier mit Cookies sehr häufig auf Lvl 30 bringen. Bzw. auch euch sehr viele Tiere kaufen. Erstmal bringt ihr euer Haupttier auf Lvl 30 und die Unterstützungstiere auf Lvl 30. Danach euer Haupttier auf Lvl 90. Für Level 90 benötigt ihr 2254500 Kekse. Je nach Erwachenstern zieht ihr Unterstützungstiere mit dem Lvl nach. Tiere die danach ein Herzsymbol oder ein Schuhe als Unterstützungsfertigkeit bekommen entlasst ihr. Wenn ihr ein Tier auf Lvl 90 habt gibt es eine Pille die ihr benutzen könnt um eine Fertigkeit nochmal wechseln zu können. Die Fertigkeit könnt ihr selber bestimmen. Die Pille bekommt ihr in Events, müsst aber Diamanten dafür opfern.
