@@ -10,9 +10,9 @@
 | LuckyPůnch | | 2800 | 2600 |
 | Tetsujin | x | 2800 | 2700 |
 | aNAPher | | 2800 | 2700 |
-| steakcake | | 2800 | 2600 |
+| steakcake | x | 2800 | 2600 |
 | Bodytalk | | 2700 | 2600 |
-| Fler7 | | 2700 | 2700 |
+| Fler7 | x | 2700 | 2700 |
 | Swoop109393538 | | 2600 | 2500 |
 | Bobbälä | x | 2600 | 2800 |
 | Rifffi | | 2500 | 2700 |
