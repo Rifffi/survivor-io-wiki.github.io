@@ -208,7 +208,7 @@ vs. \
 Der aktuell beste Charakter. Aber Venato erfordert eine etwas andere Konfiguration. Durch den Boost durch HP Verlust lohnen sich als tech. Teile die HP Regeneration und doppelte HP. Durch die schneller Schildwiederherstellung maximiert sich eure Schildschaden. Genauso braucht ihr nicht mehr für HP Verlust in den Gegner zu laufen. Ebenfalls ist die SS Halskette meistens besser wo ihr beim Start alles maximiert habt. In Enders Echo ist das Leerenwandler Embleem meistens noch besser. Ebenfalls spielt wieder die krit. Rate eine Rolle. In Moonmine ist bei viel krit. Debuff das Leerenwandler Embeleem wieder besser. Ebenfalls macht Venato bei 5 roten Sternen nochmal den doppelten Schaden an. Da sein Skill einen passiven Slot belegt kann eine weitere Waffe ausgewählt werden. Bei low Level hat Taloxa die Nase vorn. Evtl. liegt die Grenze bei 1,1 Mio. ATK.
 
 ## Elaine
-Elaine ist der Beste S Charakter wenn ihr zwei Xeno Pets habt. Eines davon auf 5 roten Sternen das andere wahrscheinlich auf 1-3 roten Sternen. Wichtig ihr müsst Beide Typen Xenopets ausrüsten.
+Elaine ist der Beste S Charakter wenn ihr zwei Xeno Pets habt. Eines davon auf 5 roten Sternen das andere wahrscheinlich auf 1-3 roten Sternen. Wichtig ihr müsst Beide Typen [Xeno-Tiere](#xeno-tiere) ausrüsten.
 
 ## Teamarbeit passiv
 Wenn euer Charakter erwacht ist und dieser 2 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden, wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind. Laut [Kalkulator](#kalkulator) ergibt sich aber folgende Reihenfolge, wenn dieser Charakter 6 rote Sterne hat:<br>
@@ -295,7 +295,6 @@ Gutes Tier bei hoher krit. Rate. +2% Schaden an Bossen.
 Gutes Tier bei hoher krit. Rate. +4% Schaden an Bossen.
 ## Gourmiau
 Gutes Tier bei hoher krit. Rate. +7% Schaden an Bossen.
-
 ## Schattenseele
 Für Ender Echo aktuell das Beste Xeno-Tier. Bei der Mondmine kommt es auf den krit. Raten Debuff an. Dies wird dann bei einer Rate von über 200% interessant. +10% Schaden an Bossen. Der Spezialangriff fokussiert das Bossmonster.
 
