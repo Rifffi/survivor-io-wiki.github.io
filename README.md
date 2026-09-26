@@ -176,6 +176,8 @@ Ein SS Item benötigt dafür 8 gelbe Sterne. Zusätzlich wird auch ein Transmute
 ## universeller Tausch
 Unter Meine Tasche findet ihr den Reiter: universeller Tausch. Dort könnt ihr schlechtere Items in bessere Aufwerten. Wichtig denkt daran von dem schlechteren Items euch noch einen kleinen Puffer zu halten. Unter anderem können die violetten Scherben in jedes Sammelobjekt getauscht werden.
 
+Zu empfehlen Geld in Tierkekse jeder Woche zu erwerben. Gelbe Tropfen in S-Scherben sofern genug übrig. Cubes in 10 S - Kisten hier auch sofern ihr genug übrig habt.
+
 # Charaktere
 Ihr benötigt alle Chars. Denn jeder Char gibt auch Boni für HP, ATK und krit. Bei Lvl. 20, 40, 60 usw. gibt es ab und zu für alle Überlebende einen Bonus. Dies ist dieses gelb-orangene Feld und bedeutet diesen Boni bekommt ihr auch wenn dieser Charakter nicht aktiv ausgewählt ist. Bei der Auswahl solltet ihr euch nur auf ATK oder krit. Rate/Schaden konzentrieren. Ihr solltet euch aber auch hauptsächlich auf einen Charakter fokussieren. Die Anderen nicht mit den gelben Tropfen höher als Level 40 pushen.
 Ihr müsst den Charakter auf Lvl. 20 haben damit ihr diesen mit den jeweiligen Scherben updaten könnt. Alle Ressourcen die ihr in einen Charakter gesteckt haben könnt ihr durch die Recycling-Funktion wieder zurückerlangen.
@@ -204,6 +206,9 @@ vs. \
 
 ## Venato
 Der aktuell beste Charakter. Aber Venato erfordert eine etwas andere Konfiguration. Durch den Boost durch HP Verlust lohnen sich als tech. Teile die HP Regeneration und doppelte HP. Durch die schneller Schildwiederherstellung maximiert sich eure Schildschaden. Genauso braucht ihr nicht mehr für HP Verlust in den Gegner zu laufen. Ebenfalls ist die SS Halskette meistens besser wo ihr beim Start alles maximiert habt. In Enders Echo ist das Leerenwandler Embleem meistens noch besser. Ebenfalls spielt wieder die krit. Rate eine Rolle. In Moonmine ist bei viel krit. Debuff das Leerenwandler Embeleem wieder besser. Ebenfalls macht Venato bei 5 roten Sternen nochmal den doppelten Schaden an. Da sein Skill einen passiven Slot belegt kann eine weitere Waffe ausgewählt werden. Bei low Level hat Taloxa die Nase vorn. Evtl. liegt die Grenze bei 1,1 Mio. ATK.
+
+## Elaine
+Elaine ist der Beste S Charakter wenn ihr zwei Xeno Pets habt. Eines davon auf 5 roten Sternen das andere wahrscheinlich auf 1-3 roten Sternen. Wichtig ihr müsst Beide Typen Xenopets ausrüsten.
 
 ## Teamarbeit passiv
 Wenn euer Charakter erwacht ist und dieser 2 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden, wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind. Laut [Kalkulator](#kalkulator) ergibt sich aber folgende Reihenfolge, wenn dieser Charakter 6 rote Sterne hat:<br>
@@ -453,7 +458,7 @@ Solltet ihr einmal die Woche spielen und mindestens 1 Level/Ebene vorankommen, d
 Nicht so wichtig, könnt ihr zwischendurch irgendwann mal spielen, wenn ihr noch Lust und Zeit habt.
 
 ## Zonenoperation
-Neue Variante. Nicht ganz so wichtig. Es gibt zwei gelbe Tech Teile, 3 S Item und ca. 30 S Scherben. Ihr müsst nicht alle Level spielen um den Boss herauszufordern. Im Gebiet 1 könnt ihr ein Level auslassen. In Gebiet 2 könnt ihr 2 Level auslassen usw. Der Bosskampf ist dann schwieriger und dauert entsprechend länger. Im ersten Gebiet sind die Drohnen nicht so entscheidend da sie keine Zielsuchfunktion haben. Im Gibt zwei bekommt man dies und ab da ist es dann auch eine wichtige Waffe.
+Neue Variante. Nicht ganz so wichtig. Es gibt eine Kern Truhe, zwei gelbe Tech Teile, 3 S Item und ca. 30 S Scherben. Ihr müsst nicht alle Level spielen um den Boss herauszufordern. Im Gebiet 1 könnt ihr ein Level auslassen. In Gebiet 2 könnt ihr 2 Level auslassen usw. Der Bosskampf ist dann schwieriger und dauert entsprechend länger. Im ersten Gebiet sind die Drohnen nicht so entscheidend da sie keine Zielsuchfunktion haben. Im Gibt zwei bekommt man dies und ab da ist es dann auch eine wichtige Waffe.
 Wenn ihr ein Baumlevel ausgewählt habt müsst ihr Baum killen. Diese haben etwas mehr HP. In den ersten beiden Gebieten sind die Labyrinth am schwierigsten und können einfach ausgelassen werden.
 
 ## Operation Rückzug
