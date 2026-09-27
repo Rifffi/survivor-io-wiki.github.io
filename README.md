@@ -431,11 +431,11 @@ In folgender Reihenfolge Waffen und Fertigkeiten auswählen, wenn sie kommen.
 
 Zusätzlich schaut das alle 6 Slots mit Waffen belegt werden, sonst ist es schwieriger den Zerstörer oder die Hauptwaffe zur Superwaffe zu bekommen. Sonst kommen immer wieder andere Vorschläge für andere Waffen. Manchmal dauert es auch richtig lange bis ihr beide Drohnen bekommt. Ab 1 Minute Restzeit solltet ihr vielleicht auch davon abrücken, wenn ihr nur eine Drohne habt. Dann lieber die Hauptwaffe zu Superwaffe bringen oder ATK. Am Ende vom Kampf könnt ihr auch eine Statistik anschauen welche Waffe wieviel Schaden gemacht habt. Schaut dort rein und optimiert euch selber.
 
-Je mehr Exp. man erhält, desto besser werden einige Eigenschaften von Waffen und dem Tier.
+Je mehr Exp. man erhält, desto besser werden einige Eigenschaften von Waffen und den Tieren.
 
-Das [Leerenwandler Embleem](#leerenwandler-embleem) ist für Echo des Endes meistens besser als die SS Kette mit den drei Schmiedeeffekten. Durch das erlangen von mehr Exp ist die ein oder andere Superwaffe früher und auch mehr drin.
+Das [Leerenwandler Embleem](#leerenwandler-embleem) ist für Echo des Endes meistens besser als die SS Kette mit den drei Schmiedeeffekten. Durch das erlangen von mehr Exp ist die ein oder andere Superwaffe früher und auch mehr Superwaffen drin.
 
-Ebenfalls erlangt ihr mit dem Zerstörer als Zwillingsteil mehr Exp. sofern der Boss sich in dem Radius befindet.
+Ebenfalls erlangt ihr mit dem Zerstörer als Zwillingsteil mehr Exp. sofern der Boss sich in einem gewissen Radius zu euerem Char befindet.
 
 Wenn ihr am Anfang die Immerwährende Rüstung verwendet. So früh wie möglich zweimal Sterben wegen 2 * 15% (20%) mehr Schaden nach Wiederbelebung und weitere Fertigkeitsauswahl. Dies nur anwenden sofern der Boss nicht zu stark ist. Seid ihr zu stark könnt ihr Rüstung, Gürtel und Schuhe auf Level 1 herunterstufen.
 
@@ -454,14 +454,22 @@ Jeder Charakter hat individuelle Fähigkeiten. Wie diese zu handhaben sind steht
 Reihenfolge der Fertigkeiten plus tech. Teile auf Rot mit dem meisten Schaden vor den Zwillingsteilen:
 1. Zerstörer
 2. Charakterfertigkeit
-3. Blitz mit Resonanz 
-4. Rakete mit Resonanz
-5. Fussball mit Resonanz 
-6. Pfeil mit Resonanz
+3. Blitz 
+4. Rakete
+5. Fussball 
+6. Pfeil
 
 Zwillingsteile geben erst viel mehr Schaden wenn sie als Superwaffer ausgebildet wurden. Alle als Superwaffe in Ende des Echo zu bekommen ist schwieriger.
 
 Je stärker ihr werdet desto mehr Superwaffe könnt ihr erspielen. Sobald ihr die Zwillings tech. Teile habt, sollte ihr die Waffen in der Reihenfolge zur Superwaffe bringen wo ihr auch einen hohen Resonanzwert habt. Dies ist sehr wichtig.
+
+Wahrscheinlich ist folgende Reihenfolge sinnvoll:
+1. Energielenksystem
+2. Exo-Radiator (Laser-Modus)
+3. Hi-Schwerkraft-Pulser (Brandflaschen-Modus)
+4. Antimaterie-Wartungsgerät (Raketen-Modus)
+5. Phasentreiber (Blitz-Modus)
+6. Quanten-Nanobot (Fussball-Modus)
 
 ### Expedition / Mondmine
 Bevor ihr die Expedition startet solltet ihr immer die optimale Zusammenstellung der Waffen und passiven Fertigkeiten auswählen. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden, wenn ihr weitere Waffen neu auswählt.
