@@ -13,16 +13,16 @@
 | Fler7 | 1 | 2700 | 2700 | |
 | Bobbälä | 1 | 2600 | 2800 | |
 | Swoop109393538 | | 2600 | 2500 | |
-| Looooooo | x | 2500 | 2100 | |
-| BlackSunX | x | 2300 | 2400 | |
+| Looooooo | 1 | 2500 | 2100 | |
+| BlackSunX | 1 | 2300 | 2400 | |
 | BigMacxxl | | 2800 | | |
-| Myxin | x | | 2600 | |
+| Myxin | 1 | | 2600 | |
 | vi3nnac4lling | | | 2600 | |
 | broessi | | | 2600 | |
-| Kevushka | x | | 2600 | |
+| Kevushka | 1 | | 2600 | |
 | dreißignullsechs | | | 2000 | |
 | Korni123 | | | 2000 | |
-| B1tBunny | | | | |
+| B1tBunny | | | |  |
 | chris40k | | | | |
 | Duram7975 | | | | |
 | Kastraveca | | | | |
