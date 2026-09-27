@@ -209,7 +209,7 @@ vs. \
 15 Kerne Taloxa lvl 5 + Dauerlaser = +60% mehr
 
 ## Venato
-Der aktuell beste Charakter. Aber Venato erfordert eine etwas andere Konfiguration. Durch den Boost durch HP Verlust lohnen sich als tech. Teile die HP Regeneration und doppelte HP. Durch die schneller Schildwiederherstellung maximiert sich eure Schildschaden. Genauso braucht ihr nicht mehr für HP Verlust in den Gegner zu laufen. Ebenfalls ist die SS Halskette meistens besser wo ihr beim Start alles maximiert habt. In Enders Echo ist das Leerenwandler Embleem meistens noch besser. Ebenfalls spielt wieder die krit. Rate eine Rolle. In Moonmine ist bei viel krit. Debuff das Leerenwandler Embeleem wieder besser. Ebenfalls macht Venato bei 5 roten Sternen nochmal den doppelten Schaden an. Da sein Skill einen passiven Slot belegt kann eine weitere Waffe ausgewählt werden. Bei low Level hat Taloxa die Nase vorn. Evtl. liegt die Grenze bei 1,1 Mio. ATK.
+Der aktuell beste Charakter. Aber Venato erfordert eine etwas andere Konfiguration. Durch den Boost durch HP Verlust lohnen sich als tech. Teile die HP Regeneration und doppelte HP. Durch die schneller Schildwiederherstellung maximiert sich eure Schildschaden. Genauso braucht ihr nicht mehr für HP Verlust in den Gegner zu laufen. Ebenfalls ist die SS Halskette meistens besser wo ihr beim Start alles maximiert habt. In Enders Echo ist das [Leerenwandler Embleem](#leerenwandler-embleem)  meistens noch besser. Ebenfalls spielt wieder die krit. Rate eine Rolle. In Moonmine ist bei viel krit. Debuff das [Leerenwandler Embleem](#leerenwandler-embleem) wieder besser. Ebenfalls macht Venato bei 5 roten Sternen nochmal den doppelten Schaden an. Da sein Skill einen passiven Slot belegt kann eine weitere Waffe ausgewählt werden. Bei low Level hat Taloxa die Nase vorn. Evtl. liegt die Grenze bei 1,1 Mio. ATK.
 
 ## Elaine
 Elaine ist nicht der Beste S Charakter auch wenn ihr zwei Xeno Pets habt auf 5 roten Sternen habt. Wichtig, ihr müsst beide Typen [Xeno-Tiere](#xeno-tiere) ausrüsten. Vielleicht gibt es eine besser Kombi bzw. die Entwickler ändern nochmal etwas.
@@ -399,7 +399,7 @@ Wichtige und lonhenswerte Sammelobjekte sind:
 Boni für das Präzisionsgerät und somit für den Zerstörer
 
 ## Erinnerungseditor
-Boni für das Leerenwandler-Embleem
+Boni für das[Leerenwandler Embleem](#leerenwandler-embleem) , bringt mehr als die beiden für den verdrehten Gürtel
 
 ## Holotraum-Flüssigkeit, Stier-Sternenlicht
 Boni für Verdrehter Gürtel
