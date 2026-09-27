@@ -46,7 +46,11 @@ Hier ein Link zu einem Debuff Bild was der Youtuber PlayMe erstellt hat. [Debuff
 Durch Debuffs werden weitere ATK Boni aktiviert. In den Beschreibungen im Spiel muss unterschieden werden ob dies auch ausgelöst wird oder ob prozentual nur mehr Schaden gemacht wird. Solange ihr es nicht auslöst hilft ein hoher Prozentwert nicht. Debuffs werden bei Bossmonster unter der HP Leiste angezeigt die gerade aktiv sind.
 
 # Events
-Jede Woche gibt es ein Event über mehrere Tage. Dort gibt es immer gute Items/Rewards zu holen. Dies ist mit Aufwand verbunden, der aber zwingend notwendig ist, um vorwärts zu kommen. Es müssen Millionen von Monstern getötet werden. Dazu könnt ihr folgenden Bug nutzen [Millionen Monster kills](#millionen-monster-kills) oder alternativ dazu Hauptherausforderung Lvl. 74 (180.000 Kills) oder Lvl. 4 (80.000 Kills) wiederholt spielen. Als Equipment den glänzenden Handgelenkschutz nutzen und Kunai oder Leermacht. Long Range Waffen wie Bohrer und Fußball wählen. Wenn euer Charakter ein höheres Lvl. hat könnt ihr 1 Minute spielen afk gehen, nach 3 Minuten einen Magnet einsammeln und afk gehen, bis die 8 Minuten um sind. Bei Lvl. 74 benötigt ihr auch einiges an ATK und nehmt die Lanze. Wenn ihr die Level als Hauptkapitel spielt gibt es bei Lvl. 74 nur (90.000 Kills) und Lvl. 4 (160.000 Kills). Dauern aber mit 15 Minuten länger. Die 30-40 Hauptkapitel erledigt ihr nur durch starten und direkt wieder beenden/abbrechen. Die 10 Spezialeinsätze sind jeden Tag Pflichtprogramm, dazu gibt es aber auch gelbe Karten um diese ohne spielen abzuschließen. Die gelben Karten könnt ihr im universellen Tausch gegen Gold tauschen. 300 Truhen öffnen ist notwendig. Darüber hinaus, kommt drauf an ob ihr fürs nächste Event genügend habt. Dafür müsst ihr fleißig Schlüssel sammeln und dafür aufbewahren. Das Ziel sollte sein die Truhe/Kern nach der S Truhe zu bekommen. Kann aber auch variieren. Schlüssel solltet ihr also nur während eines Events benutzen. Mit Diamanten die ihr am besten auch nur für Events aufspart, können noch weitere gute zusätzliche Rewards erlangt werden. Durch öffnen von 320 Truhen und investieren von ein paar Diamanten könnt ihr zusätzlich Relikt Kerne, rote Sammelobjekttruhen, Resonanzchips oder ähnliches gute Rewards zusätzlich zur S Truhe erlangen. Wenn ihr hinterher die Punkte gegen Rewards eintauscht holt ihr euch weitere Schlüssel, um für das nächste Event wieder mehr Truhen öffnen zu können. Evtl. müsst ihr ein Event auch mal mit dem Verbrauch von Schlüssen und Diamanten aussetzen um zu sparen. Aber eigentlich ist das nicht notwendig. Durch das Beenden von Hauptkapitelen könnt ihr weitere Schlüssel erspielen.
+Jede Woche gibt es ein Event über mehrere Tage. Dort gibt es immer gute Items/Rewards/Belohnungen zu holen. Dies ist mit Aufwand verbunden, der aber zwingend notwendig ist, um vorwärts zu kommen. 
+
+Die 40 Hauptkapitel erledigt ihr nur durch starten und direkt wieder beenden/abbrechen jeden Tag ein paar je nach Energie. Die 10 Spezialeinsätze sind jeden Tag Pflichtprogramm, dazu gibt es aber auch gelbe Karten um diese ohne spielen abzuschließen. Die gelben Karten könnt ihr im universellen Tausch gegen Gold tauschen. 300 Truhen öffnen ist notwendig. Darüber hinaus (600 Truhen), kommt drauf an ob ihr fürs nächste Event genügend habt. Dafür müsst ihr fleißig Schlüssel sammeln und dafür aufbewahren. Das Ziel sollte sein die Truhe/Kern nach der S Truhe zu bekommen. Kann aber auch variieren. Schlüssel solltet ihr also nur während eines Events benutzen. Mit Diamanten die ihr am besten auch nur für Events aufspart, können noch weitere gute zusätzliche Rewards erlangt werden. Durch öffnen von +320 Truhen und investieren von ein paar Diamanten könnt ihr zusätzlich Relikt Kerne, rote Sammelobjekttruhen, Resonanzchips oder ähnliches gute Rewards zusätzlich zur S Truhe erlangen. Wenn ihr hinterher die Punkte gegen Rewards eintauscht holt ihr euch weitere Schlüssel, um für das nächste Event wieder mehr Truhen öffnen zu können. Evtl. müsst ihr ein Event auch mal mit dem Verbrauch von Schlüssen und Diamanten aussetzen um zu sparen. Aber eigentlich ist das nicht notwendig. Durch das Beenden von Hauptkapitel oder sonstiger Levels könnt ihr weitere Schlüssel erspielen.
+
+Es müssen Millionen von Monstern getötet werden? Aktuelle nicht mehr daher kann das Übersprungen werden. Dazu könnt ihr folgenden Bug nutzen [Millionen Monster kills](#millionen-monster-kills) oder alternativ dazu Hauptherausforderung Lvl. 74 (180.000 Kills) oder Lvl. 4 (80.000 Kills) wiederholt spielen. Als Equipment den glänzenden Handgelenkschutz nutzen und Kunai oder Leermacht. Long Range Waffen wie Bohrer und Fußball wählen. Wenn euer Charakter ein höheres Lvl. hat könnt ihr 1 Minute spielen afk gehen, nach 3 Minuten einen Magnet einsammeln und afk gehen, bis die 8 Minuten um sind. Bei Lvl. 74 benötigt ihr auch einiges an ATK und nehmt die Lanze. Wenn ihr die Level als Hauptkapitel spielt gibt es bei Lvl. 74 nur (90.000 Kills) und Lvl. 4 (160.000 Kills). Dauern aber mit 15 Minuten länger.
 
 # Waffen   
 Welche Waffen sind gut:
@@ -208,7 +212,7 @@ vs. \
 Der aktuell beste Charakter. Aber Venato erfordert eine etwas andere Konfiguration. Durch den Boost durch HP Verlust lohnen sich als tech. Teile die HP Regeneration und doppelte HP. Durch die schneller Schildwiederherstellung maximiert sich eure Schildschaden. Genauso braucht ihr nicht mehr für HP Verlust in den Gegner zu laufen. Ebenfalls ist die SS Halskette meistens besser wo ihr beim Start alles maximiert habt. In Enders Echo ist das Leerenwandler Embleem meistens noch besser. Ebenfalls spielt wieder die krit. Rate eine Rolle. In Moonmine ist bei viel krit. Debuff das Leerenwandler Embeleem wieder besser. Ebenfalls macht Venato bei 5 roten Sternen nochmal den doppelten Schaden an. Da sein Skill einen passiven Slot belegt kann eine weitere Waffe ausgewählt werden. Bei low Level hat Taloxa die Nase vorn. Evtl. liegt die Grenze bei 1,1 Mio. ATK.
 
 ## Elaine
-Elaine ist der Beste S Charakter wenn ihr zwei Xeno Pets habt. Eines davon auf 5 roten Sternen das andere wahrscheinlich auf 1-3 roten Sternen. Wichtig ihr müsst Beide Typen [Xeno-Tiere](#xeno-tiere) ausrüsten.
+Elaine ist nicht der Beste S Charakter auch wenn ihr zwei Xeno Pets habt auf 5 roten Sternen habt. Wichtig, ihr müsst beide Typen [Xeno-Tiere](#xeno-tiere) ausrüsten. Vielleicht gibt es eine besser Kombi bzw. die Entwickler ändern nochmal etwas.
 
 ## Teamarbeit passiv
 Wenn euer Charakter erwacht ist und dieser 2 rote Sterne hat, wird ein Slot freigeschaltet. Dort könnt ihr einen weiteren Charakter einsetzen, wenn dieser auch erwacht ist. Im ersten roten Stern steht eine passive Fähigkeit die so freigeschaltet wird. Hier sind Wurm und Catnip gut. Catnip gibt 5% Atk auf Drohnenschaden, wenn zum Zerstörer entwickelt wird. Wurm gibt 10% krit. Schaden wenn weniger als 3 Monster sichtbar sind. Laut [Kalkulator](#kalkulator) ergibt sich aber folgende Reihenfolge, wenn dieser Charakter 6 rote Sterne hat:<br>
@@ -216,7 +220,7 @@ Leonardo > Yang > Michelangelo > Raphael > Metallica > Wurm > King > Common > Ca
 Leonardo oder Yang ist demnach die beste Wahl, jedoch eher unrealistisch.
 Auf 1 roten Stern ist es folgende Reihenfolge:<br> Michelangelo > Raphael > Leonardo > Metallica > Yang > Wurm > King > Common > Catnip
 <br>
-realistisch ist Raphael, King, Common, Wurm vielleicht nocht ein S Charakter. Der Vorteil bis auf Raphael und Wurm können diese auch bei [Harmonie](#harmonie) verwendet werden.
+realistisch ist Raphael, King, Common, Wurm vielleicht noch ein S Charakter. Der Vorteil bis auf Raphael und Wurm können diese auch bei [Harmonie](#harmonie) verwendet werden. Hinterher setzte ihr 2 S-Chars ein oder die SP-Chars Loki, Vulcan, Nezha. Je nachdem wie viele SP-Scherben ihr habt.
 Mit der Anzahl an weiteren roten Stern kann der Schaden erhöht werden. Der Schaden erhöht sich bei 1,2,4 und 6 Sternen. Die nicht aufgeführten Charaktere sind erstmal nicht von Interesse.
 Hier eine Liste was beim ersten roten Stern freigeschaltet wird:
 ### Common
@@ -252,7 +256,16 @@ Pet ATK +5% und Pet HP +5%
 ### Joey
 
 ### Taloxa
-Hier ein externer Link der nichts mit diesem Wiki zu tun hat wo alle Skills von allen Charakteren aufgeführt werden inkl. der erwachen Skills auch für alle 6 roten Sterne https://danke007.com/handbook/hero
+
+### Venato
+
+### Elaine
+
+### Nezha
+
+### Vulcan
+
+### Loki
 
 ## Kostüme
 Kostüme geben zusätzliche ATK. Diese sind meistens nur einmalig im Spiel, während eines Event erhältlich. Die ATK gibt es auch wenn ihr den Charakter nicht aktiv spielt. Bzw. das Kostüme nicht angezogen ist.
@@ -260,7 +273,7 @@ Kostüme geben zusätzliche ATK. Diese sind meistens nur einmalig im Spiel, wäh
 # Kritische Treffer
 Es gibt viele Möglichkeiten um eure krit. Rate zu verbessern. Ziel ist immer eine krit. Rate von 150% zu haben. Über Equipment, Sammelobjekte, Chars (Panda 20%), Fertigkeiten, Tiere, Entwicklung (8%), Resonanz (Laser) und [Synergie](#synergie)
 Mit den SS Gloves ist eine krit. Rate über 100% sogar sehr gut. Über 100% gibt es einen Boni auf den krit. Schaden. Das Symbol der SS Gloves zeigt auch an, wenn ihr über 100% krit. Rate habt. Gelb bei 100%, orange bei 130% und rot bei 150%.
-Auf der Seite mit den Sammelobjekten gibt es oben rechts einen Button wo alle Werte die ihr erlangt habt durch [Sammelobjekte](#sammelobjekte) zusammengefasst sind. Auf der Ausrüstungsseite gibt es oben Links einen weißen Button. Dahinter befinden sich eure Werte u.a. auch eure grundlegende krit. Rate. Während des spielen kann die sich noch erhöhen. Bitte beachtet das die Boni z.B. von den SS Gloves nicht direkt beim Start zur Verfügung stehen. Somit ist beim Start eines Levels die krit. Rate geringer als zum Ende hin. Besonders bei Ende des Echo kann das einiges aus machen. Zusätzlich noch ein Link zum Kalkulator für eure krit. Rate. Der Kalkulator hat nichts mit diesem Wiki zu tun. https://danke007.com/calc/bao-ji-lv
+Auf der Seite mit den Sammelobjekten gibt es oben rechts einen Button wo alle Werte die ihr erlangt habt durch [Sammelobjekte](#sammelobjekte) zusammengefasst sind. Auf der Ausrüstungsseite gibt es oben Links einen weißen Button. Dahinter befinden sich eure Werte u.a. auch eure grundlegende krit. Rate. Während des spielen kann die sich noch erhöhen. Bitte beachtet das die Boni z.B. von den SS Gloves nicht direkt beim Start zur Verfügung stehen. Somit ist beim Start eines Levels die krit. Rate geringer als zum Ende hin. Besonders bei Ende des Echo kann das einiges aus machen.
 
 # Tiere
 Kauft euch jeden Tag einmal die Tiermünzen. Oder 24 auf einmal für die Woche. Nach 7 käufen steigt einmal der Preis. Nach einer Woche wird der Preis zurückgesetzt. Je höher das Hauptkapitel desto mehr Münzen und teurer wird es. 4500 Stück ist aber Maximum. In der Goldmine könnt ihr noch mehr Tiermünzen erspielen. Nutzt mindestens den violetten Chaoshandschuh dafür. Pro run sind dann 6000 drin.
@@ -306,7 +319,7 @@ Am Anfang nehmt ihr natürlich erstmal die Tiere mit irgendwelchen Symbolen. Jed
 Die Auswahl der tech. Teile steuert auch ein wenig was ihr im Spiel für Fertigkeiten auswählt, weil diese durch die Teile auch verstärkt werden. Es ist nur möglich ein tech. Teil vom gleichen Typ auszurüsten. Durch Resonanz lassen sich einige tech. Teile nochmals verbessern. Eine Umverteilung solltet ihr hin und wieder prüfen. Nehmt dazu auch den [Kalkulator](#kalkulator). Die Zwillingsteile sind immer einzusetzen und sollte ihr weniger haben als 6, immer die rechten Slots als erstes nehmen. Ihr benötigt 16 gelbe für ein rotes und 7 rote für ein buntes.
 
 ## Resonanz
-Um weitere Effekte freizuschalten gibt es den Resonanzwert. Dieser kann durch andere tech. Teile und durch Resonanzchips erhöht werden. Hier solltet ihr die verbleibenden nicht eingesetzten tech. Teil verteilen. Es ist sogar für tech. Teile sinnvoll diese wieder aufzuteilen um wichtige Resonanzeffekte freizuschalten. Ein Zwillingsteil auf Lvl 1,2,3,4 wieder auf 0 bringen und einzeln ein Lvl niedriger, in die Resonanzslots stecken. Die Drohnen können mit Resonanzchips etwas mehr aufgewertet werden die restlichen Chips solltet ihr weitestgehend gleich verteilen. Am Besten schauen das ihr sowas wie +20% mehr Schaden, gerade so mitnehmt. Alle 6 Zwillingsteile zu nutzen ist Pflicht. Ein buntes tech. Teil in die Resonanz zu platzieren ist meistens sinnvoller als ein buntes Zwillingstechteil direkt auszurüsten. Ab 3000 Resonanz bei Zwillingsteilen kann mit Resonanz Chips diese Überladen werden. Dadurch gibt es weitere Boni. Kleiner violetter Button in der Zwillingsteilansicht. Lohnt sich wenn ihr mal einen Chip ünrig habt.
+Um weitere Effekte freizuschalten gibt es den Resonanzwert. Dieser kann durch andere tech. Teile und durch Resonanzchips erhöht werden. Hier solltet ihr die verbleibenden nicht eingesetzten tech. Teil verteilen. Es ist sogar für tech. Teile sinnvoll diese wieder aufzuteilen um wichtige Resonanzeffekte freizuschalten. Ein Zwillingsteil auf Lvl 1,2,3,4 wieder auf 0 bringen und einzeln ein Lvl niedriger, in die Resonanzslots stecken. Die Drohnen können mit Resonanzchips etwas mehr aufgewertet werden die restlichen Chips solltet ihr weitestgehend gleich verteilen. Am Besten schauen das ihr sowas wie +20% mehr Schaden, gerade so mitnehmt. Alle 6 Zwillingsteile zu nutzen ist Pflicht. Ein buntes tech. Teil in die Resonanz zu platzieren ist meistens sinnvoller als ein buntes Zwillingstechteil direkt auszurüsten. Ab 3000 Resonanz bei Zwillingsteilen kann mit Resonanz Chips diese Überladen werden. Dadurch gibt es weitere Boni. Kleiner violetter Button in der Zwillingsteilansicht. Lohnt sich wenn ihr mal einen Chip übrig habt.
 
 ## Zwillingsteile
 
@@ -403,9 +416,11 @@ Zusätzlich schaut das alle 6 Slots mit Waffen belegt werden, sonst ist es schwi
 
 Je mehr Exp. man erhält, desto besser werden einige Eigenschaften von Waffen und dem Tier.
 
-Immerwährende Rüstung. So früh wie möglich zweimal Sterben wegen 2 * 15% (20%) mehr Schaden nach Wiederbelebung und weitere Fertigkeitsauswahl. Dies nur anwenden sofern der Boss nicht zu stark ist. Seid ihr zu stark könnt ihr Rüstung, Gürtel und Schuhe auf Level 1 herunterstufen.
+Das [Leerenwandler Embleem](#leerenwandler-embleem) ist für Echo des Endes meistens besser als die SS Kette mit den drei Schmiedeeffekten. Durch das erlangen von mehr Exp ist die ein oder andere Superwaffe früher und auch mehr drin.
 
-Das [Leerenwandler Embleem](#leerenwandler-embleem) ist für Echo des Endes meistens noch besser als die SS Kette mit den drei Schmiedeeffekten. Durch das erlangen von mehr Exp ist die ein oder andere Superwaffe früher und auch mehr drin.
+Ebenfalls erlangt ihr mit dem Zerstörer als Zwillingsteil mehr Exp. sofern der Boss sich in dem Radius befindet.
+
+Wenn ihr am Anfang die Immerwährende Rüstung verwendet. So früh wie möglich zweimal Sterben wegen 2 * 15% (20%) mehr Schaden nach Wiederbelebung und weitere Fertigkeitsauswahl. Dies nur anwenden sofern der Boss nicht zu stark ist. Seid ihr zu stark könnt ihr Rüstung, Gürtel und Schuhe auf Level 1 herunterstufen.
 
 Mit [Panda](#panda), Ying und Yang den Debuff auf die Verteidigung auslösen sonst nur die Handflächen nutzen.
 
@@ -417,9 +432,9 @@ Wenn ihr die SS Schuhe habt sollte ihr dort wo der Boss auftaucht, vorher im Kre
 
 Für die perfekte Equipment Zusammenstellung siehe Abschnitt: Equipment optimieren. Für den Expedition Bosskampf gilt eine andere Zusammenstellung als für Echo des Endes.
 
-Jeder Charakter hat individuelle Fähigkeiten. Wie diese zu handhaben sind steht beim der Charakter Beschreibung.
+Jeder Charakter hat individuelle Fähigkeiten. Wie diese zu handhaben sind steht beim der Charakter Beschreibung. Meistens drückt ihr aber immer auf den Button um seine Fähigkeiten immer so schnell wie möglich wieder auszuführen.
 
-Reihenfolge der Fertigkeiten plus tech. Teile auf Rot mit dem meisten Schaden:
+Reihenfolge der Fertigkeiten plus tech. Teile auf Rot mit dem meisten Schaden vor den Zwillingsteilen:
 1. Zerstörer
 2. Charakterfertigkeit
 3. Blitz mit Resonanz 
@@ -427,12 +442,12 @@ Reihenfolge der Fertigkeiten plus tech. Teile auf Rot mit dem meisten Schaden:
 5. Fussball mit Resonanz 
 6. Pfeil mit Resonanz
 
-Ölfass/Molotow und Durian/Nanobot sind zwar vom Schaden besser aber erst als Superwaffe geben sie zusätzliche Atk. Diese als Superwaffe in Ende des Echo zu bekommen ist schwieriger.
+Zwillingsteile geben erst viel mehr Schaden wenn sie als Superwaffer ausgebildet wurden. Alle als Superwaffe in Ende des Echo zu bekommen ist schwieriger.
 
 Je stärker ihr werdet desto mehr Superwaffe könnt ihr erspielen. Sobald ihr die Zwillings tech. Teile habt, sollte ihr die Waffen in der Reihenfolge zur Superwaffe bringen wo ihr auch einen hohen Resonanzwert habt. Dies ist sehr wichtig.
 
 ### Expedition / Mondmine
-Bevor ihr die Expedition startet solltet ihr immer die optimale Zusammenstellung der Waffen und passiven Fertigkeiten auswählen. Bei der Mondmine benötigt ihr keine Diamanten. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden, wenn ihr weitere Waffen neu auswählt.
+Bevor ihr die Expedition startet solltet ihr immer die optimale Zusammenstellung der Waffen und passiven Fertigkeiten auswählen. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden, wenn ihr weitere Waffen neu auswählt.
 
 Für fast optimalen Schaden mit
 [Panda](#panda):
@@ -444,6 +459,9 @@ Hauptwaffe, Zerstörer, Blitz, Rakete, Fussball, Molotow, ATK, Charakter Fähigk
 [Taloxa](#Taloxa)
 Hauptwaffe, Zerstörer, Charakter Fähigkeit, Rakete, Blitz, Molotow, (Fussball) ATK, Exoskelett, Geschwindigkeit, Abklingzeit, Schuhe und Reichweite
 
+[Venato](#Venato)
+Hauptwaffe, Zerstörer, Charakter Fähigkeit, Abklingzeit, ATK, Reichweite, Energie, mehr HP
+
 Den Waldläufer-Panzer, wenn ihr nicht die ganze Zeit durchhaltet. Wenn das auch nicht reicht zusätzlich den HP Boost wählen. Dafür Exoskelett und/oder Schuhe weglassen. Hier solltet ihr am Anfang dreimal sterben, wenn immerwährende Rüstung angelegt, außer der Boss ist zu stark. Seid ihr zu stark Defensives Equipment auf Level 1 herunterstufen. Um die HP zu reduzieren lasst euch von Boss durch die Gegend schieben und nicht in die Ecke drängen. Dadurch bleiben die SS Schuhe aufgeladen. Bzw. lösen Effekte schneller oder häufiger aus.
 
 Immer wieder ändert sich etwas am Spiel daher können auch andere Zusammenstellung sinnvol sein. Dies könnt ihr in der Mondmine durch mehrere verschiedene Spiele und Änderungen gut ausprobieren.
@@ -451,7 +469,7 @@ Immer wieder ändert sich etwas am Spiel daher können auch andere Zusammenstell
 # Prüfungen
 
 ## Pfad der Prüfungen
-Solltet ihr einmal die Woche spielen und mindestens 1 Level/Ebene vorankommen, damit ihr einmal die Rewards einsammelt. Spielt nicht zu viele Level sonst kommt ihr nächste Woche gar nicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben. Mit einem Versuch könnt ihr 25 Ebenen schaffen. Unter die Top 3 zu kommen ist auch gut, damit ihr noch gelbe Sammelobjektscherben bekommt. Solltet ihr auch mal zurückliegen, könnt ihr Prüfung wiederholen wählen. Hier gilt ungefähr 75.000 ATK = 1000 Ebenen. Ab der Ebene 4800 ist das wiederholen nicht mehr möglich. Bei Prüfung wiederholen entspricht Ebene 41 -> Ebene 4801.
+Solltet ihr einmal die Woche spielen und mindestens 1 Level/Ebene vorankommen, damit ihr einmal die Rewards einsammelt. Spielt nicht zu viele Level sonst kommt ihr nächste Woche gar nicht weiter. Lasst euch vielleicht nach 10 Leveln lieber sterben. Mit einem Versuch könnt ihr 25 Ebenen schaffen. Unter die Top 3 zu kommen ist auch gut, damit ihr noch gelbe Sammelobjektscherben bekommt. Solltet ihr auch mal zurückliegen, könnt ihr Prüfung wiederholen wählen. Hier gilt ungefähr 75.000 ATK = 1000 Ebenen. Ab der Ebene 8000 ist das wiederholen nicht mehr möglich. Bei Prüfung wiederholen entspricht Ebene 41 -> Ebene 4801.
 
 ## Megaherausforderung
 Nicht so wichtig, könnt ihr zwischendurch irgendwann mal spielen, wenn ihr noch Lust und Zeit habt.
@@ -557,13 +575,13 @@ Es gibt zwei Youtuber Playme (https://www.youtube.com/c/PlayMe-GameChannel) und 
 
 # Kalkulator
 externe Links, die Kalkulatoren und Inhalte haben nichts mit diesem Wiki zu tun:
-https://sio-tools.vercel.app/ (kostenlos)
+[https://sio-tools.vercel.app/](https://sio-tools.exp0.dev/) (kostenlos)
 
 Alternative: 
 https://danke007.com/ (teilweise Kostenlos)
 
 ## Equipment optimieren
-Mit der Kalkulatoren Seite könnt ihr die optimale Zusammenstellung für Bosskämpfe in den verschiedenen Modi errechnen lassen. Dort gebt ihr die Anzahl eurer Relikt Kerne ein und Dinge die ihr sonst so habt. Unter Scenario wählt ihr Endes Echo aus oder die Mondmine. Bei der Mondmine müsst ihr die Verteidigungsembleeme Anzahl des Gegners eingeben. Hat der Gegner einen hohen Wert geht wird die krt. Rate unter 100% gedrückt und der Kalkulator schlägt euch das [Leerenwandler Embleem](#leerenwandler-embleem) vor und nimmt vom den Handschuhen die gelben Sterne weg da der krit. Effekt nicht greift. 
+Mit der Kalkulatoren Seite könnt ihr die optimale Zusammenstellung für Bosskämpfe in den verschiedenen Modi errechnen lassen. Dort gebt ihr die Anzahl eurer Relikt Kerne ein und Dinge die ihr sonst so habt. Unter Scenario wählt ihr Endes Echo aus oder die Mondmine. Bei der Mondmine müsst ihr die Verteidigungsembleeme Anzahl des Gegners eingeben. Hat der Gegner einen hohen Wert geht wird die krt. Rate unter 100% gedrückt und der Kalkulator schlägt euch das [Leerenwandler Embleem](#leerenwandler-embleem) vor und nimmt vom den Handschuhen die gelben Sterne weg da der krit. Effekt nicht greift. Mitterweile ist das sehr komplex und fast jeder Bereich kann irgendwie berechnet werden. 
 Bei ATK:
 Ihr tragt dort in die Felder die Basis-ANG und Final-ANG ein. Die Werte findet ihr auf eurer Equipment Seite oben links hinter dem weißen Button. Ebenfalls Sammelobjekte und Charaktere so eingeben wie ihr sie habt. Unter Items ist dort ein kleiner Button wo hier dahinter 2 mal die Anzahl eurer Relikt-Kerne eingebt. Es gibt einen Bereich wohl ihr Equipment was ihr nicht habt auszuschließen und begrenzen könnt. Bei dem SS Equipment lasst ihr die auf der maximalen Anzahl an gelber und roter Sterne, damit der Kalkulator euch die beste Zusammenstellung errechnen kann. Oben auf der Seite steht unter Result ein Wert. Je größer dieser Wert desto besser. Ihr drückt auf Calculate, danach habt ihr eure Zuteilung der Kerne. Gleiches könnt ihr auch für die tech. Teile machen. Dort gebt ihr die Anzahl an wie viele einzelne tech. Teile ihr von welcher Farbe und Lvl habt. Bunte, rote jedes Lvl und lvl 3 gelbe reichen. Dann noch die Anzahl der Resonanz-Chips und welche Zwillingsteile ihr auf Lvl 0 jeweils habt. Ansonst erstmal alle Zwillingstechteile auf Lvl 0 zerlegen.
 
