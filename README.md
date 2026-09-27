@@ -388,6 +388,11 @@ Eher unbeliebt.
 # Sammelobjekte
 Hier könnte ihr durch die Objekte allgemein nochmal mehr ATK und HP bekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment einen Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden. Dies ist immer bei drei roten Sternen der Fall. Es lohnt sich ggf. darauf zu konzentrieren. Auch das Präzisionsgerät ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen (lila Bruchstücke). Diese können beim universellen Tausch benutzt werden. Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen. Durch das spielen von [Pfad der Prüfungen](#pfad-der-prüfungen) könnt ihr euch viele Sammelobjekte sichern.
 
+3 gelbe Sterne 3 Kisten
+5 gelbe Sterne 6 Kisten
+3 rote Sterne 13 Kisten
+5 rote Sterne 20 Listen
+
 Wichtige und lonhenswerte Sammelobjekte sind:
 
 ## Sternsprung-Matrixentwurf
@@ -396,10 +401,7 @@ Boni für das Präzisionsgerät und somit für den Zerstörer
 ## Erinnerungseditor
 Boni für das Leerenwandler-Embleem
 
-## Holotraum-Flüssigkeit
-Boni für Verdrehter Gürtel
-
-## Stier-Sternenlicht
+## Holotraum-Flüssigkeit, Stier-Sternenlicht
 Boni für Verdrehter Gürtel
 
 ## Cyper-Totem, Klonspiegel, Traumwertpuzzle, Gen-Spleißer
