@@ -388,6 +388,23 @@ Eher unbeliebt.
 # Sammelobjekte
 Hier könnte ihr durch die Objekte allgemein nochmal mehr ATK und HP bekommen. Zusätzlich gibt es auch für ein tech. Teil oder ein Equipment einen Boni. Bei den gelben und roten Sammelobjekten gibt es zusätzliche Boni auf kritische Treffer oder kritischen Schaden. Dies ist immer bei drei roten Sternen der Fall. Es lohnt sich ggf. darauf zu konzentrieren. Auch das Präzisionsgerät ist dabei, dort stecken Boni für die beiden Drohnen drin. Ihr bekommt Sammlerherzen (lila Bruchstücke). Diese können beim universellen Tausch benutzt werden. Schaut hin und wieder mal rein um Objekte die nur noch wenige Scherben benötigen euch frühzeitiger zu holen. Durch das spielen von [Pfad der Prüfungen](#pfad-der-prüfungen) könnt ihr euch viele Sammelobjekte sichern.
 
+Wichtige und lonhenswerte Sammelobjekte sind:
+
+## Sternsprung-Matrixentwurf
+Boni für das Präzisionsgerät und somit für den Zerstörer
+
+## Erinnerungseditor
+Boni für das Leerenwandler-Embleem
+
+## Holotraum-Flüssigkeit
+Boni für Verdrehter Gürtel
+
+## Stier-Sternenlicht
+Boni für Verdrehter Gürtel
+
+## Cyper-Totem, Klonspiegel, Traumwertpuzzle, Gen-Spleißer
+Boni für die Gletcherkriegsstiefel
+
 ## Sets
 Durch die lila Sammelobjekt Scherben könnt ihr zusätzliche Boni freischalten. Das erste Set könnt ihr recht schnell freischalten. Alle Slots solltet ihr nach Möglichkeit mit roten Sammelobjekten besetzen. Die erste Reihe beim zweiten Set könnt ihr auch recht schnell besetzen. Danach sind die Slots mit 30.000 teuer. Solltet ihr den nächsten Slot nicht mit einem roten Sammelobjekt besetzen zu können solltet ihr die lila Scherben lieber in die Sammelobjekte direkt stecken. Wenn ihr mehr lila Scherben bekommen wollt, könnt ihr Schlüssel benutzen und dort einsetzen wo ihr lila und gelbe Sammelobjekte auf max Sterne habt. Aber eigentlich ist dieses Vorgehen über die Zeit gesehen Verschwendung, da ihr andere Sammelobjekte später bekommt.
 
