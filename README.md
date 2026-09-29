@@ -416,8 +416,8 @@ Des weiteren gibt es fortgeschrittene Sammlerherzen. Dies könnt ihr durch Event
 Wichtig das jeden Tag zu spielen. Ihr benötigt die gelben Tropfen um euren Char upzugraden. Hier könnt ihr starten und sofort wieder beenden bekommt aber nicht alle Belohnungen wie die tech. Teile.
 
 ## Tipps für viel Schaden
-In folgender Reihenfolge Waffen und Fertigkeiten auswählen, wenn sie kommen.
-1. Beide Drohnen bis zum Zerstörer 
+In folgender Reihenfolge Waffen und Fertigkeiten auswählen, wenn sie kommen ohne Zwillingsteile:
+1. Beide Drohnen bis zum Zerstörer
 2. Hauptwaffe
 3. Char Fertigkeit z.B.: Panda Ying Yang
 4. ATK / ANG
@@ -425,11 +425,12 @@ In folgender Reihenfolge Waffen und Fertigkeiten auswählen, wenn sie kommen.
 6. Mehr Exp.
 7. Abklingzeit
 8. Fußballschuhe (wenn Leerwandlertreter)
-10. Schussgeschwindigkeit
-11. Blitz 
-12. Rakete
-13. Fussball
-14. Bohrer
+9. Brandflasche
+10. Rakete
+11. Bltz
+12. Fussball
+13. Bohrer
+14. Schussgeschwindigkeit
 
 Zusätzlich schaut das alle 6 Slots mit Waffen belegt werden, sonst ist es schwieriger den Zerstörer oder die Hauptwaffe zur Superwaffe zu bekommen. Sonst kommen immer wieder andere Vorschläge für andere Waffen. Manchmal dauert es auch richtig lange bis ihr beide Drohnen bekommt. Ab 1 Minute Restzeit solltet ihr vielleicht auch davon abrücken, wenn ihr nur eine Drohne habt. Dann lieber die Hauptwaffe zu Superwaffe bringen oder ATK. Am Ende vom Kampf könnt ihr auch eine Statistik anschauen welche Waffe wieviel Schaden gemacht habt. Schaut dort rein und optimiert euch selber.
 
@@ -466,12 +467,14 @@ Zwillingsteile geben erst viel mehr Schaden wenn sie als Superwaffer ausgebildet
 Je stärker ihr werdet desto mehr Superwaffe könnt ihr erspielen. Sobald ihr die Zwillings tech. Teile habt, sollte ihr die Waffen in der Reihenfolge zur Superwaffe bringen wo ihr auch einen hohen Resonanzwert habt. Dies ist sehr wichtig.
 
 Wahrscheinlich ist folgende Reihenfolge sinnvoll:
-1. Energielenksystem
+1. Energielenksystem (Kraftfeld-Modus)
 2. Exo-Radiator (Laser-Modus)
 3. Hi-Schwerkraft-Pulser (Brandflaschen-Modus)
 4. Antimaterie-Wartungsgerät (Raketen-Modus)
 5. Phasentreiber (Blitz-Modus)
 6. Quanten-Nanobot (Fussball-Modus)
+
+Kraftfeld, Laser, Brandflasche, Zerstörer, Rakete, (Blitz und Fußball vernachlässigbar)
 
 ### Expedition / Mondmine
 Bevor ihr die Expedition startet solltet ihr immer die optimale Zusammenstellung der Waffen und passiven Fertigkeiten auswählen. Wenn ihr eine Drohne mit einem Schloss verseht, kann diese trotzdem noch zum Zerstörer werden, wenn ihr weitere Waffen neu auswählt.
