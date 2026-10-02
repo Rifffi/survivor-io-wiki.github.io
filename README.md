@@ -45,6 +45,13 @@ Wenn ihr wisst das ihr ein Level ohne Probleme schafft solltet ihr die passive F
 Hier ein Link zu einem Debuff Bild was der Youtuber PlayMe erstellt hat. [Debuffs](https://storage.ko-fi.com/cdn/useruploads/5f26df86-110a-4279-bdba-9cdf2c3a8792_debuffs.jpg)
 Durch Debuffs werden weitere ATK Boni aktiviert. In den Beschreibungen im Spiel muss unterschieden werden ob dies auch ausgelöst wird oder ob prozentual nur mehr Schaden gemacht wird. Solange ihr es nicht auslöst hilft ein hoher Prozentwert nicht. Debuffs werden bei Bossmonster unter der HP Leiste angezeigt die gerade aktiv sind.
 
+Poisend=Vergiftet
+Chilled=Vereist 
+Lacerated=Schnittwunden
+Weakened=Geschwächt
+Devine Fire=Göttliches Feuer
+
+
 # Events
 Jede Woche gibt es ein Event über mehrere Tage. Dort gibt es immer gute Items/Rewards/Belohnungen zu holen. Dies ist mit Aufwand verbunden, der aber zwingend notwendig ist, um vorwärts zu kommen. 
 
