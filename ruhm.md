@@ -13,25 +13,24 @@
 | Fler7 | 1 | 2700 | 2700 | 10 |
 | Bobbälä | 1 | 2600 | 2800 | 9 |
 | Swoop109393538 | | 2600 | 2500 | 19 |
-| Looooooo | 1 | 2500 | 2100 | 21 |
-| BlackSunX | 1 | 2300 | 2400 | 15 |
+| Looooooo | 1 | 2500 | 2100 | 11 |
+| BlackSunX | 1 | 2300 | 2400 | 8 |
 | BigMacxxl | | 2800 | | 18 |
-| Myxin | 1 | | 2600 | 21 |
+| Myxin | 1 | | 2600 | 10 |
 | vi3nnac4lling | | | 2600 | 19 |
 | broessi | | | 2600 | 17 |
-| Kevushka | 1 | | 2600 | 20 |
-| dreißignullsechs | | | 2000 | 21 |
+| Kevushka | 1 | | 2600 | 10 |
+| dreißignullsechs | 1 | | 2000 | 0 |
 | Korni123 | | | 2000 | 17 |
 | B1tBunny | | | | 18 |
 | chris40k | | | | 19 |
 | Duram7975 | | | | 13 |
 | Kastraveca | | | | 15 |
-| KimJongGoon | | | | 21 |
+| KimJongGoon | 1 | | | 0 |
 | luan81 | | | | 18 |
 | Meuchlerr | | | | 20 |
-| Nanno~ | | | | 9 |
-| NoSkinInTheGame | | | | 21 |
-| Patoo95 | | | | 21 |
+| NoSkinInTheGame | 1 | | | 0 |
+| Patoo95 | 1 | | | 0 |
 | Rawley9595 | | | | 18 |
 | schigol94 | | | | 15 |
 | shirsoo | | | | 20 |
