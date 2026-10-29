@@ -588,7 +588,7 @@ Harmonie wird durch Synergie freigeschaltet. Zum Hauptcharakter können zwei Beg
 Rote Sterne schaltet Skills frei die z.B. Common ausführt, wie Kunai werfen. Dafür benötigt ihr aber alle gelben Sterne von allen drei aktiven Charakteren. Wichtig hier im Spiel habt ihr nicht direkt alle Sterne freigeschaltet. Mit dem steigen des in Game Levels (Exp.) und öffnen von Truhen steigen auch die Sterne. Ca. alle 4-5 Level erhaltet ihr einen weiteren Stern. Am Anfang wählt ihr Common und King. Dann Yang und später noch Taloxa hinzu. Ein S Charakter fügt ihr hinzu wenn euere Hauptcharakter 5 rote Sterne hat.
 
 ## Matrix-Trupp
-Ihr benötigt dafür [Synergie](#synergie) und 3 S-Charaktere mit 6 gelben Sternen.
+Ihr benötigt dafür [Synergie](#synergie) und 3 S-Charaktere mit 6 gelben Sternen. Zum freischalten einzelner Level bzw. Bonis werden Erwachen Kerne und Matrixenergie benötigt. Dies bekommt ihr durch Events.
 
 # Reittiere
 Durch Events können Scherben erworben werden um vier Reittiere freischalten zu können. Diese Scherben sollte man sich immer alle holen. Zusätzlich gibt es Kisten bzw. Schlüssel um Komponenten zu erlangen. Mit den Komponenten spielt ihr Tetris. Ihr solltet bei allen Reittieren die komplette Fläche ausfüllen, um durch vervollständigte Linien Boni verzuschalten. Zusätzlich könnt ihr die Komponenten verschmelzen. Das Komplette ausfüllen der Fläche geht aber vor das Verschmelzen. Die Komponenten lassen sich auch noch veredeln. Dadurch verändern sich die Boni der Komponenten. Zwischen Giftschaden, krit. Schaden wird gewechselt. Von allen Reittieren zählen auch alle installierten Komponenten, jedoch werden die Boni durch den Synchronisationrate gerechnet. Die Besten Komponenten solltet ihr also auf das Reittier mit der höhsten Rate platzieren.
